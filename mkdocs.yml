@@ -6,7 +6,7 @@ theme:
   palette:
     - scheme: default
       primary: amber
-      accent: amber
+      accent: red
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
