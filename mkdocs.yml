@@ -3,12 +3,19 @@ site_url: https://beauhilton.github.io/neovimbook
 docs_dir: 'docs/md'
 theme:
   name: material
-  pallette:
+  palette:
     - scheme: default
+      primary: indigo
+      accent: indigo
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
-    - scheme: slate # 
+    - scheme: slate
+      primary: red
+      accent: red
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
+
+# VUMC Colors (https://www.vanderbilt.edu/communications/brand/color.php)
+# Gold: Hex: D8AB4C, Black: Hex: 000000, Blue: Hex: 006682, Red: Hex:  993D1B, Dark Gray: Hex:  333333 Green: Hex:  464E21
