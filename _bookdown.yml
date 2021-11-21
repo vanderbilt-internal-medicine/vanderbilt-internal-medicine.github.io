@@ -1,5 +1,5 @@
 book_filename: "neovimbook"
-rmd_subdir: "vimbook/content/md"
+rmd_subdir: "neovimbook/content/md"
 delete_merged_file: true
 view: https://github.com/beauhilton/beauhilton.github.io/blob/master/%s
 edit: https://github.com/beauhilton/beauhilton.github.io/edit/master/%s
