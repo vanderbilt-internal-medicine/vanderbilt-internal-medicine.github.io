@@ -14,7 +14,7 @@ jobs:
           python-version: 3.x
       - run: pip install mkdocs-material # 
       - run: |
-          cp index.Rmd docs/index.md
+          cp index.md docs/index.md
           cd docs/md
           for f in **/*.Rmd; do mv "$f" "${f%%.Rmd}".md; done
       - run: mkdocs gh-deploy --force
