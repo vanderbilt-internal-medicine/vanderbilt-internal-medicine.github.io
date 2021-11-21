@@ -1,8 +1,8 @@
 book_filename: "neovimbook"
-rmd_subdir: "neovimbook/content/md"
+rmd_subdir: "content/md"
 delete_merged_file: true
-view: https://github.com/beauhilton/beauhilton.github.io/blob/master/%s
-edit: https://github.com/beauhilton/beauhilton.github.io/edit/master/%s
+view: https://github.com/beauhilton/neovimbook/blob/master/%s
+edit: https://github.com/beauhilton/neovimbook/edit/master/%s
 language:
   label:
     fig: "Picture "
