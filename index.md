@@ -1,4 +1,4 @@
-# Vanderbilt Internal Medicine Residency Handbook
+# Home
 
 This is a reformatting of 
 [vimbook.org](https://medsites.vumc.org/commodorecompendium/introduction), 
