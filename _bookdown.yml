@@ -1,6 +1,6 @@
 book_filename: "neovimbook"
 rmd_files: ["index.Rmd"]
-rmd_subdir: ["content/md"]
+rmd_subdir: ["docs/md"]
 delete_merged_file: true
 view: https://github.com/beauhilton/neovimbook/blob/master/%s
 edit: https://github.com/beauhilton/neovimbook/edit/master/%s
