@@ -4,4 +4,12 @@ docs_dir: 'docs/md'
 theme:
   name: material
   pallette:
-    primary: orange
+    - primary: orange
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate # 
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
