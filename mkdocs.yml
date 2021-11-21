@@ -4,7 +4,6 @@ docs_dir: 'docs/md'
 theme:
   name: material
   pallette:
-    - primary: orange
     - scheme: default
       toggle:
         icon: material/toggle-switch-off-outline
