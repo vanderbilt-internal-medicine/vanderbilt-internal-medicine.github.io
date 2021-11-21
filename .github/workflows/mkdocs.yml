@@ -16,5 +16,5 @@ jobs:
       - run: |
           cp index.Rmd docs/index.md
           cd docs/md
-          for f in **/*.Rmd; do echo mv "$f" "${f%%.Rmd}".md; done
+          for f in **/*.Rmd; do mv "$f" "${f%%.Rmd}".md; done
       - run: mkdocs gh-deploy --force
