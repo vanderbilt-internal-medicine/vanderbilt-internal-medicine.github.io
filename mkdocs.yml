@@ -4,5 +4,4 @@ docs_dir: 'docs/md'
 theme:
   name: material
   pallette:
-    primary: D8AB4C
-    accent: 993D1B
+    primary: orange
