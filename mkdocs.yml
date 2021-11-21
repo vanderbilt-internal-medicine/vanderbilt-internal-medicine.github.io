@@ -1,4 +1,5 @@
 site_name: VUMC IM Residency Handbook
 site_url: https://beauhilton.github.io/neovimbook
+docs_dir: 'docs/md'
 theme:
   name: material
