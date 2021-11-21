@@ -3,7 +3,7 @@ on:
      branches:
        - main
 
-name: renderbook
+name: build bookdown
 
 jobs:
   bookdown:
