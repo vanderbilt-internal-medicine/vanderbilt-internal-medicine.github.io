@@ -1,0 +1,10 @@
+book_filename: "neovimbook"
+rmd_subdir: "vimbook/content/md"
+delete_merged_file: true
+view: https://github.com/vanderbilt-internal-medicine/vanderbilt-internal-medicine.github.io/blob/master/%s
+edit: https://github.com/vanderbilt-internal-medicine/vanderbilt-internal-medicine.github.io/edit/master/%s
+language:
+  label:
+    fig: "Picture "
+  ui:
+    chapter_name: ""

@@ -1,0 +1,9 @@
+bookdown::pdf_book:
+  keep_tex: yes
+bookdown::epub_book: default
+bookdown::gitbook:
+  css: style.css
+  config:
+    toc:
+      before: |
+        <li><a href="./">Vanderbilt Internal Medicine Residency Handbook</a></li>
