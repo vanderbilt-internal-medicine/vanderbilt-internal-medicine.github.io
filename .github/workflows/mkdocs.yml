@@ -15,5 +15,6 @@ jobs:
       - run: pip install mkdocs-material # 
       - run: |
           cp index.Rmd docs/index.md
-          rename Rmd md docs/md/*.Rmd
+          cd docs/md
+          for f in **/*.Rmd; do echo mv "$f" "${f%%.Rmd}".md; done
       - run: mkdocs gh-deploy --force
