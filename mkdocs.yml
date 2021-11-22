@@ -11,6 +11,13 @@ plugins:
       type: iso_datetime
 theme:
   name: material
+  font: 
+    text: IBM Plex Sans
+    code: IBM Plex Mono
+  features:
+    - search.suggest
+    - search.highlight
+    - search.share
   favicon: images/vumc-favicon.png
   logo: images/vumc-favicon.png
   palette:
