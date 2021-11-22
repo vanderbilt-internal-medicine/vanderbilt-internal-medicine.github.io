@@ -6,6 +6,7 @@ docs_dir: 'docs'
 plugins:
   - search
   - awesome-pages
+  - with-pdf
   - git-revision-date-localized:
       enable_creation_date: true
       type: iso_datetime
