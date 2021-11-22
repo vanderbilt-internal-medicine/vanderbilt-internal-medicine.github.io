@@ -12,7 +12,7 @@ jobs:
         with:
           python-version: 3.x
       - name: install WeasyPrint
-        run: |
+      - run: |
           apt install python3-pip python3-cffi python3-brotli libpango-1.0-0 libharfbuzz0b libpangoft2-1.0-0
       - name: install mkdocs and plugins
       - run: |
