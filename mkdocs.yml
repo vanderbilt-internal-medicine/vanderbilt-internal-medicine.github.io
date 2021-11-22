@@ -20,7 +20,7 @@ theme:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
     - scheme: slate
-      primary: grey
+      primary: black
       accent: amber
       toggle:
         icon: material/toggle-switch
