@@ -11,8 +11,17 @@ jobs:
       - uses: actions/setup-python@v2
         with:
           python-version: 3.x
+    - uses: actions/cache@v2
+      name: Configure pip caching
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
       - name: install mkdocs and plugins
         run: |
-          pip install mkdocs-material mkdocs-awesome-pages-plugin mkdocs-git-revision-date-localized-plugin weasyprint
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          # pip install mkdocs-material mkdocs-awesome-pages-plugin mkdocs-git-revision-date-localized-plugin weasyprint
       - name: deploy mkdocs
         run: mkdocs gh-deploy --force
