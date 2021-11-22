@@ -15,6 +15,4 @@ jobs:
           pip install mkdocs-material mkdocs-awesome-pages-plugin mkdocs-git-revision-date-localized-plugin
       - run: |
           mv index.md docs/index.md
-          cd docs
-          for f in **/*.Rmd; do mv "$f" "${f%%.Rmd}".md; done
       - run: mkdocs gh-deploy --force
