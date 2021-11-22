@@ -1,10 +1,10 @@
 # Oncologic Emergencies
  
-Oncologic Emergencies – Madeleine Turcotte
+Madeleine Turcotte
 
-Leukostasis
+## Leukostasis
 
-Presentation
+### Presentation
 
 -   Respiratory: dyspnea, hypoxia (note CXR may be normal)
     -   PaO2 by ABG often falsely low dt WBC consuming O2 *in vitro* .
@@ -12,13 +12,13 @@ Presentation
 -   CNS: headache, AMS, vision changes, dizziness, tinnitus, gait
     instability, neuro deficit
 
-Evaluation
+### Evaluation
 
 -   CBC with diff and peripheral blood smear
 -   Imaging: CT head to evaluate neuro deficit and to check for ICH
 -   Chest X-Ray vs CT chest to evaluate dyspnea
 
-Management
+### Management
 
 -   Page hematology fellow for guidance if you feel this dx is likely
 -   Hydrea (discuss with fellow) Hydrea 50 – 100 mg/kg/day divided
@@ -28,9 +28,9 @@ Management
 -   Chemotherapy per hematology fellow
 -   Transfer/admit to ICU
 
-Tumor Lysis Syndrome - Bradley Christensen
+## Tumor Lysis Syndrome - Bradley Christensen
 
-Background
+### Background
 
 -   Lysis of malignant cells either spontaneously or in response to
     chemotherapy causing release of K, Phos, nucleic acids, and
@@ -50,11 +50,10 @@ Background
 -   Clinical TLS: laboratory TLS + AKI, arrhythmia, seizure, tetany,
     death
 
-Evaluation
+### Evaluation
 
 -   Risk Stratification:
-    -   Highest risk
-        **after** tarting chemotherapy, but can occur spontaneously
+    -   Highest risk **after** tarting chemotherapy, but can occur spontaneously
 -   Tumor characteristics which confer a **higher risk** of developing
     TLS:
     -   High (>5% risk): ALL (WBC> 100K or LDH 2x ULN), AML (WBC> 100K),
@@ -67,7 +66,7 @@ Evaluation
         solid tumors (small cell)
     -   Low: all others
 
-Management
+### Management
 
 Prevention:
 
@@ -80,8 +79,7 @@ Prevention:
         dosing if lower
     -   Rasburicase ($$$): contraindicated in G6PD (send G6PD if not
         urgent and AA, Asian or Jewish descent)
-        -   Given if
-            uric acid > 8 mg/dL: get fellow approval before ordering
+        -   Given if uric acid > 8 mg/dL: get fellow approval before ordering
 
 Treatment: (Can use as night/cross cover handoff)
 
@@ -92,9 +90,7 @@ Treatment: (Can use as night/cross cover handoff)
         repeat BG in 1 hr
 -   Uric acid <u>\></u> 8 with 25% change from baseline: page hematology
     fellow to discuss rasburicase
--   PO4 <u>\></u> 4.5 with 25% change from baseline: start/
-    ↑
-    phos binder (sevelamer)
+-   PO4 <u>\></u> 4.5 with 25% change from baseline: start/↑ phos binder (sevelamer)
     -   Dialysis may be necessary in patients with poor renal function.
 -   IV calcium: do not administer unless symptomatic AND
     hyperphosphatemia is corrected
@@ -103,26 +99,21 @@ Treatment: (Can use as night/cross cover handoff)
 -   Hemodialysis: pt with anuria, refractory hyperkalemia, and
     symptomatic hypocalcemia
 -   Consequence of WBC’s plugging up microvasculature
--   Most common in AML with hyperleukocytosis (defined as WBC > 100K/
-    µL
-    )
--   If cell not sticky (CLL) generally not going to cause despite high
+-   Most common in AML with hyperleukocytosis (defined as WBC > 100K/µL) If cell not sticky (CLL) generally not going to cause despite high
     WBC count.
 
-Superior Vena Cava (SVC) Syndrome ****
+## Superior Vena Cava (SVC) Syndrome
 
-Background
+### Background
 
--   Commonly
-    Associated Malignancies: Lung Cancer, Non-Hodgkin or Hodgkin
+-   Commonly Associated Malignancies: Lung Cancer, Non-Hodgkin or Hodgkin
     Lymphoma, Mediastinal Germ Cell Tumors, Thymic Malignancies
 -   Partial or complete obstruction of the SVC impedes blood return from
     the upper extremities, head, neck, and brain resulting in upstream
     congestion
--   Can be 2/2 a
-    mass in the mediastinum or thrombosis (foreign body i.e. catheter)
+-   Can be 2/2 a mass in the mediastinum or thrombosis (foreign body i.e. catheter)
 
-Presentation
+### Presentation
 
 -   Facial or neck swelling without generalized edema
 -   Sense of head fullness, exacerbated by leaning forward or lying
@@ -136,23 +127,18 @@ Presentation
     lymph node enlargement anywhere particularly including
     supraclavicular, cervical and axillary region
 
-Evaluation
+### Evaluation
 
--   AFP,
-    β
-    -hCG if no tissue Dx
+-   AFP, β-hCG if no tissue Dx
 -   CXR: may show mass, perihilar or mediastinal disease
 -   Contrasted CT scan ± CT Venography:  Phased to get a view of clot
-    contribution to obstruction
-    
-    guides decision regarding anticoagulation or stenting
-    -   Radiology
-        attending can coordinate with techs (requires verbal direct
+    contribution to obstruction  guides decision regarding anticoagulation or stenting
+    -   Radiology attending can coordinate with techs (requires verbal direct
         request)
 -   MRI/MRV may provide additional information (often not possible due
     to pt too sick)
 
-Management
+### Management
 
 -   Assess airway and prepare for intubation if needed
 -   Keep head of bed elevated
@@ -168,29 +154,23 @@ Management
     -   Interventional pulmonology – for help with tissue dx
     -   Medical oncology – for help with diagnosis and chemotherapy
 
-Spinal Cord Compression
+## Spinal Cord Compression
 
-Background
+### Background
 
--   Malignancies
-    where cord compression is most common:
--   Multiple Myeloma, Lymphoma (both Hodgkin and NHL), Lung, Breast,
+-   Malignancies where cord compression is most common:
+  -   Multiple Myeloma, Lymphoma (both Hodgkin and NHL), Lung, Breast,
     Prostate Cancer
--   Tumor mass & compressed and often displaced bone
-    
-    impinges thecal sac or nerve roots spinal cord or any spinal nerves
-    including the cauda equina
+-   Tumor mass & compressed and often displaced bone  impinges thecal sac or nerve roots spinal cord or any spinal nerves including the cauda equina
 -   Impingement causes pain and can lead to neurologic dysfunction
 
-Presentation
+### Presentation
 
 -   Back pain, motor or sensory deficits
--   Cauda Equina syndrome
-    
-    bowel or bladder incontinence, ataxia
+-   Cauda Equina syndrome  bowel or bladder incontinence, ataxia
 
-Evaluation
 
+### Evaluation
 -   Neurologic exam with sensation testing seeking level below an
     identified dermatome
 -   Lab testing: If no known malignancy check CBC, CMP, SPEP, and (in
@@ -198,7 +178,7 @@ Evaluation
 -   Bladder US if suspicion or retention with or without overflow
     incontinence
 
-Management
+### Management
 
 -   If suspected, MRI without and with contrast best for diagnosis; if
     patient unable to have MRI, CT myelography may be considered
@@ -206,19 +186,16 @@ Management
     recommendations ranging from 4 to 100 mg of **dexamethasone** q6h -
     choice of dexamethasone is to minimize mineralocorticoid effects.
     Most common dosing is 10mg IV x1 followed by 4mg IV q6h)
--   Consider
-    stat/urgent consultation with:
+-   Consider stat/urgent consultation with:
     -   Neurosurgery for diagnostic/therapeutic intervention
     -   Radiation oncology- for radiation therapy
-    -   Medical
-        oncology – for help with diagnosis and chemotherapy
+    -   Medical oncology – for help with diagnosis and chemotherapy
 -   Ensure regular neuro-vascular checks and close monitoring.
--   E
-    arly PT if LE weakness
+-   Early PT if LE weakness
 
-Brain Metastases
+## Brain Metastases
 
-Background
+### Background
 
 -   Common Malignancies: Lung (NSCLC), breast, kidney, colorectal
     carcinomas & melanomas
@@ -227,7 +204,7 @@ Background
 -   80% of brain mets occur in the cerebrum at grey/white matter
     junction
 
-Presentation
+### Presentation
 
 -   Highly variable: so consider brain mets any cancer pt w/ neurologic
     or behavioral changes
@@ -241,7 +218,7 @@ Presentation
     -   Stroke (particularly in melanoma, choriocarcinoma, thyroid &
         renal carcinomas)
 
-Evaluation
+### Evaluation
 
 -   STAT CT if concerned for stroke or elevated ICP
 -   MRI with contras: most sensitive, can differentiate b/w metastases
@@ -254,7 +231,7 @@ Evaluation
 -   Biopsy with histopathology & IHC: if diagnosis in doubt or if only a
     single lesion is present
 
-Management
+### Management
 
 -   If severe HA, N/V, focal deficits: systemic glucocorticoids
     -   Dexamethasone 10mg IV x1 followed by 4mg IV q6h (can be PO if
