@@ -13,6 +13,7 @@ jobs:
           python-version: 3.x
       - name: install mkdocs and plugins
         run: |
-          pip install mkdocs-material mkdocs-awesome-pages-plugin mkdocs-git-revision-date-localized-plugin
+          pip install mkdocs-material mkdocs-awesome-pages-plugin mkdocs-git-revision-date-localized-plugin weasyprint
+          pango-view --version
       - name: deploy mkdocs
         run: mkdocs gh-deploy --force
