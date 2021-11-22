@@ -1,5 +1,6 @@
 site_name: VUMC IM Residency Handbook
 site_url: https://beauhilton.github.io/neovimbook
+repo_url: https://github.com/beauhilton/neovimbook
 docs_dir: 'docs'
 plugins:
   - search
@@ -24,10 +25,10 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
-# nav:
-#   - introduction
-#   - ...
-#   - appendices
+nav:
+  - introduction
+  - ...
+  - appendices
   
 # VUMC Colors (https://www.vanderbilt.edu/communications/brand/color.php)
 # Gold: Hex: D8AB4C, Black: Hex: 000000, Blue: Hex: 006682, Red: Hex:  993D1B, Dark Gray: Hex:  333333 Green: Hex:  464E21
