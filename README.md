@@ -5,6 +5,8 @@ scraped from the website, so I can have working search and experiment with diffe
 
 Below are some notes for my own use.
 
+
+
 # VA notes
 
 ## tricks
