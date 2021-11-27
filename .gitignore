@@ -8,11 +8,12 @@ libs/
 **/*.bib
 **/*.html 
 # ignore all html files except:
+**/main.html 
 !**/mathjax_header.html
 # R and Rstudio specific files
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
-.venv/
+.venv
 
