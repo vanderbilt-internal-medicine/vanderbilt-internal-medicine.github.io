@@ -41,7 +41,7 @@ It works.
 VistA is the (rather insane) software and database system that undergirds CPRS.
 I get the sense that the deepest magicks rest in VistA, 
 waiting for the intrepid explorer,
-seeking the grail filled with 
+seeking a grail filled with 
 automated data extraction and sane clinical workflows.
 
 The documentation is scattered. 
