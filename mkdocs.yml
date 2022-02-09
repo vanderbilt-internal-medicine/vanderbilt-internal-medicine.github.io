@@ -1,6 +1,6 @@
 site_name: VUMC IM Residency Handbook
 site_url: https://vimbook.beauhilton.com
-repo_url: https://github.com/beauhilton/neovimbook
+repo_url: https://github.com/vanderbilt-internal-medicine/vimbook
 edit_uri: edit/main/docs/
 docs_dir: 'docs'
 plugins:
