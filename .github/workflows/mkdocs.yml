@@ -1,4 +1,4 @@
-name: build mkdocs
+name: build
 on:
   push:
     branches:
