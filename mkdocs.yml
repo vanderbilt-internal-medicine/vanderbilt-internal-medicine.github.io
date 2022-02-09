@@ -1,5 +1,5 @@
 site_name: VUMC IM Residency Handbook
-site_url: https://beauhilton.github.io/neovimbook
+site_url: https://vimbook.beauhilton.com
 repo_url: https://github.com/beauhilton/neovimbook
 edit_uri: edit/main/docs/
 docs_dir: 'docs'
