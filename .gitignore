@@ -3,3 +3,4 @@
 !**/main.html 
 !**/mathjax_header.html
 .venv
+.DS_Store
