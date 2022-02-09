@@ -8,6 +8,10 @@ plugins:
   - awesome-pages
   - git-revision-date-localized:
       type: iso_datetime
+  - print-site
+      add_to_navigation: true
+      print_page_title: 'Print Site'
+      add_print_site_banner: true
 theme:
   name: material
   custom_dir: overrides
