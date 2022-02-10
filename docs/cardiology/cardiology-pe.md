@@ -81,10 +81,10 @@ Acute:
     up to 14 days. Use 100 mg of tPA over 2 hours, then resume heparin
     gtt. Attending/fellow level decision.
 -   Indications:
-    -   -   Massive PE: PE causing hypotension (shock)
-        -   Refractory hypoxia or respiratory failure requiring
+    -   Massive PE: PE causing hypotension (shock)
+    -   Refractory hypoxia or respiratory failure requiring
             mechanical ventilation.
-        -   RV failure clinically or on echo (relative indication if not
+    -   RV failure clinically or on echo (relative indication if not
             shock)
 
 <!-- -->
