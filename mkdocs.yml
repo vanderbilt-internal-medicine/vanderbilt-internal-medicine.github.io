@@ -28,7 +28,7 @@ plugins:
 extra:
   analytics:
     provider: google
-    property: !ENV GOOGLE_ANALYTICS_KEY
+    property: G-P068CEVH4L
     feedback:
       title: Was this page helpful?
       ratings:
