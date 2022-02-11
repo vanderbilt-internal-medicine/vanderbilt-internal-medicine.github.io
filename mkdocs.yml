@@ -9,7 +9,7 @@ docs_dir: 'docs'
 plugins:
   - search
   - awesome-pages
-  - mkdocs-autolinks-plugin
+  - autolinks
   - git-revision-date-localized:
       type: iso_datetime
   - print-site:
