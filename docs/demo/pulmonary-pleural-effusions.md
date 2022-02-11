@@ -36,7 +36,7 @@ Some examples:
 - CT Chest with contrast (not always indicated; helpful to eval
         septations)
 
-### Thoracentesis (see Procedures section)
+### Thoracentesis (see [Procedures section](procedures-thoracentesis.md))
 
 Will it change management?
 
@@ -76,3 +76,5 @@ Pearls about initial tests:
 - Two separate process may co-occur and a transudate may mask an
                 exudative effusion; if  concerned for this and you have clinical
                 stability, trial diuresis prior to thoracentesis.
+
+[Lights Criteria Original Paper](https://doi.org/10.7326/0003-4819-77-4-507)
