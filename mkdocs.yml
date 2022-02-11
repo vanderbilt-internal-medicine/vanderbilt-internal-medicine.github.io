@@ -3,7 +3,7 @@ site_url: https://vimbook.beauhilton.com
 repo_url: https://github.com/vanderbilt-internal-medicine/vimbook
 edit_uri: edit/main/docs/
 copyright: |
-  Copyright &copy; 2022 Vanderbilt University Medical Center \n
+  Copyright &copy; 2022 Vanderbilt University Medical Center <br>
   Vanderbilt University Medical Center is committed to principles of equal opportunity and affirmative action. EOE/AA/Women/Minority/Vets/Disabled
 docs_dir: 'docs'
 plugins:
