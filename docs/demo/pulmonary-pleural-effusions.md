@@ -73,7 +73,7 @@ Pearls about initial tests:
                 process, monocytes represent a chronic process,
                 lymphocytes think about TB or malignancy, eosinophils
                 think about air/blood, TB, malignancy, asbestos, drugs
-- Two separate process may co-occur and a transudate may mask an
+- Two separate processes may co-occur and a transudate may mask an
                 exudative effusion; if  concerned for this and you have clinical
                 stability, trial diuresis prior to thoracentesis.
 
