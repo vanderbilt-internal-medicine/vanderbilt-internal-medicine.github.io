@@ -2,6 +2,9 @@ site_name: VUMC IM Residency Handbook
 site_url: https://vimbook.beauhilton.com
 repo_url: https://github.com/vanderbilt-internal-medicine/vimbook
 edit_uri: edit/main/docs/
+copyright: |
+Copyright &copy; 2022 Vanderbilt University Medical Center \n
+Vanderbilt University Medical Center is committed to principles of equal opportunity and affirmative action. EOE/AA/Women/Minority/Vets/Disabled
 docs_dir: 'docs'
 plugins:
   - search
@@ -20,6 +23,10 @@ plugins:
 #       allow_unicode: yes
 #       skip_files:
 #       - credits.md
+extra:
+  analytics:
+    provider: google
+    property: !ENV GOOGLE_ANALYTICS_KEY
 theme:
   name: material
   custom_dir: overrides
@@ -74,6 +81,10 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.smartsymbols
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: vanderbilt-internal-medicine
+      repo: vimbook
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
