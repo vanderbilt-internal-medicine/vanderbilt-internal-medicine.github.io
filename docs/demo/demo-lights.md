@@ -83,6 +83,7 @@ Pearls about initial tests:
                 exudative effusion; if  concerned for this and you have clinical
                 stability, trial diuresis prior to thoracentesis.
 
-[Lights Criteria Original Paper](https://doi.org/10.7326/0003-4819-77-4-507)
+??? info "References"
+    [Lights Criteria Original Paper](https://doi.org/10.7326/0003-4819-77-4-507)
 
 --8<-- "includes/abbreviations.md"
