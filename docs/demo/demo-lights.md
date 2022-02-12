@@ -51,6 +51,12 @@ Orders:
 
 Interpretation:
 
+| Lights Criteria                                  | >=1 of the following = exudative |
+|--------------------------------------------------|----------------------------------|
+| pleural protein : serum protein                  | > 0.50                           |
+| pleural LDH : serum LDH                          | > 0.60                           |
+| pleural LDH : upper limit of normal of serum LDH | > 0.66                           |
+
 - Lights criteria: >=1 of the following to be considered an
         exudative effusion
   - Pleural to serum protein ratio > 0.5
