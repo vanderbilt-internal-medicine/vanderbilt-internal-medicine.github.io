@@ -84,3 +84,5 @@ Pearls about initial tests:
                 stability, trial diuresis prior to thoracentesis.
 
 [Lights Criteria Original Paper](https://doi.org/10.7326/0003-4819-77-4-507)
+
+--8<-- "includes/abbreviations.md"
