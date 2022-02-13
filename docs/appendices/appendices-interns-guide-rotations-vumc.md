@@ -8,9 +8,9 @@
 | Geriatrics                            | 1 resident, 1 intern   | 10                        |
 | Rogers (Hep, ID, Pulm, Renal)         | 1 resident, 1 intern   | 10                        |
 | Heart Failure                         | 1 resident, 2 interns  | 8 per intern (16 total)   |
-| Harrison 1  & 2                       | 1 resident, 1 intern   | 10                        |
+| Cardiology (Harrison 1 & 2)           | 1 resident, 1 intern   | 10                        |
 | Hematology (Brittingham)              | 1 resident, 2 interns  | 8 per intern (16 total)   |
-| Oncology  A & B                       | 1 resident, 1 intern   | 10                        |
+| Oncology A & B                        | 1 resident, 1 intern   | 10                        |
 | VU MICU 1 & 2                         | 3 residents, 3 interns | no cap (typically 10-12)  |
 | VU Night: Admitting Morgan/Rogers     | 1 resident, 2 interns  | 10                        |
 | VU Night: Admitting Harrison/Heme/Onc | 1 resident, 1 intern   | 10                        |
