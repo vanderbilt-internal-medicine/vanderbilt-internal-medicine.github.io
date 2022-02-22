@@ -25,6 +25,8 @@ plugins:
 #       allow_unicode: yes
 #       skip_files:
 #       - credits.md
+extra_css:
+  - stylesheets/extra.css
 extra:
   analytics:
     provider: google
