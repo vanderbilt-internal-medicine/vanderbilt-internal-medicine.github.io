@@ -8586,6 +8586,7 @@ Aristotle
 Aristotle's
 aristulate
 ariteus
+arithmatex
 arithmetic
 arithmomancy
 arithmomania
@@ -12802,6 +12803,7 @@ Betoptic
 betoum
 betrothment
 betta
+betterem
 betterments
 Bettlach
 bettong
@@ -26213,6 +26215,7 @@ dasyuromorphia
 dasyurus
 data
 date
+datetime
 Datex
 datio
 dation
@@ -49793,6 +49796,7 @@ inkleroot
 inlay
 inlet
 InLine
+inlinehilite
 inmate
 inn
 inna
@@ -57759,6 +57763,7 @@ Magenis
 magenstrasse
 magenta
 maggot
+magiclink
 Magill
 magistral
 magma
@@ -58453,6 +58458,7 @@ Mateer
 mater
 materia
 material
+materialx
 maternal
 maternity
 mathematical
@@ -77762,6 +77768,7 @@ pylorostenosis
 pylorostomy
 pylorotomy
 pylorus
+pymdownx
 pyo
 pyoarthrosis
 pyoblennorrhea
@@ -84234,6 +84241,7 @@ SmartScrew
 SmartSite
 SmartSponge
 smartSTIK-MD
+smartsymbols
 SmartTack
 SMC
 Smead
@@ -87693,6 +87701,7 @@ superextension
 superfamily
 superfatted
 superfecundation
+superfences
 superfetation
 SUPERFICIAL
 superficiales
@@ -89105,6 +89114,7 @@ Tarui's
 Tascon
 Tasigna
 Tasimelteon
+tasklist
 Tasmar
 tasosartan
 tastant
@@ -93613,6 +93623,7 @@ TVT
 Tweed
 Tween
 twelfth
+twemoji
 twiddler's
 twig
 twilight
@@ -96323,6 +96334,7 @@ villus
 villusectomy
 viloxazine
 Vim
+vimbook
 vimentin
 Viminate
 Vimovo
