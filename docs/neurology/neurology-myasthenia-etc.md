@@ -1,5 +1,5 @@
 # Myasthenia etc
- 
+
 Myasthenia Gravis (MG) and Lambert-Eaton Myasthenic Syndrome (LEMS)
 
 Background

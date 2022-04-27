@@ -1,5 +1,5 @@
 # Staging Wounds
- 
+
 Wound Staging adapted from Dr. Duggan's Geriatrics Guide
 
 Wound Care by Amanda Bailey, NP

@@ -1,5 +1,5 @@
 # Sickle Cell Crisis
- 
+
 S <span id="Sickle_cell"></span> ickle Cell Crisis – Michael J. Neuss
 
 Background

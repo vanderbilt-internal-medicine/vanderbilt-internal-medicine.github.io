@@ -1,5 +1,5 @@
 # Biliary Disease
- 
+
 Biliary Disease – Alex Wiles
 
 Pearls:
@@ -32,7 +32,7 @@ Biliary Colic
 
 Acute Calculous Cholecystitis
 
--   
+-
 -   Inflammation of the GB (obstructing stone in the GB neck or cystic
     duct)
 -   Ddx: PUD, pancreatitis, choledocholithiasis, ascending cholangitis,
@@ -50,7 +50,7 @@ Acute Calculous Cholecystitis
 
 Management: NPO, IVF, IV Abx until resolved or surgical removal
 
--   
+-
 -   Urgent Cholecystectomy (\<72H) with EGS;
     -   If poor surgical candidate: Cholecystostomy with IR; endoscopic
         drainage options for selected patients (i.e. poor surgical
@@ -61,7 +61,7 @@ Management: NPO, IVF, IV Abx until resolved or surgical removal
 
 Acute Acalculous Cholecystitis:
 
--   
+-
 -   Inflammation of the GB without obstructing stone (due to stasis and
     ischemia)
 -   Presentation: Seen in critically ill/ICU pts; similar history as
@@ -74,7 +74,7 @@ Acute Acalculous Cholecystitis:
 
 Management: Supportive care, antibiotics, GB drainage
 
--   
+-
 -   IVF, correct electrolyte abnormalities, NPO
 -   Broad spectrum antibiotic coverage
 -   Place CT-guided procedure consult for cholecystostomy placement
@@ -83,7 +83,7 @@ Management: Supportive care, antibiotics, GB drainage
 
 Choledocholithiasis:
 
--   
+-
 -   Obstruction of biliary outflow by CBD stone without inflammation (no
     fever)
     -   Impacted cystic duct stone (cholecystitis) or compressing CBD
@@ -103,7 +103,7 @@ Choledocholithiasis:
 
 Management
 
--   
+-
 -   NPO & IVF, pain control PRN
 -   Guidelines recommend use of RUQ U/S and LFTs to help decide on MRCP
     vs ERCP based on likelihood of CBD stone.  You must be confident
@@ -129,7 +129,7 @@ Management
 
 Acute Cholangitis:
 
--   
+-
 -   Bacterial infection of biliary tract 2/2 obstruction or prior
     instrumentation (ERCP)
 -   In ERCP-naïve pts, this is typically in setting of
@@ -149,11 +149,11 @@ Acute Cholangitis:
 Management: NPO, IVF, IV Abx; Consult GI for urgent ERCP (generally
 within 24 hr)
 
--   
+-
 -   If ERCP not feasible or fails to establish biliary drainage, can
     consider EUS-guided biliary drainage, percutaneous transhepatic
     cholangiography, or surgical decompression
--   
+-
 -   Antibiotics for Biliary Disease (IDSA Guidelines):
     -   Mild to moderate acute cholecystitis (stable):
         -   Ceftriaxone 2g daily, Cefazolin 1-2g q8H

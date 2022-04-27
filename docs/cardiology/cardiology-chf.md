@@ -1,5 +1,5 @@
 # CHF
- 
+
 Congestive Heart Failure - Madeleine Alder
 
 Background
@@ -71,7 +71,7 @@ Evaluation
 | Normal Cardiac Index | Warm Extremities Adequate Urine Output Normal Pulse Pressure           | Warm and Dry Forrester Class I   | Warm and Wet Forrester Class II |
 | Low Cardiac Index    | Cardiogenic Shock Cool Extremities Renal Failure Narrow Pulse Pressure | Cold and Dry Forrester Class III | Cold and Wet Forrester Class IV |
 
-  
+
 
 Management
 

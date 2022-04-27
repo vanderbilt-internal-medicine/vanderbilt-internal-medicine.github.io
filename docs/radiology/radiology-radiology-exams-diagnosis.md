@@ -1,5 +1,5 @@
 # Radiology Exams by Diagnosis
- 
+
 Common Radiology Exams by Suspected Diagnosis – Ryan Adams, Leah Brown
 
 | 0                       | 1                                                                                                    |

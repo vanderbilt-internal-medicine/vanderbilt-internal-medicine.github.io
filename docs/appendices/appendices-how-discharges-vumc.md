@@ -1,5 +1,5 @@
 # "How to" on Discharges at VUMC
- 
+
 -   Verify the correct pharmacy with the pt and if refills of existing
     medications are needed
 -   Select ‘Transfer-Discharge’ on the navigator panel on eStar

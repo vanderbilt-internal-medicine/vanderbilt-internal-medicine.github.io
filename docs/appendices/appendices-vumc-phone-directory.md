@@ -1,5 +1,5 @@
 # VUMC Phone Directory
- 
+
 Shorthand
 
 1xxxx

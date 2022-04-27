@@ -1,5 +1,5 @@
 # Rheumatology Lab Testing
- 
+
 Rheumatology Lab Testing – Ben Boone
 
 -   Rheumatologic labs must be interpreted in the context of the
@@ -26,7 +26,7 @@ Rheumatoid Factor (RF)
         symptoms/diagnosis
     -   Can be used as a surrogate when mixed cryoglobulinemia is
         suspected, since cryoglobulins can take up to a week to result
-        and RF results in \<48 hour  
+        and RF results in \<48 hour
 
 Anti-cyclic Citrullinated Peptides (Anti-CCP)
 

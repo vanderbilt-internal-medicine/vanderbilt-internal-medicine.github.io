@@ -1,5 +1,5 @@
 # Preventative Medicine
- 
+
 Preventive Medicine/Screening: (USPSTF) – Toaa Abuelenen, Emily Camp
 
 -   Recommend

@@ -1,5 +1,5 @@
 # Antimicrobial prophylaxis
- 
+
 Antimicrobial Prophylaxis per CD4 Counts – Rachael Pellegrino
 
 | 0               | 1                                              | 2                                                                             | 3                                                                                          | 4                                                                            |

@@ -1,5 +1,5 @@
 # CXRs
- 
+
 | 0                                                      |
 |--------------------------------------------------------|
 | How to Interpret Chest Radiographs (CXR) – Gautam Babu |
@@ -51,7 +51,7 @@ a CXR to ensure you don’t miss anything.
         effusion, pneumothorax, visualization of the diaphragm
     -   The middle of the box: aka Mediastinum -> trachea, vascular
         pedicle, hila, heart borders, great vessels, retrocardiac space
-    -   The lung fields  
+    -   The lung fields
 
 One important concept to know is the **silhouette sign:** Two things of
 different densities will show a clear border on a chest x-ray. In the

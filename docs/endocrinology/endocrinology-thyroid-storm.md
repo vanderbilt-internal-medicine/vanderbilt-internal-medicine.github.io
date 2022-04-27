@@ -1,5 +1,5 @@
 # Thyroid Storm
- 
+
 Thyroid Storm – Gaby Schroeder
 
 Background

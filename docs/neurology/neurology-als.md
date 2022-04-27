@@ -1,5 +1,5 @@
 # ALS
- 
+
 Amyotrophic Lateral Sclerosis (ALS)
 
 Background

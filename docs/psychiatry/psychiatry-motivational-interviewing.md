@@ -1,5 +1,5 @@
 # Motivational Interviewing
- 
+
 Motivational Interviewing (MI) – Barrington Hwang, <span
 id="_Hlk41769139">Jose Arriola Vigo</span>
 

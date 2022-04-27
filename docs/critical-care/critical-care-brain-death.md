@@ -1,5 +1,5 @@
 # Brain Death
- 
+
 | 0                         |
 |---------------------------|
 | Brain Death – Amelia Muhs |
@@ -79,7 +79,7 @@ and should be at the bedside with you. Attending MUST be present.
     ventilator
     -   PCO2 ≥60 mm Hg, or 20 mm Hg rise from normal baseline value; OR:
     -   Apnea test aborted. – abort if spontaneous respirations present,
-        pt develops hemodynamic instability, or becomes hypoxic  
+        pt develops hemodynamic instability, or becomes hypoxic
 
 4\. Ancillary testing (only one needs to be performed; to be ordered
 only if clinical examination cannot be fully performed due to pt

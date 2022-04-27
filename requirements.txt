@@ -1,6 +1,9 @@
-mkdocs-material
+black
+mdx-spanner
+mkdocs-autolinks-plugin
 mkdocs-awesome-pages-plugin
 mkdocs-git-revision-date-localized-plugin
+mkdocs-material
 mkdocs-print-site-plugin
-mkdocs-autolinks-plugin
 mkdocs-spellcheck
+pre-commit

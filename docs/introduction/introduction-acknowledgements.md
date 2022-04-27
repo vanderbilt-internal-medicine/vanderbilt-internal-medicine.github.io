@@ -1,5 +1,5 @@
 # Acknowledgements
- 
+
 The Vanderbilt University Medical Center (VUMC) Internal Medicine
 Housestaff Handbook began with an Internal Medicine Resident Quality
 Improvement Project which was led by Michael J. Neuss, MD PhD, under the

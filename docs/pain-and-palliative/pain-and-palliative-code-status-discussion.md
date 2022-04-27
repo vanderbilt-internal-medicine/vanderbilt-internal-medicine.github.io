@@ -1,5 +1,5 @@
 # Code Status Discussion
- 
+
 Code Status Discussion – Katie Sunthankar
 
 -   The approach to obtaining someone’s code status should be thoughtful

@@ -1,5 +1,5 @@
 # ARDS
- 
+
 | 0                                                          |
 |------------------------------------------------------------|
 | Acute Respiratory Distress Syndrome (ARDS) – Judd Heideman |

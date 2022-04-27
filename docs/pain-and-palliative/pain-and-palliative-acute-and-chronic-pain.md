@@ -1,5 +1,5 @@
 # Acute and Chronic Pain
- 
+
 Acute and Chronic Pain – Thomas Horton, Soibhan Kelley
 
 -   There are physiological AND emotional components to pain.

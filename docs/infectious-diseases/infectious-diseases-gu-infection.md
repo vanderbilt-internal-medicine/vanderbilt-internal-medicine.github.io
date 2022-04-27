@@ -1,5 +1,5 @@
 # GU infection
- 
+
 Genitourinary Infection – VASP
 
 Asymptomatic Bacteriuria
@@ -101,7 +101,7 @@ Background
 
 Evaluation
 
--   -   -   -   -   
+-   -   -   -   -
 
 -   UA with reflex urine culture
 
@@ -154,7 +154,7 @@ Background
 
 Management
 
--   -   -   -   -   
+-   -   -   -   -
 
 -   Distinguish uncomplicated vs complicated UTI (see above)
 

@@ -1,5 +1,5 @@
 # Acute Abdominal Pain
- 
+
 Acute Abdominal Pain – Alex Mamunes
 
 General Approach:

@@ -1,5 +1,5 @@
 # Interns' Guide to Rotations at VA
- 
+
 VA: Veterans Affairs Rotations
 
 Always make sure that your VA login works a few days before you are

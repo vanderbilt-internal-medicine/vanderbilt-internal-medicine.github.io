@@ -1,5 +1,5 @@
 # HIV & ART General Concepts
- 
+
 HIV/AIDS and ART – Joseph Quintana
 
 Background
@@ -57,4 +57,4 @@ Background
         Triumeq®, dolutegravir + Descovy®
         -   Dolutegravir and bictegravir have high barriers to
             resistance relative to first-generation integrase inhibitors
-            elvitegravir and raltegravir  
+            elvitegravir and raltegravir

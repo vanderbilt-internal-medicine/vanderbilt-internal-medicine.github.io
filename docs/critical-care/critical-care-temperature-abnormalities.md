@@ -1,5 +1,5 @@
 # Temperature Abnormalities
- 
+
 | 0                                          |
 |--------------------------------------------|
 | Temperature Abnormalities – Soibhan Kelley |

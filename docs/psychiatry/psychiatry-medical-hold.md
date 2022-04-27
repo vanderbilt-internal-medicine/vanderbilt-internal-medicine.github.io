@@ -1,5 +1,5 @@
 # Medical Hold
- 
+
 Medical Hold – Chelsea Sprick, Barrington Hwang
 
 Background

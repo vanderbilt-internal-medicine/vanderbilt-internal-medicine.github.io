@@ -1,5 +1,5 @@
 # Opiate Principles
- 
+
 Opioids: General Principles & Conversion – Brian Grieb
 
 Oral Morphine Equivalent (OME) Conversion Table:

@@ -1,5 +1,5 @@
 # Nausea & Vomiting
- 
+
 Nausea & Vomiting – Michael J. Neuss
 
 General Approach:

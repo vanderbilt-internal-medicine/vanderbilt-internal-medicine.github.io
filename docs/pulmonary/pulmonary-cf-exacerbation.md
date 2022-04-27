@@ -1,5 +1,5 @@
 # CF Exacerbation
- 
+
 | 0                                 |
 |-----------------------------------|
 | Cystic Fibrosis (CF) Exacerbation |

@@ -1,12 +1,12 @@
 # Pneumonia
- 
+
 Pulmonary Infections – VASP, Evan Schwartz
 
 Acute Bronchitis
 
 Background
 
--   -   -   -   -   
+-   -   -   -   -
 
 -   1
     -3 wks productive cough, often preceded by URI, may have
@@ -26,7 +26,7 @@ Background
 
 Management
 
--   -   -   -   -   
+-   -   -   -   -
 
 -   Supportive: lozenges, cough suppressants (guaifenesin or
     dextromethorphan), smoking cessation. Consider albuterol inhaler for
@@ -39,7 +39,7 @@ Influenza
 
 Background
 
--   -   -   -   -   
+-   -   -   -   -
 
 -   Dx often clinical w/cough, sore throat, #sputum/nasal discharge, HA,
     fever, myalgias, and malaise; ± N/V/D. Exam with increased flushing,
@@ -47,7 +47,7 @@ Background
 
 Evaluation
 
--   -   -   -   -   
+-   -   -   -   -
 
 -   During flu season: Obtain RPP or dedicated Influenza PCR in pts
     w/immunocompromise, acute hypoxic respiratory failure, respiratory
@@ -58,7 +58,7 @@ Evaluation
 
 Management
 
--   -   -   -   -   
+-   -   -   -   -
 
 -   Antivirals most effective w
     hen given \<48 hours from symptom onset; however,
@@ -80,7 +80,7 @@ Community Acquired Pneumonia (CAP)
 
 Background
 
--   -   -   -   -   
+-   -   -   -   -
 
 -   All PNA that does not otherwise meet criteria for Hospital Acquired
     Pneumonia (PNA that develops ≥48 hours after hospital admission),
@@ -130,7 +130,7 @@ Evaluation
 
 Management
 
--   -   -   -   -   
+-   -   -   -   -
 
 -   Duration
     : 5-7 days (at least 5 days and improvement with clinical stability)
@@ -151,7 +151,7 @@ Additional
 
 Information
 
--   -   -   -   -   
+-   -   -   -   -
 
 -   CTX is generally adequate coverage for aspiration PNA without
     evidence of abscess, empyema, or cavitary lesion on imaging
@@ -166,7 +166,7 @@ Hospital Acquired Pneumonia (HAP) and Ventilator Associated Pneumonia
 
 Background
 
--   -   -   -   -   
+-   -   -   -   -
 
 -   HAP: Pneumonia that develops >48 hours after admission
 
@@ -174,7 +174,7 @@ Background
 
 Evaluation
 
--   -   -   -   -   
+-   -   -   -   -
 
 -   Cultures of blood, sputum, endotracheal aspirate and/or bronchoscopy
     specimen
@@ -186,7 +186,7 @@ Evaluation
 
 Management
 
--   -   -   -   -   
+-   -   -   -   -
 
 -   Duration: 7 days in uncomplicated cases, although specific pathogens
     (e.g., *Pseudomonas* ) may require longer duration and ID guidance

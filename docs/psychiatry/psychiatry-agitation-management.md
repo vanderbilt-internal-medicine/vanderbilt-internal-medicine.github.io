@@ -1,5 +1,5 @@
 # Agitation Management
- 
+
 Agitation Management – Jonathan Constant, Jonathan Smith
 
 Background

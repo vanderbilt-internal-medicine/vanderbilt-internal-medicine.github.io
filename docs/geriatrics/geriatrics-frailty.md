@@ -1,5 +1,5 @@
 # Frailty
- 
+
 Functional Status and Frailty
 
 Background
@@ -32,4 +32,4 @@ Evaluation
 | Basic ADL’s                                                | Instrumental ADL’s                                                                                                | Advanced ADL’s                                                                 |
 | Feeding Continence Transferring Toileting Dressing Bathing | Using the telephone Shopping Preparing food Housekeeping & Laundry Driving Handling medications Handling finances | Fulfill societal, community and family roles Participate in recreational tasks |
 
--   
+-

@@ -1,5 +1,5 @@
 # Inpatient Headache
- 
+
 | 0                       |
 |-------------------------|
 | Inpatient Headache (HA) |

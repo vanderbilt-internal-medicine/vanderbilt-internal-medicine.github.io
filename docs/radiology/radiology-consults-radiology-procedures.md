@@ -1,5 +1,5 @@
 # Consults for Radiology Procedures
- 
+
 -   Radiology Procedures are performed by three separate consult
     services depending on the clinical indication or procedure requested
 -   Knowing the correct service will save you time when placing consults

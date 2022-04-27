@@ -1,10 +1,10 @@
 # Small Bowel Obstruction
- 
+
 Small Bowel Obstruction (SBO) – Alex Wiles
 
 Background
 
--   
+-
 -   Risk Factors: prior abdominal surgeries (adhesions), malignancy,
     hernia, intestinal inflammation (IBD)/stricture, radiation, abscess,
     foreign bodies
@@ -15,7 +15,7 @@ Background
 
 Presentation
 
--   
+-
 -   Nausea, Emesis, intermittent colic, bloating, constipation
 -   Obstipation if completely obstructed, loss of flatulence
 -   Exam: classically with “tinkling” bowel sounds, tympanic abdomen,
@@ -23,7 +23,7 @@ Presentation
 
 Evaluation
 
--   
+-
 -   CBC, BMP, lipase, hepatic function panel, lactate (sensitive, not
     specific for ischemia)
 -   Start with KUB to r/o perforation but typically will require CT
@@ -39,7 +39,7 @@ Evaluation
 
 Management
 
--   
+-
 -   Use Small Bowel Obstruction admission order set (surgery order set)
 -   Consult EGS: if any concern for SBO,  evaluate need for urgent
     surgery

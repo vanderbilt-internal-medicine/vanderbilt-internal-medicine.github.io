@@ -1,5 +1,5 @@
 # Video Examples for Navigating Difficult Conversations
- 
+
 Video Examples for Navigating Difficult Conversations – Mohana Karlekar
 
 Navigating difficult conversations with patients can be daunting

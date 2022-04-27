@@ -1,5 +1,5 @@
 # Shock
- 
+
 | 0                                                  |
 |----------------------------------------------------|
 | Management of Shock – Alex Toporex, Soibhan Kelley |

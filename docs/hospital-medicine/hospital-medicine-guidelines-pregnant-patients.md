@@ -1,5 +1,5 @@
 # Guidelines for Pregnant Patients
- 
+
 Acute Cystitis:
 
 -   Significantly increased prevalence in pregnancy

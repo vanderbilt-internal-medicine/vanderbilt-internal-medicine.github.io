@@ -1,5 +1,5 @@
 # Telemetry
- 
+
 Background
 
 -   \~43% of monitored pts do not have a true indication

@@ -1,5 +1,5 @@
 # Inflammatory Myopathies
- 
+
 Inflammatory Myopathies – Greg Jackson
 
 Background
@@ -37,7 +37,7 @@ Evaluation
         injury
     -   Dermatomyositis: immune complex/B cell mediated muscle injury
 
-  
+
 
 Management
 

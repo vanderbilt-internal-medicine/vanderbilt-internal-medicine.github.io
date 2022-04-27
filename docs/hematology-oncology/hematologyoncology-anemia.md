@@ -1,5 +1,5 @@
 # Anemia
- 
+
 Anemia – Margaret Wheless
 
 General Approach to Diagnosis
@@ -106,7 +106,7 @@ Management
         NephrologyHUS: + shiga toxin, AKI, diarrhea
     -   Other: mechanical valves, malignant HTN, cocaine, scleroderma
         renal crisis
-        -   Treat underlying cause  
+        -   Treat underlying cause
 -   Autoimmune
     hemolytic anemia (AIHA):
     -   Cold

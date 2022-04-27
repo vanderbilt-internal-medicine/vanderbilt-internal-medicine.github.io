@@ -1,5 +1,5 @@
 # Atrial Fibrillation and Flutter
- 
+
 Atrial Fibrillation & Flutter - Benjamin Palmer
 
 Background

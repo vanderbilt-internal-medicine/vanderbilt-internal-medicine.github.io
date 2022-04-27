@@ -1,5 +1,5 @@
 # Brief Overview of ART
- 
+
 Overview of Antiretroviral Therapy – Joseph Quintana
 
 | 0                               | 1                                                                | 2                                          | 3                                                                                                                                                                                                    |
@@ -20,7 +20,7 @@ Overview of Antiretroviral Therapy – Joseph Quintana
 
 NRTI Additional Information
 
--   -   -   -   -   
+-   -   -   -   -
 
 -   Tenofovir
     alone is indicated for HBV, in which case you should be mindful of
@@ -50,7 +50,7 @@ NRTI Additional Information
 
 NNRTI Additional Information
 
--   -   -   -   -   
+-   -   -   -   -
 
 -   Class-wide Side Effect: hepatitis, rashes
 
@@ -65,7 +65,7 @@ NNRTI Additional Information
 
 Protease Inhibitor Additional Information
 
--   -   -   -   -   
+-   -   -   -   -
 
 -   All protease inhibitors must be boosted:
     -   Ritonavir: can cause MSK pain, rhabdomyolysis, not expected at

@@ -1,5 +1,5 @@
 # Web App Setup
- 
+
 This site is optimized for use on mobile devices. It is possible to set
 up a link from your device's home screen that gives it the look and feel
 of a web app.

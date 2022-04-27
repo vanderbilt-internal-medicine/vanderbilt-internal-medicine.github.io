@@ -1,5 +1,5 @@
 # Post-Cardiac Catheterization Care
- 
+
 Post-Cardiac Catheterization Care – Nick Pietrini
 
 Catheterization Documentation
@@ -25,7 +25,7 @@ Post-Catheterization Heparin
 -   PCI: stop heparin and continue/start DAPT as directed by cardiology
 -   Left main, proximal LAD, or other indication for CABG: Continue
     heparin gtt until surgery
-    -   -   -   
+    -   -   -
 
     -   Separate medical indication for anticoagulation (DVT/PE, atrial
         fibrillation):  restart \~ six hours after catheterization
@@ -36,7 +36,7 @@ Cath Site Checks:
     access:
 -   Look, listen, feel:
     evaluate for hematoma & pseudoaneurysm; call fellow if concerned
-    -   -   -   
+    -   -   -
 
     -   Small amount of bruising and mild tenderness at the site is
         normal

@@ -1,5 +1,5 @@
 # Pleural Effusions
- 
+
 | 0                              |
 |--------------------------------|
 | Pleural Effusions – Eddie Qian |

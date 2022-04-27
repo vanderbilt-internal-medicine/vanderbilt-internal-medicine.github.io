@@ -1,5 +1,5 @@
 # Utilization Management
- 
+
 Utilization Management (UM)
 
 Facilitates appropriate reimbursement for hospitalized patients. The UM

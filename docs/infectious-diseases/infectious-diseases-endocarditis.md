@@ -1,10 +1,10 @@
 # Endocarditis
- 
+
 Endocarditis – Justin Smith
 
 Background
 
--   -   -   -   -   
+-   -   -   -   -
 
 -   Multiple etiologies of endocarditis:
     -   Typical Bacterial
@@ -57,7 +57,7 @@ Duke Criteria:
         factor, GN)
     -   Micro (Cultures that don’t fit the above, or serologic evidence
         of acute infection)
-        -   -   -   -   
+        -   -   -   -
 -   Definite: 2 Major, 1 major and 3 minor, or 5 minor
 -   Possible: 1 major and 1 minor, or 3 minor
 -   Rejected: firm alternate diagnosis, resolution of evidence with \<4
@@ -75,7 +75,7 @@ Evaluation
     -   It can be reasonable to start with TEE if pretest probability is
         high enough, if patient has known valvular abnormalities, or TTE
         will be technically difficult
--   
+-
 -   EKG: new heart block or prolonged PR raises concern for
     endocardial/perivalvular abscess. Endocarditis patients should be on
     telemetry, monitored closely by team
@@ -111,7 +111,7 @@ Additional Information:
         -   Pericarditis: can be suppurative or non-suppurative
         -   Intracardiac Fistula
 
--   -   
+-   -
     -   Septic emboli and metastatic abscesses
     -   Mycotic aneurysm: usually occurs at vessel branch points
 

@@ -1,5 +1,5 @@
 # Stress Dose Steroids
- 
+
 Stress Dose Steroids – Griffin Bullock
 
 Primary Options

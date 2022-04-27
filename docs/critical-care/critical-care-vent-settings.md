@@ -1,5 +1,5 @@
 # Vent Settings
- 
+
 | 0                                            |
 |----------------------------------------------|
 | Introduction to Vent Management – Eddie Qian |

@@ -1,5 +1,5 @@
 # Ascites
- 
+
 | 0                                                                      |
 |------------------------------------------------------------------------|
 | Ascites and Hepatic Hydrothorax – Lauren Evers Carlini, Thomas Strobel |
@@ -87,7 +87,7 @@ Management
 -   6-8g of albumin per liter of ascites removed , even if \< 5L
     -   -   So, if 7L removed, you would give 42-56g of albumin
 -   Target weight loss of 0.5kg/day when diuresing to avoid renal
-    injury  
+    injury
 
 Refractory Ascites
 

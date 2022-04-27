@@ -1,5 +1,5 @@
 # Upper GI Bleed in Cirrhosis
- 
+
 Gastroesophageal Varices and Hemorrhage – Patricia Checinski
 
 Background

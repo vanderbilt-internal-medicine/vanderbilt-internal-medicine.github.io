@@ -1,5 +1,5 @@
 # Uploading Records
- 
+
 -   Request outside records to your Doximity account Fax
 -   Open Doximity in Epic virtual desktop browser window (internet
     explorer)

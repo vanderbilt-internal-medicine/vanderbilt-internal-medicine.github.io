@@ -1,5 +1,5 @@
 # Fungal Infections
- 
+
 Fungal Infections – Justin Smith
 
 Histoplasmosis
@@ -26,7 +26,7 @@ Evaluation
         diffuse throughout the lungs or disseminated.
     -   There are relatively high rates of cross-reactivity, where
         histoplasma antigen will be positive with blastomycosis.
--   
+-
 -   Serology: Consider Histoplasma Ab if evaluating for pulmonary
     disease
 -   Culture: most useful in chronic infections, sensitivity is low in

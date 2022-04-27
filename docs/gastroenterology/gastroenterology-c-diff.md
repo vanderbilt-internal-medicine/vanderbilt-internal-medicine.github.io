@@ -1,5 +1,5 @@
 # C Diff
- 
+
 Clostridioides difficile Infections – Matthew Meyers
 
 Background
@@ -40,7 +40,7 @@ Presentation
     reappearance of symptoms within 2-8 weeks after stopping therapy;
     (Up to 25% of patients have recurrence)
 -   If symptoms never resolve, consider refractory C. diff or
-    alternative diagnosis  
+    alternative diagnosis
 
 Evaluation
 

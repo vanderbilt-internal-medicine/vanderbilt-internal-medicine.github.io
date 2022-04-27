@@ -1,5 +1,5 @@
 # Hypoxia
- 
+
 | 0                     |
 |-----------------------|
 | Hypoxia – Henry Brems |
@@ -21,7 +21,7 @@ Background
     thus necessitating quick intervention for pts with SpO2 below this
     level
 
-  
+
 
 Mechanisms of Hypoxia:
 

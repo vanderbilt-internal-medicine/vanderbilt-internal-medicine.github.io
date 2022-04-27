@@ -1,5 +1,5 @@
 # Coagulopathy
- 
+
 | 0                                                 |
 |---------------------------------------------------|
 | Coagulopathy – Garren Montgomery, John Laurenzano |

@@ -1,7 +1,7 @@
-from requests_html import HTMLSession
-from bs4 import BeautifulSoup
 import pandas as pd
 import pypandoc
+from bs4 import BeautifulSoup
+from requests_html import HTMLSession
 
 session = HTMLSession()
 

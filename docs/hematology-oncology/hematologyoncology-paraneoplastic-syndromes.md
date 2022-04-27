@@ -1,5 +1,5 @@
 # Paraneoplastic Syndromes
- 
+
 Paraneoplastic Syndromes – Justin Lo
 
 <span id="Paraneoplastic"></span>

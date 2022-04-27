@@ -1,5 +1,5 @@
 # Metabolic acidosis
- 
+
 Approach to Metabolic Acidosis – Ned Hardison
 
 ABG (VBG) reference ranges:

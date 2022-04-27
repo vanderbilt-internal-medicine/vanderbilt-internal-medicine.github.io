@@ -1,5 +1,5 @@
 # DIC
- 
+
 Disseminated <span id="DIC"></span> Intravascular Coagulation (DIC) -
 Eric Singhi
 

@@ -1,5 +1,5 @@
 # NASH and NAFLD
- 
+
 | 0                                |
 |----------------------------------|
 | NASH and NAFLD – John Laurenzano |
@@ -18,7 +18,7 @@ Background
 
 Evaluation
 
--   -   -   
+-   -   -
 
 -   NASH manifests with elevated liver enzymes, typically 2-5x the ULN,
     in a roughly 1:1 ratio (as opposed to alcoholic steatohepatitis),
@@ -55,7 +55,7 @@ Evaluation
 
 Management
 
--   -   -   
+-   -   -
 
 -   Aggressive risk factor modification and mgmt of comorbidities (HLD,
     HTN, T2DM)
@@ -79,7 +79,7 @@ Management
 
 Additional Information
 
--   -   -   
+-   -   -
 
 -   Statins: should be used for HLD in pts with NASH, NAFLD and NASH
     cirrhosis

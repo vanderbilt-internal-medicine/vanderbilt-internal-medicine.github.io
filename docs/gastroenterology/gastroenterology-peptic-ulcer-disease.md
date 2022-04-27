@@ -1,5 +1,5 @@
 # Peptic Ulcer Disease
- 
+
 Peptic Ulcer Disease – Michelle Izmaylov
 
 Background
@@ -71,7 +71,7 @@ Management
 
 Additional Information
 
--   -   -   
+-   -   -
 
 -   Continue maintenance PPI therapy (omeprazole 20 mg daily) for the
     following:
@@ -82,7 +82,7 @@ Additional Information
     -   Condition requiring long term aspirin/NSAID use
     -   Persistent ulcer on repeat EGD (if performed)
 
--   -   -   
+-   -   -
 
 -   Indications for repeat EGD (8-12 weeks):
     -   Persistent/recurrent sxs despite medical therapy

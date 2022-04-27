@@ -1,5 +1,5 @@
 # Inpatient Hypertension
- 
+
 Background
 
 -   Hypertensive

@@ -1,5 +1,5 @@
 # Anesthesia
- 
+
 -   May be used in which a pt’s pain or anxiety may impede performance
     and success
 -   Relative Contraindications: old age, dementia, respiratory

@@ -1,5 +1,5 @@
 # Outpatient Headache
- 
+
 Outpatient Headache
 
 Background
@@ -37,7 +37,7 @@ Medication Overview:
         Main SE = sedation
     -   Venlafaxine: useful for migraines with significant vestibular
         symptoms (dizziness)
-        -   
+        -
         -   Major
             SE = insomnia, hypertension/tachycardia
     -   Verapamil: can be used for migraine and cluster headaches. Can

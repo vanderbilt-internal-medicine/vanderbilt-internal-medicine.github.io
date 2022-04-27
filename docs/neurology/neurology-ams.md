@@ -1,5 +1,5 @@
 # AMS
- 
+
 Delirium & Altered Mental Status (AMS)
 
 Background

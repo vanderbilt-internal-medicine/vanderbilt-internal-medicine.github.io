@@ -1,5 +1,5 @@
 # Inflammatory Bowel Disease
- 
+
 Inflammatory Bowel Disease – Francesca Raffa
 
 Background

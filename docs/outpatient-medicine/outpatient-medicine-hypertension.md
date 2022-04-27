@@ -1,5 +1,5 @@
 # Hypertension
- 
+
 Hypertension (HTN) – Jonathan Davis
 
 Background
@@ -73,7 +73,7 @@ Management
         alcohol intake
     -   Medications (e.g., NSAIDs, decongestants, MAOs, clonidine
         withdrawal, cyclosporine, steroids)
-    -   Substance use (e.g., caffeine, cocaine, amphetamines)  
+    -   Substance use (e.g., caffeine, cocaine, amphetamines)
 -   Lifestyle interventions (first line for any stage of elevated BP):
     -   8-14 mmHg
         ↓
@@ -92,7 +92,7 @@ Management
     -   2-4 mmHg
         ↓
         :
-        Moderate EtOH (2 drinks/day for men; 1 drink/day for women)  
+        Moderate EtOH (2 drinks/day for men; 1 drink/day for women)
 -   Medications (See table below):
     -   Initiate pharmacological therapy with Hypertension Stage I
         (ACC/AHA guideline) and ASCVD score > 10% or Stage II pts

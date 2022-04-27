@@ -1,5 +1,5 @@
 # Disclaimers
- 
+
 The handbook is not a substitute for clinical judgment and is intended
 as an educational guide. Content reflects current national guidelines,
 as well as practice at VUMC and the Nashville VA. The handbook is not

@@ -1,5 +1,5 @@
 # EKG
- 
+
 Approach to the ECG – Andy Hughes
 
 General Schema: Rate

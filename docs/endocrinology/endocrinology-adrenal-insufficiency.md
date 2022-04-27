@@ -1,5 +1,5 @@
 # Adrenal Insufficiency
- 
+
 Adrenal Insufficiency – Griffin Bullock
 
 Background

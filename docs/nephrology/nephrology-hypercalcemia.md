@@ -1,5 +1,5 @@
 # Hypercalcemia
- 
+
 Hypercalcemia – Rebecca Choudhry, Trevor Stevens
 
 Background
@@ -10,7 +10,7 @@ Background
     : Most Ca <sup>+2</sup> in the serum is bound primarily to albumin
 -   In a hypoalbuminemic pt, you can correct the total Ca <sup>+2</sup>
     level with the formula:
-    -   
+    -
     -   0.8 x (4 – albumin level) + uncorrected Ca <sup>+2</sup> =
         corrected Ca <sup>+2</sup>
 -   Ca <sup>+2</sup>

@@ -1,5 +1,5 @@
 # Vasculitis
- 
+
 Vasculitides – Trever Stevens and Greg Jackson
 
 Background
@@ -61,14 +61,14 @@ Presentation
     lightheadedness, vertigo, headaches, syncope, and strokes due to
     involvement of carotid arteries
 
-  
+
 
 Evaluation
 
 -   Inflammatory markers: ESR & CRP (usually elevated)
 -   Arteriography: MRA or CTA of head/neck, chest, and abdomen
 
-  
+
 
 Management
 
@@ -90,7 +90,7 @@ Presentation
     palpation of scalp in addition to constitutional symptoms
 -   Polymyalgia rheumatica will often accompany GCA
     -   B/l shoulder and hip pain and stiffness (elevated ESR but normal
-        CK)  
+        CK)
 
 Evaluation
 
@@ -100,7 +100,7 @@ Evaluation
 -   Ophthalmology eval if there is ocular involvement.
 -   Temporal artery biopsy – evaluating for evidence of vasculitis or
     giant cells
-    -   (Vascular surgery can assist with timely biopsy)  
+    -   (Vascular surgery can assist with timely biopsy)
 
 Management
 
@@ -132,7 +132,7 @@ Evaluation
 -   ESR, CRP, CK level, TSH
 -   Arteriography: MRI or CT or catheter based angiogram - “string of
     pearls” appearance
--   Histology: fibrinoid necrosis and vasculitis in target tissue  
+-   Histology: fibrinoid necrosis and vasculitis in target tissue
 
 Management
 
@@ -186,7 +186,7 @@ Evaluation
 -   ANCA +, typically MPO-pANCA
 -   U/A with urine microscopy: need to spin the urine to evaluate for
     active renal disease
--   Biopsy of a site of suspected diseased activity  
+-   Biopsy of a site of suspected diseased activity
 
 Management
 
@@ -209,12 +209,12 @@ Presentation
     involvement: Coronary arteritis, myocarditis, heart failure and
     arrhythmias
 -   Skin lesions: tender subcutaneous nodules
--   Renal involvement: hematuria and proteinuria  
+-   Renal involvement: hematuria and proteinuria
 
 Evaluation
 
 -   ANCA + (typically MPO-pANCA) and peripheral eosinophilia
--   Histology: Eosinophilic infiltrates with fibrinoid necrosis  
+-   Histology: Eosinophilic infiltrates with fibrinoid necrosis
 
 Management
 

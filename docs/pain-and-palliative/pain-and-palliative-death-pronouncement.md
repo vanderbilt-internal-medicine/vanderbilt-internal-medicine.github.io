@@ -1,5 +1,5 @@
 # The Death Pronouncement
- 
+
 The Death Pronouncement – Michael J. Neuss
 
 This scenario arises in a variety of contexts, including the units,

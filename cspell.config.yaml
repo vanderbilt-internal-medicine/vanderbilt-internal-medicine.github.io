@@ -1,0 +1,6 @@
+dictionaryDefinitions:
+  - name: med_dict
+    path: dict.txt
+    addWords: true
+dictionaries:
+  - med_dict

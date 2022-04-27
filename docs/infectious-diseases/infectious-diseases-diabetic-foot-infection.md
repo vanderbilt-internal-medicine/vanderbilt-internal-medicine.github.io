@@ -1,5 +1,5 @@
 # Diabetic Foot Infection
- 
+
 Diabetic Foot Infection – VASP
 
 Evaluation

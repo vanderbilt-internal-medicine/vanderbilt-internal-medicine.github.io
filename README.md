@@ -15,27 +15,27 @@ Below are some notes for my own use.
 
 _Shout out to the BMT nurses for showing me this trick_
 
-Some folks have literally years 
-of old nursing orders and administrative mumbo jumbo 
-in their orders tab that is not only useless, 
+Some folks have literally years
+of old nursing orders and administrative mumbo jumbo
+in their orders tab that is not only useless,
 it is dangerous, because it makes it harder for everyone
 (nurses included) to see current, relevant orders.
 
 Cleaning out old orders is easy.
-Highlight all the orders you want 
-(CTRL-click is better than SHIFT-click, 
+Highlight all the orders you want
+(CTRL-click is better than SHIFT-click,
 bc you can drag a CTRL-click and skip some,
 then drag some more),
-right click, 
+right click,
 select "Discontinue,"
 then click "Duplicate Order."
 
-After you sign these, 
+After you sign these,
 they should disappear from the chart immediately.
 
 Oddities:
 
-For some reason, 
+For some reason,
 no orders from 2008 or earlier are able to be deleted.
 If you figure out how to fix this, let me know.
 

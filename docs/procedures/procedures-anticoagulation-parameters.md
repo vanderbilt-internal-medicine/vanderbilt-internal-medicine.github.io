@@ -1,5 +1,5 @@
 # Anticoagulation Parameters
- 
+
 | 0               | 1                       |
 |-----------------|-------------------------|
 | Procedure       | PLT & INR               |

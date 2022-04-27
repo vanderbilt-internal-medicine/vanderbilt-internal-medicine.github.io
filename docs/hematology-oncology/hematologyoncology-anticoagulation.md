@@ -1,5 +1,5 @@
 # Anticoagulation
- 
+
 Anticoagulation – Madeleine Turcotte
 
 | 0                      | 1                                                      | 2                                        | 3                        | 4                                                                         |

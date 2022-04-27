@@ -1,5 +1,5 @@
 # Arterial Line
- 
+
 Pre-procedure considerations
 
 -   Palpate of artery of interest to best understand anatomy and

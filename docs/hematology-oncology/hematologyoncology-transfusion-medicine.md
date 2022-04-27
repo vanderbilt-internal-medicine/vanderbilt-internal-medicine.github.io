@@ -1,5 +1,5 @@
 # Transfusion Medicine
- 
+
 Transfusion Medicine – R. Dixon Dorand
 
 VUMC: search “Blood” and select General Blood Administration – follow
@@ -50,7 +50,7 @@ Red Blood Cell Transfusion
     \~3%
 -   Assessment
     of the post-transfusion Hgb can be performed 15 min following
-    transfusion, but ideally 1 hour after completion  
+    transfusion, but ideally 1 hour after completion
 
 Indications:
 
@@ -100,7 +100,7 @@ Indications for transfusion:
     cryoprecipitate to fibrinogen \<150
 -   For
     elevated INR, consider FFP transfusion. Thresholds for doing this
-    vary by attending  
+    vary by attending
 
 \- Cirrhosis **:**
 

@@ -1,5 +1,5 @@
 # VA Phone Numbers
- 
+
 ## Administrative Numbers
 
 - AOD: 67010
@@ -51,19 +51,19 @@
 -   SICU: 67930
 -   PACU: 67746
 -   Dialysis: 66860
--   VA triage charge RN: 66849  
+-   VA triage charge RN: 66849
 
 ## VA Consult Team Numbers (p=pager)
 
 Most of the surgical/procedural services maintain
-an Excel spreadsheet of on-call clinicians, 
-updated monthly, 
+an Excel spreadsheet of on-call clinicians,
+updated monthly,
 available for download on the VA Intranet.
 
-The main on-call page is available [here](https://vaww.v09.va.gov/tennessee-valley/Clinical/On-Call-Schedules-Contacts), 
+The main on-call page is available [here](https://vaww.v09.va.gov/tennessee-valley/Clinical/On-Call-Schedules-Contacts),
 and individual on-call pages are linked below.
 
-Cardiac and thoracic surgery have NPs 
+Cardiac and thoracic surgery have NPs
 that field most of the consults, their pagers are included below as well.
 
 - Cardiac Surgery: [VA website](https://vaww.v09.va.gov/Tennessee-Valley/Clinical-Resources/On-Call-Schedules-Contacts/On-call-Schedule-Cardiac); Bo Mistak, NP (p): 831-4101

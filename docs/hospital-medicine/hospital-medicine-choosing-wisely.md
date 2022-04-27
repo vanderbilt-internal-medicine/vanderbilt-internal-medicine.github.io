@@ -1,5 +1,5 @@
 # Choosing Wisely
- 
+
 Don’t use antimicrobials to treat bacteriuria in non-pregnant adults
 unless specific urinary tract symptoms are present. Cohort studies have
 found no adverse outcomes for older men or women associated with

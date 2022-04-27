@@ -1,5 +1,5 @@
 # Medical Decision-Making Capacity
- 
+
 Medical Decision-Making Capacity – Chelsea Sprick, Neil Phillips,
 Jonathan Smith
 

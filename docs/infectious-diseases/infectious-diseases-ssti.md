@@ -1,5 +1,5 @@
 # SSTI
- 
+
 Skin and Soft Tissue Infection (SSTI) – VASP
 
 Cellulitis
@@ -88,7 +88,7 @@ Evaluation
         delay these consultations
 -   ID
     consult
-    -   -   -   -   
+    -   -   -   -
 
     -   Blood cultures, but this should not delay antibiotic
         administration

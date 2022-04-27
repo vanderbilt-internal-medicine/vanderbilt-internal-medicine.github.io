@@ -1,6 +1,6 @@
-**/*.html 
+**/*.html
 # ignore all html files except:
-!**/main.html 
+!**/main.html
 !**/mathjax_header.html
 .venv
 .DS_Store

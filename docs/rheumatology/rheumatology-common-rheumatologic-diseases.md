@@ -1,5 +1,5 @@
 # Common Rheumatologic Diseases
- 
+
 Common Rheumatologic Diseases
 
 Rheumatoid Arthritis – Greg Jackson
@@ -87,7 +87,7 @@ Evaluation
         occasions, at least 12 weeks apart
     -   Anti-beta-2 glycoprotein-I antibody of IgG and/or IgM isotype in
         serum or plasma, present on two or more occasions, at least 12
-        weeks apart  
+        weeks apart
 
 Management
 
@@ -127,7 +127,7 @@ Evaluation
     sensitivity/specificity of tests
 -   SLICC criteria not initially developed to diagnose SLE but often
     used:  need >/= 4/17 of SLICC criteria with >/=1 clinical and >/= 1
-    immunologic  
+    immunologic
 
 | 0                                                                    | 1                                 |
 |----------------------------------------------------------------------|-----------------------------------|
@@ -174,7 +174,7 @@ Presentation
     ecchymosis, splinter hemorrhages, and necrosis resulting in
     ulceration)
 -   Pts can develop systemic inflammatory response syndrome 2/2
-    extensive tissue damage  
+    extensive tissue damage
 
 Evaluation
 

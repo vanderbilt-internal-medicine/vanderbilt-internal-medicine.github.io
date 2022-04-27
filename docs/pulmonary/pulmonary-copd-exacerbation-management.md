@@ -1,5 +1,5 @@
 # COPD Exacerbation Management
- 
+
 | 0                                 |
 |-----------------------------------|
 | COPD Exacerbation – Taylor Coston |

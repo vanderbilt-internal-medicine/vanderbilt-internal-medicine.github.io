@@ -1,5 +1,5 @@
 # Modes of Oxygen Delivery
- 
+
 | 0                                      |
 |----------------------------------------|
 | Modes of Oxygen Delivery – Blake Funke |

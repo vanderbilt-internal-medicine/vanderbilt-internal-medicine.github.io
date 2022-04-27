@@ -1,5 +1,5 @@
 # Thyroid Nodules
- 
+
 Thyroid Nodules – Terra Swanson
 
 Background

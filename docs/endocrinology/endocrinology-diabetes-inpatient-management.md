@@ -1,5 +1,5 @@
 # Diabetes: Inpatient Management
- 
+
 Inpatient Diabetes Mellitus (DM) – Will Bassett
 
 Blood glucose (BG) goal:
@@ -80,7 +80,7 @@ Adjustments:
     -   Less is more! Blood glucose in the 200s is better than the 50s
     -   If endocrine consulted (“Glucose management services) for inpt
         glucose mgmt, please notify >24h prior to d/c if you want
-        recommended d/c regimen!  
+        recommended d/c regimen!
 
 Steroid-induced Hyperglycemia:
 

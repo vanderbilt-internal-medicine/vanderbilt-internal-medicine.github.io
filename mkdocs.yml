@@ -11,6 +11,7 @@ plugins:
   - search
   - awesome-pages
   - autolinks
+  - mdx_spanner
   - git-revision-date-localized:
       type: iso_datetime
   - print-site:
@@ -18,7 +19,7 @@ plugins:
       print_page_title: 'Print Site'
       add_print_site_banner: true
 #   - spellcheck:
-#       known_words: known_words.txt # after we make a known_words.txt, this may be a useful plugin
+#       known_words: dict.txt # after we make a known_words.txt, this may be a useful plugin
 #       ignore_code: yes
 #       min_length: 2
 #       max_capital: 1
@@ -29,7 +30,7 @@ plugins:
 theme:
   name: material
   custom_dir: overrides
-  font: 
+  font:
     text: IBM Plex Sans
     code: IBM Plex Mono
   features:
@@ -91,10 +92,10 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.tilde
   - pymdownx.snippets
-  
+
 extra_css:
   - stylesheets/extra.css
-  
+
 extra:
   analytics:
     provider: google
@@ -105,18 +106,18 @@ extra:
         - icon: material/emoticon-happy-outline
           name: This page was helpful
           data: 1
-          note: >- 
+          note: >-
             Thank you! Help us improve this page by
             using our <a href="https://github.com/vanderbilt-internal-medicine/vimbook/issues/new/?title=[Feedback]+{title}+-+{url}" target=_blank>feedback form</a>.
         - icon: material/emoticon-sad-outline
           name: This page could be improved
           data: 0
-          note: >- 
+          note: >-
             Thanks for your feedback! Help us improve this page by
             using our <a href="https://github.com/vanderbilt-internal-medicine/vimbook/issues/new/?title=[Feedback]+{title}+-+{url}" target=_blank>feedback form</a>.
   consent:
     title: Cookie consent
-    description: >- 
+    description: >-
       We use cookies to recognize your repeated visits and preferences, as well
       as to measure the effectiveness of our documentation and whether users
       find what they're searching for. With your consent, you're helping us to

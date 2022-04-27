@@ -1,5 +1,5 @@
 # Medical Oncology Resources
- 
+
 Medical Oncology Resources – Eric Lander
 
 VUMC Oncology Rotation Tips:

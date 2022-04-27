@@ -1,5 +1,5 @@
 # Mobility and In-Hospital Therapy
- 
+
 Add columns for “PT DC Recs” and “OT DC Recs” to see dispo plans on your
 EPIC list, and consult PT/OT early in hospitalization!
 

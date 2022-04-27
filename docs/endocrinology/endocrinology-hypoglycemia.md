@@ -1,5 +1,5 @@
 # Hypoglycemia
- 
+
 Hypoglycemia – Will Bassett
 
 Background

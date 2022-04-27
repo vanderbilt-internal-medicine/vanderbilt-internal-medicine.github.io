@@ -1,5 +1,5 @@
 # Consent
- 
+
 -   When printing Consents at VUMC, use MedEx (on the virtual
     machine/desktop)
 -   Ensure pt’s signature; Telephone consent requires second physician

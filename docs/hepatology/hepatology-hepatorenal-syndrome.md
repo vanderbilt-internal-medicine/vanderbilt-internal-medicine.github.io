@@ -1,5 +1,5 @@
 # Hepatorenal Syndrome
- 
+
 | 0                                                    |
 |------------------------------------------------------|
 | AKI & Hepatorenal Syndrome (HRS) – Garren Montgomery |

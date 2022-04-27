@@ -1,5 +1,5 @@
 # Shoulder Pain
- 
+
 Shoulder Pain – Joseph Nowatzke
 
 Background

@@ -1,5 +1,5 @@
 # RHC
- 
+
 Pulmonary artery catheters (PACs) are an invasive measurement of
 hemodynamic parameters within the heart using multiple lumens and a
 balloon tip to assist with placement
@@ -91,7 +91,7 @@ Complications of pulmonary artery catheters include:
 -   Pulmonary artery perforation
 -   Pulmonary infarction, Thromboembolism
 -   Infection, particularly endocarditis of the pulmonary valve
--   Venous air embolisms  
+-   Venous air embolisms
 
 Interpretation of PAC Values:
 

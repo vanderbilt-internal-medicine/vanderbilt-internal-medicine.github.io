@@ -1,5 +1,5 @@
 # "How to" on Discharges at VA
- 
+
 Complete the following steps *in this order* to ensure info will be
 accurately reflected on the DIPN.
 

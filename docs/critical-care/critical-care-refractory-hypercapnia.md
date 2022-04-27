@@ -1,5 +1,5 @@
 # Refractory Hypercapnia
- 
+
 | 0                                    |
 |--------------------------------------|
 | Refractory Hypercapnia – Amelia Muhs |
@@ -21,7 +21,7 @@ Background
     -   Hypoxemia
     -   Tachycardia, hypertension (in some cases)
 
-  
+
 
 Evaluation
 

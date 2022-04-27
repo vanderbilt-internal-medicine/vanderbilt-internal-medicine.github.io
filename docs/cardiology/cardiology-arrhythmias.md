@@ -1,5 +1,5 @@
 # Arrhythmias
- 
+
 Acute Management of Arrhythmias - Mark Sonderman
 
 -   Have RN prepare 12-lead EKG while walking to room, and place defib
@@ -84,9 +84,9 @@ Management
 -   Sinus tachycardia
     -   Address underlying causes: fever/sepsis, hypo/hypervolemia,
         anxiety, anemia, PE, ACS, hypoxia, pain, urinary retention,
-        withdrawal  
+        withdrawal
 -   Atrial Fibrillation/Flutter – See AFib section for complete
-    details  
+    details
 -   AVNRT/Orthodromic AVRT
     -   Vagal maneuvers are first line
         -   Pt sits upright, give pt 10cc syringe and have them blow
@@ -112,7 +112,7 @@ Management
                 à
                 3mg x1
                 à
-                6mg  
+                6mg
 -   Multifocal atrial tachycardia: irregularly irregular, <u>\></u> 3 p
     wave morphologies/PR intervals
     -   Seen in pulmonary and cardiac disease

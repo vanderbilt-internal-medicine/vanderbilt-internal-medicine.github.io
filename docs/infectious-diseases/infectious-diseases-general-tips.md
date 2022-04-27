@@ -1,5 +1,5 @@
 # General Tips
- 
+
 General tips
 
 -   Vanderbilt Antibiotics Stewardship Program (VASP) has a

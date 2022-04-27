@@ -1,5 +1,5 @@
 # Rationale
- 
+
 The aim of this handbook is to provide specific, systems-based guidance
 on practice at VUMC and the VA. We hope to provide readers with direct
 and actionable guidance, consolidating the combined wisdom of

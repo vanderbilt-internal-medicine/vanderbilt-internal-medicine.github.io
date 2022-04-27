@@ -1,5 +1,5 @@
 # Medications for Dying Patients
- 
+
 Medications for IMMINENTLY dying patients
 
 General recommendations:

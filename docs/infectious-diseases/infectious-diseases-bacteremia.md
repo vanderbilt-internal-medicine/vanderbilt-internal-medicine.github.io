@@ -1,10 +1,10 @@
 # Bacteremia
- 
+
 Bacteremia: Interpreting Verigene® Results – VASP
 
 Background
 
--   -   -   -   -   
+-   -   -   -   -
 
 -   When BCx turn positive, the lab reports Gm stain and Verigene®
     results to help guide empiric therapy, while awaiting further

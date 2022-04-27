@@ -1,5 +1,5 @@
 # Hepatocellular Carcinoma
- 
+
 | 0                                          |
 |--------------------------------------------|
 | Hepatocellular Carcinoma (HCC) – Julie Cui |
@@ -40,7 +40,7 @@ Evaluation
 | LR-5         | Definitely HCC             | Plan treatment as noted below                                                  |
 | LR-M         | Cancer but may not be HCC  | NaN                                                                            |
 
-  
+
 
 Management
 

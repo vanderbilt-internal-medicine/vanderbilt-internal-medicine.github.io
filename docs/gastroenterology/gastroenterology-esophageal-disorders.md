@@ -1,17 +1,17 @@
 # Esophageal Disorders
- 
+
 Esophageal Disorders – Caroline Barrett
 
 Dysphagia
 
--   
+-
 
 -   Oropharyngeal dysphagia = difficulty initiating a swallow
 
 -   -   Associated with coughing, choking, nasopharyngeal regurgitation,
         and aspiration
 
--   
+-
 
 -   Causes: Structural (Zenker’s diverticula, malignancy, goiter,
     stricture, radiation injury, infection), Neuromuscular (stroke,
@@ -23,7 +23,7 @@ Dysphagia
         including oral secretions
     -   Most common foreign body = food in esophagus
 
--   
+-
 
 -   Dysphagia
     to solids = mechanical obstruction
@@ -33,7 +33,7 @@ Dysphagia
     -   Intermittent: esophageal ring/web, eosinophilic esophagitis
         (particularly in young pts)
 
--   
+-
 
 -   Dysphagia
     to solids and liquids = motility disorder
@@ -43,7 +43,7 @@ Dysphagia
 
 Evaluation
 
--   
+-
 -   If oropharyngeal dysphagia: videofluoroscopic modified barium
     swallow and fiberoptic endoscopic evaluation of swallowing (FEES)
 -   When to order barium esophagram:
@@ -60,7 +60,7 @@ Evaluation
 
 Management
 
--   
+-
 -   Food impaction: IV glucagon to relax lower esophageal sphincter to
     allow food passage
     -   Otherwise, requires urgent upper endoscopy for removal
@@ -68,7 +68,7 @@ Management
 
 Odynophagia
 
--   
+-
 -   Pain with swallowing
 -   Associated with esophagitis
 
@@ -76,7 +76,7 @@ PIECE
 
 mnemonic for esophagitis:
 
--   
+-
 
 -   P
     ill-induced: NSAIDs, ART, KCl, doxycycline, bisphosphonates
@@ -84,7 +84,7 @@ mnemonic for esophagitis:
         prevent by taking culprit meds w/ 8oz water and sit upright for
         30 mins after
 
--   
+-
 
 -   I
     nfectious: usually in immunosuppressed pts
@@ -119,14 +119,14 @@ mnemonic for esophagitis:
         (several days) following esophageal radiofrequency ablation for
         Barrett’s.
 
--   -   
+-   -
     -   G **E** RD (see below)
 
 GERD
 
 Background
 
--   
+-
 -   Condition that develops when reflux of stomach contents causes sxs
     and/or complications
 -   Classified base on appearance of esophageal mucosa on EGD
@@ -137,7 +137,7 @@ Background
 
 Presentation
 
--   
+-
 -   Esophageal symptoms: heartburn, regurgitation, chest pain,
     dysphagia, globus sensation, odynophagia
     -   Extra-esophageal symptoms: cough, hoarseness
@@ -146,7 +146,7 @@ Presentation
 
 Evaluation
 
--   
+-
 
 -   Dx can often be made clinically in pts with classic heartburn and/or
     regurgitation
@@ -169,7 +169,7 @@ Evaluation
 
 Management
 
--   
+-
 -   Lifestyle and dietary modifications in all pts (weight loss; elevate
     HOB; avoid precipitants such as fatty foods, caffeine, alcohol,
     spicy foods, large meals, late night meals)
@@ -230,7 +230,7 @@ Background
 
 Evaluation
 
--   
+-
 
 -   Diagnostic criteria
 
@@ -246,7 +246,7 @@ Evaluation
 
 Management
 
--   
+-
 -   Standard dose PPI for 8 weeks +/- elimination diet
     
     if still symptomatic after 4 weeks, increase PPI to BID

@@ -1,5 +1,5 @@
 # Blood Gases
- 
+
 | 0                                  |
 |------------------------------------|
 | Basics of Blood Gases – Lexi Haugh |
@@ -65,7 +65,7 @@ Assessing Acid/Base Status and Ventilation:
 -   Is the primary disorder acute vs. chronic?
 -   Is the primary disorder appropriately compensated?
 -   If not appropriately compensated, what additional process is
-    present?  
+    present?
 
 Primary Respiratory Acidosis:
 
@@ -91,7 +91,7 @@ Primary Respiratory Acidosis:
     additional metabolic alkalosis
 -   If HCO3 lower than expected
     à
-    additional metabolic acidosis  
+    additional metabolic acidosis
 
 Primary Respiratory Alkalosis
 
@@ -112,7 +112,7 @@ Primary Respiratory Alkalosis
     additional metabolic alkalosis
 -   If HCO3 lower than expected
     à
-    additional metabolic acidosis  
+    additional metabolic acidosis
 
 | 0       | 1                                            | 2                                          |
 |---------|----------------------------------------------|--------------------------------------------|
@@ -139,7 +139,7 @@ Primary Metabolic Alkalosis
     administration/ volume resuscitation as already likely volume
     overloaded
     -   -   Etiologies: Steroids, Cushing’s, Conn’s, RAS, CHF, cirrhosis
-        -   Urine Cl >20.  
+        -   Urine Cl >20.
 
 Primary Metabolic Acidosis
 

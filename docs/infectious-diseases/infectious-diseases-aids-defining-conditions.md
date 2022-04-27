@@ -1,5 +1,5 @@
 # AIDS Defining Conditions
- 
+
 AIDS Defining Clinical Conditions – Rebecca Choudhury
 
 AIDS is defined by HIV infection with concurrent absolute CD4 count
@@ -10,7 +10,7 @@ Neurologic
 
 /Ophthalmologic
 
--   -   -   -   -   
+-   -   -   -   -
 
 CNS
 
@@ -29,7 +29,7 @@ toxoplasmosis
 
 <!-- -->
 
--   -   -   -   -   
+-   -   -   -   -
 
 Progressive multifocal leukoencephalopathy (PML)
 
@@ -46,7 +46,7 @@ Progressive multifocal leukoencephalopathy (PML)
 
 <!-- -->
 
--   -   -   -   -   
+-   -   -   -   -
 
 HIV-related encephalopathy
 
@@ -61,7 +61,7 @@ HIV-related encephalopathy
 
 <!-- -->
 
--   -   -   -   -   
+-   -   -   -   -
 
 Cryptococcal meningitis
 
@@ -81,7 +81,7 @@ Cryptococcal meningitis
 
 <!-- -->
 
--   -   -   -   -   
+-   -   -   -   -
 
 CMV retinitis (with vision loss)
 
@@ -98,7 +98,7 @@ CMV retinitis (with vision loss)
 
 Pulmonary
 
--   -   -   -   -   
+-   -   -   -   -
 
 Pneumocystis jirovecii pneumonia (PJP)
 
@@ -120,7 +120,7 @@ Pneumocystis jirovecii pneumonia (PJP)
 
 <!-- -->
 
--   -   -   -   -   
+-   -   -   -   -
 
 Pulmonary tuberculosis
 
@@ -139,7 +139,7 @@ Pulmonary tuberculosis
 
 <!-- -->
 
--   -   -   -   -   
+-   -   -   -   -
 
 Herpes simplex tracheobronchitis and/or pneumonitis/pneumonia
 
@@ -152,7 +152,7 @@ Herpes simplex tracheobronchitis and/or pneumonitis/pneumonia
 
 <!-- -->
 
--   -   -   -   -   
+-   -   -   -   -
 
 Recurrent pneumonia NOS
 
@@ -163,7 +163,7 @@ severely immunosuppressed states are at higher risk.
 
 Gastrointestinal
 
--   -   -   -   -   
+-   -   -   -   -
 
 Esophageal candidiasis
 
@@ -178,7 +178,7 @@ Esophageal candidiasis
 
 <!-- -->
 
--   -   -   -   -   
+-   -   -   -   -
 
 Herpes simplex esophagitis
 
@@ -191,7 +191,7 @@ Herpes simplex esophagitis
 
 <!-- -->
 
--   -   -   -   -   
+-   -   -   -   -
 
 CMV esophagitis/enteritis/colitis
 
@@ -204,7 +204,7 @@ CMV esophagitis/enteritis/colitis
 
 <!-- -->
 
--   -   -   -   -   
+-   -   -   -   -
 
 Chronic (>1 mo) intestinal isosporiasis
 
@@ -213,7 +213,7 @@ Chronic (>1 mo) intestinal isosporiasis
     shedding. Oocysts may also be seen on duodenal biopsy.
 -   Management: Bactrim; pyrimethamine + leucovorin if Bactrim is
     contraindicated
-    -   
+    -
 
 Chronic intestinal cryptosporidiosis
 
@@ -226,7 +226,7 @@ Chronic intestinal cryptosporidiosis
 
 <!-- -->
 
--   -   -   -   -   
+-   -   -   -   -
 
 Recurrent salmonella septicemia
 
@@ -236,12 +236,12 @@ Recurrent salmonella septicemia
 
 Neoplastic
 
--   -   -   -   -   
+-   -   -   -   -
 
 Non-Hodgkin’s lymphoma - Burkitt’s, immunoblastic (subset of DLBCL), and
 1º CNS
 
--   -   -   -   -   
+-   -   -   -   -
 
 Kaposi’s sarcoma
 
@@ -261,7 +261,7 @@ Kaposi’s sarcoma
 
 <!-- -->
 
--   -   -   -   -   
+-   -   -   -   -
 
 Cervical cancer
 
@@ -271,7 +271,7 @@ Cervical cancer
 
 Multisystem/Miscellaneous
 
--   -   -   -   -   
+-   -   -   -   -
 
 Extrapulmonary or disseminated Mycobacterial infection (TB and non-TB)
 
@@ -292,7 +292,7 @@ Extrapulmonary or disseminated Mycobacterial infection (TB and non-TB)
 
 <!-- -->
 
--   -   -   -   -   
+-   -   -   -   -
 
 Extrapulmonary or disseminated Histoplasmosis, Cryptococcocosis, and
 Coccidiodomycosis
@@ -306,7 +306,7 @@ Coccidiodomycosis
 
 <!-- -->
 
--   -   -   -   -   
+-   -   -   -   -
 
 Chronic mucocutaneous HSV
 

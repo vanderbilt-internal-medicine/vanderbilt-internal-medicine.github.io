@@ -1,5 +1,5 @@
 # Wide Complex Tachycardias
- 
+
 Wide Complex Tachycardias & Ventricular Arrhythmias - Joseph Quintana
 
 B
@@ -114,7 +114,7 @@ Work Up
     -   Labs: K and Mg, TSH, drug screen
     -   Evaluate Burden on Tele
     -   Evaluate for QT prolonging agents: Longer QT // risk of
-        Torsades  
+        Torsades
 -   Outpatient Evaluation:
     -   12 Lead EKG
     -   Labs: BMP, CBC, TSH, Drug screen, BNP if c/f congestion, Dig

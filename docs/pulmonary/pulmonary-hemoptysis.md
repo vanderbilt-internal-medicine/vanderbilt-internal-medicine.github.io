@@ -1,5 +1,5 @@
 # Hemoptysis
- 
+
 | 0                        |
 |--------------------------|
 | Hemoptysis – Henry Brems |
@@ -35,7 +35,7 @@ Evaluation
 -   Imaging: CXR first (to evaluate etiology and to localize the source
     to a side). May likely require Chest CT pending prior workup,
     severity of bleed, and stability of patient
--   Bronchoscopy is sometimes indicated to localize bleeding source  
+-   Bronchoscopy is sometimes indicated to localize bleeding source
 
 Management
 

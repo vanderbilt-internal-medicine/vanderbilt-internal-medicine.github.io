@@ -1,5 +1,5 @@
 # ILD
- 
+
 | 0                                          |
 |--------------------------------------------|
 | Interstitial Lung Disease – Gaby Schroeder |
@@ -55,7 +55,7 @@ Evaluation
     -   If risk factors present: Sputum AFB, Hypersensitivity Panel
 -   PFTs, 6-minute walk test
 -   Bronchoscopy: BAL (Cell counts, cultures, cytology) + Tissue Biopsy
-    (Transbronchial vs. Cryobiopsy vs. surgical/VATS)  
+    (Transbronchial vs. Cryobiopsy vs. surgical/VATS)
 
 Management
 

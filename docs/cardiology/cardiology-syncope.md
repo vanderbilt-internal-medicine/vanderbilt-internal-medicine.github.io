@@ -1,5 +1,5 @@
 # Syncope
- 
+
 Syncope – Eric Hall
 
 Background
@@ -10,7 +10,7 @@ Background
 
 -   Pathogenesis:
 
--   -   -   
+-   -   -
 
     -   Reflex/vasovagal \~20-60%: identifiable triggers such as
         shaving, straining/pooping, usually in older patients

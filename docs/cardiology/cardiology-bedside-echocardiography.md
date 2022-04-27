@@ -1,5 +1,5 @@
 # Bedside Echocardiography
- 
+
 Bedside Echocardiography – Jamie Pfaff
 
 Finding an Ultrasound
@@ -32,7 +32,7 @@ Quick EF estimation
 distance separating the anterior MV leaflet from the septal wall as
 measure of LV systolic function
 
--   -   
+-   -
 
 -   Place M mode spike at tip of mitral leaflet and hit M mode
     (perpendicular to septum)

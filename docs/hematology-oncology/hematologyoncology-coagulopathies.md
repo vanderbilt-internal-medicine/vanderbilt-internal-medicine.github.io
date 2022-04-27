@@ -1,5 +1,5 @@
 # Coagulopathies
- 
+
 Coagulopathies – Jason Jones
 
 -   If you have a pt with pathological bleeding, first determine
@@ -25,7 +25,7 @@ Deficiency)
     : purified/recombinant Factor VIII or IX. Desmopressin for mild
     disease
 -   If you have patient with hemophilia who needs a procedure/surgery or
-    is acutely ill, this requires consult to benign hematology  
+    is acutely ill, this requires consult to benign hematology
 
 von Willebrand Disease (vWD)
 

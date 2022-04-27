@@ -1,5 +1,5 @@
 # DVTs
- 
+
 Deep Vein Thromboses – Trey Richardson
 
 -   Background:

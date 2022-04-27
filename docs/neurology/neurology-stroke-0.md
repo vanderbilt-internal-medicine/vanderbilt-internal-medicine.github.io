@@ -1,5 +1,5 @@
 # Stroke
- 
+
 Background
 
 -   Former, nonpreferred term: **cerebrovascular accident**

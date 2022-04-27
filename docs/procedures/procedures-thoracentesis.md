@@ -1,5 +1,5 @@
 # Thoracentesis
- 
+
 Video Guide:
 
 https://www.youtube.com/watch?v=ivTyH09BcHg

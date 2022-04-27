@@ -1,5 +1,5 @@
 # Hypothyroidism
- 
+
 Hypothyroidism – Griffin Bullock
 
 Background

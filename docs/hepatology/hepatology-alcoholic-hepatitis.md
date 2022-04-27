@@ -1,5 +1,5 @@
 # Alcoholic Hepatitis
- 
+
 | 0                                           |
 |---------------------------------------------|
 | Alcoholic Hepatitis – Alex Wiles, Julie Cui |
@@ -9,7 +9,7 @@ Background
 -   Acute onset of rapidly progressive jaundice in pt with heavy EtOH
     intake (>40g in females or >60g in males EtOH/day for >6 mos, or
     within \<60 days of abstinence).
-    -   -   
+    -   -
 
     -   May present after they have quit drinking due to
         immunosuppressive effects of alcohol.
@@ -36,7 +36,7 @@ Evaluation
         up to 12 days. Can be elevated for months with regular heavy
         alcohol intake.
     -   In some studies, 99% sensitive and specific for alcoholism.
-    -   EtOH levels may be negative unless acutely intoxicated  
+    -   EtOH levels may be negative unless acutely intoxicated
 
 Management
 

@@ -1,5 +1,5 @@
 # Valvular Heart Disease
- 
+
 Valvular Heart Disease – Benjamin Palmer
 
 Background

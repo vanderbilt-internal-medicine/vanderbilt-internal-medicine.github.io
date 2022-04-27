@@ -1,5 +1,5 @@
 # Lines and Catheters
- 
+
 Foley Catheter
 
 -   Chronic Foleys generally should be exchanged at time of admission

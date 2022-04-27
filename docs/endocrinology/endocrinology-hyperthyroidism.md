@@ -1,5 +1,5 @@
 # Hyperthyroidism
- 
+
 Hyperthyroidism – Griffin Bullock
 
 Background

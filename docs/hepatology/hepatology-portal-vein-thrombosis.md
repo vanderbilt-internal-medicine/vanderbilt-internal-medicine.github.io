@@ -1,5 +1,5 @@
 # Portal Vein Thrombosis
- 
+
 | 0                                              |
 |------------------------------------------------|
 | Portal Vein Thrombosis (PVT) – John Laurenzano |
@@ -25,7 +25,7 @@ Presentation
 
 Evaluation
 
--   
+-
 -   Initial: RUQ with doppler
 -   Once identified, should be further assessed with ctriple phase CT or
     MRI w/Gadovist contrast to exclude HCC w/tumor thrombus (excludes

@@ -1,5 +1,5 @@
 # Liver Transplantation
- 
+
 | 0                                              |
 |------------------------------------------------|
 | Liver Transplant Workup – Lauren Evers Carlini |
@@ -42,7 +42,7 @@ for LT*
 
 Evaluation (ask upper level or fellow for detailed document)
 
--   -   -   
+-   -   -
 
 -   Determine cause of cirrhosis or acute liver failure, if not done
     already

@@ -1,5 +1,5 @@
 # Inpatient Insomnia
- 
+
 Inpatient Insomnia – Julian Raffoul, Jose Alberto Arriola Vigo
 
 Background

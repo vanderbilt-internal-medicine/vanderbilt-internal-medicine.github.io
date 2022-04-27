@@ -1,5 +1,5 @@
 # Acute Asthma Exacerbation
- 
+
 Acute Asthma Exacerbation – Stacy Blank
 
 Background
@@ -33,7 +33,7 @@ Evaluation
         hyperventilating; a normal CO2 in a severe asthma exacerbation
         could indicate impending respiratory failure)
     -   Altered mental status
-    -   Requiring continuous nebulizers  
+    -   Requiring continuous nebulizers
 
 Management
 

@@ -1,5 +1,5 @@
 # Medication Pearls
- 
+
 | 0                                      |
 |----------------------------------------|
 | Cross Cover Pearls – Garren Montgomery |

@@ -1,5 +1,5 @@
 # Acute Diverticulitis
- 
+
 Acute Diverticulitis – Michael Koenig
 
 Background
@@ -73,7 +73,7 @@ Complications:
             -   Most
                 treated with IV abx and bowel rest similar to
                 uncomplicated diverticulitis
-                -   
+                -
 
     -   Frank perforation:
         -   I
