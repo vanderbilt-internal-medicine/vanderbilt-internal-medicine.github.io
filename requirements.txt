@@ -1,4 +1,5 @@
 black
+isort
 mdx-spanner
 mkdocs-autolinks-plugin
 mkdocs-awesome-pages-plugin

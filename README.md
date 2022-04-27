@@ -1,11 +1,14 @@
+
+[![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
+
 # neovimbook
 
-This repository has the contents of the 2021-2022 Vanderbilt Internal Medicine Handbook,
-scraped from the website, so I can have working search and experiment with different rendering engines.
-
-Below are some notes for my own use.
+This repository has the contents of the Vanderbilt Internal Medicine Handbook.
 
 
+
+
+---
 
 # VA notes
 
