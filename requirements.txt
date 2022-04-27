@@ -1,6 +1,6 @@
 black
 isort
-mdx-spanner
+mdx_spanner
 mkdocs-autolinks-plugin
 mkdocs-awesome-pages-plugin
 mkdocs-git-revision-date-localized-plugin
