@@ -9,4 +9,6 @@ Handbook to the memory of Dr. Michael Fowler, whose compassion,
 sincerity, and commitment to education continue to guide and inspire
 us. 
 
-![QR code for vimbook.org](images/qr.svg)
+
+![QR code for vimbook.org](images/qr-light.svg#only-light){ width="300" }
+![QR code for vimbook.org](images/qr-dark.svg#only-dark){ width="300" }
