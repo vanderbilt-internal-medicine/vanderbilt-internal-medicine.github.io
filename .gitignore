@@ -2,5 +2,6 @@
 # ignore all html files except:
 !**/main.html
 !**/mathjax_header.html
+*.docx
 .venv
 .DS_Store
