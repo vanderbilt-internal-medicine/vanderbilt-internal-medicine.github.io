@@ -9,7 +9,7 @@ repos:
     # -   id: check-yaml
     -   id: check-json
     -   id: check-added-large-files
-        args: ['--maxkb=1053']
+        args: ['--maxkb=5000']
     -   id: requirements-txt-fixer
     -   id: file-contents-sorter
         files: 'dict.txt'

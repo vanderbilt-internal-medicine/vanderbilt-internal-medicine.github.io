@@ -1,50 +1,38 @@
 # Chest Pain
 
-Approach to Chest Pain - Nick King
+Nicholas King
 
-Typical Chest Pain / Angina
+## Chest Pain / Angina Framework
 
--   Substernal Chest pain which is provoked by exertion/stress, relieved
-    by rest or nitro
+-   Determining likelihood that chest pain has a cardiac etiology
+    depends on symptoms and lies on a spectrum
 
-<!-- -->
+-   Cardiac \> possible cardiac \> noncardiac is more useful than
+    typical vs atypical angina
 
--   -   Typical = 3/3
-    -   Atypical = 2/3
-    -   Non-cardiac = 0/3
+## Diagnoses Not to Miss: “The Serious Six”
 
-<!-- -->
+- Acute Coronary Syndrome
+- Mediastinitis (e.g, esophageal perforation)
+- Aortic Dissection/Aneurysm
+- Cardiac Tamponade
+- Pulmonary Embolus
+- Pneumothorax
 
--   Be cautious in women and diabetics who may have atypical
-    presentations of ACS
+## Other Differential Diagnoses
 
-Diagnoses Not to Miss “The Serious Six”
-
--   Acute Coronary Syndrome
--   Aortic
-    Dissection
-    /Aneurysm
--   Pulmonary Embolus
--   Pneumothorax
--   Cardiac Tamponade
--   Mediastinitis (e.g, Esophageal Perforation or Rupture - Boerhaave’s
-    Syndrome)
-
-Other Differential Diagnoses
-
--   Skin
-    : Laceration, Herpes Zoster
--   Subcutaneous: Cellulitis, Abscess
+-   Skin: Laceration, herpes zoster
+-   Subcutaneous: cellulitis, abscess
 -   Musculoskeletal: Costochondritis, fracture, myositis, sprain/strain
 -   Pleural space (no pain receptors in the lung): PNA, tumor, pleuritis
 -   Pericardium: Pericarditis
 -   Heart: Myocarditis, spontaneous coronary artery dissection (SCAD),
     coronary vasospasm, aortic stenosis, stress-induced cardiomyopathy
     (Takotsubo), decompensated heart failure
--   Esophagus: GERD, Esophagitis
--   Trachea: Tracheitis, Tracheal Tear
+-   Esophagus: GERD, esophagitis
+-   Trachea: Tracheitis, tracheal tear
 
-Physical Exam
+## Physical Exam
 
 -   Vitals: BP in both arms (do while interviewing - quick, easy,
     inexpensive)
@@ -56,43 +44,105 @@ Physical Exam
 -   Pulm: absent breath sounds for PTX, crackles for left heart failure,
     PNA
 -   Abdomen: abdominal pain mistaken or referred as chest pain
--   Extremities: asymmetric leg swelling (>2 cm difference) for DVT/PE
+-   Extremities: asymmetric leg swelling (\>2 cm difference) for DVT/PE
 
-Diagnostic Studies
+## Diagnostic Studies
 
--   EKG
-    –ACS (STEMI, new LBBB, NSTEMI, Wellen’s sign), pericarditis,
-    pericardial effusion
--   Troponin
-    – ACS, PE (w/ R heart strain), myocarditis
--   CXR
-    – PTX, PNA, dissection, esophageal rupture
--   Bedside Ultrasound
-    – pericardial effusion, R heart strain for PE, wall motion
-    abnormality for infarct/ischemia or stress-induced CM, valvular
-    disease, lung sliding/PTX
--   CT-A
-    – gold standard for PE (consider V/Q if unable to obtain and
-    otherwise healthy lungs); Dissection can be diagnosed w/ CT-A, MR-A,
+-   EKG: ACS (STEMI, new LBBB, ST depressions, T wave Inversions,
+    Wellens' sign), pericarditis, pericardial effusion
+-   Labs: Troponin (ACS, PE, myocarditis), CBC, BNP, lactate
+-   CXR: PTX, PNA, dissection, esophageal rupture
+-   Bedside ultrasound: pericardial effusion, R heart strain for PE,
+    wall motion abnormality for infarct/ischemia or stress-induced CM,
+    valvular disease, lung sliding/PTX
+-   CTA: gold standard for PE. Dissection can be diagnosed w/ CTA, MRA,
     or TEE
--   Additional Labs:
-    CBC/BNP/lactate/ABG or VBG
 
-| 0                               | 1                                                                                                                                                                   | 2                                                                                  | 3                                                                             | 4                                                                                                                                                                              |
-|---------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Evaluation for Coronary disease | Evaluation for Coronary disease                                                                                                                                     | Evaluation for Coronary disease                                                    | Evaluation for Coronary disease                                               | Evaluation for Coronary disease                                                                                                                                                |
-| Test                            | Indications                                                                                                                                                         | Benefits                                                                           | Risks                                                                         | Considerations                                                                                                                                                                 |
-| EKG Stress                      | Intermediate or low risk Screening with high NPV                                                                                                                    | Functional status w/ Bruce treadmill protocol                                      | Exercise tolerance limits use                                                 | Cannot have LBBB Nondiagnostic if 85% target HR not achieved                                                                                                                   |
-| Echo Stress                     | Intermediate or low risk Screening with high NPV                                                                                                                    | More sensitive than EKG Detects prior infarcts (fixed WMAs) Evaluates hemodynamics | Dobutamine contraindicated in active ACS, arrhythmias, LVOT obstruct, HTN, AS | Can be useful to eval low grade low flow AS Hold BB                                                                                                                            |
-| SPECT stress                    | Intermediate or low risk Screening with high NPV                                                                                                                    | Better PPV than Echo Assess viability                                              | Adenosine or Regadenason contraindicated in reactive airway disease           | No caffeine or theophylline prior                                                                                                                                              |
-| PET stress                      | Intermediate or low risk Screening with high NPV                                                                                                                    | Better PPV than Echo Assess viability                                              | Better for pts with larger abdominal girth, less diaphragmatic attenuation    | Better for pts with larger abdominal girth, less diaphragmatic attenuation                                                                                                     |
-| Cardiac MRI                     | Intermediate or low risk Screening with high NPV                                                                                                                    | Assesses viability                                                                 | Can assess nonischemic vs ischemic cardiomyopathy; HR must be \< 70           | Can assess nonischemic vs ischemic cardiomyopathy; HR must be \< 70                                                                                                            |
-| Coronary CT                     | Intermediate or low risk Screening with high NPV                                                                                                                    | Very high NPV for stenosis that can be done in ED                                  | Contrast media reactions CIN lower risk than cath                             | Might have poor lumen if heavy calcium burden HR \< 70                                                                                                                         |
-| Coronary Angiogram              | Diagnostic and Therapeutic High Cardiac Risk STEMI ACS + cardiogenic shock or new HF High risk NSTEMI: Refractory angina, new arrhythmia ↑ troponin on medical mgmt | Direct visualization of lumen Therapeutic PCI                                      | CIN with contrast Cath site complications Rare: SCAD, cholesterol emboli      | First line evaluation of stable in angina with pts w/HF or new HF Positive test often Radial access preferred Case request cath lab NPO MN prior Groin check if femoral access |
-
-Additional Information
-
--   VA
-    -specific point: a pt with chest pain + positive troponin is
-    admitted to the CCU, so make sure to talk to the ED Attending/NOD
-    prior to admitting a pt like this to the floor
+<table>
+<colgroup>
+<col style="width: 16%" />
+<col style="width: 19%" />
+<col style="width: 19%" />
+<col style="width: 20%" />
+<col style="width: 23%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th colspan="5"><br />
+Evaluation for Coronary Disease</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Test</td>
+<td>Indications</td>
+<td>Benefits</td>
+<td>Risks</td>
+<td>Considerations</td>
+</tr>
+<tr class="even">
+<td>EKG Stress</td>
+<td rowspan="6"><p>Low to Intermediate risk patients</p>
+<p><em>Do not stress active or suspected ACS</em></p>
+<p>Serves as screening with high NPV</p></td>
+<td>Functional status w/ Bruce treadmill protocol</td>
+<td><p>Exercise tolerance</p>
+<p>limits use</p></td>
+<td><p>Cannot have LBBB,</p>
+<p>nondiagnostic if 85% target HR not achieved</p></td>
+</tr>
+<tr class="odd">
+<td>Dobutamine Echo Stress</td>
+<td>More sensitive than EKG</td>
+<td>Contraindicated: arrhythmias, LVOT obstruction, HTN, AS</td>
+<td><p>Can be useful to eval low grade low flow AS</p>
+<p>Hold BB</p></td>
+</tr>
+<tr class="even">
+<td>SPECT stress</td>
+<td><p>More sensitive than echo,</p>
+<p>Assess viability</p></td>
+<td>Adenosine or Regadenason contraindicated in reactive airway
+disease</td>
+<td>No caffeine or theophylline prior</td>
+</tr>
+<tr class="odd">
+<td>PET stress</td>
+<td><p>Better PPV than Echo</p>
+<p>Assess viability</p></td>
+<td colspan="2">Better for pts with larger abdominal girth (less
+diaphragmatic attenuation)</td>
+</tr>
+<tr class="even">
+<td>Cardiac MRI</td>
+<td>Assesses viability</td>
+<td colspan="2">Can assess nonischemic vs ischemic cardiomyopathy; HR
+must be &lt; 70, gold standard for structure and function</td>
+</tr>
+<tr class="odd">
+<td>Coronary CT</td>
+<td>Very high NPV for stenosis</td>
+<td><p>Contrast media reactions</p>
+<p>CIN lower risk than cath</p></td>
+<td><p>Might have poor lumen visualization if heavy calcium burden</p>
+<p>HR &lt; 70</p></td>
+</tr>
+<tr class="even">
+<td>Coronary Angiogram</td>
+<td><p>STEMI</p>
+<p>High risk NSTEMI:</p>
+<p>Refractory angina, new arrhythmia, cardiogenic shock (HF)</p>
+<p>Suspected true ACS</p>
+<p>Diagnostic and Therapeutic</p></td>
+<td><p>Direct visualization of lumen</p>
+<p>Therapeutic PCI</p></td>
+<td><p>CIN with contrast</p>
+<p>Cath site complications</p>
+<p>Rare: SCAD, cholesterol emboli</p></td>
+<td><p>Positive Screen (above) necessitates LHC</p>
+<p>Case request cath lab</p>
+<p>NPO MN prior</p>
+<p>Groin check if femoral access</p></td>
+</tr>
+</tbody>
+</table>

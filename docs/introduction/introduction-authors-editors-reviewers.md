@@ -1,193 +1,103 @@
-# Authors, Editors, & Reviewers
+# Editors, Authors, and Reviewers
 
-Editors-in-Chief
+---
 
-Leah Brown, MD & Joseph A. Quintana, MD
+# Editors-in-Chief
 
-Resident Editors
+Soibhan Kelley, MD & Jennifer Marvin-Peek, MD
 
-Cardiology
+---
 
-: Nicholas Pietrini, MD
+# Resident Editors
 
-Pulmonary
+Cardiology: Nicholas King, MD 
 
-: Andrea Davis, MD
+Critical Care: Raymond Dieter, MD
 
-Critical Care
+Endocrinology: Kinsley Ojukwu, MD 
 
-:  Matthew Stier, MD PhD
+Gastroenterology: Taylor Riggs, MD 
 
-Gastroenterology
+Geriatrics: Thomas Horton, MD 
 
-: Michael Koenig, MD
+Hematology/Oncology: Michael LaPelusa, MD
 
-Hepatology
+Hepatology: Julie Cui, MD 
 
-: John Laurenzano, MD
+Hospital Medicine: Soibhan Kelley, MD
 
-Infectious Diseases
+Infectious Diseases: Kaitlyn Reasoner, MD
 
-:
+Nephrology: Trey Richardson, MD
 
-Rachael Pellegrino, MD
+Neurology: Hunter Hewitt, MD
 
-Nephrology:
+Ophthalmology: Jonathan Barnett, MD
 
-Amanda Morrison, MD
+Outpatient Medicine: Christina Snider, MD
 
-and Trevor Stevens, MD
+Palliative Care: Eli Cohen, MD
 
-Hematology/Oncology
+Physical Medicine & Rehabilitation: 
+Jakob Dovgan, MD,
+Douglas Bryant, MD,
+William Galbraith, DO,
+and Nicholas Abramson, MD
 
-: Robert Grad, MD
+Procedures: Katherine Heckman, MD 
 
-and Kelly Pugh, MD
+Psychiatry: Soibhan Kelley, MD
 
-Endocrinology
+Pulmonary: Taryn Boyle, MD
 
-: Neil Phillips, MD
+Radiology: Janesh Lakhoo, MD, MS
 
-Rheumatology
+Rheumatology: Raeann Whitney, MD  
 
-: Katherine Yates, MD
+Toxicology: Jennifer Marvin-Peek, MD
 
-Palliative Care
+---
 
-: Kathryn Sunthankar, MD
+# Faculty Reviewers
 
-Geriatrics
+Cardiology:  David Meoli, MD PhD 
 
-: Shobana Ramasamy, MD
+Critical Care: Todd Rice, MD
 
-Hospital Medicine
+Endocrinology: Laura Heller, MD
 
-: Ahmad Dbouk, MD
+Gastroenterology: Patrick Yachimski, MD 
 
-and Samuel Lazaroff, MD
+Geriatrics: Mariu Duggan, MD, MPH
 
-Outpatient Medicine
+Hematology/Oncology: Rajiv Agarwal, MD and Benjamin Tillman, MD
 
-: Babatunde Carew, MD
+Hepatology: Manhal J. Izzy, MD
 
-and Katrina White, MD MPH
+Hospital Medicine: Chase J. Webber, DO
 
-Neurology
+Infectious Diseases: Milner Staub, MD, MPH and Sean Kelly, MD
 
-: Graham Mitro, MD
+Nephrology: JP Arroyo, MD PhD, Edward Gould, MD, and Beatrice Concepcion, MD
 
-Physical Medicine & Rehabilitation:
+Neurology: Christopher Lee, MD
 
-James Gardner, MD
+Ophthalmology: John Bond, MD
 
-Procedures
+Outpatient: Jennifer K. Green, MD, MPH
 
-: Joseph Nowatzke, MD
+Palliative Care: Mohana Karlekar, MD
 
-Psychiatry
+Physical Medicine & Rehabilitation: C. J. Plummer, MD
 
-: Barrington Hwang, MD
+Procedures: Garren Montgomery, MD
 
-Radiology
+Psychiatry: Jonathan Smith, MD and Jose Arriola Vigo MD, MPH
 
-: Ryan Adams, MD
+Pulmonary: Meredith Pugh, MD
 
-Faculty Reviewers
+Radiology: Virginia Planz, MD
 
-Cardiology
+Rheumatology: Kevin Byram, MD
 
-:  David Meoli, MD, PhD
-
-Pulmonary
-
-: Meredith Pugh, MD
-
-Critical Care
-
-: Todd Rice, MD, Wes Ely, MD
-
-and Joanna Stollings PharmD
-
-Toxicology
-
-:
-
-Rebecca E. Bruccoleri, MD;
-
-Donna Seger, MD, and Nena Bowman, PharmD
-
-Gastroenterology
-
-: Patrick Yachimski, MD
-
-Hepatology
-
-: Manhal J. Izzy, MD
-
-Infectious Diseases
-
-: Milner Staub, MD, MPH
-
-Sean Kelly, MD
-
-Nephrology:
-
-Juan Pablo Arroyo, MD, PhD,
-
-Edward Gould, MD, Beatrice Concepcion, MD
-
-Hematology/Oncology
-
-:  Michael Neuss, MD
-
-and Benjamin Tillman, MD
-
-Endocrinology
-
-: Michelle L. Griffith, MD
-
-Rheumatology
-
-: Kevin Byram, MD
-
-Geriatrics
-
-: Mariu Duggan, MD, Kristin Hines, MD, Hannah Stewart, DO
-
-Palliative Care:
-
-Mohana Karlekar, MD
-
-Hospital Medicine:
-
-Chase J Webber, DO
-
-Outpatient
-
-: Jennifer K. Green, MD, MPH
-
-Neurology
-
-: Christopher Lee, MD
-
-Physical Medicine & Rehabilitation
-
-:
-
-Bart Huddleston, MD
-
-Procedures
-
-: Tyson Heller, MD
-
-Psychiatry
-
-: Jonathan Smith, MD
-
-and Jose Arriola Vigo MD, MPH
-
-Radiology
-
-: Virginia Planz, MD; Geoff Wile, MD; and Ryan Muller, MD
-
-####
+Toxicology:  Rebecca E. Bruccoleri, MD and Saralyn R. Williams, MD
