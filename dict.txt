@@ -49106,6 +49106,7 @@ inagglutinable
 inal
 inalimental
 inam
+iname
 inamrinone
 inanimate
 inanition
@@ -68379,6 +68380,7 @@ pandemic
 pandemicity
 Pander's
 Pandiculation
+pandoc
 panduriform
 panel
 Panencephalitis

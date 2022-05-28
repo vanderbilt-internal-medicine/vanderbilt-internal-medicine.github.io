@@ -5,3 +5,5 @@
 *.docx
 .venv
 .DS_Store
+raw
+output
