@@ -1,109 +1,206 @@
-# RHC
+# Right Heart Catheterization
 
-Pulmonary artery catheters (PACs) are an invasive measurement of
-hemodynamic parameters within the heart using multiple lumens and a
-balloon tip to assist with placement
+Pakinam Mekki
 
-The following measures can be directly obtained from a PAC:
+---
 
--   Central venous pressure (CVP): Pressure in vena cava, often an
-    indicator of volume status
--   Right atrial pressure (RAP): Measure of volume status/RV preload
--   Right ventricular pressure (Systolic, end-diastolic): surrogate for
-    PA pressure and preload
--   Pulmonary arterial pressure (PAP; systolic, diastolic, and mean):
-    diagnosing pHTN
--   Pulmonary artery wedge pressure (PAWP; a-wave, v-wave, and mean):
-    Wedging PAC into a small pulmonary arterial branch
-    -   Surrogate for LAP and LVEDP (preload)
--   Cardiac output, thermodilution (COt, L/min): Room temperate saline
-    bolus is injected via proximal PAC lumen and the temperature drop is
-    measured by thermistor on the PAC tip
--   Mixed venous oxyhemoglobin saturation (SvO2): % of O2 bound to
-    hemoglobin in blood returning to the right side of the heart
-    -   Measurement of total body O2 extraction
+# Background
 
-A PAC can be used to calculate the following:
+- Pulmonary artery catheter (PAC): Multilumen catheter that sits in
+    the right heart to provide invasive measurement of hemodynamic
+    parameters
+- Indications for PAC placement
+  - Diagnose undifferentiated shock
+  - Severe cardiogenic shock
+  - Diagnose pulmonary hypertension
+  - Diagnose left -\> right shunting
+  - Diagnose valvular and pericardial disease
+  - Titrating medications, specifically inotropes, pulmonary
+      vasodilators, diuresis
+- Contraindications to PAC placement
+    - RA/RV mass or thrombi
+    - Tricuspid or pulmonic valve endocarditis
+    - Mechanical tricuspid or pulmonic valves
+    - Presence of RV assist device
+- Complications of PAC placement
+    - Arrythmias: VT, RBBB, 3rd degree AV block if preexisting LBBB
+    - Infection (endocarditis of the pulmonary valve)
+    - Bleeding
+    - Pulmonary embolism and pulmonary Infarct
+    - Pneumothorax
+    - Air embolism
+    - Pulmonary artery perforation / rupture
+    - Endocardial/valvular damage
 
--   Systemic vascular resistance (SVR = 80 x \[MAP-CVP\]/ CO, in dynes
-    ⋅
-    sec
-    ⋅
-    cm-5):  differentiation of types of shock, guides titration of
-    afterload-reducing therapy in HFrEF
--   Transpulmonary gradient (TPG = mean PAP - PAWP, in mm Hg):  measure
-    of pre-capillary contribution in pulmonary hypertension due to left
-    heart disease
--   Pulmonary vascular resistance (PVR = \[TPG\]/ CO, in Wood units = mm
-    Hg/L/min, customary unit. Multiply by 80 to convert to dynes
-    ⋅
-    sec
-    ⋅
-    cm-5): Gold standard for estimation of the severity of pre-capillary
-    pulmonary HTN
--   Cardiac output, Fick equation (COf, in L/min): VO2/ \[(SaO2 - SvO2)
-    x Hb x 13.4)\]. VO2 is oxygen consumption, generally assumed value
-    based on patient size and age
--   Cardiac index (CI = CO/body surface area, in L/min/m2)
+PAC Pressure Tracings
 
-Important equations:
+<figure markdown>
+![image](../images/image7.png)
+</figure>
 
--    Systemic vascular resistance (SVR = 80 x \[MAP-CVP\]/ CO, in dynes
+<table>
+<colgroup>
+<col style="width: 22%" />
+<col style="width: 23%" />
+<col style="width: 17%" />
+<col style="width: 37%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th></th>
+<th>Definition</th>
+<th>Normal "Rule of 5s"</th>
+<th><blockquote>
+<p>Interpretation</p>
+</blockquote></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>Central Venous Pressure</p>
+<p>(CVP)</p></td>
+<td>Pressure in superior vena cava, often an indicator of volume
+status</td>
+<td>0 - 5 mmHg</td>
+<td>Elevated CVP is indicative of cardiac dysfunction and/or fluid
+retention<br />
+<br />
+Low CVP is indicative of volume depletion or decreased venous tone</td>
+</tr>
+<tr class="even">
+<td>Right Atrial Pressure (RAP)</td>
+<td>Surrogate for preload, should be same as CVP</td>
+<td>0 - 5 mmHg</td>
+<td>Elevated with disruption in forward cardiac flow or increase in
+intravascular volume</td>
+</tr>
+<tr class="odd">
+<td>Right Ventricle Pressure (</td>
+<td>Right ventricular systolic and diastolic pressures; RVSP can be
+surrogate for PASP</td>
+<td>25/5 mmHg</td>
+<td>Elevated with diseases that elevate PA pressure and pulmonic valve
+disorders. Severe RVP elevations are generally chronic while acute
+conditions typically have RVSP &lt;40-50.</td>
+</tr>
+<tr class="even">
+<td>Pulmonary Artery Pressure (PAP)</td>
+<td>Measured as systolic, diastolic, and mean pressures. Diagnoses
+pHTN.</td>
+<td><p>25/10 mmHg</p>
+<p>Mean: 10 - 19 mmHg</p></td>
+<td>Elevated In acute conditions (PE, hypoxemia induced pulmonary
+vasoconstriction) or pHTN (mean PAP &gt; 20 mm Hg)</td>
+</tr>
+<tr class="odd">
+<td>Pulmonary Artery Wedge Pressure (PAWP or wedge)</td>
+<td>Pressure measured by wedging the PAC into a small pulmonary arterial
+branch; surrogate for left atrial pressures and LVEDP</td>
+<td>10 mm Hg</td>
+<td>Increased with elevated LVEDP: systolic or diastolic heart failure,
+mitral and aortic valve disorders, hypervolemia, R to L shunts,
+tamponade, constrictive/restrictive cardiomyopathy</td>
+</tr>
+<tr class="even">
+<td>Thermodilution Cardiac Output &amp; Index</td>
+<td>Amount of blood pumped in one min. CI is the cardiac output divided
+by body surface area (to standardize for body size)</td>
+<td><p>CO: 3.4-15 L/min</p>
+<p>CI: 2.8-4.2 L/min/m^2</p></td>
+<td><p>Low CI: systolic/diastolic heart failure, severe valvular
+disorder (MR, AS), RV failure, pHTN, cardiogenic shock.</p>
+<p>Elevated CI (high-output state): sepsis, anemia, thyrotoxicosis, A-V
+shunt</p></td>
+</tr>
+<tr class="odd">
+<td><p>Mixed central venous oxyhemoglobin</p>
+<p>saturation (SvO2)</p></td>
+<td>% of oxygen bound to Hgb in blood returning to the right side of the
+heart, reflects total body O2 extraction</td>
+<td>65-70%</td>
+<td><p>High SvO2 (&gt; 65%) = decreased O2 demand or “high flow” states
+seen in distributive shock (sepsis)</p>
+<p>Low SvO2 (&lt; 50%) = decreased O2 delivery seen in cardiogenic or
+hypovolemic shock. In low SvO2 states, there is less O2 supply to same
+demand)</p></td>
+</tr>
+</tbody>
+</table>
 
-⋅
+## Calculating Hemodynamic Parameters from PAC Pressures
 
-sec
-
-⋅
-
-cm-5): differentiates types of shock, and guides titration of
-afterload-reducing therapy in HFrEF
-
--    Transpulmonary gradient (TPG = mean PAP - PAWP, in mm Hg):  measure
-of pre-capillary contribution in pulmonary hypertension due to left
-heart disease
-
--    Pulmonary vascular resistance (PVR = \[TPG\]/ CO, in Wood units =
-mm Hg/L/min, customary unit. Multiply by 80 to convert to dynes
-
-⋅
-
-sec
-
-⋅
-
-cm-5): Gold standard for estimation of the severity of pre-capillary
-pulmonary HTN as well as to determine a patient’s possible candidacy for
-heart transplant in left heart failure (goal for PVR \<3)
-
--    Cardiac output, Fick equation (COf, in L/min): VO2/ \[(SaO2 - SvO2)
-x Hb x 13.4)\]. VO2 is oxygen consumption, generally assumed value based
-on patient size and age; SaO2 measured via pulse oximetry or ABG; SvO2
-measured as above
-
--    Cardiac index (CI = CO/body surface area, in L/min/m2)
-
-Complications of pulmonary artery catheters include:
-
--   Arrhythmias: sustained VT, RBBB (3rd degree AV block if patient has
-    a pre-existing LBBB)
--   Myocardial, vessel, or valve rupture
--   Pulmonary artery perforation
--   Pulmonary infarction, Thromboembolism
--   Infection, particularly endocarditis of the pulmonary valve
--   Venous air embolisms
-
-Interpretation of PAC Values:
-
-<img src="/sites/default/files/inline-images/Picture4.png" data-entity-type="file" data-entity-uuid="502f8604-3c62-45cc-9916-6ddde51a9fba" alt="PAC Values" />
-
-| Unnamed: 0                                              | Normal Values                                             | Interpretation                                                                                                                                                                                                                         |
-|---------------------------------------------------------|-----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Right Atrium                                            | 0-7 mmHg                                                  | Elevated with disruption in forward cardiac flow or increase in intravascular volume (ie RV disease, valvular disease, pHTN, L to R shunt, systolic/diastolic heart failure, tamponade, constrictive and restrictive cardiomyopathies) |
-| Right Ventricle Pressure (mmHg                          | RV Systolic: 15- 25 RV Diastolic : 3-12                   | Elevated with diseases that elevate PA pressure and pulmonic valve disorders. Severe RVP elevations are generally chronic while acute conditions typically have RVSP \<40-50.                                                          |
-| Pulmonary Artery Pressure (mmHg)                        | PAP systolic: 15-25 PAP diastolic: 8-15 Mean PAP: 10 - 19 | Elevated by acute conditions (PE, hypoxemia induced pulmonary vasoconstriction) or chronic conditions (all classes of pHTN, diagnostic criterion is mean PAP \> 20 mm Hg)                                                              |
-| Pulmonary Artery Wedge Pressure                         | 4-12 mm Hg                                                | Increased with elevated LVEDP: systolic or diastolic heart failure, mitral and aortic valve disorders, hypervolemia, R to L shunts, tamponade, constrictive/restrictive CM                                                             |
-| Cardiac Index                                           | 2.8-4.2 L/min/m^2                                         | Low CI: systolic/diastolic heart failure, severe valvular disorder (MR, AS), RV failure, pHTN, cardiogenic shock. Elevated CI (high-output state): sepsis, anemia, thyrotoxicosis, A-V shunt                                           |
-| Mixed venous oxyhemoglobin Saturation (SvO2)            | 65-70%                                                    | \<50%: Cardiogenic or hypovolemic shock \>65%: Distributive shock (sepsis) High SvO2 = decreased O2 demand or “high flow” states such as sepsis. Low SvO2 = decreased O2 delivery (low flow, blood loss less O2 supply to same demand) |
-| Systemic Vascular Resistance                            | 800-1000 dynes-sec/cm^5                                   | High SVR: Cardiogenic shock, other low cardiac output, hypovolemia, late septic shock. Low SVR: May be due to early septic shock, anaphylaxis or other neurogenic shock, drugs (vasodilators, nitrates), hypercarbia                   |
-| Transpulmonary Gradient & Pulmonary Vascular Resistance | \<12 mm Hg \<2 Wood units                                 | Measures of intrinsic pulmonary vascular disease. In group II pHTN, elevations indicated combined pre- and post-capillary pulmonary hypertension (PH “out of proportion” to expected from L heart disease)                             |
+<table>
+<colgroup>
+<col style="width: 21%" />
+<col style="width: 29%" />
+<col style="width: 19%" />
+<col style="width: 29%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th></th>
+<th>Definition</th>
+<th>Normal Values</th>
+<th>Interpretation</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Fick CO and CI</td>
+<td>Calculated CO based on Oxygen consumption (VO2), Hbg, and O2 sats of
+arterial and venous blood</td>
+<td><p>4-7 L/min</p>
+<p>2.5-4 L/min/m<sup>2</sup></p></td>
+<td>See "Cardiac Index" above.</td>
+</tr>
+<tr class="even">
+<td>Systemic Vascular Resistance (SVR)</td>
+<td>Measurement of afterload; helpful in delineating the etiology of
+shock as well as guiding afterload-reduction therapy in HFrEF</td>
+<td>700-1200 dynes*s*cm<sup>-5</sup></td>
+<td><p>Elevated SVR is seen in hypovolemic, cardiogenic, and obstructive
+shock</p>
+<p>Decreased SVR is seen in distributive shock (sepsis, anaphylaxis,
+neurogenic)</p></td>
+</tr>
+<tr class="odd">
+<td>Transpulmonary gradient (TPG)</td>
+<td>Differentiates between pre- and post-capillary pulmonary
+hypertension.</td>
+<td>&lt; 12 mmHg</td>
+<td>A TPG value greater than 12 mmHg indicates that a component of the
+pHTN is secondary to pulmonary vascular disease</td>
+</tr>
+<tr class="even">
+<td>Pulmonary Vascular Resistance (PVR)</td>
+<td>Gold standard in the estimation of the severity of pre-capillary
+pHTN<br />
+<br />
+Reflects the pressure drop across the pulmonary system only and is
+independent of the LA, mitral valve and the LV</td>
+<td><p>&lt; 3 Wood Units</p>
+<p>30-90 dynes*sec*cm<sup>5</sup></p></td>
+<td><p>Elevated PVR (&gt;3 Wood units) suggests pre-capillary pHTN</p>
+<p>Normal PVR seen in pulmonary venous hypertension (diastolic
+dysfunction)</p></td>
+</tr>
+<tr class="odd">
+<td>Pulmonary artery pulsatility index (PAPi)</td>
+<td>Pulmonary pulse pressure relative to preload (RAP), Indicator of RV
+function</td>
+<td>&gt; 0.9</td>
+<td>PAPi &lt; 0.9 predicts in-hospital mortality and/or need for RVAD in
+acute MI. Can be decreased in pure RV failure or biventricular
+failure</td>
+</tr>
+<tr class="even">
+<td>Cardiac Power</td>
+<td>Cardiac output relative to afterload, a measure of LV contractile
+reserve</td>
+<td>Normal &gt; 1</td>
+<td><p>CP&lt; 0.6 strongly suggestive of LV failure</p>
+<p>Found to be a strong independent hemodynamic correlate in pts with
+cardiogenic shock. Predictor of mortality in CCU</p></td>
+</tr>
+</tbody>
+</table>

@@ -1,77 +1,110 @@
 # Cardiac Devices
 
-Cardiac Devices - Mark Sonderman
+Marcus Threadcraft
 
--   Permanent Pacemaker
-    -   A
-        battery that provides electrical current to 1 or 2 leads (RA
-        and/or RV) which stimulates the myocardium when the innate
-        electrical activity of the heart is insufficient
-    -   Indications (typically requires symptoms):
-        -   -   Sinus Node Dysfunction
-            -   AV node dysfunction (2 <sup>nd</sup> Degree Type II with
-                sx or Type 3 block, carotid sinus hypersensitivity,
-                after catheter ablation of AV node for AF)
-            -   Bifascicular or alternating L and RBBB
--   ICD
-    -   RV Lead (can also be epicardial) that contains a coil for
-        defibrillation in case of VF or VT; additionally performs ATP
-        (anti-tachycardia pacing) to ideally prevent a shock
-    -   Indications:
-        -   -   Primary Prevention: In general, think about those at
-                risk for sudden cardiac death.
-                -   CHF with EF \<35%and NYHA II-III on max GDMT
-                -   LVEF \<30% and post-MI >40d
-                -   Consider Brugada, ARVC, HCM, sarcoid, Long QT,
-                    congenital disease (SCD)
-            -   Secondary Prevention: Survivors of VF arrest, unstable
-                VT w/o reversible cause, and structural heart disease
-                with history of sustained VT
+---
 
-<!-- -->
+## Types of Cardiac Implantable Electronic Devices (CIED)
 
--   CRT
-    -   3 Lead Pacemaker (RA, RV, coronary sinus to LV) that coordinates
-        LV/RV contraction through synchronized activation of each
-        ventricle
-    -   Patients with HFrEF and ventricular conduction delay (prolonged
-        QRS) are at highest risk for HF progression and this aims to
-        reverse it.
-    -   Indications:
-        -   -   Class I: EF\<35%, NYHA II- IV ambulatory, on GDMT, NSR
-                with LBBB and QRS
-                ≥
-                <embed src="file:////Users/mjn18/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image002.emz" id="_x0000_i1025" style="width:9pt; height:15pt" />
-                150
-            -   Class IIa: Above criteria with minor differences (LBBB &
-                QRS 120-149, non-LBBB and QRS
-                ≥
-                <embed src="file:////Users/mjn18/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image003.emz" id="_x0000_i1025" style="width:9pt; height:15pt" />
-                150\) OR EF\<35% and expected to require >40%
-                ventricular pacing
+- For Controlling Arrhythmias: Implantable Pulse Generators
+- Pacemakers: Anti-bradycardia pacing
+- ICDs: Anti-tachycardia pacing and defibrillation
+- Biventricular Pacemakers: CRT for ventricular dyssynchrony (LBBB &
+    Heart Failure)
+- Loop Recorders: implantable devices for monitoring arrhythmias (most
+    often Afib)
+- LVADs: augment cardiac output for end-stage heart failure (not
+    covered here)
 
-Interpreting Pacemaker Codes
+### Pacemakers
 
-| 0                                                                            | 1             | 2              | 3                       | 4                |
+- Provide anti-bradycardia pacing by stimulating myocardium
+- Peripheral permanent pacemakers (PPMs)
+- SubQ generator, transvenous leads
+    - Single chamber RV lead
+    - Dual chamber RV and RA leads
+    - BiV: RV, RA, and LV (coronary sinus) leads
+- Leadless pacemaker
+    - Implanted generator in RV
+
+Indications
+
+- Symptomatic Bradycardia
+- Heart Block: 2nd Degree Type II w/ sx or 3rd Degree
+- Sick Sinus Syndrome
+- Carotid Sinus Syndrome
+- After catheter ablation of AV node for AF
+- CRT
+
+### Implantable Cardioverter/Defibrillators (ICDs)
+
+- Pacing lead + defibrillation coil
+- Detect and treat VT/VF v
+    - Anti-tachycardia pacing (ATP)- attempts to entrain and terminate
+        VT
+    - Defibrillation If ATP unsuccessful
+
+Indications
+
+- Primary prevention
+    - HFrEF
+        - EF \<35% and NYHA II-III or EF \<30% and NYHA I
+        - Must be \>90d from revasc, \>40d from MI, and on GDMT
+    - Arrhythmogenic syndromes
+        - Arrhythmogenic RV cardiomyopathy, Brugada syndrome, HCM and
+            cardiac sarcoid with specific risk factors
+- Secondary prevention
+    - Hx VF arrest or VT
+    - Inducible VT on EP study with history of syncope
+
+### Cardiac Resynchronization Therapy (CRT)
+
+- BiV pacer that coordinates LV/RV contraction through synchronized
+    activation of each ventricle following atrial contraction.
+- -P: CRT pacing only
+- -D: ICD function
+
+Indications
+
+- Class I: LBBB and QRS≥150 with EF\<35%, NYHA II- IV, on GDMT, NSR
+- Class IIa: EF\<35%, NYHA II- IV, on GDMT, NSR AND
+    - LBBB & QRS 120-149, non-LBBB & QRS≥150, or EF\<35% and expected
+        to require \>40% ventricular pacing
+
+### Interpreting Pacemaker Codes
+
+|                                                                              | 1st Letter    | 2nd Letter     | 3rd Letter              | 4th Letter       |
 |------------------------------------------------------------------------------|---------------|----------------|-------------------------|------------------|
-| NaN                                                                          | 1st Letter    | 2nd Letter     | 3rd Letter              | 4th Letter       |
 | A: atrial, V: ventricular, D: dual, O: none, I: inhibition, R: rate-adaptive | Chamber Paced | Chamber Sensed | Response to Sensed Beat | Program Features |
 
-Examples of Common Pacing Modes:
+### Examples of Common Pacing Modes
 
--   VVI: Single RV lead that delivers a beat if no beat sensed. Often
+- VVI: Single RV lead that delivers a beat if no beat sensed. Often
     used with chronic AF with bradycardia
--   DDDR:  Senses and paces both the atria and ventricle. If beat not
+- DDDR: Senses and paces both the atria and ventricle. If beat not
     sensed within a predefined interval, beat delivered. R indicates
     rate responsivity (changes rate based on changes in patient
     activity)
--   Magnet: Paces at a fixed rate without respect to native electrical
+- Magnet: Paces at a fixed rate without respect to native electrical
     activity (AOO,VOO,DOO). Deactivates ICD shock. Often used in surgery
     or at end of life to avoid ICD shocks
 
-Additional Information
+### Additional Configurations
 
--   The Pacemaker ID app is free and is useful for identifying device
-    brand for interrogation
+- Epicardial Leads- pacemaker/defibrillator leads attached to outside
+    of the heart (requires OR) vs traditional transvenous lead
+    placement, which are inserted in the Cath Lab
+    - Epicardial Leads generally placed in smaller children or during
+        cardiac surgery with expected need for pacing/defibrillation
+- Abandoned leads
+    - Absolute contraindication to MRI (ungrounded, produces heat and
+        thermal Injury In setting of magnetic field)
 
-<img src="/sites/default/files/inline-images/Picture3.png" data-entity-type="file" data-entity-uuid="780d7809-549a-4dbe-86c0-d4c456c7971a" alt="Device leads" />
+### Placement Complications
+
+- Acute: pocket hematoma, pneumothorax, myocardial perforation,
+    cardiac tamponade, infection, lead displacement or disconnection
+- Long-term: secondary device infection, lead fracture (lead lifetime
+    10-15 years), insulation failure
+
+![image](../images/image6.tiff)

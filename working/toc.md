@@ -6,22 +6,6 @@ After sections have been incorporated into the website,
 and deleted from vimbook.md,
 they will be deleted from this list.
 
-# CARDIOLOGY
-
-The remainder of cards topics seen here are in cardiology/main.md, need to be split into files.
-
-- Atrial Fibrillation & Flutter 13
-- Valvular Heart Disease 19
-- Heart Failure \*\*
-- Cardiogenic Shock \*\*
-- Cardiac Devices 23
-- Pulmonary Embolism \*\*
-- Blood Pressure \*\*
-- Autonomics/Orthostatics 25
-- Syncope 26
-- Diagnostic Cardiac Tests \*\*
-- Bedside Echocardiography 32
-
 
 # CRITICAL CARE
 

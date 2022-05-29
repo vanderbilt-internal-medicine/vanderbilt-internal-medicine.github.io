@@ -1,70 +1,105 @@
-# Autonomics and Orthostatics
+# Autonomics and Orthostatic Hypotension
 
-Autonomics and Orthostatic Hypotension - Ruey Hu
+Leonard Chiu
 
-Background
+---
 
--   Orthostatic Hypotension (OH)
-    = SBP
-    ↓
-    **<u>\></u> 20 mmHg (or DBP**
-    ↓
-    <u>\></u> 10 mmHg
-    ) within 3 min of standing up or head-up tilt to 60% on a tilt table
--   If HR rise is \< 15, it’s probably neurogenic OH (nOH)
--   If HR rise >15 within 3 min of standing, it’s non-neurogenic OH
--   In normal ppl, standing causes minimal changes (SBP
-    ↓
-    less than 10, DBP rises less than 2.5) and HR rises modestly by
-    10-20
--   Etiology: volume depletion (most common), medications, neuropathy,
-    neurodegenerative disease (Parkinsonism), pump failure (severe AS,
+# Background
+
+- Orthostatic Hypotension: SBP ↓ \> 20 mmHg, DBP ↓ \> 10 mmHg), or HR
+    Increase \> 30 within 3 min of standing up or head-up tilt to 60% on
+    a tilt table
+- Etiologies: Neurogenic OH (nOH) vs non-neurogenic OH
+- nOH associated with autonomic failure
+    - Blunted tachycardia during hypotension characteristic of
+        autonomic failure
+    - nOH: If HR rise is \<15
+    - nOH also associated with periods of high BP (supine
+        hypertension)
+    - Ex: Neurodegenerative disease, neuropathy (diabetes, amyloid,
+        paraneoplastic, etc)
+- Other causes: volume depletion (most common), medications
+    (diuretics, alpha-1 blockers, BB, etc), pump failure (severe AS,
     arrhythmia)
 
-Evaluation
+# Evaluation
 
--   Orthostatic vitals sign measurement:
-    -   Lying BP & HR, then wait 5 mins
-    -   Sitting BP & HR, then wait 5 mins
-    -   Standing BP & HR at 1, 3, and 5 mins
-        -   If pt falls before 5 mins is up, get BP & HR before and
-            after falling
-        -   If supine HTN present, skip the supine step to avoid risk of
-            stroke
--   Volume status exam, CBC, BMP, EKG, TSH, B12, MMA, LFTs, SPEP/UPEP
--   Rarely neoplastic panels, supine/standing plasma fractioned
-    catecholamine levels and autonomic function testing
+- Orthostatic vitals signs (checking supine, sitting, and standing
+    with 5-minute wait in each position)
+- Volume status exam
+- Labs: CBC, CMP, EKG, TSH, B12, , LFTs,
+- Consider SPEP/UPEP, paraneoplastic panel, autonomic function testing
+    depending on clinical context
+- Autonomic Function Testing: Available at 4:15pm Tues, Wed, Thurs NPO
+    4 hours prior
+- Hold oral pressors and antihypertensives 12 hours prior
 
-Management
+# Management
 
--   Neurogenic:
-    -   Conservative measures: TED hose, Elevate HOB and Abdominal
-        binder
-    -   Drink 16oz of fluid 15 min prior to standing
-    -   If they have supine HTN, keep HOB 30-45 degrees at all times
--   Outpatients: TED hose and abdominal binder.
-    -   Add 2.3-4.6g of salt per day to diet (if no contraindications,
-        e.g. CHF)
-    -   Do non-gravitationally challenging exercises: stationary bike,
-        rower or water activities
-    -   Avoid high temperatures (which cause peripheral vasodilation
-        )
--   Pharmacologic
-    therapies:
+- Conservative:
+- TED hose and abdominal binder for ambulation
+- Drink 16oz of fluid 15 min prior to standing
+- If they have supine HTN, keep HOB 30-45 degrees at all times
+- Add 2.3-4.6g of salt per day to diet (if no contraindications)
+- Avoid high temperatures (which cause peripheral vasodilation)
+- Supine HTN therapies: transdermal nitroglycerin (preferred);
+    minoxidil, hydralazine, or clonidine in select patients
 
-| 0                         | 1                                      | 2                                                                                                   | 3                                                                                                                                                                                          |
-|---------------------------|----------------------------------------|-----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Drug                      | Dose                                   | Mech                                                                                                | Side effects                                                                                                                                                                               |
-| Fludocortisone (Florinef) | 0.1mg QD ↑ by 0.1 mg Max: 0.3 mg QD    | Mineralocorticoid → ↑s blood volume. Also enhances sensitivity of BVs to circulating catecholamines | Edema If Seated or supine HTN, may have to DC or ↓ dose HoK ß Check K b4 start’g & w/I 1-2 wk of dose adjustment, & supplement CI’d by CHF, bc Florinef retains salt                       |
-| Midodrine                 | 2.5mg TID CC ↑ by 2.5mg Up to 10mg TID | Peripheral-selective α1 agonist → constricts both aa & vv                                           | cautious severe heart dz, unctrl’d HTN, or urinary retention. SE: supine HTN, pilomotor reactions, pruritus, GI sx, urinary retention. Don’t take 4h prior to bedtime, to limit supine HTN |
-| Droxidopa                 | 100mg ↑ by 100mg Max: 600mg TID        | NE precursor → carboxylated to NE. Can cross BBB.                                                   | SE: supine HTN, but less than midodrine Don’t take 4h prior to bedtime, to limit supine HTN                                                                                                |
-| Atomoxetine               | 10mg or 18mg                           | SNRI                                                                                                | CI’d by glaucoma and MAOI                                                                                                                                                                  |
+Orthostatic hypotension pharmacologic therapies
 
-Additional Information
-
--   Ephedrine, pseudoephedrine, methylphenidate, and dextroamphetamine
-    are no longer used to treat nOH because of lack of efficacy and
-    intolerable CNS effects
--   Autonomic Function Testing: Available
-    at 4:15pm Tues, Wed, Thurs NPO 4 hours prior
-    -   Hold oral pressors and antihypertensives 12 hours prior
+<table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 22%" />
+<col style="width: 28%" />
+<col style="width: 28%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Drug</th>
+<th>Dose</th>
+<th>Mechanism</th>
+<th>Side effects</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Fludocortisone (Florinef)</td>
+<td><p>0.1mg QD</p>
+<p>↑ by 0.1 mg</p>
+<p>Max: 0.3 mg QD</p></td>
+<td>Mineralocorticoid increase blood volume. Enhances sensitivity to
+circulating catecholamines</td>
+<td><p>Edema</p>
+<p>HTN</p>
+<p>HypoK</p>
+<p>Do not use in CHF</p></td>
+</tr>
+<tr class="even">
+<td>Midodrine</td>
+<td><p>2.5mg TID</p>
+<p>↑ by 2.5mg</p>
+<p>Up to 10mg TID</p></td>
+<td>Peripheral-selective α1 agonist → constricts both aa &amp; vv</td>
+<td><p>Supine HTN</p>
+<p>Pilomotor reactions</p>
+<p>Pruritus</p>
+<p>GI upset</p>
+<p>Avoid in uncontrolled HTN, urinary retention, heart disease</p></td>
+</tr>
+<tr class="odd">
+<td>Droxidopa</td>
+<td><p>100mg</p>
+<p>↑ by 100mg</p>
+<p>Up to 600mg TID</p></td>
+<td>NE precursor → carboxylated to NE. Can cross BBB.</td>
+<td>Supine HTN, less than midodrine</td>
+</tr>
+<tr class="even">
+<td>Atomoxetine</td>
+<td>10mg or 18mg</td>
+<td>SNRI</td>
+<td>Do not use w/ glaucoma or MAOI</td>
+</tr>
+</tbody>
+</table>

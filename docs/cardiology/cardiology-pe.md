@@ -1,123 +1,127 @@
-# PE
+# Pulmonary Embolism
 
-Pulmonary Embolism – Nick Pietrini
+Anna Berry
 
-Background
+---
 
--   A thrombus or “clot” originating in a deep vein (LE > UE) embolizing
-    to the pulmonary arterial circulation
--   Virchow’s
-    triad: stasis (immobilization, travel), hypercoagulable state
-    (cancer), injury to endothelium (surgery, trauma). Idiopathic
-    possible but 12% of idiopathic will be diagnosed with cancer within
-    a year.
--   Genetic
-    : Factor V Leiden, prothrombin gene mutation, protein C/S
-    deficiency, antithrombin III deficiency
-    -   Acquired
-        : antiphospholipid syndrome, cancer, myeloproliferative
-        disorders, nephrotic syndrome, OCPs
--   Classification (requires TTE):
-    -   Low risk:
-        Hemodynamically Stable without RV strain or myocardial necrosis
-    -   Submassive:
-        Hemodynamically stable with RV strain and/or myocardial necrosis
-        -   -   RV strain seen on TTE (“D-sign”), BNP >150
-            -   Myocardial necrosis with troponin >0.05
-    -   Massive:
-        Sustained hypotension and/or concerns for shock
+## Background
 
-Presentation
+A thrombus originating in a deep vein (LE \> UE) embolizing to the
+    pulmonary arterial circulation.
 
--   Dyspnea / Tachypnea – most common, can be only exertional
--   Tachycardia – common, sometimes the only finding
--   Chest pain – usually pleuritic
--   Hemoptysis
--   Lower extremity pain / swelling – occurs in 50% of pts with DVT
--   RV Failure (large PE) – elevated JVP, hypotension, syncope
+- Risk Factors = Virchow’s Triad
+    - Stasis: immobilization, hospitalization, spinal cord injury, or long
+        travel
+    - Hypercoagulable state: cancer, prothrombotic genetic conditions such
+        as Factor V Leiden, OCPs, antiphospholipid syndrome, nephrotic
+        syndrome, pregnancy, infection, etc.
+    - Endothelial Injury: surgery, trauma
 
-Evaluation
+Most originate from a DVT in the iliac, femoral, and popliteal veins
 
--   EKG: most commonly sinus tachycardia
-    -   Less
-        commonly and indicative of large PE: Right axis deviation, RVH,
-        RBBB, RA enlargement, S1Q3T3 (deep S in lead I, deep Q and
-        inverted T in lead III), TWI in V1-V3 (most common finding
-        reflecting severity)
--   CXR (typically normal)
--   Subtle
-    abnormalities: linear atelectasis, pleural effusion, PA cutoff sign
+## Presentation
 
-<!-- -->
+- Dyspnea and tachypnea
+- Respiratory alkalosis on blood gas from hyperventilation
+- Hypoxemia
+- Sinus Tachycardia or atrial arrhythmias
+- Hemoptysis
+- Lower extremity pain, swelling, and redness – occurs in 50% of pts
+    with DVT
+- RV Failure (large PE) – elevated JVP, hypotension, syncope, R
+    parasternal heave, accentuated P2, hepatomegaly
 
--   ABG: usually with hypoxia, hypocapnia, high A-a gradient
--   Troponin: increases in 30-50% of pts with moderate to large PE
-    associated with RV strain
--   BNP: often increases with large PE (but less so than in HF patients)
--   D-Dimer\*: If low pre-test probability (based on Wells criteria)
--   CTA Chest PE protocol; NPV 95-99%
-    -   Helps
-        identify potential alternative diagnoses as well as determine
-        severity of PE
--   V/Q scan: Useful when CXR is normal, no severe cardiopulmonary
-    abnormalities, and contraindication to contrast (ie AKI)
--   Lower extremity dopplers
--   TTE: differentiate submassive vs low risk, chronic right sided
-    failure (PAP>50 chronic)
+## Evaluation
 
-Management
+- If hemodynamically unstable and PE suspected, provide hemodynamic
+    support (ie. O2, pressors, etc.) and perform emergent bedside TTE
+- If no RV strain evident on TTE, low likelihood of hemodynamically
+    significant PE. Consider other causes of shock.
 
-Acute:
+- Hemodynamically stable
+    - EKG
+        - Most commonly sinus tachycardia
+        - Less commonly and indicative of large PE: RAD, RVH, RBBB, RA
+            enlargement, S1Q3T3 (deep S in lead I, deep Q and inverted T in
+            lead III), TWI in V1-V3
+    - CXR: Typically normal. May see linear atelectasis, pleural effusion,
+        PA cutoff sign
+    - Labs: ABG, troponin, BNP
+    - May consider lower extremity dopplers
+    - Imaging vs d-dimer based on pre-test probability:
+        - Low pre-test probability (use Wells Criteria) d-dimer
+        - For moderate to high pre-test probability CTA Chest PE protocol
+            - If high pre-test probability or moderate pre-test
+                probability with \>4 hour delay in work-up, start empiric
+                anticoagulation if bleeding risk is acceptable while work-up
+                is ongoing
+    - TTE
 
--   ABCs: Provide necessary respiratory and hemodynamic support
--   Initial AC:  If PE is highly probable (Wells score > 6) or
-    moderately probable (Wells between 2-6, but workup will take > 4
-    hours) and bleeding risk is low, empirically start IV heparin drip,
-    then establish a definitive diagnosis as per above (CTA PE).
-    -   IV heparin drip (EPIC order set): bolus (80 un/kg), then drip
-        starting 18 unit/kg
-    -   Enoxaparin (Lovenox): 1 mg/kg subQ q12h (\*avoid in ESRD)
--   Thrombolytics (tPA): Most effective within 24 hours, but effective
-    up to 14 days. Use 100 mg of tPA over 2 hours, then resume heparin
-    gtt. Attending/fellow level decision.
--   Indications:
-    -   Massive PE: PE causing hypotension (shock)
-    -   Refractory hypoxia or respiratory failure requiring
-            mechanical ventilation.
-    -   RV failure clinically or on echo (relative indication if not
-            shock)
+## Management
 
-<!-- -->
+<table>
+<colgroup>
+<col style="width: 17%" />
+<col style="width: 26%" />
+<col style="width: 26%" />
+<col style="width: 29%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>PE Class:</th>
+<th>Low risk</th>
+<th>Submassive</th>
+<th>Massive</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Definition</td>
+<td><p>Hemodynamically stable</p>
+<p>No evidence of right heart strain or myocardial necrosis on labs or
+TTE</p></td>
+<td><p>Hemodynamically stable</p>
+<p>Evidence of right heart strain or myocardial necrosis: RV strain on
+TTE (ex: D-sign), BNP &gt;150, trop &gt;0.05</p></td>
+<td><p>Hemodynamically unstable (ex: SBP&lt;90)</p>
+<p>Evidence of RV strain</p></td>
+</tr>
+<tr class="even">
+<td>Management</td>
+<td><p>Start anticoagulation</p>
+<p>LWH or heparin gtt (if renal impairment)</p>
+<p>Can also use NOAC. Rivaroxaban &amp; apixaban can be used as initial
+management. Edoxaban &amp; dabigatran can be used after 5-10 days of
+parenteral therapy</p></td>
+<td><p>Provide hemodynamic support, monitor for decompensation</p>
+<p>Start anticoagulation with unfractionated heparin gtt</p>
+<p>STAT consult cardiology for consideration of catheter directed
+thrombolysis (EKOS) or embolectomy</p></td>
+<td><p>Provide hemodynamic support.</p>
+<p>Start anticoagulation with unfractionated heparin gtt</p>
+<p>Page CCU fellow STAT. Consider systemic tPA (this is a
+fellow/attending level decision).</p>
+<p>Discuss with cardiology catheter directed thrombolysis (EKOS) or
+embolectomy</p></td>
+</tr>
+</tbody>
+</table>
 
--   IVC filter (very uncommon): AC is contraindicated, bleeding risk
-    unacceptably high, recurrent PE despite optimal AC
--   Embolectomy: Catheter-directed or surgical
-    -   Indicated for pt with submassive PE, pts with massive PE in whom
-        thrombolytic therapy is contraindicated, or when thrombolytic
-        therapy has failed
+## tPA Considerations
 
-Chronic:
+- Dose is 100mg tPA over 2hrs
+- Most effective within 24 hours but effective up to 14d
+- Contraindications:
+    - Absolute:
+        - CNS Pathology: hemorrhagic or ischemic CVA within 3 mo, AVM,
+            CNS neoplasm, recent surgery
+        - Trauma: Recent head trauma w/ fx or injury
+    - Relative
+        - Surgery: surgery w/in 3 wks
+        - Heme: active bleeding, bleeding diathesis, plt \< 100, oral
+            AC
+        - Age: \>75 yo, dementia
 
--   Long-term AC (DOAC is the mainstay of management)
-    -   Apixaban (Eliquis): 10 mg BID x7 days
-        à
-        5 mg BID
-        -   -   Can use in renal failure (do not dose reduce like for
-                atrial fibrillation)
-    -   Rivaroxaban (Xarelto): 15 mg BID x 21 days
-        à
-        20 mg daily
-        -   Needs to be taken with food, avoid with CrCl\<30
-    -   Dabigatran (Pradaxa): 150 mg BID **AFTER** 5 days of parental
-        therapy
-    -   Warfarin (Coumadin): Goal INR 2-3, requires frequent monitoring
-        -   Need to be bridged with enoxaparin or heparin gtt
--   Duration of Anticoagulation:
-    -   Major reversible/transient risk factors (surgery, trauma): 3-6
-        months
-    -   Idiopathic, unprovoked, or with less compelling risk factors: 12
-        months
-    -   Major permanent risk factors (cancer, homozygote F5L or
-        prothrombin gene mutation, APLS, protein C/S deficiencies, AT
-        III deficiency): At least 1 year, preferably lifelong.
-    -   Recurrent DVT/PE: lifelong
+## Long-term management
+
+- Anticoagulation: see “Venous Thromboembolism” in Hematology/Oncology

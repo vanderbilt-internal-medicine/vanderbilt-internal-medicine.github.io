@@ -1,62 +1,90 @@
 # Syncope
 
-Syncope – Eric Hall
+Sarah Myers
 
-Background
+---
 
--   Transient loss of consciousness (TLOC) from cerebral hypoperfusion
+## Background
 
--   Pre-syncope should be addressed in the same way as syncope
+- Definition: abrupt, transient loss of consciousness with rapid &
+    spontaneous recovery  
+- Presyncope – symptoms occurring before syncope including
+    lightheadedness, tunnel vision/other visual disturbances
 
--   Pathogenesis:
+## Classification
 
--   -   -
+- Cardiac syncope 
+- Tachyarrhythmias: VT, SVT 
+- Bradyarrhythmias: sinus node dysfunction, AV blocks (high grade) 
+- Structural: Aortic Stenosis, HCM, cardiac tamponade, congenital
+    anomalies, masses/tumors 
+- Vascular: Pulmonary embolism, aortic dissection, severe pHTN 
+- Noncardiac syncope
+- Reflex mediated
+    - Vasovagal; most common form of reflex mediated syncope
+        - Can occur sitting/standing or with trigger (stress, pain,
+            medical settings)
+        - Classically has prodrome of nausea, diaphoresis, tunnel
+            vision followed by hypotension and/or bradycardia
+    - Situational (micturition/defecation/coughing)
+    - Carotid sinus sensitivity syndrome
+- Orthostatic
+- Medications (diuretics, nitrates/CCB/alpha blockers, TCAs)
+- Volume depletion (hemorrhage, dehydration)
+- Autonomic dysfunction
 
-    -   Reflex/vasovagal \~20-60%: identifiable triggers such as
-        shaving, straining/pooping, usually in older patients
+## Differential diagnosis
 
-    -   Orthostatic hypotension \~10%: more common with older patients,
-        with anti-HTN meds, diuretics, H&N cancer tx, DM, Parkinson’s,
-        MSA, adrenal insufficiency
+- Seizure, stroke, metabolic derangements, Intoxication/withdrawal,
+    hypoglycemia, head trauma
+- With rare exceptions, these do not result In complete LOC with
+    spontaneous recovery
 
-    -   Neurogenic: Consider CVA, TIA, seizure and rarely subclavian
-        steal syndrome
+## Evaluation
 
-    -   Cardiovascular:
-        -   Mechanical/structural, including aortic stenosis or other
-            valvular disease, HCM, PE, pHTN, ischemia, tamponade
-        -   Arrhythmia, including block, pauses, WPW, long/short QT as
-            evidence of arrhythmia-mediated syncope
+- History and physical are essential for evaluation of a syncopal
+    event 
+- Characteristics associated with cardiac syncope 
+- Male, \>60, known structural/ischemic heart disease, brief/no
+    prodrome, syncope while supine/at rest or during exercise, family hx
+    of SCD/premature death, abnormal exam 
+- Characteristics associated with noncardiac syncope
+- Younger age, syncope while standing or with positional changes,
+    prodrome (nausea, vomiting, warmth), specific triggers, previous
+    episodes that have been similar  
 
-    -   Alternate diagnoses: metabolic, intoxication, iatrogenic or
-        medication effect, concussion, and episodes that are not true
-        TLOC (cataplexy, psychogenic)
+## Workup
 
-Evaluation
+- EKG on all patients with syncope, monitor those who are admitted on
+    telemetry
+- CBC, CMP, troponin, BNP (If cardiac cause suspected), POC glucose,
+    UDS, orthostatic VS
+- EEG and neuroimaging if concern for seizure activity or focal neuro
+    deficit  
+- TTE and consider stress testing particularly in exertional syncope  
 
--   CBC, CMP, EKG, telemetry, troponin, BNP if concerned for cardiac
-    etiology, POC blood glucose, UDS, orthostatic vitals
--   Consider (depending on patient’s history): TTE, head imaging, 2-hour
-    EEG (get neuro involved early if concerned for neurologic etiology),
-    TSH + cortisol (random vs AM), infectious workup, stress testing for
-    exertional syncope
+## Management
 
-Management
+- Cardiac: managed as indicated based on pathology 
+- If arrhythmia is suspected but not captured on admission, consider
+    discharge with event monitor  
 
--   Dependent on cause (see other sections)
--   If presumed diagnosis is autonomic dysfunction, consider consult at
-    VA & VUMC to Autonomics for consideration of oral vasopressor
-    (midodrine, droxidopa), compression stockings, abdominal binder,
-    follow-up, etc
--   On discharge (depending on evaluation/presumed diagnosis) consider
-    also cardiac event monitoring, ambulatory blood pressure monitoring,
-    +/- tilt table testing
--   Driving
-    (TN Driver Improvement, Rule 1340-01-04-.06):
-    -   TN law does not require any MD to inform the state of TLOC
-    -   If notified, the state may suspend/decline to re-issue the pt's
-        driver’s license for 6-12 months (if underlying condition
-        controlled, pt is free of TLOC, and the state receives a
-        “favorable medical report” from an MD)
-    -   Make sure to document all conversations about driving that you
-        have with pts
+- Noncardiac
+- Reflex
+    - Vasovagal- consider tilt table testing If recurrent or diagnosis
+        not clear
+    - Situational- mainly avoiding triggers
+    - Carotid sinus syndrome- may require PPM
+
+- Orthostatic
+    - Medication related
+        - Appropriate to hold potentially offending medications
+            (diuretics, vasodilators) during evaluation
+        - Monitor for worsening supine hypertension, arrhythmias, or
+            heart failure when holding
+    - Volume depletion; resuscitate as appropriate
+    - Autonomic dysfunction: see autonomics section
+
+- Driving: TN law does not require any MD to inform the state of TLOC 
+- Should still recommend patients not drive while work-up ongoing.
+    Document all conversations about driving with patients
