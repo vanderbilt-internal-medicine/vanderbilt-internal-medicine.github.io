@@ -4,19 +4,19 @@ Pakinam Mekki
 
 ---
 
-# Background
+## Background
 
 - Pulmonary artery catheter (PAC): Multilumen catheter that sits in
     the right heart to provide invasive measurement of hemodynamic
     parameters
 - Indications for PAC placement
-  - Diagnose undifferentiated shock
-  - Severe cardiogenic shock
-  - Diagnose pulmonary hypertension
-  - Diagnose left -\> right shunting
-  - Diagnose valvular and pericardial disease
-  - Titrating medications, specifically inotropes, pulmonary
-      vasodilators, diuresis
+    - Diagnose undifferentiated shock
+    - Severe cardiogenic shock
+    - Diagnose pulmonary hypertension
+    - Diagnose left -\> right shunting
+    - Diagnose valvular and pericardial disease
+    - Titrating medications, specifically inotropes, pulmonary
+        vasodilators, diuresis
 - Contraindications to PAC placement
     - RA/RV mass or thrombi
     - Tricuspid or pulmonic valve endocarditis
@@ -32,7 +32,7 @@ Pakinam Mekki
     - Pulmonary artery perforation / rupture
     - Endocardial/valvular damage
 
-PAC Pressure Tracings
+## PAC Pressure Tracings
 
 <figure markdown>
 ![image](../images/image7.png)
