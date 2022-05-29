@@ -278,7 +278,7 @@ Soibhan Kelley
         warmed humidified inspired air, warmed bladder lavage
     - More extreme methods such as peritoneal/thoracic lavage more likely
         to be used in severe environmental cases in ED
-- Pulseless severe hypothermia (“You aren’t dead unless you are warm
+- Pulseless severe hypothermia (“You aren't dead unless you are warm
     and dead”)
     - Continue CPR until re-warmed as severe hypothermia is
         neuroprotective and pts can have good neurologic outcomes despite
@@ -384,7 +384,7 @@ Blake Funke
 | Large bore nasal cannula                                                 | Up to 15 | Up to 65% | Can be identified by larger bore tubing (often green) and nose piece. Colloquially referred to as HFNC at VUMC, but true HFNC = optiflow |
 | Venturi mask                                                             | 4 to 15  | 24 – 50%  | Actual FiO2 is dependent on patient effort                                                                                               |
 | Non-rebreather                                                           | 10 to 15 | 65-95%    | Often used as a bridge to higher level of O2 therapy                                                                                     |
-| HFNC: Optiflow, AirVo                                                    | Up to 60 | 30-100%   | Delivers 0.5-1 cm/H2O of PEEP per 10L of flow                                                                                            |
+| HFNC: Optiflow (VUMC), AirVo (NAVA)                                                    | Up to 60 | 30-100%   | Delivers 0.5-1 cm/H2O of PEEP per 10L of flow                                                                                            |
 | *\*Use of all of these modes requires a spontaneously breathing patient* |          |           |                                                                                                                                          |
 
 ## Non-invasive positive pressure ventilation
@@ -554,7 +554,7 @@ Jared Freitas
 <tbody>
 <tr class="odd">
 <td>High Peak Pressure</td>
-<td>Static compliance issue (stretch of the lung-doesn’t change with
+<td>Static compliance issue (stretch of the lung - doesn't change with
 airflow) versus dynamic compliance issue (resistance of the circuit when
 there is air flowing)</td>
 <td><p>Step 1: Check plateau pressure by performing inspiratory hold.
@@ -617,7 +617,7 @@ WNL</strong></p>
 <p><strong>If low RR and no leak and Vt at goal</strong></p>
 <ul>
 <li><p>Patient may be oversedated</p></li>
-<li><p>Ensure pt has a back-up rate in case they aren’t triggering the
+<li><p>Ensure pt has a back-up rate in case they aren't triggering the
 vent-&gt;may need to switch vent modes for this (i.e. take off pressure
 support) or increase set/ventilator respiratory rate</p></li>
 </ul></td>
@@ -924,7 +924,7 @@ Jared Freitas
     - Fenestration (may or may not have): allow speaking without valve
 - Common sizes:
     - Initial: 8-0; Standard downsizing: 6-0
-    - Lengths: standard vs. larger XLT (P = longer proximal end, D =
+    - Lengths: standard vs larger XLT (P = longer proximal end, D =
         longer distal end)
 - Presenting on ICU rounds = size/cuff status/brand (e.g. 8-0 cuffed
     shiley)
@@ -1115,7 +1115,7 @@ brain death exam
 
 <figure markdown>
   ![brain death](../images/image14.png)
-  <figcaption>Greer DM, Determination of Brain Death. NEJM. 2021;385;2554-61. doi:
+  <figcaption>Greer DM, Determination of Brain Death. NEJM. 2021;385;2554-61. DOI:
 0.1056/NEJMcp2025326</figcaption>
 </figure>
 
@@ -1212,7 +1212,7 @@ shock</td>
 </tr>
 <tr class="even">
 <td><p><strong>ANG II</strong></p>
-<p><strong>*needs approval MICU leadership</strong></p></td>
+<p><strong>needs approval from MICU leadership</strong></p></td>
 <td>20 – 40 ng/kg/min</td>
 <td>ANG II</td>
 <td>Refractory vasodilatory shock</td>
@@ -1224,7 +1224,7 @@ failure</td>
 <td>2 – 20 mcg/kg/min</td>
 <td>Dopamine (1-5 mcg) &gt; β1 (5-10 mcg) &gt;α1 (&gt;10mcg)</td>
 <td>Hypotension, Cardiogenic shock</td>
-<td>Tachy-arrhythmias, Peripheral ischemia, skin necrosis</td>
+<td>Tachy-arrhythmias, peripheral ischemia, skin necrosis</td>
 </tr>
 <tr class="even">
 <td><strong>Dobutamine</strong></td>
@@ -1238,7 +1238,7 @@ failure</td>
 <td>0.375 – 0.75 mcg/kg/min</td>
 <td>PDE-3</td>
 <td>Cardiogenic shock</td>
-<td>Hypotension, Renally cleared</td>
+<td>Hypotension, renally cleared</td>
 </tr>
 </tbody>
 </table>
@@ -1293,7 +1293,7 @@ periods with sudden discontinuation</td>
 <td colspan="2"><p>Push: 0.5 – 10 mg</p>
 <p>Infusion: 0.5 – 5 mg/h (no max dose)</p></td>
 <td colspan="2">Benzodiazepine</td>
-<td colspan="3">Hypotension. propylene glycol carrier - AGMA</td>
+<td colspan="3">Hypotension, propylene glycol carrier - AGMA</td>
 </tr>
 <tr class="even">
 <td><strong>Ketamine</strong></td>
@@ -1579,9 +1579,9 @@ Daniel Motta-Calderon
 ### Post-extubation complications
 
 - Post-extubation stridor: 2/2 laryngeal edema
-- Positive cuff leak test= high risk methylprednisolone 20 mg i.v. q4h
+- Positive cuff leak test= high risk methylprednisolone 20 mg IV q4h
     x 4 prior to extubation to prevent
-- If after extubation: Methylprednisolone 40 mg i.v. x1 dose + inhaled
+- If after extubation: Methylprednisolone 40 mg IV x1 dose + inhaled
     racemic epinephrine. If stridor \>60minutes, consider reintubation
 - Cuff leak test:
     - Suction secretions and set the ventilator into the AC mode
