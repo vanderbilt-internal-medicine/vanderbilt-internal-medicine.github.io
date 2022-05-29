@@ -18,14 +18,8 @@ plugins:
       add_to_navigation: true
       print_page_title: 'Print Site'
       add_print_site_banner: true
-#   - spellcheck:
-#       known_words: dict.txt # after we make a known_words.txt, this may be a useful plugin
-#       ignore_code: yes
-#       min_length: 2
-#       max_capital: 1
-#       allow_unicode: yes
-#       skip_files:
-#       - credits.md
+      enumerate_headings: false
+      enumerate_figures: false
 
 theme:
   name: material

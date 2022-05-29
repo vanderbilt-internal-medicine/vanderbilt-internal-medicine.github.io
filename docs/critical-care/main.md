@@ -1115,7 +1115,7 @@ brain death exam
 
 <figure markdown>
   ![brain death](../images/image14.png)
-  <figcaption>Greer DM, Determination of Brain Death. *NEJM.* 2021;385;2554-61. doi:
+  <figcaption>Greer DM, Determination of Brain Death. NEJM. 2021;385;2554-61. doi:
 0.1056/NEJMcp2025326</figcaption>
 </figure>
 
