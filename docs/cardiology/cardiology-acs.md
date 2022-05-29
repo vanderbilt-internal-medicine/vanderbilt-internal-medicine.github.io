@@ -1,6 +1,8 @@
 # Acute Coronary Syndromes
+
 Anna Berry
 
+---
 
 ## Background
 -   Completely or partially occluding thrombus on a disrupted

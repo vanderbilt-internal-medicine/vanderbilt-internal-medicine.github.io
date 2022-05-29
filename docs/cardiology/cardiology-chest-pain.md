@@ -2,6 +2,8 @@
 
 Nicholas King
 
+---
+
 ## Chest Pain / Angina Framework
 
 -   Determining likelihood that chest pain has a cardiac etiology
