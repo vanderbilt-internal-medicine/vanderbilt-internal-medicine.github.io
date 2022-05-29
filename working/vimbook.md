@@ -985,7 +985,7 @@ immunocompromised</td>
 congestive</td>
 <td><p>RUQ pain ± jaundice</p>
 <p>EtOH, Tylenol or IVDU</p></td>
-<td>LFTs, INR, ETOH, ylenol lvl, viral panel, RUQ U/S + dopplers;
+<td>LFTs, INR, ETOH, Tylenol lvl, viral panel, RUQ U/S + dopplers;
 CT</td>
 </tr>
 <tr class="even">
@@ -1223,7 +1223,7 @@ hyperpigmentation</td>
 <td>DKA</td>
 <td>Nausea, emesis, general abdominal pain</td>
 <td><p>CBC, BMP, U/A</p>
-<p>β – hydroxy butyrate</p></td>
+<p>β–hydroxy butyrate</p></td>
 </tr>
 <tr class="even">
 <td>Hypercalcemia</td>
@@ -2333,7 +2333,7 @@ Presentation
 - Enzymes (lipase or amylase) \>3x ULN (use lipase, much more
     specific)
 
-- \*If pain is characteristic and lipase \> 3xULN, no need for CT A/P
+- \*If pain is characteristic and lipase \> 3x ULN, no need for CT A/P
 
 <!-- -->
 
@@ -3724,8 +3724,7 @@ patients across all settings of care:
 
 - **M**obility: Assess and optimize mobility
 
-Vanderbilt’s FACETS Inpatient Geriatrics Curriculum:
-https://sites.google.com/view/facetscourse
+Vanderbilt’s FACETS Inpatient Geriatrics Curriculum: <https://sites.google.com/view/facetscourse>
 
 Physiological Changes with Aging
 
@@ -7097,7 +7096,7 @@ dyscrasia or amyloidosis</p>
 insufficiency</p>
 <p> </p>
 <p>Helpful in pts that only produce Bence-Jones protein (FLC w/o heavy
-chain) which isn’t seen on SPEP</p></td>
+chain) which isn't seen on SPEP</p></td>
 <td><p>Detects albumin, not light chains</p>
 <p> </p>
 <p>In myeloma cast nephropathy, dipstick will be negative since
@@ -9957,21 +9956,21 @@ transfusion prior to 1990s, intranasal cocaine use and mass vaccinations
 (in 3rd world countries)</td>
 </tr>
 <tr class="odd">
-<td>Autoimmune hepatitis*</td>
+<td>Autoimmune hepatitis\*</td>
 <td>Autoantibodies and high serum globulins</td>
 <td>Anti-smooth muscle (f-actin), ANA, ANCA, anti-liver kidney microsome
 (anti-LKM-1), anti-soluble liver antigen/liver-pancreas IgG</td>
 </tr>
 <tr class="even">
-<td>Budd-Chiari Syndrome*</td>
+<td>Budd-Chiari Syndrome\*</td>
 <td>Hepatic vein obstruction</td>
 <td>Ultrasound of abdomen w/ doppler, CT w/ contrast</td>
 </tr>
 <tr class="odd">
-<td>DILI – Drug Induced Liver Injury*<sup>$</sup></td>
+<td>DILI – Drug Induced Liver Injury\*<sup>$</sup></td>
 <td>Many drugs</td>
 <td>See above<br />
-*Query NIH Liver Tox database: <a
+\*Query NIH Liver Tox database: <a
 href="https://www.livertox.nih.gov">https://www.livertox.nih.gov</a></td>
 </tr>
 <tr class="even">
@@ -9991,13 +9990,13 @@ hypotension</td>
 <td>UDS, ethanol level, PEth lvl</td>
 </tr>
 <tr class="odd">
-<td>Wilson’s Disease*</td>
+<td>Wilson’s Disease\*</td>
 <td>Copper overload</td>
 <td>Ceruloplasmin level (screening), 24h urine copper (confirmation),
 quantitative copper on liver biopsy</td>
 </tr>
 <tr class="even">
-<td colspan="3"><em>*May present with chronic liver injury as well; $May
+<td colspan="3"><em>\*May present with chronic liver injury as well; $May
 present with AST/ALT &gt;100</em></td>
 </tr>
 </tbody>
@@ -10019,8 +10018,6 @@ Evaluation
     evaluation)
 
 - Labs:
-
-<!-- -->
 
 - CBC w/diff, CMP, Dbili, Mg, Phos, T&S, BCx, UCx, PT/INR, aPTT,
     fibrinogen
@@ -10815,7 +10812,7 @@ To do when admitting a patient with wounds:
 
 <!-- -->
 
-- If there is a an urgent/emergent wound need (i.e. needs surgical
+- If there is an urgent/emergent wound need (i.e. needs surgical
     eval or management), consult the appropriate surgical service
 
 - While awaiting consultation, initiate topical wound care orders
@@ -11052,7 +11049,7 @@ Wound Care (order while awaiting consultant recs)
 
 <!-- -->
 
-- Medication order required: Venelex (balsam peru- castor oil)
+- Medication order required: Venelex (balsam peru-castor oil)
     ointment q4h; in admin instructions put location to apply ointment
     and put “no dressing”
 
@@ -11077,7 +11074,7 @@ Wound Care (order while awaiting consultant recs)
 
 - Vanderbilt surgeon – consult Vanderbilt provider to provide care
 
-    - Ensure connected to VUMC wound VAC. Pt shouldn’t use home unit
+    - Ensure connected to VUMC wound VAC. Pt shouldn't use home unit
         while admitted
 
     - Order “nursing communication” to “Obtain wound VAC hospital
@@ -11256,7 +11253,7 @@ Management
 <td><p>Cephalexin 500 QID</p>
 <p>Cefadroxil 1g BID</p>
 <p>Dicloxacillin 500 QID</p>
-<p>*Clindamycin 300-450 q6</p></td>
+<p>\*Clindamycin 300-450 q6</p></td>
 <td><p>TMP/SMX 1-2 DS tabs BID</p>
 <p>Doxycycline 100 BID</p></td>
 </tr>
@@ -11269,7 +11266,7 @@ Management
 <td>Vancomycin</td>
 </tr>
 <tr class="odd">
-<td colspan="4">*<em>Consider for PCN allergy; check antibiogram (VUMC
+<td colspan="4">\*<em>Consider for PCN allergy; check antibiogram (VUMC
 vs VA) for Staph sensitivities; clindamycin should NOT be used for strep
 coverage</em></td>
 </tr>
@@ -11480,7 +11477,7 @@ days)</p></td>
 <td><p>Ertapenem 1g q24 instead of Meropenem if no
 <em>Pseudomonas</em></p>
 <p>Ciprofloxacin 750mg PO BID (500 mg PO BID if bacteremia ruled out) OR
-400mg IV BID (if susceptibility confirmed)*</p></td>
+400mg IV BID (if susceptibility confirmed)\*</p></td>
 </tr>
 </tbody>
 </table>
@@ -11651,8 +11648,8 @@ Background
     epididymitis, reactive arthritis, pharyngitis, lymphogranuloma
     venereum (LGV), endemic trachoma
 
-- Differential diagnosis: *Neisseria gonorrhoeae, Trichomonas
-    vaginalis, Mycoplasma genitalium*
+- Differential diagnosis: Neisseria gonorrhoeae, Trichomonas
+    vaginalis, Mycoplasma genitalium
 
 Evaluation
 
@@ -11783,10 +11780,10 @@ re-infected)</td>
 <tr class="even">
 <td><strong>- Non-treponemal</strong></td>
 <td>Likely history of successfully treated syphilis</td>
-<td>Likely not syphilis, or false negative (due to prozone* effect)</td>
+<td>Likely not syphilis, or false negative (due to prozone\* effect)</td>
 </tr>
 <tr class="odd">
-<td colspan="3"><em>*Prozone effect:</em> when there is an overabundance
+<td colspan="3"><em>\*Prozone effect:</em> when there is an overabundance
 of antibodies and they interfere with clumping/formation of
 antigen-antibody complex so agglutination cannot be visualized</td>
 </tr>
@@ -12109,7 +12106,7 @@ Management
 <tbody>
 <tr class="odd">
 <td>No MRSA or Pseudomonas suspected</td>
-<td><p>Low Risk*:</p>
+<td><p>Low Risk\*:</p>
 <p>-Amoxicillin 1g TID</p>
 <p>High Risk:</p>
 <p>-Amoxicillin-clavulanate 875/125 BID + Macrolide</p>
@@ -12524,7 +12521,7 @@ GRAM POSITIVE RODS
 <p>Stop empiric vancomycin IV</p></td>
 </tr>
 <tr class="even">
-<td><p>Other Gram positive rod (eg <em>Bacillus cereus, Corynebacterium,
+<td><p>Other Gram positive rod (e.g. <em>Bacillus cereus, Corynebacterium,
 Cutibacterium acnes, Lactobacillus</em>)</p>
 <p>-Often skin contaminant</p>
 <p>-Repeat cultures, start therapy if uncertain</p></td>
@@ -12664,18 +12661,14 @@ Background
         viridans group *streptococci*, *Strep gallolyticus* (formerly
         *S. bovis*)
 
-    - HACEK: *Haemophilus, Aggregatibacter, Cardiobacterium,
-        Eikenella, Kingella*
+    - HACEK: *Haemophilus, Aggregatibacter, Cardiobacterium, Eikenella, Kingella*
 
 - Other infectious
 
     - Culture negative: often recent antimicrobial exposure, slow
         growing organism
-
-    - *Coxiella, Brucella, Bartonella, Chlamydia, Legionella,
-        Mycoplasma, Tropheryma whipplei, Cutibacterium acnes* (formerly
-        *P. acnes*)
-
+    - *Coxiella*, *Brucella*, *Bartonella*, *Chlamydia*, *Legionella*,
+        *Mycoplasma*, *Tropheryma whipplei*, *Cutibacterium acnes* (formerly *P. acnes*)
     - Fungal: *Candida* and *aspergillus* most common
 
 - Non-infectious: a.k.a., marantic endocarditis, Libbman-Sacks
@@ -12683,9 +12676,7 @@ Background
 
     - Rare, most common in advanced malignancy, SLE, inflammatory
         conditions
-
     - Higher risk for embolization compared to IE
-
     - Risk factors: IV drug use, congenital heart disease, valve
         abnormalities, intracardiac devices, recent cardiac surgery
 
@@ -13889,7 +13880,7 @@ Antimicrobial Prophylaxis per CD4 Counts – Rachael Pellegrino
 <td>CD4 &lt; 200, or CD4 &lt; 14%, may consider discontinuation if CD4
 100-200 in setting of viral suppression</td>
 <td>TMP-SMX: 1 DS daily (qd), or TMP-SMX: 1SS qd TMP-SMX: 1 DS TIW</td>
-<td>If intolerant of TMP-SMX: dapsone*, or inhaled pentamidine, or
+<td>If intolerant of TMP-SMX: dapsone\*, or inhaled pentamidine, or
 atovaquone</td>
 </tr>
 <tr class="even">
@@ -14229,9 +14220,9 @@ Background
 
 KDIGO Criteria for CI-AKI:
 
-- sCr increase by 0.5mg/dl or 25% increase in sCr from baseline **48 H
+- sCr increase by 0.5mg/dl or 25% increase in sCr from baseline 48 H
     after radiologic procedure where intravenous contrast was
-    administered**
+    administered
 
 Who is at risk for CI-AKI?
 
@@ -14583,7 +14574,7 @@ Background/Terminology
     ultrafiltration. Solutes are removed through the process of solvent
     drag. The effluent in this case is isotonic to plasma
 
-- **Total ultrafiltration (UF**)- overall ultrafiltration volume
+- **Total ultrafiltration (UF)** - overall ultrafiltration volume
     produced during treatment
 
 - **UF net** - net ultrafiltrate volume removed from the patient by
@@ -16918,8 +16909,8 @@ Stroke
 
 Background
 
-- **Preferred term: Stroke (CVA is like saying heart attack instead of
-    STEMI)**
+- Preferred term: Stroke (CVA is like saying heart attack instead of
+    STEMI)
 
 - Sudden onset, focal (usually one-sided) neurologic deficits:
     weakness, sensory loss, vision loss, ataxia/unsteadiness, vertigo,
@@ -17774,7 +17765,7 @@ Indomethacin</td>
 the days of the month; often presents as worsening HA despite increased
 intake of medication. Often seen with meds that include caffeine
 (Excedrin, fioricet)</td>
-<td>*STOP offending medication, typically via taper. HA will worsen
+<td>\*STOP offending medication, typically via taper. HA will worsen
 before it gets better, start concurrent daily prophylactic headache
 medication</td>
 </tr>
@@ -19817,7 +19808,7 @@ Figure from 2018 ACC/AHA Guideline on Management of Blood Cholesterol
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>Atorvastatin (40mg) 80mg*</p>
+<td><p>Atorvastatin (40mg) 80mg\*</p>
 <p>Rosuvastatin 20mg (40mg)</p></td>
 <td><p><strong>Atorvastatin 10mg</strong> (20mg)</p>
 <p><strong>Rosuvastatin</strong> (5mg) <strong>10mg</strong></p>
@@ -19901,7 +19892,7 @@ Hypertriglyceridemia:
 
 VA- Specific Guidelines
 
-- https://www.healthquality.va.gov/guidelines/cd/lipids/index.asp
+- <https://www.healthquality.va.gov/guidelines/cd/lipids/index.asp>
 
 - Lowest LDL goal recognized for VA Criteria for Use is 100
 
@@ -23031,9 +23022,9 @@ Faculty Editor: Garren Montgomery, MD
 
 Adapted from Procedure Service Guidebook by Tyson Heller, MD
 
-Procedure Service Video: https://www.youtube.com/watch?v=UfYmVX8llZk
+Procedure Service Video: <https://www.youtube.com/watch?v=UfYmVX8llZk>
 
-Making an ultrasound note: https://www.youtube.com/watch?v=jIqHOyze2T4
+Making an ultrasound note: <https://www.youtube.com/watch?v=jIqHOyze2T4>
 
 Consent
 
@@ -23100,10 +23091,8 @@ Paracentesis
 
 Video Guide
 
-- VUMC Procedure Service video:
-    https://www.youtube.com/watch?v=pQSsb9705LE&t=160s
-
-- NEJM video: https://www.youtube.com/watch?v=KVpwXK7cvzQ
+- VUMC Procedure Service video: <https://www.youtube.com/watch?v=pQSsb9705LE&t=160s>
+- NEJM video: <https://www.youtube.com/watch?v=KVpwXK7cvzQ>
 
 Indications
 
@@ -23188,7 +23177,7 @@ Post-procedural considerations
 
 Thoracentesis
 
-NEJM Video Guide: https://www.youtube.com/watch?v=ivTyH09BcHg
+NEJM Video Guide: <https://www.youtube.com/watch?v=ivTyH09BcHg>
 
 Indications
 
@@ -23275,7 +23264,7 @@ Post-procedural considerations
 
 Central Line
 
-NEJM video guide: https://www.youtube.com/watch?v=qeVdRCqy_mo
+NEJM video guide: <https://www.youtube.com/watch?v=qeVdRCqy_mo>
 
 Indications
 
@@ -23424,7 +23413,7 @@ Post-procedural considerations
 
 Lumbar Puncture
 
-NEJM video Guide: https://www.youtube.com/watch?v=xnH9gECy_wU
+NEJM video Guide: <https://www.youtube.com/watch?v=xnH9gECy_wU>
 
 Indications
 
@@ -23522,8 +23511,7 @@ Post-procedural considerations
 
 Arterial Line
 
-NEJM video Guide:
-https://www.youtube.com/watch?v=8hK04ai17-k&list=PLaxEyg3FbHI8x5IQMWD0qtbXEzN5RdIKM&index=3
+NEJM video Guide: <https://www.youtube.com/watch?v=8hK04ai17-k&list=PLaxEyg3FbHI8x5IQMWD0qtbXEzN5RdIKM&index=3>
 
 Indications
 
@@ -23600,7 +23588,7 @@ Post- procedural considerations
 
 US-Guided PIV
 
-VUMC video Guide: https://www.youtube.com/watch?v=GQGhciB6TvM
+VUMC video Guide: <https://www.youtube.com/watch?v=GQGhciB6TvM>
 
 Indications
 
@@ -26590,7 +26578,7 @@ Summary of Medicare Part B Guidelines for Home Oxygen:
     within two days of discharge from an inpatient hospital stay (after
     treatment of acute exacerbating conditions)
 
-- Criteria: Resting SpO2 ≤ 88% (or PaO2 \<55) or SpO2 <u>\<</u>88%
+- Criteria: Resting SpO2 ≤ 88% (or PaO2 <55) or SpO2 <88%
     with ambulation
 
     - Must be documented in chart
@@ -26833,7 +26821,7 @@ Common Radiology Exams by Suspected Diagnosis
 </table>
 
 See ACR appropriateness criteria for additional Information.
-(https://www.acr.org/Clinical-Resources/ACR-Appropriateness-Criteria)
+(<https://www.acr.org/Clinical-Resources/ACR-Appropriateness-Criteria>)
 
 Basic Chest X-ray Interpretation – Gautam Babu
 
@@ -26970,7 +26958,7 @@ alt="A picture containing indoor, tattoo, plant Description automatically genera
 
 Chapter 15. Imaging Studies. Gomella L.G., & Haist S.A. (Eds.), (2007).
 Clinician's Pocket Reference: The Scut Monkey, 11e. McGraw Hill.
-htps://accessmedicine.mhmedical.com/content.aspx?bookid=365&sectionid=43074924
+<https://accessmedicine.mhmedical.com/content.aspx?bookid=365&sectionid=43074924>
 
 Basic Abdominal X-ray Interpretation
 
@@ -27010,7 +26998,7 @@ important reminders:
     up to 9cm. Remainder of colon should be under 6cm. Stool burden?
     Twist/volvulus?
 
-- Gas (where it shouldn’t be) – look for lucency against straight
+- Gas (where it shouldn't be) – look for lucency against straight
     lines (diaphragm, liver, falciform).
 
 <!-- -->
@@ -27018,7 +27006,7 @@ important reminders:
 - Large volume air can also outline bowel wall against intraluminal
     air
 
-- Bowel wall shouldn’t have gas (pneumatosis)
+- Bowel wall shouldn't have gas (pneumatosis)
 
 - Liver gas can be pneumobilia (prior ERCP/stent) or portal venous gas
     (from ischemic bowel)
@@ -27204,7 +27192,7 @@ Drain Management
         - Epic order: Alteplase (TPA) injection/infusion options
             Percutaneous drainage 2mg or 4mg
 
-    - If this doesn’t improve output in 48 hours, consider
+    - If this doesn't improve output in 48 hours, consider
         repositioning drain (VIR consult)
 
 Additional References
@@ -27589,7 +27577,7 @@ dilation)</p></td>
 Contrast Allergies or Extravasation
 
 See ACR contrast manual for additional Information
-(https://www.acr.org/Clinical-Resources/Contrast-Manual)
+(<https://www.acr.org/Clinical-Resources/Contrast-Manual>)
 
 <img src="output/media/image34.png"
 style="width:3.56291in;height:4.31726in"
@@ -28178,7 +28166,7 @@ disease</td>
 </tr>
 <tr class="even">
 <td>Scleroderma-related antibodies (any of anti-centromere,
-anti-topoisomerase I [anti-ScL 70], anti-RNA polymerase III)</td>
+anti-topoisomerase I [anti-cL 70], anti-RNA polymerase III)</td>
 <td></td>
 <td>3</td>
 </tr>
@@ -29416,7 +29404,7 @@ TNF-inhibition
 <td><p>Certolizumab</p>
 <p>(Cimzia)</p></td>
 <td>humanized mAb Fab fragment against TNFα</td>
-<td>RA, Crohn’s, AS, psoriasis; *approved for use during pregnancy</td>
+<td>RA, Crohn’s, AS, psoriasis; \*approved for use during pregnancy</td>
 <td>skin rash, nausea, URI</td>
 </tr>
 <tr class="odd">
@@ -29497,7 +29485,7 @@ dry as a bone, blind as a bat, mad as a hatter”)</td>
 sedative/hyponotic withdrawal, pseudoephedrine, caffeine</td>
 <td>Hyperthermia, mydrasis, diaphoresis, tachycardia, arrythmias,
 hypertension, seizures</td>
-<td>None, supportive care; benzodiazepines as needed*</td>
+<td>None, supportive care; benzodiazepines as needed\*</td>
 </tr>
 <tr class="even">
 <td>Opioid</td>
@@ -29524,7 +29512,7 @@ tachycardia, hypertension, nystagmus</td>
 <td>SSRIs, SNRIs, MOAIs</td>
 <td>Hyperreflexia, myoclonus, diaphoresis, flushing, diarrhea,
 hyperthermia, tachycardia, confusion, agitation, coma</td>
-<td>Supportive care; benzodiazepines as needed*; contact toxicology
+<td>Supportive care; benzodiazepines as needed\*; contact toxicology
 prior to using cyproheptadine</td>
 </tr>
 <tr class="even">
@@ -31015,9 +31003,9 @@ accurately reflected on the DIPN.
     cosigner" ALWAYS add the patient's PCP, may add other consultants or
     subspecialists for continuity
 
-VUMC and VA Door Codes and Ultrasound Locations
+# VUMC and VA Door Codes and Ultrasound Locations
 
-**VUMC**
+## VUMC
 
 Resident Library – 431
 
@@ -31051,7 +31039,7 @@ GME Resident Lounge (TVC, 2806) – 215
 
 Many door entries at VUMC – 016 or 0160
 
-**VUMC US Locations**
+## VUMC US Locations
 
 8N behind RN station
 
@@ -31061,7 +31049,7 @@ Many door entries at VUMC – 016 or 0160
 
 Please don't take MICU or CCU ultrasounds off the units!
 
-**VA**
+## VA
 
 Team Rooms – 531
 
@@ -31069,7 +31057,7 @@ Richard Frances Conference Room – code is written above the door
 
 VA Supply rooms – 541. VA MICU Supply Room – 541#
 
-**VA Ultrasound Location**
+## VA Ultrasound Location
 
 Internal Medicine office suite on 2G, in the hospitalist work room
 (across hall from chief office) - the hospitalist on call can unlock if
