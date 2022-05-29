@@ -189,17 +189,17 @@ Antibiotics
 
 Resuscitation
 
-    - Give 1-3 L (≥30 mL/kg of body weight) of IV balanced crystalloid
-        within first 3 hours
-    - Only give blood if Hb \< 7, unless evidence of bleeding or
-        myocardial ischemia
-    - Monitor HR, BP, mental status, urine output – do NOT give
-        beta-blockers to slow HR in the setting of sepsis unless dangerously
-        high and limiting diastolic filling (discuss with fellow), this is
-        an appropriate stress response
-    - Assess fluid responsiveness by leg raise (if BP improves with leg
-        raise, give more fluids). Other options US IVC (mixed data), pulse
-        pressure
+- Give 1-3 L (≥30 mL/kg of body weight) of IV balanced crystalloid
+    within first 3 hours
+- Only give blood if Hb \< 7, unless evidence of bleeding or
+    myocardial ischemia
+- Monitor HR, BP, mental status, urine output – do NOT give
+    beta-blockers to slow HR in the setting of sepsis unless dangerously
+    high and limiting diastolic filling (discuss with fellow), this is
+    an appropriate stress response
+- Assess fluid responsiveness by leg raise (if BP improves with leg
+    raise, give more fluids). Other options US IVC (mixed data), pulse
+    pressure
 
 Vasopressors
 
