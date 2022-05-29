@@ -4,7 +4,7 @@ Leonard Chiu
 
 ---
 
-# Background
+## Background
 
 - Orthostatic Hypotension: SBP ↓ \> 20 mmHg, DBP ↓ \> 10 mmHg), or HR
     Increase \> 30 within 3 min of standing up or head-up tilt to 60% on
@@ -22,7 +22,7 @@ Leonard Chiu
     (diuretics, alpha-1 blockers, BB, etc), pump failure (severe AS,
     arrhythmia)
 
-# Evaluation
+## Evaluation
 
 - Orthostatic vitals signs (checking supine, sitting, and standing
     with 5-minute wait in each position)
@@ -34,7 +34,7 @@ Leonard Chiu
     4 hours prior
 - Hold oral pressors and antihypertensives 12 hours prior
 
-# Management
+## Management
 
 - Conservative:
 - TED hose and abdominal binder for ambulation
