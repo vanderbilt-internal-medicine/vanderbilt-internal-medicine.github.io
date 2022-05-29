@@ -4,7 +4,7 @@ Kunal Patel, Madeline Rukavina
 
 ---
 
-# Acute management of arrhythmias
+## Acute management of arrhythmias
 
 - 12-lead EKG if possible and have defib pads on patient
 - Is the patient unstable (hypotensive, signs/symptoms of
@@ -19,11 +19,13 @@ Kunal Patel, Madeline Rukavina
 
 ---
 
-# Bradyarrhythmias
+## Bradyarrhythmias
 
 Kunal Patel
 
-## Background
+---
+
+### Background
 
 - Broadly classified as sinus node dysfunction (pacing defect) or
     atrioventricular block (conduction defect)
@@ -32,7 +34,7 @@ Kunal Patel
 - Unlikely to cause symptoms if HR \>50
 - Symptoms include syncope/presyncope, dyspnea, angina
 
-## Etiologies
+### Etiologies
 
 - Infection/sepsis
 - Ischemia
@@ -56,12 +58,12 @@ AV Block
 
 ![AV block](../images/image2.png)
 
-## Evaluation
+### Evaluation
 
 - TTE if structural disease suspected
 - Ambulatory cardiac monitoring if frequently symptomatic
 
-## Management
+### Management
 
 - Avoid nodal blocking agents – Adenosine, Beta-blockers, CCBs,
     Digoxin
@@ -78,11 +80,13 @@ AV Block
       (Pacer pads on the defib device are capable of pacing,
       but don’t forget to sedate!)
 
-# Tachyarrhythmias - Narrow complex
+## Tachyarrhythmias - Narrow complex
 
 Kunal Patel
 
-## Background
+---
+
+### Background
 
 - Three causes of tachyarrhythmias
     - Re-entry: patient with structural heart disease (ex post-infarction
@@ -96,7 +100,7 @@ Tachyarrhythmia differential
 
 ![tachyarrhythmia](../images/image3.png)
 
-## Evaluation
+### Evaluation
 
 - Unstable tachyarrhythmia
 - Start with treatment, determine type later
@@ -104,7 +108,7 @@ Tachyarrhythmia differential
     0.5-2mg IV midazolam for sedation, prepare for synchronized
     cardioversion at 200J (can ↑ to 300-360 J)
 
-## Management
+### Management
 
 - Sinus tachycardia
     - Almost always secondary
@@ -200,11 +204,13 @@ conduction</td>
 </tbody>
 </table>
 
-# Tachyarrhythmias - Wide Complex
+## Tachyarrhythmias - Wide Complex
 
 Madeline Rukavina
 
-## Definitions
+---
+
+### Definitions
 
 Ventricular tachycardia (VT): a run of 3+ PVCs
 
@@ -253,7 +259,7 @@ Many ways to differentiate VT vs. SVT w/ aberrancy
 - There are more advanced criteria to help distinguish. The aVR
     (Vereckie) criteria is one example that is fast and accurate
 
-## Management
+### Management
 
 Unstable
 
@@ -315,11 +321,13 @@ reached</td>
 - Treatment of underlying cause if identifiable
     - Ischemia, electrolyte disturbances, heart failure, drugs
 
-# Premature Ventricular Complexes (PVCs)
+## Premature Ventricular Complexes (PVCs)
 
 Madeline Rukavina
 
-## Background
+---
+
+### Background
 
 - Premature Ventricular Complex (PVC): early ventricular
     depolarization +/- mechanical contraction
@@ -328,13 +336,13 @@ Madeline Rukavina
 - PVCs are common: Up to 80% of apparently healthy people have PVCs
 - Normal number of PVCs in an adult is \<500 in 24h
 
-## Etiologies
+### Etiologies
 
 - HTN with LVH, prior MI/scar, HF, myocarditis, ARVC, HCM, idiopathic
     VT, OSA, pHTN, COPD, thyroid disease, substance use (EtOH, nicotine,
     stimulants, caffeine)
 
-## Inpatient Evaluation & Management
+### Inpatient Evaluation & Management
 
 - 12 lead EKG: conduction disease, long QT syndrome, Brugada syndrome,
     ARVC
