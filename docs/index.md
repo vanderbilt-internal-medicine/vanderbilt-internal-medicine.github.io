@@ -1,7 +1,5 @@
 # Home
 
-TEST
-
 This is the online home of the Vanderbilt Internal Medicine Residency Handbook.
 
 # Dedication
