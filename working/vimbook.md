@@ -30410,73 +30410,61 @@ Uploading Records to EPIC
 
 - Exit out of Media Manager and refresh chart
 
-VUMC: Vanderbilt University Medical Center Rotations
 
-General Internal Medicine
+# VUMC Rotations
 
-Morgan (1 – 6)
+## Morgan (1 – 6)
 
 - Team: 1 Res, 1 Intern with patient cap of 10
-
 - Pagers: Morgan 1: 831-4765, Morgan 2: 831-4766, Morgan 3: 831-4767,
     Morgan 4: 831-4768, Morgan 5: 831-8481, Morgan 6: 831-4781
-
 - Pick up list at 6 AM in res library on 8N (code 431), admit until
     5:30 PM, sign-out 6 PM
-
 - Admitting: Teams 1-3-5 & 2-4-6 alternate admitting days (just like
     VA)
-
-<!-- -->
-
 - Non-admitting teams can sign out once their work is complete as
     early as 2PM on weekdays and 12PM on weekends
-
-<!-- -->
-
 - Rounding time and meeting location varies by attending (typically
     between 7 to 8 AM)
-
 - Work room: team-specific rooms labelled on hall behind 7N Nursing
     station (Code 24300)
-
+    - Morgan 5, 6 7755 (no code)
+- Huddle
+    - Morgan 1
+    - Morgan 2
+    - Morgan 3
+    - Morgan 4
+    - Morgan 5 - 1340 on Teams
+    - Morgan 6 - 1350 on Teams
 - Tips: get pharmacist's phone number 1st day, get case
     management/social work phone numbers, place consults as soon as
     possible (preferably before rounds once consult teams arrive at 7
     AM)
 
-Geriatrics
+## Geriatrics
 
 - Team: 1 Res, 1 Intern with patient cap of 10
-
 - Rounds at 8 AM, team meets in the Round Wing workroom
-
 - Work room: 7434
 
-Rogers (Subspecialty Services)
+## Rogers (Subspecialty Services)
 
-All Rogers services
+### All Rogers services
 
 - Team: 1 Res, 1 Intern with patient cap of 10
-
 - Pick up list at 6 AM, admit daily until 5:30 PM, sign-out 6 PM
-
 - Each HPI usually requires special info about the patient’s
     subspecialty diagnosis; refer to primer documents that are available
     for most subspecialty services in the chief's "welcome to the wards"
     email, and see tips below
 
-Rogers Hepatology
+### Rogers Hepatology
 
 - Rounds typically at 8 AM, team meets on 6MCE
-
 - Pager: 831-4782
-
 - Work room: 6MCE, room 6755 near the elevators (no code)
-
 - Review: Hepatology Section, Paracentesis (Procedures), and
     'Surviving Rogers Hep' primer
-
 - Tips: structure one-liner as “cirrhosis secondary to \_\_\_
     decompensated by \_\_\_ (EV bleed, ascites, SBP, HE, or HRS) who
     follows with \_\_\_ (hepatologist) and is \_\_\_ (listed /
@@ -30485,15 +30473,12 @@ Rogers Hepatology
     anticipate at least diagnostic paracentesis on admission if any
     concern for SBP (abdominal pain, AMS, etc.)
 
-Rogers ID
+### Rogers ID
 
 - Rounds typically at 8 AM, team meets in Resident Library (8N)
-
 - Pager: 831-4779
-
 - Work room: 6 Round Wing, 2nd door on left after coming out of
     elevator (no code)
-
 - Tips: Each HPI for pt with HIV should include most recent CCC
     provider, CD4/Viral Load, prior AIDS-defining illnesses and
     compliance to ART; Use ‘Notifications’ tab on main screen in Epic to
@@ -30501,14 +30486,11 @@ Rogers ID
     send-out labs that can take up to two weeks to result (can also hit
     ‘Notify Me’ in dropdown box of Order)
 
-Rogers Pulmonology
+### Rogers Pulmonology
 
 - Rounds typically at 8 AM, team meets at 8N nursing station
-
 - Pager: 831-4777
-
 - Work room: 8 South 8216 (code 2430)
-
 - Tips: Each HPI should include most recent PFTs (FEV1% most
     important, include other relevant data or recent changes); For CF,
     Use the CF admission order set, know typical organisms in patient’s
@@ -30516,16 +30498,13 @@ Rogers Pulmonology
     team; for PH know the therapies they are on (typically Flolan or
     Veletri)
 
-Rogers Renal
+### Rogers Renal
 
 - Rounds typically start 7-7:30 AM, team meets at resident/fellow work
     room on 6MCE
-
 - Pager: 831-4783
-
 - Work room: 6MCE 6772, behind nursing station with renal fellows (no
     code)
-
 - Tips: Each HPI should have renal transplant history with year, type
     of transplant, PRA, Ag MM, CMV D/R; 6MCE charge nurse can get pts
     transferred there; alert the night cross-cover resident to patients
@@ -30535,22 +30514,17 @@ Rogers Renal
     cautious with first dose timing of immunosuppression to keep on
     schedule
 
-Cardiology Services (CHF, Harrison, and CCU)
+## Cardiology Services (CHF, Harrison, and CCU)
 
-CHF - Heart Failure (1 & 2)
+### CHF - Heart Failure (1 & 2)
 
 - Team: 1 Res, 2 Interns on one team with pt cap of 8 per intern (16
     total)
-
 - Pagers: CHF-A: 831-6485, CHF-B: 831-6486
-
 - Pick up list at 6 AM, admit daily until 5PM (alternate admissions,
     resident to help assign)
-
 - Rounds typically at 7 AM, team meets at 7MCE nursing station
-
 - Workroom: 7N room 7024 right before bridge to 7MCE (code 145)
-
 - Tips: Know each patient’s dry weight (usually found in outpatient
     cards notes or at last discharge), know current outpatient diuretic
     regimen, know most recent TTE, RHC, and LHC results (keep this info
@@ -30558,44 +30532,28 @@ CHF - Heart Failure (1 & 2)
     and fluid restriction of 2L/day, obtain iron studies to assess need
     for IV iron, perform volume exams on patients before rounds
 
-Harrison (1 & 2)
+### Harrison (1 & 2)
 
 - Team: 1 Res, 1 Intern on each team with patient cap of 10
-
 - Pagers: Harrison 1: 831-4769, Harrison 2: 831-4770
-
 - Pick up list at 6 AM, admit until 5 PM (Long) or 2 PM (Short)
-
-<!-- -->
-
 - Alternate long and short days with other Harrison team
-
 - Weekends: Only long team admits new patients
-
-<!-- -->
-
 - Rounds typically at 7 AM, team meets at 7MCE Nursing station
-
 - Work room: 5MCE 5181 (code 0701); hard to hear stats so keep door
     propped
-
 - Tips: To order heart cath, must be in the cardiology context in Epic
     “VUMC Cardiology VIR” (order listed as “Case Request Cath Lab” and
     use provider “Surgeon, Generic”)
 
-CCU
+### CCU
 
 - Team: 3 Res, dedicated cards fellow, no specific patient cap
-
 - Pager: 831-6487
-
 - Rounds start at 7 AM on 5N with Interventional rounds, then Advanced
     Heart Failure rounds
-
 - Call room: 5229AA, on 5S behind the nursing station (code 1234#)
-
 - Supply room: on 5N (code 512), equipment/US room: on 5N (code 512)
-
 - Tips: make sure you have access to the Swan sheet folder, have
     someone show you how to fill in Swan numbers, make a new Swan
     document daily, make a schedule so you stay on top of q4h Swan
@@ -30604,21 +30562,16 @@ CCU
     the post-call resident wasn't able to do since post-call is busy
     presenting on rounds
 
-Hematology (Brittingham) & Oncology
+## Hematology (Brittingham) & Oncology
 
-Hematology (Brittingham)
+### Hematology (Brittingham)
 
 - Team: 1 Res, 2 Interns with patient cap of 8 per intern (16 total)
-
 - Pagers: Brittingham 1: 831-4785, Brittingham 2: 831-4788
-
 - Pick up list at 6 AM, admit daily until 5 PM (alternate admissions
     between interns)
-
 - Rounds at 8 AM, team meets on 10T
-
 - Work room: 7MCE conference room (code 0701)
-
 - Tips: Each HPI should include malignancy history (dx, prior tx,
     current tx), utilize the 'treatment' tab to keep on track with chemo
     cycle/day, know the febrile neutropenia algorithm, if possible,
@@ -30626,19 +30579,14 @@ Hematology (Brittingham)
     bedside, low threshold to work any complaints up as bleeds,
     infections, and fevers are common and can be rapidly lethal
 
-Oncology (A & B)
+### Oncology (A & B)
 
 - Team: 1 Res, 1 Intern on each team with patient cap of 10
-
 - Pagers: Oncology A: 831-4786, Oncology B: 831-4787
-
 - Pick up list at 6 AM, admit daily until 5 PM, sign-out 6 PM
-
 - Rounds at 8 AM, team meets on 11N at nursing station
-
 - Workroom: Varied; typically resident library, 11N or 10T, or 7MCE
     Conference room
-
 - Tips: Each HPI should have Onc history (Dot Phrase “.onchist”)
     including dx, prior treatments, most recent imaging; 10T and 11N
     charge nurse can get pts transferred there, know that patients
@@ -30646,21 +30594,16 @@ Oncology (A & B)
     (write delayed admission orders in advance of their arrival to floor
     bed)
 
-VU MICU
+## VU MICU
 
 - Team: 3 Res, 3 Interns, no specific patient cap
-
 - Pagers: MICU 1 Intern Pager: 831-4759, MICU 2 Intern Pager:
     831-4757. Need to also carry the team phone
-
 - Day Intern: 8 AM - 10 PM; Night Intern 9 PM - 11 AM
-
 - Rounds at 8 AM (start with half hour teaching most days)
-
 - Work areas: team 1 sits at computers across from pt room 8641; team
     2 sits at computers across from pt room 8613; ultrasound/equipment
     room code is 4321#; break room code 4321
-
 - Tips: Day 1, figure out if you're the code team and where the I/O
     kit is. Night intern presents all the old patients in the morning
     and signs the notes. The day intern owns the A&P of the notes by
@@ -30668,22 +30611,17 @@ VU MICU
     info to your resident overnight if you’re concerned (wake him/her
     up!)
 
-VU Nights
+## VU Nights
 
 - Start on Sunday night for interns, Wednesday night for residents;
     off Saturday night
-
 - Team: 1 Res, 2 Interns with patient cap of 10 for Morgan/Rogers
     admitting; 1 Res + 1 Intern w/ cap of 10 for Harrison/Heme/Onc (Res
     and Intern split admissions)
-
 - Harrison/Heme/Onc: Start at 6 PM, admit until 5 AM, sign-out by 6 AM
-
 - Morgan/Rogers: Start at 6:30 PM, admit until 5:30 AM, sign-out by
     6:30 AM
-
 - Cross cover: Start at 6 PM (Be on time!), sign-out 6:30 AM
-
 - Tips: ensure you communicate all orders and plans with the resident,
     writing “To do” boxes on the first pages of each printed H&P might
     help you communicate the important aspects of each plan to the day
@@ -30692,52 +30630,30 @@ VU Nights
     Epic. Useful to follow-up on pts admitted previous nights to reflect
     on your diagnosis and workups.
 
-VA: Veterans Affairs Rotations
+# VA: Veterans Affairs Rotations
 
-VA General Wards (1A – 6B)
+## VA General Wards (1A – 6B)
 
 - Always make sure that your VA login works a few days before you are
     scheduled to start!
-
 - Team: 1 Res, 2 Interns with soft patient cap of 8 each (16 total)
-
 - Pagers: See VA Phone/Pager Directory Section for pager numbers
-
 - Pick up list by 6:30 AM In the pulm/ID fellows workroom on the 2nd
     floor (between team 4 workroom and the MICU), sign-out at 6 PM
-
 - Admitting: Teams 1-3-5 & 2-4-6 alternate admitting days and admit
     until 5:30 PM
-
-<!-- -->
-
 - Non-admitting teams can sign out once their work Is complete as
     early as 2PM on weekdays and 12PM on weekends
-
-<!-- -->
-
 - Rounds alternate at 7 AM on admitting days, 8 AM on non-admitting
     days, meet at workrooms; night admitting team presents to attendings
     at 7 AM (depending on team)
-
 - Work rooms:
-
-<!-- -->
-
-- Team 1 on 2N hallway, past RN station
-
-- Team 2 on 2N hallway, past RN station
-
-- Team 3 on 2N hallway, between main elevators and RN station
-
-- Team 4 at 2nd floor adjacent to main elevators
-
-- Team 5 on 3N hallway
-
-- Team 6 in pulm & ID fellow workroom outside MICU on 2G
-
-<!-- -->
-
+    - Team 1 on 2N hallway, past RN station
+    - Team 2 on 2N hallway, past RN station
+    - Team 3 on 2N hallway, between main elevators and RN station
+    - Team 4 at 2nd floor adjacent to main elevators
+    - Team 5 on 3N hallway
+    - Team 6 in pulm & ID fellow workroom outside MICU on 2G
 - Tips: Admission days can be very busy and anything you can get done
     on the non-admitting days will make your life easier (ex: DIPNs).
     Ensure that you tag PCP on EVERY H&P so they know patient is
@@ -30754,35 +30670,28 @@ VA General Wards (1A – 6B)
     pharmacist can help!), beware that diets disappear when converting
     obs to inpatient, enjoy a complimentary VA square!
 
-VA MICU
+## VA MICU
 
 - Team: 3 Res, 3 Interns, no specific patient cap
-
 - Combined CCU and MICU; 7AM CCU rounds followed by 8AM MICU rounds
-
 - Day Intern: 7 AM - 9 PM; Night Intern 8 PM - 10 AM; MICU between 2N
     and 2G (2nd floor)
-
 - Tips: Night intern presents all of the old patients in the morning
     and signs the notes. The day intern owns the A&P of the notes by
     keeping them updated. Never hesitate to relay information to your
     resident overnight if you are concerned (wake him/her up!)
 
-VA Nights
+## VA Nights
 
 - Team: 1 Res, 2 Interns, total of 10 admissions overnight
-
 - Pager: NIGHT ADMIT RESIDENT must roll the night admitting pager
     317-0227
-
 - Start at 7 PM, Admit until 5 AM, present new patients to teams at 7
     AM, leave by 8 AM
-
 - Start Sunday night for interns, Wednesday night for residents; off
     day is Saturday night for interns/cross-cover resident (covered by
     clinic resident), Friday night for admitting resident (covered by
     BMT resident)
-
 - Tips: Admissions typically bolus at the start of shift and slow
     later in the night, so worry about seeing pts, formulating plans
     with resident and putting in orders first as notes can be finished
@@ -30792,213 +30701,125 @@ VA Nights
     “delayed” or they will disappear once on the floor (ask your
     resident), enjoy a complimentary VA square for breakfast!
 
-How to Discharge a Patient at VUMC
+# How to Discharge a Patient at VUMC
 
 - Verify the correct pharmacy with the patient (Vanderbilt MCE
     pharmacy if using meds-to-beds) and if refills of existing
     medications are needed
-
 - Select ‘Transfer-Discharge’ on the navigator panel on eStar select
     ‘Discharge’ tab on the top of the page
-
 - Select ‘Rx Routing’ on the left panel. Choose one of the three
     options. This choice will set the default prescribing choice for new
     medications at discharge or refilled medications. This can be
     changed manually within each Rx order
-
-<!-- -->
-
 - Default = will e-prescribe to pt’s pharmacy
-
 - Print = will print all Rx’s and not e-prescribe (printed to nursing
     station on pt’s floor)
-
 - Do not print and do not e-prescribe (This is used for pt going to
     SNF or IPR)
-
-<!-- -->
-
 - Select ‘Discharge Orders’ on the left panel. This will open a
     reconciliation navigator
-
 - Reconcile the home medications with the current inpatient
     medications. The red tab on the right side of the screen will become
     green when all medications are addressed
-
-<!-- -->
-
 - For new medications or refills, make sure the ‘Class’ in the
     prescription is set to ‘Normal’ for electronic prescriptions.
     Otherwise, to add the medication to the list without a prescription,
     choose ‘No Print’
-
 - The medications will e-prescribe to the pharmacy selected at the
     bottom of the order panel on the right side of your screen
-
 - To send to multiple pharmacies, select the primary pharmacy at the
     bottom of the order panel on the right side of your screen, then
     choose ‘Send to Multiple Pharmacies’
-
 - Note that meds-to-beds will arrange to deliver meds AFTER the
     "discharge" order is signed; if discharge is time-sensitive, can
     call to ask if meds can be delivered in advance
-
-<!-- -->
-
 - Next, select ‘Order Sets’ at the top of the Discharge Orders panel
-
 - In the order box on the right, type “Adult General Discharge”
-
-<!-- -->
-
 - Right-click on the option and select “Add to Favorites”. Now, this
     option will be available on the Order Set page for future patients.
-
 - Open Adult General Discharge order set
-
     - Select the appropriate choices pertinent to current pt
-
         - For SNF/LTC, include RN orders like diet, activity
             order/restriction, wound care, etc.
-
     - On the right side of the screen, you can add Ad Hoc orders such
         as:
-
         - Hospital Follow-up with "X" service (place these as soon as
             you know!)
-
         - Ambulatory Referrals
-
         - Post-discharge labs
-
-        - \*Important for ID labs in addition to INR checks, place fax
+        - Important for ID labs in addition to INR checks, place fax
             number for which provider that will be following up results
             in the comments section. If labs will be done outside of
             Vanderbilt system, must select "External Non-VMG"
-
         - Medications not listed on reconciliation list
-
-<!-- -->
-
 - When all sections are completed, click ‘Sign – Print and/or
     E-prescribe Now’
-
 - Select ‘Follow-up Providers’ on the left panel.
-
-<!-- -->
-
 - Select the providers that you want to receive the discharge summary.
-
     Provide personal instructions to the patient
-
 - Select ‘Instructions’ on the left-hand panel
-
 - Free-text your personal comments and instructions to the patient,
     such as:
-
     - A simple statement for why the pt was admitted
-
     - Changes made to pt’s medications that you feel are important to
         highlight
-
     - Home instructions (daily weights, diet changes, wound care, etc)
-
     - Key follow-up plans (main appointments, labs, or tests)
-
 - This section appears FIRST in the pt’s printed AVS
 
-How to Discharge a Patient at VA
+# How to Discharge a Patient at VA
 
 Complete the following steps in this order to ensure info will be
 accurately reflected on the DIPN.
 
 - Medication reconciliation
-
-<!-- -->
-
-- The list of outpatient medications at the end of your reconciliation
-    is the final medication discharge list.
-
-- In the medication tab, transfer new inpatient medications to the
-    outpatient medication list by right-clicking and select ‘Transfer’
-
-- Select “Pick up at window,” as this will ensure the patient will
-    have the medication prior to leaving the hospital
-
-- Order new supplies (wound care, tube feeds, etc) by placing new
-    outpatient "med" order
-
-- Review the existing outpatient medications to determine if they need
-    to be continued and if the pt has an adequate supply at home -
-    refill meds if necessary
-
-- Discontinue any outpatient medications that you do not want the pt
-    to continue taking. Right-click and select ‘Discontinue’
-
-<!-- -->
-
+    - The list of outpatient medications at the end of your reconciliation
+        is the final medication discharge list.
+    - In the medication tab, transfer new inpatient medications to the
+        outpatient medication list by right-clicking and select ‘Transfer’
+    - Select “Pick up at window,” as this will ensure the patient will
+        have the medication prior to leaving the hospital
+    - Order new supplies (wound care, tube feeds, etc) by placing new
+        outpatient "med" order
+    - Review the existing outpatient medications to determine if they need
+        to be continued and if the pt has an adequate supply at home -
+        refill meds if necessary
+    - Discontinue any outpatient medications that you do not want the pt
+        to continue taking. Right-click and select ‘Discontinue’
 - Return to clinic (Primary care)
-
-<!-- -->
-
 - Critical to tag PCP on discharge summary to ensure they are alerted
     to hospital stay. Can also tag consultants and office coordinators
     (RNs) can be cc’d to DC summary by resident
-
 - For PCP follow-up, no longer need to place an RTC, will be
     coordinated by PACT on the clinic side
-
 - Ask VA Inpatient Chief for "welcome to VA wards" info with
     instructions to place subspecialty hospital follow up appts, as
     there is variation (page fellow vs e-consult vs RTC)
-
-<!-- -->
-
 - Complete DIPN
-
-<!-- -->
-
-- The DIPN contains all of the discharge instructions
-
-- Start a new note and select ‘DIPN’ template. This will open a
-    pre-templated note - follow the prompts and select finish. All
-    sections need to be addressed to proceed.
-
-- Discharge related orders will generate after you finish the DIPN
-    prompts, which includes vaccinations, removing IV, removing Foley
-    catheter, etc.
-
-- The DIPN is valid for 24 hrs; thus the DIPN may be pre-signed one
-    day prior. If DIPN is pre-signed, final changes to pt instructions
-    and medications need to be addended.
-
-- \[Optional but strongly recommended\] Provide personal instructions
-    to the patient at the top of the DIPN (coach your interns to do
-    this!), such as:
-
-    - A simple statement for why the pt was admitted
-
-    - Changes made to pt’s medications that you feel are important to
-        highlight
-
-    - Home instructions (daily weights, diet changes, wound care, etc)
-
-    - Key follow-up plans (main appointments, labs, or tests)
-
-<!-- -->
-
+    - The DIPN contains all of the discharge instructions
+    - Start a new note and select ‘DIPN’ template. This will open a
+        pre-templated note - follow the prompts and select finish. All
+        sections need to be addressed to proceed.
+    - Discharge related orders will generate after you finish the DIPN
+        prompts, which includes vaccinations, removing IV, removing Foley
+        catheter, etc.
+    - The DIPN is valid for 24 hrs; thus the DIPN may be pre-signed one
+        day prior. If DIPN is pre-signed, final changes to pt instructions
+        and medications need to be addended.
+    - \[Optional but strongly recommended\] Provide personal instructions
+        to the patient at the top of the DIPN (coach your interns to do
+        this!), such as:
+        - A simple statement for why the pt was admitted
+        - Changes made to pt’s medications that you feel are important to
+            highlight
+        - Home instructions (daily weights, diet changes, wound care, etc)
+        - Key follow-up plans (main appointments, labs, or tests)
 - Sign the DFF (discharge from facility) order
-
-<!-- -->
-
-- The DFF order is found under the “Discharge Orders” tab in CPRS
-    orders
-
-- Once all steps are completed, DFF can be signed and pt will be
-    discharged from facility
-
-<!-- -->
-
+    - The DFF order is found under the “Discharge Orders” tab in CPRS
+        orders
+    - Once all steps are completed, DFF can be signed and pt will be
+        discharged from facility
 - Discharge summary: right click dropdown menu "identify additional
     cosigner" ALWAYS add the patient's PCP, may add other consultants or
     subspecialists for continuity
