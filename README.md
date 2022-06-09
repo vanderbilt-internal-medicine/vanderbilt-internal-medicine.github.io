@@ -40,10 +40,10 @@ and click the pencil icon above and to the right of the text.
 Markdown is a very simple text format
 that closely resembles the formatting
 we tend to use in medical documentation.
-E.g. a single `#` is used to denote a top-level header,
-multiple `##` denote sub-headings,
-`-` are used to denote list items,
-`*` around things mark them as important.
+E.g. a single '#' is used to denote a top-level header,
+multiple '##' denote sub-headings,
+'\-' are used to denote list items,
+'\*' around things mark them as important.
 
 The tool that builds the website will
 convert this markup into prettier and uniform styles,
@@ -85,6 +85,59 @@ It supports copy-paste from Excel/Sheets/Word.
 
 </details>
 
+### formatting guidelines
+
+Use existing sections as templates.
+Most of the time you will be updating existing sections,
+so should be able to drop your changes in-line.
+
+<details>
+  <summary> expand for more on formatting </summary>
+
+rough example (adjusted to fit in this document):
+
+## topic du jour
+
+Author-Name McGee, Author-Name ZcGee
+
+---
+
+### Background
+
+in the beginning...
+
+### Presentation
+
+and then (s)he...
+
+---
+
+end example.
+
+Every section should start with a single '#',
+which denotes a top-level header ("h1").
+You can have no more than one section with a top-level header,
+or the internal table of contents for each page will break.
+
+Next put a blank line,
+followed by the author name[s], in alphabetical order if more than one.
+
+Then another blank line, and "---".
+This will add a line before the text proper starts.
+
+Most sections will have a single layer of subsections,
+e.g. "Background", "Presentation", "Evaluation", "Management".
+These should each be second-level headers, i.e. "##".
+
+Sub-subsections (e.g. the "Management" subsection of ACS has sub-subsections for STEMI, NSTEMI, etc.) should each be third-level headers, i.e. "###".
+
+You can use deeper levels of subsections (e.g. "####"),
+but the website engine doesn't differentiate after the third level,
+so readers won't be able to tell how deep the organizational rabbit hole goes.
+Attempt to flatten the organization so you don't require deeper sectioning,
+or consider splitting the topic into multiple topics.
+
+</details>
 
 ### saving changes
 
