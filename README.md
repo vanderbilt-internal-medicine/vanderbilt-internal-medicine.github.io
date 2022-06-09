@@ -101,12 +101,17 @@ Below are some examples and best practices.
 Here's a link for more on
 [images in Markdown](https://www.markdownguide.org/basic-syntax/#images-1).
 
-First, make sure you have the rights to the image.
+First, make sure you have the rights to the image
+(i.e. you made it, 
+  it's protected under public domain or fair use, 
+  or you obtained rights from the appropriate source)
 
 Then, the basic approach (add this line into your document):
 
 `![cat](/docs/images/500.jpg)`
 
+ Which will result in:
+  
 ![cat](/docs/images/500.jpg)
 
 The exclamation point is shorthand
