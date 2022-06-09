@@ -12314,6 +12314,7 @@ beatus
 Beau's
 beaucarnea
 beauforti
+beauhilton
 beaume
 beaumont's
 beauty
@@ -96433,6 +96434,7 @@ Vaxcel
 VaxGen
 Vaxid
 Vaxigrip
+VBECS
 VCG
 VCM
 VDD
