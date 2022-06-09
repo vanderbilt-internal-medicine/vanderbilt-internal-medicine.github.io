@@ -61,9 +61,11 @@ The only major complexity you might run into in Markdown is making tables.
 
 <details>
   <summary> expand for more on tables </summary>
+
 If you have a simple table, use Markdown tables, described [here](https://www.markdownguide.org/extended-syntax/#tables).
 (That link also contains a link to an [online tool](https://www.tablesgenerator.com/markdown_tables)
 that makes the task much less tedious.)
+
 If you have a complex table,
 e.g. the [options for CAD evaluation](https://vimbook.beauhilton.com/cardiology/cardiology-chest-pain/#diagnostic-studies),
 where the "Indications" column has cells that span several rows,
@@ -72,6 +74,7 @@ which are a bit more complicated but by no means intractable.
 Contact one of the maintainers.
 If you can, make your table in Excel/Google Sheets/Word first (style it up how you like in one of those tools)
 and send the file or link with your email.
+
 If you're feeling intrepid,
 you can make your html table yourself using this [online tool](https://www.tablesgenerator.com/html_tables),
 which is a visual editor similar to Excel or Google Sheets,
