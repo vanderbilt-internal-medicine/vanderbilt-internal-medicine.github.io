@@ -37,7 +37,7 @@ and click the pencil icon above and to the right of the text.
 
 ### making edits
 
-Markdown is a very simple text format,
+Markdown is a very simple text format
 that closely resembles the formatting
 we tend to use in medical documentation.
 E.g. a single `#` is used to denote a top-level header,
@@ -58,6 +58,9 @@ will look like by clicking the "Preview" tab
 next to the "Edit File" tab at the top of the text editor.
 
 The only major complexity you might run into in Markdown is making tables.
+
+<details>
+  <summary> expand for more on tables </summary>
 If you have a simple table, use Markdown tables, described [here](https://www.markdownguide.org/extended-syntax/#tables).
 (That link also contains a link to an [online tool](https://www.tablesgenerator.com/markdown_tables)
 that makes the task much less tedious.)
@@ -76,6 +79,8 @@ with buttons for merging cells, etc.,
 that will output the html table code.
 It supports copy-paste from Excel/Sheets/Word.
 (pro-tip: click the "Do not generate CSS" button)
+
+</details>
 
 
 ### saving changes
