@@ -49,7 +49,7 @@ they will be marked as done.
 [x] Ultrasound in Critical Care 57
 [x] Running Codes 59
 
-# ENDOCRINOLOGY
+# ENDOCRINOLOGY [x]
 
 [ ] Inpatient Diabetes Mellitus 61
 [ ] Hypoglycemia 62
@@ -64,7 +64,7 @@ they will be marked as done.
 [ ] Severe Hypertriglyceridemia 68
 [ ] Adrenal Incidentalomas 69
 
-# GASTROENTEROLOGY
+# GASTROENTEROLOGY [x]
 
 [ ] Acute Abdominal Pain 70
 [ ] Nausea & Vomiting 72
@@ -84,7 +84,7 @@ they will be marked as done.
 [ ] Irritable Bowel Syndrome 93
 [ ] GI Manifestations of COVID 93
 
-# GERIATRICS
+# GERIATRICS [x]
 
 [ ] Physiologic Changes with Aging 95
 [ ] Dementia 95
@@ -95,7 +95,7 @@ they will be marked as done.
 [ ] Medication Management 99
 [ ] Urinary Incontinence & Foleys 100
 
-# HEMATOLOGY/ONCOLOGY
+# HEMATOLOGY/ONCOLOGY [x]
 
 [ ] Anemia 101
 [ ] Neutropenia & Neutropenic Fever 103
@@ -120,7 +120,7 @@ they will be marked as done.
 [ ] Paraneoplastic Syndromes 132
 [ ] Therapy Toxicities 134
 
-# HEPATOLOGY
+# HEPATOLOGY [x]
 
 [ ] Cirrhosis Overview 136
 [ ] Liver Transplant Workup 137
@@ -138,7 +138,7 @@ they will be marked as done.
 [ ] NASH and NAFLD 148
 [ ] Acute Liver Injury and Liver Failure 149
 
-# HOSPITAL MEDICINE
+# HOSPITAL MEDICINE [x]
 
 [ ] Telemetry 153
 [ ] Lines and Catheters 154
@@ -147,7 +147,7 @@ they will be marked as done.
 [ ] Guidelines for Pregnant Patients 157
 [ ] Wounds 157
 
-# INFECTIOUS DISEASES
+# INFECTIOUS DISEASES [x]
 
 [ ] Skin and Soft Tissue Infection 161
 [ ] Genitourinary Infection 162
@@ -161,7 +161,7 @@ they will be marked as done.
 [ ] Fungal Infections 177
 [ ] HIV/AIDS and ART 179
 
-# NEPHROLOGY
+# NEPHROLOGY [x]
 
 [ ] Acute Kidney Injury 187
 [ ] Contrast Induced AKI 188
@@ -174,7 +174,7 @@ they will be marked as done.
 [ ] Hematuria 206
 [ ] Kidney Transplant 207
 
-# NEUROLOGY
+# NEUROLOGY [x]
 
 [ ] Stroke 212
 [ ] Status Epilepticus 212
@@ -191,7 +191,7 @@ they will be marked as done.
 [ ] Multiple Sclerosis 221
 [ ] Vertigo 222
 
-# OPHTHALMOLOGY
+# OPHTHALMOLOGY [x]
 
 [ ] Basic Eye Anatomy 224
 [ ] Common Ophtho Abbreviations 224
@@ -214,7 +214,7 @@ they will be marked as done.
 [ ] Uveitis 235
 [ ] Wilson’s Disease 236
 
-# OUTPATIENT MEDICINE
+# OUTPATIENT MEDICINE [x]
 
 [ ] Obesity/Nutrition 237
 [ ] Lipids 238
@@ -225,7 +225,7 @@ they will be marked as done.
 [ ] Fatigue 250
 [ ] Chronic Rhinosinusitis 251
 
-# PALLIATIVE CARE
+# PALLIATIVE CARE [x]
 
 [ ] Code Status Discussion 253
 [ ] Opioids: Principles & Conversions 254
@@ -235,7 +235,7 @@ they will be marked as done.
 [ ] Videos for Difficult Conversations 259
 [ ] The Death Pronouncement 260
 
-# PHYSICAL MEDICINE & REHAB
+# PHYSICAL MEDICINE & REHAB [x]
 
 [ ] Rehabilitation Options 263
 [ ] PM&R Consultation 264
@@ -246,7 +246,7 @@ they will be marked as done.
 [ ] Acute Back Pain 268
 [ ] Knee Pain 270
 
-# PROCEDURES
+# PROCEDURES [x]
 
 [ ] Consent 273
 [ ] Anticoagulation 273
@@ -259,7 +259,7 @@ they will be marked as done.
 [ ] Ultrasound-guided PIV 279
 [ ] Dobhoff Tube 280
 
-# PSYCHIATRY
+# PSYCHIATRY [x]
 
 [ ] Agitation Management 282
 [ ] Medical Decision-Making Capacity 284
@@ -268,7 +268,7 @@ they will be marked as done.
 [ ] Substance Use Disorder 286
 [ ] Delirium 289
 
-#  PULMONARY
+#  PULMONARY [x]
 
 [ ] Hypoxia 291
 [ ] Pulmonary Function Tests 292
@@ -286,7 +286,7 @@ they will be marked as done.
 [ ] Chest Tubes 304
 [ ] Home Oxygen Therapies 306
 
-# RADIOLOGY
+# RADIOLOGY [x]
 
 [ ] Radiology Exams by Diagnosis 308
 [ ] Chest X-ray Interpretation 309
@@ -295,7 +295,7 @@ they will be marked as done.
 [ ] Anticoagulation for IR Procedures 313
 [ ] Contrast Allergies 316
 
-#  RHEUMATOLOGY
+#  RHEUMATOLOGY [x]
 
 [ ] Rheumatology Lab Testing 317
 [ ] Rheumatoid Arthritis 319
@@ -308,14 +308,14 @@ they will be marked as done.
 [ ] Arthrocentesis 328
 [ ] Biologics Overview 328
 
-# TOXICOLOGY
+# TOXICOLOGY [x]
 
 [ ] Toxidrome Overview 331
 [ ] Management of Specific Overdoses 332
 [ ] Drug Induced QTc Prolongation 337
 [ ] Brown Recluse Bites (Loxoscelism) 338
 
-# APPENDICES
+# APPENDICES [x]
 
 [ ] Uploading Records 341
 [ ] VUMC Rotations 341

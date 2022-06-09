@@ -2160,6 +2160,7 @@ adlerian
 Adlerkreutz
 adlopentose
 ADLs
+ADMARK
 admaxillary
 admeasurement
 admedial
@@ -18333,6 +18334,7 @@ CBS
 CBT
 cca
 CCAT
+CCB
 CCBs
 CCD
 ccelerograph
@@ -66071,6 +66073,7 @@ ochronosus
 ochronotic
 Ochsner
 Ochsner's
+OCP
 ocrase
 Ocrelizumab
 ocrylate
@@ -78311,6 +78314,7 @@ PVC
 PVCs
 PVOD
 PVP
+PVRs
 PWA
 PWB
 PWM

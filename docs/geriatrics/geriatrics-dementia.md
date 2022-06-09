@@ -52,8 +52,6 @@ Evaluation
             to the 11 and the 2
     -   Ask pt to recall the three words
 
-<img src="/sites/default/files/inline-images/minicog.png" data-entity-type="file" data-entity-uuid="eb496c53-6380-4d92-b242-1121854a0ae0" alt="MINI COG" />
-
 -   MOCA: Montreal Cognitive Assessment
     -   Lengthier test of cognition (highly specific for cognitive
         impairment)
@@ -68,22 +66,14 @@ Evaluation
 
 -   Rule out reversible causes of dementia-like symptoms: **DEMENTIA**
     -   **​​​​​​​**
-        D
-        rugs
-    -   E
-        motional (depression)
-    -   M
-        etabolic (CHF, COPD, CKD, OSA)
-    -   E
-        ndocrine (Hypothyroidism, Hyperparathyroidism, Hyponatremia)
-    -   N
-        utrition (B12 deficiency)
-    -   T
-        rauma (chronic SDH)
-    -   I
-        nfection
-    -   A
-        rterial (vascular)
+        Drugs
+    -   Emotional (depression)
+    -   Metabolic (CHF, COPD, CKD, OSA)
+    -   Endocrine (Hypothyroidism, Hyperparathyroidism, Hyponatremia)
+    -   Nutrition (B12 deficiency)
+    -   Trauma (chronic SDH)
+    -   Infection
+    -   Arterial (vascular)
 -   B12, thyroid studies
 -   RPR, HIV testing in at-risk patient groups
     -   Neuropsych testing can be done for more clear patterns of
