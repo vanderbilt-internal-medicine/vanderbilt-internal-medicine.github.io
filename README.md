@@ -20,7 +20,7 @@ Then shoot an email to one of the maintainers of the vimbook (e.g. beau.hilton@v
 to be added to the organization.
 
 
-### finding the files
+### finding the files and opening them for editing
 
 On each page on [vimbook.org](vimbook.beauhilton.com)
 there is a small pencil icon in the top right.
@@ -35,7 +35,13 @@ Click into the folder you want, then into the file you want,
 and click the pencil icon above and to the right of the text.
 
 
-### making edits
+### editing basics
+
+The website is written in a simple text format called "Markdown,"
+and you can edit the files right here on GitHub.
+
+<details>
+  <summary> expand for more on Markdown </summary>
 
 Markdown is a very simple text format
 that closely resembles the formatting
@@ -52,12 +58,12 @@ so you don't have to worry about getting the indentation or font just right.
 Here's a [cheat sheet](https://www.markdownguide.org/cheat-sheet/)
 for the main formatting options.
 
-While you're editing on GitHub,
-you can preview a general version of what the website
-will look like by clicking the "Preview" tab
-next to the "Edit File" tab at the top of the text editor.
+</details>
 
-The only major complexity you might run into in Markdown is making tables.
+While Markdown is simple,
+and tables in Markdown are usually simple,
+sometimes they're a little tricky.
+See below for help.
 
 <details>
   <summary> expand for more on tables </summary>
@@ -84,6 +90,81 @@ It supports copy-paste from Excel/Sheets/Word.
 (pro-tip: click the "Do not generate CSS" button)
 
 </details>
+
+You may want to add images. No problem! See below.
+
+<details>
+  <summary> expand for more on adding images</summary>
+
+Below are some examples and best practices.
+
+Here's a link for more on
+[images in Markdown](https://www.markdownguide.org/basic-syntax/#images-1).
+
+First, make sure you have the rights to the image.
+
+Then, the basic approach (add this line into your document):
+
+`![cat](/docs/images/500.jpg)`
+
+![cat](/docs/images/500.jpg)
+
+The exclamation point is shorthand
+that tells Markdown you would like to place an image here.
+
+The brackets contain the "alt-text" for your image,
+which is a brief description, useful for those with sight-related disability.
+You can also see the alt-text if you hover your mouse over the image,
+or long-press on a touch device.
+
+Next you need to tell Markdown how to find the image file.
+
+The image in the example lives in our repository,
+in the "images" folder that lives under the "docs" folder.
+
+All images should go here.
+
+[Direct link to images folder](https://github.com/vanderbilt-internal-medicine/vimbook/tree/main/docs/images)
+
+If you navigate to that folder,
+you can drag and drop images from your file system,
+or click the "+" button above and to the right of the list of files,
+then "Upload files."
+
+Give each image a descriptive name,
+e.g. `parasternal-long.jpg` instead of just `image92.jpg`.
+(`500.jpg` is 500 pixel image of a cute cat, included for testing).
+
+A full example might look something like:
+
+`![parasternal long view of cardiac ultrasound](../images/parasternal-long.jpg)`
+
+**Important Note**
+
+That `/docs/images/500.jpg` and `../images/parasternal-long.jpg`
+business in the examples
+tells the computer how to navigate your files and folders,
+starting from wherever your current file is and going down into subfolders,
+to find the file you want.
+
+Because the section files for this book live in subfolders of `docs`,
+you need to tell Markdown to go up to the main docs folder before looking
+for the images folder. This is easy to do, but also easy to forget.
+
+The parasternal-long example shows how to do it;
+The `..` part is ancient computer shorthand for "go up one folder."
+
+Since the images will always live in the same folder,
+and the section files will always be in subfolders one level down from `docs`,
+the most foolproof way to add a new image is to copy the whole parasternal-long example,
+and only change the name of the image and the alt text.
+
+</details>
+
+While you're editing on GitHub,
+you can preview a general version of what the website
+will look like by clicking the "Preview" tab
+next to the "Edit File" tab at the top of the text editor.
 
 ### formatting guidelines
 
