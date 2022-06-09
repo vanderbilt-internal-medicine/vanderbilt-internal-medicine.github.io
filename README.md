@@ -94,7 +94,11 @@ so should be able to drop your changes in-line.
 <details>
   <summary> expand for more on formatting </summary>
 
-rough example (adjusted to fit in this document):
+File names: `subject-section.md`, e.g. `cardiology-acs.md`
+
+Text formatting:
+
+_rough example (adjusted to fit in this document):_
 
 ## topic du jour
 
@@ -112,7 +116,7 @@ and then (s)he...
 
 ---
 
-end example.
+_end example._
 
 Every section should start with a single '#',
 which denotes a top-level header ("h1").
