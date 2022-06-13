@@ -1,4 +1,8 @@
-# Nausea & Vomiting – Taylor Riggs
+# Nausea & Vomiting
+
+Taylor Riggs
+
+---
 
 ## Etiology
 
@@ -7,7 +11,7 @@ VOMMIIT mnemonic
 - <u>V</u>estibular: Labyrinthitis, vestibular neuritis, meniere’s
     disease, cerebellar stroke
 
-- Obstruction: adhesions, hernia, volvulus, constipation, gastric
+- <u>O</u>bstruction: adhesions, hernia, volvulus, constipation, gastric
     outlet obstruction
 
 - <u>M</u>otility: gastroparesis, GERD, autonomic dysfunction
