@@ -1,6 +1,6 @@
 # Biliary Disease
 
-Alex Wiles
+Alex Wiles, Anton de Witte
 
 ---
 
@@ -71,3 +71,64 @@ Alex Wiles
     - Consult EGS if necrosis, perforation, or emphysematous changes
     present
     
+## Choledocholithiasis
+
+- Obstruction of biliary outflow by CBD stone without inflammation (no
+    fever)
+- Impacted cystic duct stone (cholecystitis) with compression of the
+    CBD (Mirizzi syndrome)
+- Presentation: RUQ pain (can be painless), N/V and jaundice
+- Evaluation:
+    - CMP and D-bili (Bili/ALP/ GGT ↑↑↑, AST/ALT mild ↑), CBC
+    (Leukocytosis suggests cholangitis), Lipase
+    - Imaging: RUQ U/S: dilated CBD (ULN is 6mm) MRCP/EUS vs ERCP (see
+    below)
+        - MRCP preferred given non-invasive but has lower sensitivity for
+        smaller stones (consider EUS if still have suspicion despite
+        negative MRCP or if patient contraindication to/intolerance of MRI)
+- Management:
+    - NPO & IVF, pain control PRN
+    - Stratify risk to determine whether to pursue MRCP (noninvasive,
+    diagnostic) vs ERCP
+    - If any one of the following, patient is HIGH risk consult GI for
+    > ERCP + EGS to consider cholecystectomy
+        - CBD stone on imaging
+        - Acute cholangitis
+        - Tbili > 4 AND dilated CBD (>6mm with GB, > 8mm without GB)
+    - If any one of the following, patient is INTERMEDIATE risk consider
+        MRCP (or EUS or cholecystectomy with intraoperative cholangiogram)
+        - Abnormal liver enzymes
+        - Age > 55
+        - Dilated CBD on U/S with Tbili < 4
+        - If CBD stone seen on MRCP or EUS ERCP,
+        - If no CBD stone but patient has GB sludge or cholelithiasis EGS
+            consult for cholecystectomy + intraoperative cholangiogram
+
+## Acute Cholangitis
+
+- Bacterial infection of biliary tract 2/2 obstruction (typically
+    stones) or prior instrumentation (ERCP)
+- Pts with malignant obstruction typically do not develop cholangitis
+- Presentation: Charcot triad (RUQ pain, fever, jaundice); Reynolds’
+    Pentad (AMS, Hypotension)
+- Evaluation
+    - CBC, CMP (D bili, ALP ↑↑↑) Blood Cultures, Lipase,
+    Lactate
+    - CRP, AST/ALT can be ↑↑ as well
+    - Imaging: RUQ U/S: dilated CBD (ULN is 6mm), no need for MRCP/EUS
+    - Consider MRCP overnight if ERCP is not being done emergently
+- Management
+    - NPO, IVF
+    - Consult GI for urgent/emergent ERCP (generally within 24 hr)
+    - If ERCP not feasible or fails to establish biliary drainage, can
+    consider EUS-guided biliary drainage, percutaneous transhepatic
+    cholangiography, or surgical decompression
+    - Antibiotics for Biliary Disease (IDSA Guidelines):
+        - Mild to moderate acute cholecystitis (stable):
+        - Ceftriaxone 2g daily, Cefazolin 1-2g q8H
+    - Cholangitis or Severe acute cholecystitis (unstable or
+    immunocompromised):
+        - Zosyn 3.375g q8H, Meropenem 1g q8H or Cipro 500 q12H and Flagyl
+        500 q8H
+    - Healthcare-associated Biliary infections: consider Vancomycin
+        (order w/ PK consult)
