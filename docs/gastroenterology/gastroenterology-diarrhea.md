@@ -1,4 +1,8 @@
-# Diarrhea – Charles Oertli
+# Diarrhea
+
+Charles Oertli
+
+---
 
 ## Background
 
