@@ -66,34 +66,34 @@ they will be marked as done.
 
 # GASTROENTEROLOGY [x]
 
-[ ] Acute Abdominal Pain 70
-[ ] Nausea & Vomiting 72
-[ ] Diarrhea 74
-[ ] Constipation 76
-[ ] Esophageal Disorders 77
-[ ] GI Bleeding 81
-[ ] Acute Pancreatitis 82
-[ ] Chronic Pancreatitis 83
-[ ] Biliary Disease 84
-[ ] Gastroparesis 86
-[ ] Small Bowel Obstruction 86
-[ ] Clostridioides Difficile Infections 87
-[ ] Inflammatory Bowel Disease 89
-[ ] Acute Diverticulitis 90
-[ ] Intestinal Ischemia 91
-[ ] Irritable Bowel Syndrome 93
-[ ] GI Manifestations of COVID 93
+[x] Acute Abdominal Pain 70
+[x] Nausea & Vomiting 72
+[x] Diarrhea 74
+[x] Constipation 76
+[x] Esophageal Disorders 77
+[x] GI Bleeding 81
+[x] Acute Pancreatitis 82
+[x] Chronic Pancreatitis 83
+[x] Biliary Disease 84
+[x] Gastroparesis 86
+[x] Small Bowel Obstruction 86
+[x] Clostridioides Difficile Infections 87
+[x] Inflammatory Bowel Disease 89
+[x] Acute Diverticulitis 90
+[x] Intestinal Ischemia 91
+[x] Irritable Bowel Syndrome 93
+[x] GI Manifestations of COVID 93
 
 # GERIATRICS [x]
 
-[ ] Physiologic Changes with Aging 95
-[ ] Dementia 95
-[ ] Malnutrition 98
-[ ] Falls 98
-[ ] Functional Status 99
-[ ] Frailty 99
-[ ] Medication Management 99
-[ ] Urinary Incontinence & Foleys 100
+[x] Physiologic Changes with Aging 95
+[x] Dementia 95
+[x] Malnutrition 98
+[x] Falls 98
+[x] Functional Status 99
+[x] Frailty 99
+[x] Medication Management 99
+[x] Urinary Incontinence & Foleys 100
 
 # HEMATOLOGY/ONCOLOGY [x]
 
@@ -288,12 +288,12 @@ they will be marked as done.
 
 # RADIOLOGY [x]
 
-[ ] Radiology Exams by Diagnosis 308
-[ ] Chest X-ray Interpretation 309
-[ ] Abdominal X-ray Interpretation 310
-[ ] Consults for Radiographic Procedures 312
-[ ] Anticoagulation for IR Procedures 313
-[ ] Contrast Allergies 316
+[x] Radiology Exams by Diagnosis 308
+[x] Chest X-ray Interpretation 309
+[x] Abdominal X-ray Interpretation 310
+[x] Consults for Radiographic Procedures 312
+[x] Anticoagulation for IR Procedures 313
+[x] Contrast Allergies 316
 
 #  RHEUMATOLOGY [x]
 
