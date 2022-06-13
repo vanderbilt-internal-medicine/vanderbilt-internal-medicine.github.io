@@ -1,57 +1,193 @@
-# Nausea & Vomiting
+# Nausea & Vomiting – Taylor Riggs
 
-Nausea & Vomiting – Michael J. Neuss
+## Etiology
 
-General Approach:
+VOMMIIT mnemonic
 
--   VOMIT mnemonic (see below)
--   Several antiemetics can prolong QT interval (see below).
-    Caution is advised when QTc is prolonged (>450 in men and >470 in
-    women), particularly if hypokalemia, hypomagnesemia, or if taking
-    multiple medications with QT prolonging effects.
--   Consider drug use and withdrawal, medication effects, cardiac
-    ischemia, pregnancy, abdominal pathology, adrenal insufficiency, CNS
-    lesion, anxiety, severe pain
--   Labs: BMP, hepatic functional panel, lactate, amylase/lipase, TSH,
-    cortisol (AM vs cort stim), troponin,
-    β
-    hCG, U/A, UDS
--   EKG (know QT, eval for ischemia), KUB/upright, Small bowel
-    follow-through (SBFT)
--   CT A/P, CNS imaging (CT vs MRI; eval for mets in oncology pts)
--   EGD has limited utility unless mechanical gastric outlet obstruction
-    is suspected
+- <u>V</u>estibular: Labyrinthitis, vestibular neuritis, meniere’s
+    disease, cerebellar stroke
 
-| 0                         | 1                                                                                                              | 2                                                                                                              | 3                                                                                                                                                                                                                                                                                                                                                                     |
-|---------------------------|----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| VOMIT                     | VOMIT                                                                                                          | Etiologies                                                                                                     | Management                                                                                                                                                                                                                                                                                                                                                            |
-| Vestibular & Vertigo      | Labyrinthitis, Vestibular neuritis, Meniere’s disease Cerebellar stroke                                        | Labyrinthitis, Vestibular neuritis, Meniere’s disease Cerebellar stroke                                        | \- Scopolamine, diphenhydramine - Check for nystagmus, truncal ataxia, focal deficits; consider CNS imaging if high risk - VUMC: consider referral to Pi β Phi for vertigo                                                                                                                                                                                            |
-| Obstruction               | Adhesions, hernia, volvulus, constipation Gastric outlet obstruction (pyloric stenosis from malignancy or PUD) | Adhesions, hernia, volvulus, constipation Gastric outlet obstruction (pyloric stenosis from malignancy or PUD) | \- Bowel Obstruction: KUB (about 80% sensitive) vs. CT A/P, Surgical consultation (general surgery at VA and EGS at VUMC) - SBFT – both diagnostic and therapeutic - Bowel rest, NGT (if tolerated/indicated), bowel regimen - Gastric outlet obstruction: Inflammation may respond to acid suppression and NGT to suction - Endoscopic dilation, surgery or stenting |
-| Motility                  | GERD, Gastroparesis, autonomic dysfunction (e.g. in diabetics)                                                 | GERD, Gastroparesis, autonomic dysfunction (e.g. in diabetics)                                                 | \- If GERD, trial of PPI and de-escalate to H2 blocker once able - Metoclopramide (caution due to side effects, erythromycin second line) - Consider gastric emptying study (limited sensitivity & specificity ONLY outpt off narcotics) - Consider autonomics evaluation                                                                                             |
-| Meds                      | Antibiotics, SSRI, Opioids cannabinoid hyperemesis                                                             | Antibiotics, SSRI, Opioids cannabinoid hyperemesis                                                             | \- UDS, CSMD search - Careful med review - Ondansetron - Cannabinoid hyperemesis syndrome: hot showers cyclically. Stop cannabis                                                                                                                                                                                                                                      |
-| Inflammation or Infection | Gastroenteritis, PUD, hepatitis, pyelonephritis, nephrolithiasis, cholecystitis, pancreatitis                  | Gastroenteritis, PUD, hepatitis, pyelonephritis, nephrolithiasis, cholecystitis, pancreatitis                  | \- Ondansetron, other agents acceptable - Treat underlying problem                                                                                                                                                                                                                                                                                                    |
-| Toxins                    | Uremia, ketoacidosis, hypercalcemia, chemotherapy                                                              | Uremia, ketoacidosis, hypercalcemia, chemotherapy                                                              | \- Ondansetron, others acceptable - Treat underlying problem - Pre-treatment for chemo ( usually part of chemo order sets)                                                                                                                                                                                                                                            |
-| NaN                       | NaN                                                                                                            | NaN                                                                                                            | NaN                                                                                                                                                                                                                                                                                                                                                                   |
+- Obstruction: adhesions, hernia, volvulus, constipation, gastric
+    outlet obstruction
 
-| 0                            | 1                                                                                                                      | 2                                            | 3            |
-|------------------------------|------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|--------------|
-| Anti-Emetics                 | Anti-Emetics                                                                                                           | Anti-Emetics                                 | Anti-Emetics |
-| Med (by class)               | Dose                                                                                                                   | Side effects?                                | QT?          |
-| Serotonin antagonists        | NaN                                                                                                                    | NaN                                          | NaN          |
-| Ondansetron (Zofran)         | 4-8mg PO/IV q6h                                                                                                        | Constipation, headache                       | ++           |
-| Granisetron (Kytril)1        | 2 mg PO x1, 1 mg PO BID pre-chemo, daily patch, OR 10mcg/kg pre-chemo                                                  | ‘’                                           | ++           |
-| Dopamine antagonists         | NaN                                                                                                                    | NaN                                          | NaN          |
-| Prochlorperazine (Compazine) | 5-10 mg PO q6h, 2.5 – 10 mg IV q6h, 25 mg PR q6h                                                                       | EPS, less sedation than anti-H               | \+           |
-| Haloperidol (Haldol)         | 0.5-1 mg PO/IV q6h                                                                                                     | ‘’                                           | ++           |
-| Zyprexa (Olanzapine)2        | 2.5-10mg PO q6H                                                                                                        | ‘’                                           | \+           |
-| Metoclopramide (Reglan)      | 10 mg PO/IV q6h                                                                                                        | EPS, dystonia, tardive dyskinesia            | \+           |
-| GABAergic                    | NaN                                                                                                                    | NaN                                          | NaN          |
-| Lorazepam (Ativan)           | 0.5-2mg PO; 0.25 – 1 mg IV q6h                                                                                         | Sedation, delirium                           | \-           |
-| Antihistamines               | NaN                                                                                                                    | NaN                                          | NaN          |
-| Promethazine (Phenergan)     | 12.5 - 25mg PO/IV q6h OR 25 mg PR q6h                                                                                  | Sedation, EPS (DA antagonist as well)        | \+           |
-| Diphenhydramine (Benadryl)   | 25-50mg PO/IV q6h                                                                                                      | Sedation, delirium, urinary retention, ileus | \-           |
-| Meclizine (Antivert)         | 25 – 50 mg PO qday                                                                                                     | ‘’                                           | \-           |
-| Anticholinergics             | NaN                                                                                                                    | NaN                                          | NaN          |
-| Scopolamine (Hyoscine)       | 1.5 mg patch q3day                                                                                                     | ‘’                                           | \-           |
-| Other                        | NaN                                                                                                                    | NaN                                          | NaN          |
-| Dexamethasone (Decadron)3    | 20 mg PO or IV for CINV; can give with Ondansetron 8-18 mg or Granisetron 10mcg/kg IV or 2 mg PO if high severity CINV | Hyperglycemia, fluid retention               | \-           |
+- <u>M</u>otility: gastroparesis, GERD, autonomic dysfunction
+
+- <u>M</u>edications: antibiotics, SSRI, opioids, cannabinoid
+    hyperemesis
+
+- <u>I</u>nfection: gastroenteritis, hepatitis, pyelonephritis,
+    cholecystitis
+
+- <u>I</u>nflammation: PUD, pancreatitis
+
+- <u>T</u>oxins: uremia, ketoacidosis, hypercalcemia, chemotherapy
+
+## Evaluation
+
+- All patients: CBC (leukocytosis, Hgb), BMP (AG, Ca, lytes, AKI),
+    LFTs, lipase, lactate, UA
+
+- If risk factors: consider TSH, AM cortisol, troponin, β hCG, UDS
+
+- EKG to eval for ischemia and baseline QTc
+
+- Imaging:
+    - If concern for obstruction (abd distention, decreased BMs) KUB,
+    consider CT A/P
+    - If concern for biliary pathology (RUQ pain, abnl LFTs) RUQ U/S
+    - If vestibular/concern for CNS pathology CTH vs MRI brain
+
+# Management
+
+Address underlying cause and stop medications as appropriate
+
+- Many antiemetics prolong QTc, however in patients without underlying
+    cardiac conduction abnormality, electrolyte abnormality, or organ
+    failure the risk of QTc prolongation leading to significant
+    arrhythmia is low.
+- Obtain screening EKG in patients with underlying heart disease,
+    electrolyte abnormalities, organ failure or on other QTc prolonging
+    meds (antiarrhythmics, antipsychotics, antibiotics)
+- 4-8 mg of IV Zofran is estimated to prolong QTc by ~6ms
+- Try to pick a medication that will address the underlying etiology
+    of nausea
+- If patient does not respond to a medication in a certain class, try
+    a medication from a different class (see below)
+
+<table>
+<colgroup>
+<col style="width: 22%" />
+<col style="width: 27%" />
+<col style="width: 32%" />
+<col style="width: 17%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th colspan="4">Anti-Emetics</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Med (by class)</td>
+<td>Typical Dose</td>
+<td>Side Effects</td>
+<td>Prolongs QT?</td>
+</tr>
+<tr class="even">
+<td colspan="4"><strong>Serotonin antagonists</strong></td>
+</tr>
+<tr class="odd">
+<td>Ondansetron (Zofran)</td>
+<td>4-8mg PO/IV q6h</td>
+<td>Constipation, headache, arrhythmia, serotonin syndrome</td>
+<td>Yes</td>
+</tr>
+<tr class="even">
+<td><p>Granisetron</p>
+<p>(Kytril)1</p></td>
+<td>1 mg PO BID, 2mg pre-chemo, OR 10mcg/kg IV pre-chemo</td>
+<td>‘’</td>
+<td>Yes</td>
+</tr>
+<tr class="odd">
+<td colspan="4"><strong>Dopamine Antagonists</strong></td>
+</tr>
+<tr class="even">
+<td>Prochlorperazine (Compazine)</td>
+<td>5-10 mg PO/IV q6h, 25 mg PR q6h</td>
+<td>EPS, less sedation than H-blockers (e.g. Phenergan)</td>
+<td>Yes</td>
+</tr>
+<tr class="odd">
+<td><p>Haloperidol</p>
+<p>(Haldol)</p></td>
+<td>0.5-1 mg PO/IV q6h</td>
+<td>EPS, arrhythmia</td>
+<td>Yes</td>
+</tr>
+<tr class="even">
+<td>Zyprexa (Olanzapine)</td>
+<td>5 -10mg PO qdaily</td>
+<td>EPS, constipation, anticholinergic</td>
+<td>Mild ^</td>
+</tr>
+<tr class="odd">
+<td colspan="4"><strong>Dopamine and Serotonin Antagonists</strong></td>
+</tr>
+<tr class="even">
+<td>Metoclopramide (Reglan)</td>
+<td>10 mg PO/IV q6h</td>
+<td>EPS/dystonia, arrhythmias, drowsiness/dizziness, diarrhea</td>
+<td>Yes</td>
+</tr>
+<tr class="odd">
+<td colspan="4"><strong>GABA-A Agonist</strong></td>
+</tr>
+<tr class="even">
+<td><p>Lorazepam</p>
+<p>(Ativan)</p></td>
+<td>0.5-1mg PO/IV q6h PRN</td>
+<td>Sedation, delirium, amnesia, respiratory depression</td>
+<td>No</td>
+</tr>
+<tr class="odd">
+<td colspan="4"><strong>H1 Antagonists</strong></td>
+</tr>
+<tr class="even">
+<td>Promethazine (Phenergan)</td>
+<td>12.5 - 25mg PO /PR /IV q6h (avoid IV use if possible)</td>
+<td>Sedation, EPS (D2 antagonist also), arrhythmias, blurry vision</td>
+<td>Yes</td>
+</tr>
+<tr class="odd">
+<td>Diphenhydramine (Benadryl)</td>
+<td>25-50mg PO/IV q6h</td>
+<td>Sedation, delirium, urinary retention, ileus</td>
+<td>Yes</td>
+</tr>
+<tr class="even">
+<td><p>Meclizine</p>
+<p>(Antivert)</p></td>
+<td>12.5-25mg PO q6h</td>
+<td>Sedation, dizziness, falls, blurry vision</td>
+<td>Yes</td>
+</tr>
+<tr class="odd">
+<td colspan="4"><strong>Anticholinergics</strong></td>
+</tr>
+<tr class="even">
+<td>Scopolamine</td>
+<td>1 mg patch q3day</td>
+<td>Dry mouth, blurry vision, drowsiness</td>
+<td>No</td>
+</tr>
+<tr class="odd">
+<td colspan="4"><strong>Glucocorticoids</strong></td>
+</tr>
+<tr class="even">
+<td>Dexamethasone</td>
+<td>4-8mg PO/IV prior to chemo or XRT, typically use with other
+agents</td>
+<td>Hyperglycemia, fluid retention, delirium</td>
+<td>No</td>
+</tr>
+<tr class="odd">
+<td colspan="4"><strong>NK1 Antagonists</strong></td>
+</tr>
+<tr class="even">
+<td>Aprepitant</td>
+<td>Given prior to/with chemo</td>
+<td>Fatigue, neutropenia</td>
+<td>No</td>
+</tr>
+<tr class="odd">
+<td colspan="4"><strong>CBD Agonists</strong></td>
+</tr>
+<tr class="even">
+<td>Dronabinol</td>
+<td>2.5-5mg BID</td>
+<td>Dizziness, increased appetite, Tachycardia, hypotension</td>
+<td>No</td>
+</tr>
+</tbody>
+</table>
