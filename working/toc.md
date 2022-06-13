@@ -8,46 +8,46 @@ they will be marked as done.
 
 # INTRODUCTION
 
-[x] Acknowledgements 1
-[x] Rationale for the Handbook 1
-[x] Disclaimers 1
-[x] Authors, Editors, and Reviewers 2
+- [x] Acknowledgements 1
+- [x] Rationale for the Handbook 1
+- [x] Disclaimers 1
+- [x] Authors, Editors, and Reviewers 2
 
 # CARDIOLOGY
 
-[x] Chest Pain 6
-[x] Acute Coronary Syndrome 7
-[x] Arrhythmias 10
-[x] Atrial Fibrillation & Flutter 14
-[x] Valvular Heart Disease 15
-[x] Heart Failure 19
-[x] Cardiogenic Shock 23
-[x] Cardiac Devices 25
-[x] Pulmonary Embolism 26
-[x] Hypertension 28
-[x] Autonomics/Orthostatics 29
-[x] Syncope 30
-[x] EKG 31
-[x] Right Heart Catheterization 33
-[x] Bedside Echocardiography 36
+- [x] Chest Pain 6
+- [x] Acute Coronary Syndrome 7
+- [x] Arrhythmias 10
+- [x] Atrial Fibrillation & Flutter 14
+- [x] Valvular Heart Disease 15
+- [x] Heart Failure 19
+- [x] Cardiogenic Shock 23
+- [x] Cardiac Devices 25
+- [x] Pulmonary Embolism 26
+- [x] Hypertension 28
+- [x] Autonomics/Orthostatics 29
+- [x] Syncope 30
+- [x] EKG 31
+- [x] Right Heart Catheterization 33
+- [x] Bedside Echocardiography 36
 
 # CRITICAL CARE
 
-[x] Management of Shock 38
-[x] Sepsis 39
-[x] Temperature Abnormalities 41
-[x] Modes of Oxygen Delivery 43
-[x] Introduction to Vent Management 44
-[x] Acute Respiratory Distress Syndrome 46
-[x] Refractory Hypoxemia 46
-[x] Refractory Hypercapnia 48
-[x] Tracheostomy 49
-[x] ABCDEF Bundle 50
-[x] Brain Death 51
-[x] MICU/CCU Drips 53
-[x] Intubation and Extubation 55
-[x] Ultrasound in Critical Care 57
-[x] Running Codes 59
+- [x] Management of Shock 38
+- [x] Sepsis 39
+- [x] Temperature Abnormalities 41
+- [x] Modes of Oxygen Delivery 43
+- [x] Introduction to Vent Management 44
+- [x] Acute Respiratory Distress Syndrome 46
+- [x] Refractory Hypoxemia 46
+- [x] Refractory Hypercapnia 48
+- [x] Tracheostomy 49
+- [x] ABCDEF Bundle 50
+- [x] Brain Death 51
+- [x] MICU/CCU Drips 53
+- [x] Intubation and Extubation 55
+- [x] Ultrasound in Critical Care 57
+- [x] Running Codes 59
 
 # ENDOCRINOLOGY [x]
 
@@ -66,34 +66,34 @@ they will be marked as done.
 
 # GASTROENTEROLOGY [x]
 
-[x] Acute Abdominal Pain 70
-[x] Nausea & Vomiting 72
-[x] Diarrhea 74
-[x] Constipation 76
-[x] Esophageal Disorders 77
-[x] GI Bleeding 81
-[x] Acute Pancreatitis 82
-[x] Chronic Pancreatitis 83
-[x] Biliary Disease 84
-[x] Gastroparesis 86
-[x] Small Bowel Obstruction 86
-[x] Clostridioides Difficile Infections 87
-[x] Inflammatory Bowel Disease 89
-[x] Acute Diverticulitis 90
-[x] Intestinal Ischemia 91
-[x] Irritable Bowel Syndrome 93
-[x] GI Manifestations of COVID 93
+- [x] Acute Abdominal Pain 70
+- [x] Nausea & Vomiting 72
+- [x] Diarrhea 74
+- [x] Constipation 76
+- [x] Esophageal Disorders 77
+- [x] GI Bleeding 81
+- [x] Acute Pancreatitis 82
+- [x] Chronic Pancreatitis 83
+- [x] Biliary Disease 84
+- [x] Gastroparesis 86
+- [x] Small Bowel Obstruction 86
+- [x] Clostridioides Difficile Infections 87
+- [x] Inflammatory Bowel Disease 89
+- [x] Acute Diverticulitis 90
+- [x] Intestinal Ischemia 91
+- [x] Irritable Bowel Syndrome 93
+- [x] GI Manifestations of COVID 93
 
 # GERIATRICS [x]
 
-[x] Physiologic Changes with Aging 95
-[x] Dementia 95
-[x] Malnutrition 98
-[x] Falls 98
-[x] Functional Status 99
-[x] Frailty 99
-[x] Medication Management 99
-[x] Urinary Incontinence & Foleys 100
+- [x] Physiologic Changes with Aging 95
+- [x] Dementia 95
+- [x] Malnutrition 98
+- [x] Falls 98
+- [x] Functional Status 99
+- [x] Frailty 99
+- [x] Medication Management 99
+- [x] Urinary Incontinence & Foleys 100
 
 # HEMATOLOGY/ONCOLOGY [x]
 
@@ -288,12 +288,12 @@ they will be marked as done.
 
 # RADIOLOGY [x]
 
-[x] Radiology Exams by Diagnosis 308
-[x] Chest X-ray Interpretation 309
-[x] Abdominal X-ray Interpretation 310
-[x] Consults for Radiographic Procedures 312
-[x] Anticoagulation for IR Procedures 313
-[x] Contrast Allergies 316
+- [x] Radiology Exams by Diagnosis 308
+- [x] Chest X-ray Interpretation 309
+- [x] Abdominal X-ray Interpretation 310
+- [x] Consults for Radiographic Procedures 312
+- [x] Anticoagulation for IR Procedures 313
+- [x] Contrast Allergies 316
 
 #  RHEUMATOLOGY [x]
 
@@ -310,10 +310,10 @@ they will be marked as done.
 
 # TOXICOLOGY [x]
 
-[ ] Toxidrome Overview 331
-[ ] Management of Specific Overdoses 332
-[ ] Drug Induced QTc Prolongation 337
-[ ] Brown Recluse Bites (Loxoscelism) 338
+- [x] Toxidrome Overview 331
+- [x] Management of Specific Overdoses 332
+- [x] Drug Induced QTc Prolongation 337
+- [x] Brown Recluse Bites (Loxoscelism) 338
 
 # APPENDICES [x]
 
