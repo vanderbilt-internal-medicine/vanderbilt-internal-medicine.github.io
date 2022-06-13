@@ -1,4 +1,8 @@
-# Acute Abdominal Pain – Alex Mamunes
+# Acute Abdominal Pain
+
+Alex Mamunes
+
+---
 
 ## General Approach
 
