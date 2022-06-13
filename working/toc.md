@@ -1,11 +1,3 @@
-# Table of Contents
-
-This is a working file for keeping track of the migration from vimbook.md to the website.
-
-After sections have been incorporated into the website,
-and deleted from vimbook.md,
-they will be marked as done.
-
 # INTRODUCTION
 
 - [x] Acknowledgements 1
