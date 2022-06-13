@@ -16,7 +16,7 @@ This repository has the contents of the Vanderbilt Internal Medicine Handbook.
 
 Create an account on [GitHub](https://github.com/).
 It's free.
-Then shoot an email to one of the maintainers of the vimbook (e.g. beau.hilton@vumc.org)
+Then shoot an email with your username to one of the maintainers of the vimbook (e.g. beau.hilton@vumc.org)
 to be added to the organization.
 
 
@@ -43,6 +43,8 @@ and you can edit the files right here on GitHub.
 <details>
   <summary> expand for more on Markdown </summary>
 
+---
+
 Markdown is a very simple text format
 that closely resembles the formatting
 we tend to use in medical documentation.
@@ -58,6 +60,8 @@ so you don't have to worry about getting the indentation or font just right.
 Here's a [cheat sheet](https://www.markdownguide.org/cheat-sheet/)
 for the main formatting options.
 
+---
+
 </details>
 
 While Markdown is simple,
@@ -67,6 +71,8 @@ See below for help.
 
 <details>
   <summary> expand for more on tables </summary>
+
+---
 
 If you have a simple table, use Markdown tables, described [here](https://www.markdownguide.org/extended-syntax/#tables).
 (That link also contains a link to an [online tool](https://www.tablesgenerator.com/markdown_tables)
@@ -89,12 +95,16 @@ that will output the html table code.
 It supports copy-paste from Excel/Sheets/Word.
 (pro-tip: click the "Do not generate CSS" button)
 
+---
+
 </details>
 
 You may want to add images. No problem! See below.
 
 <details>
   <summary> expand for more on adding images</summary>
+
+---
 
 Below are some examples and best practices.
 
@@ -164,6 +174,8 @@ and the section files will always be in subfolders one level down from `docs`,
 the most foolproof way to add a new image is to copy the whole parasternal-long example,
 and only change the name of the image and the alt text.
 
+---
+
 </details>
 
 While you're editing on GitHub,
@@ -179,6 +191,8 @@ so should be able to drop your changes in-line.
 
 <details>
   <summary> expand for more on formatting </summary>
+
+---
 
 File names: `subject-section.md`, e.g. `cardiology-acs.md`
 
@@ -199,6 +213,8 @@ in the beginning...
 ### Presentation
 
 and then (s)he...
+
+### Management
 
 ---
 
@@ -226,6 +242,8 @@ but the website engine doesn't differentiate after the third level,
 so readers won't be able to tell how deep the organizational rabbit hole goes.
 Attempt to flatten the organization so you don't require deeper sectioning,
 or consider splitting the topic into multiple topics.
+
+---
 
 </details>
 
