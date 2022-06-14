@@ -93,7 +93,7 @@ extra_css:
 extra:
   analytics:
     provider: google
-    property: UA-105678972-1
+    property: G-P068CEVH4L
     feedback:
       title: Was this page helpful?
       ratings:
