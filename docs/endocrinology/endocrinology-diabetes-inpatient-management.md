@@ -5,7 +5,9 @@ Will Bassett
 ---
 
 ## Background
+
 Blood glucose (BG) goal
+
 - Wards: <140 mg/dL fasting; <180 mg/dL random; increase for elderly, “sicker” patients
 - ICU: 140-180 mg/dL (NICE-SUGAR Trial)
 - Avoiding hypoglycemia in critically ill patients is more important than targeting ideal BG
