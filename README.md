@@ -50,7 +50,9 @@ that closely resembles the formatting
 we tend to use in medical documentation.
 E.g. a single '#' is used to denote a top-level header,
 multiple '##' denote sub-headings,
-'\-' are used to denote list items,
+'\-' are used to denote list items 
+(put a blank line before you start a new list,
+or markdown will think you're just putting a hyphen into a sentence),
 '\*' around things mark them as important.
 
 The tool that builds the website will
