@@ -62,4 +62,3 @@ Tube feeds
 Insulin pumps
 - If a patient has a pump and supplies, reasonably controlled BG, is willing and able to manage pump then s/he can keep the pump on. *This requires a Diabetes Consult*.
 - Still order POC BG checks AC/HS for nurse to chart and fill out MedEx pump contract
-
