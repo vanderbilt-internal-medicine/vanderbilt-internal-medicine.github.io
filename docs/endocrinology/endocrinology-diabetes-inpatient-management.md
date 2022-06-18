@@ -5,7 +5,6 @@ Will Bassett
 ---
 
 ## Background
-
 Blood glucose (BG) goal
 - Wards: <140 mg/dL fasting; <180 mg/dL random; increase for elderly, “sicker” patients
 - ICU: 140-180 mg/dL (NICE-SUGAR Trial)
@@ -42,7 +41,6 @@ Insulin adjustments
   - If endocrine consulted for inpatient glucose management, please notify >24h prior to discharge if you want recommended discharge regimen
 
 ## Steroid-induced Hyperglycemia
-
 Steroids increase insulin resistance causing elevated postprandial BG
 Insulin adjustments
 - Double mealtime + correction dose with leaving the basal the same
@@ -50,11 +48,10 @@ Insulin adjustments
 - Add NPH once daily (weight + dose based, per below*) if on daily prednisone
   - Prednisone 10 mg = 0.1 u/kg NPH
   - Prednisone 20 mg = 0.2 u/kg NPH up to 0.4 u/kg daily
-  - *lower dose if AKI, administer at the same time as prednisone dosing
-On discharge, if steroids will be longstanding, increase home insulin regimen per inpatient requirements. If steroids will be tapered or discontinued soon after, either continue hospital regimen for remainder of steroid course or return to home regimen (hyperglycemia is better than hypoglycemia)
+  - *lower dose if AKI, administer at the same time as prednisone dosing*
+  - On discharge, if steroids will be longstanding, increase home insulin regimen per inpatient requirements. If steroids will be tapered or discontinued soon after, either continue hospital regimen for remainder of steroid course or return to home regimen (hyperglycemia is better than hypoglycemia)
 
 ## Additional Information
-
 Tube feeds
 - Dose regular insulin q6h (not TID AC as they don’t have distinct “meals”)
 - Consolidate for bolus feedings based on 24-hour insulin needs prior to discharge
