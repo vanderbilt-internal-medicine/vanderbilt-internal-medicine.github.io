@@ -24,13 +24,13 @@ Initial orders
     - Hemoglobin A1c. Can consider if none in last 3 months and concern for poor outpatient control. A1c does not routinely affect inpatient management
     - Fingerstick blood glucose: Typically AC/HS (before meals and nightly)
     - Hypoglycemia management: Select all of these
-  - Basal insulin:
-      - Type 2 DM, consider ↓ home dose (50-60% to home dose) as often inpatients have reduced PO intake and ↓ renal function
-      - Type 1 DM, DO NOT hold basal insulin, and avoid ↓ < 80% of home dose
-      - Unnecessary if no home basal insulin
-  - Insulin lispro meal: ↓ home dose by 1/2, do not give while NPO
-  - Lispro insulin correction scale: Start with Low or Medium sliding scale and ↑ prn
-  - Carb-controlled or carb-restricted diet
+    - Basal insulin:
+        - Type 2 DM, consider ↓ home dose (50-60% to home dose) as often inpatients have reduced PO intake and ↓ renal function
+        - Type 1 DM, DO NOT hold basal insulin, and avoid ↓ < 80% of home dose
+        - Unnecessary if no home basal insulin
+    - Insulin lispro meal: ↓ home dose by 1/2, do not give while NPO
+    - Lispro insulin correction scale: Start with Low or Medium sliding scale and ↑ prn
+    - Carb-controlled or carb-restricted diet
 
 Insulin adjustments
 
@@ -57,7 +57,7 @@ Insulin adjustments
     - Prednisone 10 mg = 0.1 u/kg NPH
     - Prednisone 20 mg = 0.2 u/kg NPH up to 0.4 u/kg daily
     - *lower dose if AKI, administer at the same time as prednisone dosing*
-    - On discharge, if steroids will be longstanding, increase home insulin regimen per inpatient requirements. If steroids will be tapered or discontinued soon after, either continue hospital regimen for remainder of steroid course or return to home regimen (hyperglycemia is better than hypoglycemia)
+- On discharge, if steroids will be longstanding, increase home insulin regimen per inpatient requirements. If steroids will be tapered or discontinued soon after, either continue hospital regimen for remainder of steroid course or return to home regimen (hyperglycemia is better than hypoglycemia)
 
 ## Additional Information
 
