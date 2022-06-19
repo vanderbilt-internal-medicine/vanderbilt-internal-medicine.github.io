@@ -1,4 +1,8 @@
-# Hypoglycemia – Will Bassett
+# Hypoglycemia 
+
+Will Bassett
+
+---
 
 ## Background
 
