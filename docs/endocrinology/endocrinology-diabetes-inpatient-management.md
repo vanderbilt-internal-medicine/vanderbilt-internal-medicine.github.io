@@ -7,6 +7,7 @@ Will Bassett
 ## Background
 
 Blood glucose (BG) goal
+
 - Wards: <140 mg/dL fasting; <180 mg/dL random; increase for elderly, “sicker” patients
 - ICU: 140-180 mg/dL (NICE-SUGAR Trial)
 - Avoiding hypoglycemia in critically ill patients is more important than targeting ideal BG
@@ -14,6 +15,7 @@ Blood glucose (BG) goal
 ## Management
 
 Initial orders
+
 - HOLD all home oral diabetes medications (except consider continuing empagliflozin in heart failure pts)
 - Typically recommend dose reducing home insulin (usually 50% of home dose for type 2; varies for type 1) for changes in diet. If AKI present, consider reducing by more.
     - Patients with Type 1 DM *always need basal insulin*, even if NPO or else will lead to DKA
@@ -31,6 +33,7 @@ Initial orders
     - Carb-controlled or carb-restricted diet
 
 Insulin adjustments
+
 - If BGs persistently >200
     - Calculate all insulin needs over 24h (basal + mealtime + sliding scale)
         - Give 50% as basal and other 50% as 3 divided mealtime doses
@@ -47,6 +50,7 @@ Insulin adjustments
 Steroids increase insulin resistance causing elevated postprandial BG
 
 Insulin adjustments
+
 - Double mealtime + correction dose with leaving the basal the same
 - Modified basal bolus regimen (30% basal, 70% bolus)
 - Add NPH once daily (weight + dose based, per below*) if on daily prednisone
@@ -58,9 +62,11 @@ Insulin adjustments
 ## Additional Information
 
 Tube feeds
+
 - Dose regular insulin q6h (not TID AC as they don’t have distinct “meals”)
 - Consolidate for bolus feedings based on 24-hour insulin needs prior to discharge
 
 Insulin pumps
+
 - If a patient has a pump and supplies, reasonably controlled BG, is willing and able to manage pump then s/he can keep the pump on. *This requires a Diabetes Consult*.
 - Still order POC BG checks AC/HS for nurse to chart and fill out MedEx pump contract
