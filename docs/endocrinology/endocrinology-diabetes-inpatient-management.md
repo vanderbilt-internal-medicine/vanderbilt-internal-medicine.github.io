@@ -25,9 +25,9 @@ Initial orders
     - Fingerstick blood glucose: Typically AC/HS (before meals and nightly)
     - Hypoglycemia management: Select all of these
   - Basal insulin:
-    - Type 2 DM, consider ↓ home dose (50-60% to home dose) as often inpatients have reduced PO intake and ↓ renal function
-    - Type 1 DM, DO NOT hold basal insulin, and avoid ↓ < 80% of home dose
-    - Unnecessary if no home basal insulin
+      - Type 2 DM, consider ↓ home dose (50-60% to home dose) as often inpatients have reduced PO intake and ↓ renal function
+      - Type 1 DM, DO NOT hold basal insulin, and avoid ↓ < 80% of home dose
+      - Unnecessary if no home basal insulin
   - Insulin lispro meal: ↓ home dose by 1/2, do not give while NPO
   - Lispro insulin correction scale: Start with Low or Medium sliding scale and ↑ prn
   - Carb-controlled or carb-restricted diet
@@ -36,9 +36,9 @@ Insulin adjustments
 
 - If BGs persistently >200
     - Calculate all insulin needs over 24h (basal + mealtime + sliding scale)
-      - Give 50% as basal and other 50% as 3 divided mealtime doses
-      - E.g. 10 basal + 0 mealtime + 14 sliding scale total = 24 units total daily = 12u basal + 4u TID with meals
-      - If new to basal, safe start is 0.2 u/kg daily if normal GFR
+        - Give 50% as basal and other 50% as 3 divided mealtime doses
+        - E.g. 10 basal + 0 mealtime + 14 sliding scale total = 24 units total daily = 12u basal + 4u TID with meals
+        - If new to basal, safe start is 0.2 u/kg daily if normal GFR
 - If BGs < 70
     - If overnight/AM, reduce basal insulin dose
     - If daytime/post-prandial hypoglycemia, reduce mealtime and sliding scale
