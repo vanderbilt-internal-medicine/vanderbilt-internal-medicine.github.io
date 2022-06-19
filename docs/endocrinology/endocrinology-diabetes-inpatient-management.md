@@ -13,7 +13,9 @@ Blood glucose (BG) goal
 - Avoiding hypoglycemia in critically ill patients is more important than targeting ideal BG
 
 ## Management
+
 Initial orders
+
 - HOLD all home oral diabetes medications (except consider continuing empagliflozin in heart failure pts)
 - Typically recommend dose reducing home insulin (usually 50% of home dose for type 2; varies for type 1) for changes in diet. If AKI present, consider reducing by more.
   - Patients with Type 1 DM *always need basal insulin*, even if NPO or else will lead to DKA
@@ -31,6 +33,7 @@ Initial orders
   - Carb-controlled or carb-restricted diet
 
 Insulin adjustments
+
 - If BGs persistently >200
   - Calculate all insulin needs over 24h (basal + mealtime + sliding scale)
     - Give 50% as basal and other 50% as 3 divided mealtime doses
@@ -43,7 +46,9 @@ Insulin adjustments
   - If endocrine consulted for inpatient glucose management, please notify >24h prior to discharge if you want recommended discharge regimen
 
 ## Steroid-induced Hyperglycemia
+
 Steroids increase insulin resistance causing elevated postprandial BG
+
 Insulin adjustments
 - Double mealtime + correction dose with leaving the basal the same
 - Modified basal bolus regimen (30% basal, 70% bolus)
@@ -54,10 +59,13 @@ Insulin adjustments
   - On discharge, if steroids will be longstanding, increase home insulin regimen per inpatient requirements. If steroids will be tapered or discontinued soon after, either continue hospital regimen for remainder of steroid course or return to home regimen (hyperglycemia is better than hypoglycemia)
 
 ## Additional Information
+
 Tube feeds
+
 - Dose regular insulin q6h (not TID AC as they don’t have distinct “meals”)
 - Consolidate for bolus feedings based on 24-hour insulin needs prior to discharge
 
 Insulin pumps
+
 - If a patient has a pump and supplies, reasonably controlled BG, is willing and able to manage pump then s/he can keep the pump on. *This requires a Diabetes Consult*.
 - Still order POC BG checks AC/HS for nurse to chart and fill out MedEx pump contract
