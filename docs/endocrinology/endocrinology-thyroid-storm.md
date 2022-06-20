@@ -11,11 +11,11 @@ Gaby Schroeder
 - Common Precipitants: Grave’s Disease, surgery, trauma, pregnancy, stress, infection, MI/PE, medication non-compliance, iodine loads
 
 - Use Burch-Wartofsky Point Scale (BWPS); available on MD Calc
-    - Greater than 45: highly suggestive
+    - \> 45: highly suggestive
     
     - 25-44: impending storm
     
-    - Less than 25: unlikely to represent storm
+    - \< Less than 25: unlikely to represent storm
 
 ## Management
 
