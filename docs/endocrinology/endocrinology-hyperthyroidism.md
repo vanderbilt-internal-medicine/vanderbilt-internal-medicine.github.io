@@ -30,6 +30,8 @@ Griffin Bullock
 
 - Radioiodine uptake scan if thyrotropin antibodies negative
 
+    - Note: if pt has had a contrasted study wtih radioactive iodine in the past 6 weeks, the RAI update scan will not be helpful 
+
 - Treatment: methimazole, PTU, beta blockers, radioiodine ablation, surgery
 
 - Pts should be referred to endocrinology for treatment plan based on work up
