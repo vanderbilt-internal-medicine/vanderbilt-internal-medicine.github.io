@@ -1,1 +1,9 @@
 .md-typeset abbr{border-bottom:none;cursor:help;text-decoration:none}
+
+article ul ul {
+        list-style-type:  circle !important;
+}
+
+article ul ul ul {
+        list-style-type:  square !important;
+}
