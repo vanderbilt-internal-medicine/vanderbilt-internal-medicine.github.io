@@ -13,3 +13,4 @@ Steroid Conversion Chart – Neil Phillips
 | Triamcinolone             | 4                     | 5                                                     | 12 to 36                 |
 | Dexamethasone             | 0.75                  | 30                                                    | 36 to 72                 |
 | Betamethasone             | 0.6                   | 30                                                    | 36 to 72                 |
+ 
