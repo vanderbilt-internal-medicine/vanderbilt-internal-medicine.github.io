@@ -1,6 +1,6 @@
 # Hepatocellular Carcinoma (HCC) 
 
-Lee Richardson, Julie Cui
+Julie Cui, Lee Richardson 
 
 ---
 
