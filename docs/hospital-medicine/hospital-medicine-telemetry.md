@@ -1,13 +1,19 @@
-# Telemetry
+# Telemetry 
 
-Background
+Ahmad Dbouk and Samuel Lazaroff
 
--   \~43% of monitored pts do not have a true indication
--   Leads to alarm fatigue, unnecessary workups, and is expensive
--   Telemetry is not a substitute for more frequent vital signs
--   Discuss frequently on rounds: always reassess need and indication
--   HDS pts w/o troponin elevation or new arrythmias that admission are
-    typically appropriate for transfer without telemetry
+---
+
+## Background
+
+- Many monitored pts do not have a true indication
+    - Leads to alarm fatigue, unnecessary workups, and is expensive
+    
+- Telemetry is not a substitute for more frequent vital signs
+
+- Discuss frequently on rounds: always reassess need and indication
+
+- Stable patients without troponin elevation or new arrythmias are typically appropriate for transfers without telemetry
 
 | 0                                                         | 1                                                          |
 |-----------------------------------------------------------|------------------------------------------------------------|
@@ -39,6 +45,6 @@ Notable non-indications:
     pain, Pt with AICD admitted for non-cardiac cause, non-cardiac
     surgery, chronic AF and clinically stable
 -   Contraindicated in hospice/comfort care
--   Nearly all noncardiac conditions not in the ICU (i.e.,
+-   Nearly all noncardiac conditions (i.e.,
     undifferentiated sepsis, stable GI bleed, alcohol withdrawal) upon
     transfer out of ICU
