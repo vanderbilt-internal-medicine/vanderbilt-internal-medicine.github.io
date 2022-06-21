@@ -1,13 +1,10 @@
-# GU infection
+# Genitourinary Infection – VASP
 
-Genitourinary Infection – VASP
+# Asymptomatic Bacteriuria
 
-Asymptomatic Bacteriuria
+## Background
 
-Background
-
--   Isolation
-    of bacteria in an appropriately collected urine specimen from an
+-   Isolation of bacteria in an appropriately collected urine specimen from an
     individual without symptoms or signs of urinary tract infection.
     Bacteriuria, foul odor, urine appearance, pyuria and/or bacteriuria
     alone are not indicative of infection.
@@ -21,34 +18,17 @@ Background
     -   Some
         renal transplant recipients, depending on time since transplant
 
-Uncomplicated Urinary Tract Infection (UTI)
+# Uncomplicated Urinary Tract Infection (UTI)
 
-Background
+## Background
 
--   Clinical
-    symptoms of UTI (dysuria/urgency/frequency/ hematuria) in
+-   Clinical symptoms of UTI (dysuria/urgency/frequency/ hematuria) in
     non-pregnant, immunocompetent, neurologically-intact pts with normal
     urologic anatomy and no indwelling urinary catheters
--   Treatment \< 5 days is not adequate when treating with a
-    beta-lactam. Avoid amoxicillin or ampicillin due to increasing
-    resistance
--   Nitrofurantoin cannot be used for ascending UTI or pyelonephritis
--   Antibiotics should be tailored if culture data are available.
 
-Evaluation
+## Management
 
--   Assessment
-    of urinary symptoms
--   UA
-    \+ reflex urine Cx (Cx if pt is admitted or has recurrent UTIs)
--   Non
-    -reflex urine Cx: pregnant pts, neutropenia, and pts undergoing
-    urologic procedures
-
-Management
-
--   Empiric
-    therapy
+-   Empiric therapy
     -   Nitrofurantoin monohydrate: 100 mg PO BID x 5 days (avoid if any
         concern for pyelonephritis or if creatinine clearance \<60)
     -   Cephalexin
@@ -59,10 +39,8 @@ Management
         (avoid if any concern for ascending UTI or pyelonephritis).
         Susceptibility test results must be requested of micro lab and
         are only possible for E. coli and E. Faecalis.
-    -   Amoxicillin
-        -clavulanate: 500mg PO BID x5 days
-    -   Ciprofloxacin
-        : 250mg PO BID x3 days
+    -   Amoxicillin-clavulanate: 875-125mg PO BID x5 days
+    -   Ciprofloxacin: 250mg PO BID x3 days
         -   FQ’s should be reserved for more serious infections than
             uncomplicated cystitis, and only after susceptibility
             results are confirmed given high rates of resistance from
@@ -71,37 +49,28 @@ Management
         -   Adverse effect profile >\> beta-lactams (i.e.
             QT-prolongation, tendinopathies)
 
-Additional
+## Additional Information
 
-Information
-
--   MDR cystitis: ESBL
-    isolates are increasingly common due to antibiotic overuse
--   Before treating, decide if this is a TRUE UTI
--   If true, then for uncomplicated cystitis with ESBL organism,
-    consider Fosfomycin (if *E. coli* ) or nitrofurantoin (if
+-   MDR cystitis: ESBL isolates are increasingly common due to antibiotic overuse
+    -   Before treating, decide if this is a TRUE UTI
+    -   If true, consider Fosfomycin (if *E. coli* ) or nitrofurantoin (if
     susceptibility is confirmed – *K. pneumoniae* and *Enterobacter* spp
-    are usually resistant), or ID consultation
--   Ask the lab to check susceptibility results to these antibiotics,
-    for the future reference
+    are usually resistant), gentamicin or tobramycin 5-7mg/kg IV once, or ID consultation
+    -   Ask the lab to check susceptibility results to these antibiotics, for the future reference
 
-Complicated UTI and Pyelonephritis
+# Complicated UTI and Pyelonephritis
 
-Background
+## Background
 
--   Fever
-    , pyuria, and costovertebral angle tenderness suggest
-    pyelonephritis. If any of the following are present, it is also
-    considered a complicated UTI
--   UTI
-    with any of the following present:
-    -   Renal calculi or other obstructive disease, Immunosuppressed
-        host, abnormal urological anatomy or physiology, presence of a
+-   Fever, pyuria, and costovertebral angle tenderness suggest
+    pyelonephritis. 
+-   Consider it a complicated UTI if any of the following are present: 
+    -   Renal calculi or other obstructive disease, immunosuppressed
+        host, abnormal urological anatomy or physiology (including stents), presence of a
         urinary catheter
+    -   Malse sex alone does NOT qualify as complicated 
 
-Evaluation
-
--   -   -   -   -
+## Evaluation
 
 -   UA with reflex urine culture
 
@@ -109,15 +78,13 @@ Evaluation
 
 -   If there is no pyuria, consider an alternative diagnosis, or
     proximal ureteral obstruction
-    -   Pyuria
-        is common in the presence of a urinary catheter, kidney stones,
+    -   Pyuria is common in the presence of a urinary catheter, kidney stones,
         urostomy, ileal conduit and other invasive devices, and may not
         indicate infection
 
-Management
+## Management
 
 -   Duration: 7-14 days, depending on antibiotic choice
--   Follow up culture to confirm clearance, especially if outpatient
 -   Tailor therapy once/if cultures are available. If no improvement in
     48h, consider imaging to rule out complications (e.g., perinephric
     abscess)
@@ -130,9 +97,9 @@ Management
 
 \*FQ’s have same bioavailability if given PO or IV so oral is preferred
 
-Catheter Associated Urinary Tract Infection (CAUTI)
+# Catheter Associated Urinary Tract Infection (CAUTI)
 
-Background
+## Background
 
 -   Culture growth of > 10 <sup>3</sup> cfu/mL of uropathogenic
     bacteria + signs or symptoms consistent with infection (without
@@ -152,9 +119,7 @@ Background
     -   If catheterization required; removal of old catheter and sample
         taken from new
 
-Management
-
--   -   -   -   -
+## Management
 
 -   Distinguish uncomplicated vs complicated UTI (see above)
 
@@ -183,8 +148,8 @@ Management
 
 -   Catheter management
     -   At the least, catheters should be replaced at the time of
-        antibiotic initiation
+        antibiotic initiation (preferably removed) 
     -   Preferably, catheters should be removed
     -   If catheterization is necessary, intermittent catheterization is
-        preferred over continuous use. Condom catheters and pure wicks
+        preferred over continuous use. Condom catheters and pure wicks also 
         preferred over foley catheter
