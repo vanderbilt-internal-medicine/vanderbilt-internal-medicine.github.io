@@ -1,66 +1,39 @@
-# Portal Vein Thrombosis
+# Portal Vein Thrombosis (PVT) 
 
-| 0                                              |
-|------------------------------------------------|
-| Portal Vein Thrombosis (PVT) – John Laurenzano |
+John Laurenzano
 
-Background
+---
 
--   Sluggish flow within the portal system, localized endothelial
-    inflammation, and alterations in the coagulation/fibrinolytic
-    cascade
--   There is a bidirectional relationship between PVT and
-    decompensation, as portal vein thrombosis can worsen decompensation
-    (i.e. variceal hemorrhage), though at the same time PVT can result
-    from worsening portal HTN and more sluggish flow
+## Background
 
-Presentation
+- Portal Vein Thrombosis (PVT) can worsen decompensation (i.e. variceal hemorrhage), however, worsening portal HTN -> more sluggish flow -> increased risk PVT
 
--   Identified asymptomatically on ultrasound, but can be identified by
-    new or worsening decompensation of portal HTN
--   Esophageal variceal hemorrhage—most common decompensating event
-    assoc. w/ PVT
--   Intestinal ischemia (abdominal pain, hematochezia)—exceedingly rare
-    but assoc. w/significant morbidity and mortality
+## Presentation
 
-Evaluation
+- Often identified asymptomatically on U/S, but can be identified by new or worsening decompensation of portal HTN
+- Variceal hemorrhage is the most common decompensating event associated with PVT
+- Intestinal ischemia (abdominal pain, hematochezia) from PVT is exceedingly rare but associated with significant morbidity and mortality
 
--
--   Initial: RUQ with doppler
--   Once identified, should be further assessed with ctriple phase CT or
-    MRI w/Gadovist contrast to exclude HCC w/tumor thrombus (excludes
-    pts from LT as noted above)
-    -   AFP can be an adjunctive test to assess for HCC if significantly
-        elevated
--   Pts with newly identified PVT should undergo EGD to evaluate for
-    high-risk varices, both for diagnostic and therapeutic
-    considerations
--   PVT in pts w/o cirrhosis should prompt evaluation for
-    hypercoagulable disorders
+## Evaluation
 
-Management
+- RUQ U/S with doppler
+    - Once identified, should be further assessed with triple phase CT or MRI with Gadovist contrast to exclude HCC with tumor thrombus
+- Pts with newly identified PVT should undergo EGD to evaluate for high-risk varices, both for diagnostic and therapeutic considerations
 
--   Individualized and based on risk factors for bleeding; should be
-    discussed with the attending/fellow. There is no need for urgent
-    anticoagulation in the absence of signs/symptoms of intestinal
-    ischemia
--   Anticoagulation with VKA, LMWH, or UFH
-    -   DOAC’s not as extensively studied in cirrhosis, but may be
-        considered Child A pts
-    -   If pt is to be listed for transplant and has normal INR,
-        coumadin can give additional MELD points and is more easily
-        reversed
--   Anticoagulation is associated with improved recanalization in recent
-    PVT (\<6 mos), and may improve post-transplant outcomes in those
-    awaiting transplantation; pts with chronic occlusive PVT (>6 mos) or
-    with cavernous transformation with collaterals do not generally
-    benefit from anticoagulation
--   Pts with high-risk varices should undergo endoscopic management or
-    be on BB for ppx for variceal hemorrhage, as noted above
--   TIPS with portal vein recanalization has recently emerged as a
-    therapeutic modality for PVT
--   Pts should undergo follow up intermittently with ultrasound imaging
-    to assess for recanalization. AC may be stopped if there is failure
-    to recanalize.
-    -   If pts are not candidates for AC, they'll simply be treated for
-        complications of portal HTN
+- PVT in pts without cirrhosis should prompt evaluation for hypercoagulable disorders
+
+## Management
+
+- Start anticoagulation if acute thrombus occludes >50% of main portal vein, <50% but extends into SMV, thrombus is symptomatic, or patient is a transplant candidate (irrespective of size). Requires discussion with attending/transplant team.
+    - Anticoagulation options: warfarin, LMWH, or DOAC
+    - DOAC’s are safe in Childs Class A, can be used with caution in Childs B, and are contraindicated in Childs C
+
+- Pts with chronic occlusive PVT (>6 mos) or with cavernous transformation with collaterals do not generally benefit from anticoagulation
+
+- Pts with high-risk varices should undergo endoscopic management or be on NSBB for prophylaxis for variceal hemorrhage, as noted above
+
+- TIPS with portal vein recanalization has recently emerged as a therapeutic modality for PVT
+
+- Pts should undergo follow up intermittently with ultrasound to assess for recanalization. AC may be stopped if there is failure to recanalize.
+
+- If pts are not candidates for AC, they'll simply be treated for complications of portal HTN
