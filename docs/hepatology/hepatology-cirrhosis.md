@@ -1,106 +1,76 @@
-# Cirrhosis
+# Cirrhosis Overview  
 
-| 0                                   |
-|-------------------------------------|
-| Cirrhosis Overview – Lee Richardson |
+Hannah Angle, Lee Richardson 
 
-Background
+---
 
--   For any patient admitted with cirrhosis, know the etiology of their
-    cirrhosis, whether they are compensated or decompensated, and their
-    admission MELD score.
--   Etiology:
-    -   Most common causes = Alcohol-associated liver disease,
-        non-alcoholic steatohepatitis (NASH) and HCV (becoming less
-        common with DAA success)
-    -   Less common causes: HBV, metabolic (hemochromatosis, Wilson’s
-        disease), A1AT deficiency, autoimmune hepatitis, PSC, PBC,
-        veno-occlusive disease, R sided heart disease (congestive
-        hepatopathy), and medication-induced
--   Decompensated Cirrhosis:  Cirrhosis + Ascites, Hepatic
-    Encephalopathy or Gastroesophageal Variceal Hemorrhage (the presence
-    of varices without prior hemorrhage is not decompensation)
-    -   Average life expectancy of a patient with compensated cirrhosis
-        = 10-13 years
-    -   Average life expectancy of a patient with decompensated
-        cirrhosis = 2 years
+## Background
 
-Evaluation
+- Standard 1-liner for any patient with cirrhosis:
 
--   Goal is to establish the diagnosis of cirrhosis, determine the cause
-    of cirrhosis and determine candidacy and necessary evaluation for
-    transplantation.
--   History:
-    -   Known history of prior liver disease (if so, from what, and when
-        did they learn about it?). Presence/absence of: fatigue, easy
-        bruising, lower extremity edema, weight loss, pruritus,
-        yellowing of the skin or eyes, increasing abdominal girth, prior
-        episodes of disorientation to place, person, or time, sleep
-        disturbances.
-    -   Extensive social hx including alcohol (start year, quitting
-        year, avg amt/day, prior treatment, DUI) and drug use hx (type
-        and route plus the above elements in EtOH hx), family history of
-        liver disease
--   Physical exam: Splenomegaly, caput medusae, ascites, asterixis/HE,
-    conjunctival icterus, spider angiomata, gynecomastia, palmar
-    erythema, jaundice, testicular atrophy, easy bruising/bleeding,
-    edema/anasarca
--   Labs:
-    -   Initial Workup: CMP, CBC, U/A, HCV antibody, HBV panel, iron
-        panel (ferritin, transferrin saturation), AFP, Peth
-    -   Unless requested by the hepatology team, the following tests can
-        be deferred to the OP setting: AMA (PBC), ASMA (AIH), ANA w/
-        reflex, IgG, A1AT phenotype, ceruloplasmin (wilson’s), generally
-        defer anti-LKM, anti-SLA (type 2 AIH, requires attending
-        approval) to Hep recs
--   Imaging:
-    -   Abdominal u/s with duplex unless done in past 6 months, or
-        indication for repeating (e.g., concern for PVT w/ new EVH)
-    -   consider triple phase CTAP (contrasted study that looks at
-        arterial and venous phases) vs MRI abdomen w/contrast if
-        required by hep team (transplant eval)
-    -   HCC surveillance is further discussed below
--   Liver biopsy: Gold standard for diagnosis not always needed if
-    clinical picture, labs, and imaging consistent with cirrhosis (See
-    Radiology Section for who to consult for biopsy)
+![cirrhosis one-liner](../images/cirrhosisoneliner.png)
+ 
+- Example 1-liner: 65yo M with cirrhosis due to HCV decompensated by ascites and HE (MELD 25) who is listed for transplant and followed by Dr. Izzy
+    
+- Etiology of cirrhosis: HCV>HBV, EtOH, NASH, Wilson’s, hemochromatosis, A1AT deficiency, autoimmune hepatitis, PSC, PBC, congestive hepatopathy (right heart failure), medication-induced
 
-Management
+- Complications that cause decompensation: overt ascites (or hepatic hydrothorax), overt hepatic encephalopathy (HE), esophageal variceal hemorrhage (EVH)
 
--   Malnutrition occurs in 20-60% of patients with cirrhosis
-    -   Nutrition consult if ascites present (unless recently done)
-    -   High protein (1.2-1.5g/kg) diet
-    -   2g Na restriction, reinforce regularly
-    -   Consider MVI, folate, thiamine, particularly to pts w/ EtOH Use
-        Disorder
-    -   Fluid restriction only needed for hyponatremia (as noted below)
--   Ensure pts are up to date on required vaccines; these can be
-    administered while inpatient before discharge. Indicated vaccines
-    include HBV/HAV, PPSV23, Prevnar, Flu, COVID 19
--   Consider addiction psych (medical therapy) and SW c/s (behavioral
-    therapy with IOP, AA) for EtOH use disorder
+- Always calculate daily MELD-Na scores (predicts 3 mo survival based on Tbili, Cr, INR, Na)
 
-Additional Information
+## Evaluation
 
-Lab abnormalities in cirrhosis:
+- Goals: establish cause of cirrhosis, evaluate for complications and treat accordingly, determine prognosis, and consider transplant evaluation
 
--   Calculate daily MELD-Na scores in pts being considered for Liver
-    transplant
--   Coagulopathies: thrombocytopenia (from both hypersplenism and
-    increased PLT sequestration and
-    ↓
-    thrombopoietin production in liver),
-    ↓
-    coagulation factor production
--   Hyponatremia: Usually hypervolemic hyponatremia in cirrhotic
-    patients; benefit from fluid restriction if hyponatremic
--   Hypoalbuminemia: Albumin transfusion is indicated in certain
-    scenarios (detailed below) for volume expansion, anti-inflammatory
-    and anti-oxidant properties
-    -   Order 25% albumin and NOT 5% (5% albumin is only used to
-        maintain effective circulating volume following major hepatic
-        resection or hepatic transplant)
--   Indications for albumin administration:
-    -   SBP (see SBP section)
-    -   LVP (see Ascites section)
-    -   Diagnosis/Treatment  of HRS (see HRS section)
-    -   Hyponatremia (\<125 and not responsive to fluid restriction)
+- History:
+    - Symptoms suggesting decompensation: confusion, sleep disturbances, abdominal swelling, lower extremity edema, scleral icterus/jaundice, pruritus, easy bruising/bleeding (skin, mouth, GI tract), dyspnea
+    - Social history: EtOH and drug use hx, date of last drink, average # of drinks/day, duration of EtOH use, prior rehab, hx of DUI, if there has been continued EtOH use despite knowledge of liver disease; these factors all impact transplant candidacy
+    - Ascites: compliance with diuretics, compliance with salt restriction, frequency of paracentesis (volume removed, date of last para), h/o SBP
+    - HE: compliance with lactulose, # of BMs per day, any potential triggers (see HE section)
+    - GIB/EVH: hematemesis, coffee ground emesis, melena, hematochezia (duration, volume, # of bleeding episodes), last EGD (varices, banding) and colonoscopy, compliance with non-selective BBs
+
+- Physical exam: asterixis, ascites, edema/anasarca, splenomegaly, muscle wasting, gynecomastia, testicular atrophy, palmar erythema, spider angiomata, scleral icterus/jaundice, petechiae/ecchymoses, caput medusa, Terry’s nails
+
+- Labs
+
+    - Initial Workup: CMP, CBC, coags, UA, HCV/HBV, Fe studies, PEth
+    - Unless requested by hepatology, defer to outpatient: AFP, ANA, IgG, A1AT, ceruloplasmin, AMA (PBC), ASMA (AIH), anti-SLA (AIH), anti-LKM (AIH)
+
+- Imaging:
+    - Abdominal US with duplex 
+    - For transplant eval, needs triple phase CT A/P (contrasted study, arterial and venous phases) or MRI abdomen with contrast
+
+- Liver biopsy: gold standard for cirrhosis diagnosis but is not always needed if clinical presentation, labs, and imaging consistent with cirrhosis
+
+## Lab abnormalities
+
+- Hyponatremia (see hyponatremia section below)
+
+- Cirrhotic coagulopathy (increased INR): due to ↓ coagulation factor production
+
+- Thrombocytopenia: due to splenic sequestration, ↓ TPO production
+
+- Hypoalbuminemia: indications for 25% albumin transfusion – SBP (1.5g/kg on day 1, 1g/kg on day 3), LVP (6-8g/L of ascites), HRS (albumin challenge: 1g/kg/day with max 100 g/day x 2 days), hypoNa <125 and refractory to fluid restriction
+
+## Management
+
+- Nutrition: high protein diet, 2g Na restriction (if ascites present)
+    - Mediterranean diet for NASH
+    - Fluid restriction if hyponatremic
+
+- Immunizations: ensure up-to-date with HBV/HAV, PPSV23, Prevnar, Flu, COVID-19 vaccines
+
+- Consider consulting Addiction Psych and Social Work for pts with EtOH use disorder - can assist with arranging Intensive Outpatient Program (IOP), Alcoholics Anonymous (AA)
+
+- General screenings include: HCC screening (q6 months), EVH screening (see section below), monitor for other decompensations and treat accordingly, monitor MELD and consider transplant evaluation when >15
+
+## Medication Tips:
+
+- Pain: 2g limit Tylenol, No NSAIDs, limit sedating medications especially with HE.
+    - Tramadol 25-50mg generally safe to use
+
+- Pruritus: Sarna lotion, can spot dose antihistamines. Can discuss with pharmacist/attending about starting sertraline, cholestyramine (interacts with many medications), or rifampin.
+
+- Anxiety/insomnia: hydroxyzine, avoid benzodiazepines
+
+- If needed for EtOH withdrawal, use lorazepam (Ativan) instead of chlordiazepoxide (Librium) or diazepam (Valium) due to its shorter half life
