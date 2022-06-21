@@ -1,28 +1,29 @@
-# Orthopedic Infection
+# Joint Infections and Osteomyelitis – VASP
 
-Joint Infection and Osteomyelitis – VASP
+## Evaluation
 
-Evaluation
+- Blood cultures prior to antibiotics
 
--   Blood cultures prior to antibiotics
--   MRI is the most sensitive and specific imaging modality for
+- MRI is the most sensitive and specific imaging modality for
     osteomyelitis.
--   Ortho consult for Joint fluid aspirate or bone bx; send for culture
-    and send fluid for cell count/differential. Ideally, joint fluid is
-    inoculated into BCx bottle to improve recovery
--   Reserve some specimen to allow for cell count/differential and Gram
-    stain.
 
-Management
+- Ortho consult for joint fluid aspirate or bone bx; send for culture
+    and send fluid for cell count/differential.
 
--   Hold antibiotics until culture obtained, if patient is clinically
+## Management
+
+- Hold antibiotics until culture obtained, if patient is clinically
     stable
--   Osteomyelitis is a 6-week treatment course, can consider early
-    transition to oral if good bioavailability and susceptibility.
--   For prosthetic joint infection, procedure/retention of hardware
+
+- Osteomyelitis is a 6-week treatment course, can consider early
+    transition (at 2-3 weeks) to oral if good bioavailability and
+    susceptibility.
+
+- For prosthetic joint infection, procedure/retention of hardware
     determines duration
--   First line empiric: Vancomycin + ciprofloxacin 750mg BID
--   Antimicrobial
-    therapy will be guided by culture data, ID consult recommended for
-    joint infection treatment due to need for prolonged antibiotic
-    therapy
+
+- First line empiric: Vancomycin + ciprofloxacin 750mg BID
+
+- Antimicrobial therapy will ultimately be guided by culture data, ID
+    consult recommended for joint infection treatment due to need for
+    prolonged antibiotic therapy
