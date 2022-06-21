@@ -1,34 +1,34 @@
 # Endocarditis
 
-Endocarditis – Justin Smith
+Justin Smith
 
-Background
+---
 
--   -   -   -   -
+## Background
 
 -   Multiple etiologies of endocarditis:
     -   Typical Bacterial
-        -   S. aureus, Enterococcus spp (E. faecalis most commonly),
-            viridans group streptococci, Strep gallolyticus (formerly S.
-            bovis)
+        -   *S. aureus*, *Enterococcus spp* (*E. faecalis* most commonly),
+            viridans group *streptococci*, *Strep gallolyticus* (formerly *S.
+            bovis*)
         -   HACEK
-            : Haemophilus, Aggregatibacter, Cardiobacterium, Eikenella,
-            Kingella
+            : *Haemophilus*, *Aggregatibacter*, *Cardiobacterium*, *Eikenella*,
+            *Kingella*
     -   Other infectious
         -   Culture negative: often recent antimicrobial exposure, slow
             growing organism
-        -   Coxiella, Brucella, Bartonella, Chlamydia, Legionella,
-            Mycoplasma, Tropheryma whipplei, Propionibacterium acnes
+        -   *Coxiella*, *Brucella*, *Bartonella*, *Chlamydia*, *Legionella*,
+            *Mycoplasma*, *Tropheryma whipplei*, *Propionibacterium acnes*
         -   Fungal: *Candida* and *aspergillus* most common
     -   Non-infectious: a.k.a., marantic endocarditis, Libbman-Sacks
         Endocarditis
-        -   Rare
-            , most common in advanced malignancy, SLE, inflammatory
+        -   Rare, most common in advanced malignancy, SLE, inflammatory
             conditions
-        -   Endothelial injury with associated hypercoagulability
         -   Higher risk for embolization compared to IE
         -   Risk factors: IV drug use, congenital heart disease, valve
             abnormalities, intracardiac devices, recent cardiac surgery
+
+## Presentation 
 
 -   Fever (90%), Murmur (85%), Other: splenomegaly, splinter
     hemorrhages, Janeway lesions, Osler Nodes, Roth Spots
@@ -38,7 +38,7 @@ Background
     thromboembolic events, metastatic infections/abscesses, splenic
     abscess, septic pulmonary emboli
 
-Duke Criteria:
+## Duke Criteria:
 
 -   Pathologic Criteria
     -   Microorganisms: culture or histology proven: vegetation,
@@ -64,7 +64,7 @@ Duke Criteria:
     days of antibiotics, or absence of pathologic evidence with \<4days
     of antibiotics
 
-Evaluation
+## Evaluation
 
 -   Physical exam: murmur, decreased peripheral perfusion, evidence of
     heart failure, petechiae, splinter hemorrhages, Janeway
@@ -85,7 +85,7 @@ Evaluation
 -   Other advanced imaging in select scenario: cardiac CTA, cardiac MRI,
     FDG-PET/CT
 
-Management
+## Management
 
 -   Empiric antibiotics:
     -   If bacteria isolated from blood, reference bacteremia section
@@ -98,9 +98,9 @@ Management
 -   Surgical consult, if valve dysfunction, perivalvular abscess, large
     (>20mm) vegetations
 
-Additional Information:
+## Additional Information:
 
--   Complications
+-   Complications: 
     -   Cardiac:
         -   Heart failure:  usually secondary to valve dysfunction. Most
             common when aortic valve involved, risk also depends on
@@ -111,12 +111,10 @@ Additional Information:
         -   Pericarditis: can be suppurative or non-suppurative
         -   Intracardiac Fistula
 
--   -
     -   Septic emboli and metastatic abscesses
     -   Mycotic aneurysm: usually occurs at vessel branch points
 
--   Follow
-    Up
+-   Follow Up
     -   Repeat TTE at completion of treatment to establish new baseline
     -   Followed for valvular dysfunction with frequency determined by
         nature of the dysfunction. (MR caused by IE should be followed
@@ -124,5 +122,4 @@ Additional Information:
     -   Regular dental care, Prior IE is an indication for SBE
         prophylaxis with dental work.
 
--   Episode of IE is an indication fo
-    r PDA or VSD closure
+-   Episode of IE is an indication for PDA or VSD closure
