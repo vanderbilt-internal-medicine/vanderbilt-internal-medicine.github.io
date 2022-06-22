@@ -132,12 +132,12 @@
 
 # HOSPITAL MEDICINE
 
-- [ ] Telemetry 153
-- [ ] Lines and Catheters 154
-- [ ] Transitions of Care 154
-- [ ] Enteral Nutrition 155
-- [ ] Guidelines for Pregnant Patients 157
-- [ ] Wounds 157
+- [x] Telemetry 153
+- [x] Lines and Catheters 154
+- [x] Transitions of Care 154
+- [x] Enteral Nutrition 155
+- [x] Guidelines for Pregnant Patients 157
+- [x] Wounds 157
 
 # INFECTIOUS DISEASES
 
