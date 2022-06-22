@@ -43,18 +43,18 @@
 
 # ENDOCRINOLOGY
 
-- [ ] Inpatient Diabetes Mellitus 61
-- [ ] Hypoglycemia 62
-- [ ] Diabetic Ketoacidosis 62
-- [ ] Hypothyroidism 65
-- [ ] Thyroid Nodules 65
-- [ ] Hyperthyroidism 66
-- [ ] Thyroid Storm 67
-- [ ] Adrenal Insufficiency 67
-- [ ] Stress Dose Steroids 68
-- [ ] Steroid Conversion 68
-- [ ] Severe Hypertriglyceridemia 68
-- [ ] Adrenal Incidentalomas 69
+- [x] Inpatient Diabetes Mellitus 61
+- [x] Hypoglycemia 62
+- [x] Diabetic Ketoacidosis 62
+- [x] Hypothyroidism 65
+- [x] Thyroid Nodules 65
+- [x] Hyperthyroidism 66
+- [x] Thyroid Storm 67
+- [x] Adrenal Insufficiency 67
+- [x] Stress Dose Steroids 68
+- [x] Steroid Conversion 68
+- [x] Severe Hypertriglyceridemia 68
+- [x] Adrenal Incidentalomas 69
 
 # GASTROENTEROLOGY
 
