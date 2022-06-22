@@ -309,10 +309,10 @@
 
 # APPENDICES
 
-- [ ] Uploading Records 341
-- [ ] VUMC Rotations 341
-- [ ] VA Rotations 344
-- [ ] Discharges at VUMC 345
-- [ ] Discharges at VA 346
-- [ ] Door Codes 347
-- [ ] Phone Numbers 347
+- [x] Uploading Records 341
+- [x] VUMC Rotations 341
+- [x] VA Rotations 344
+- [x] Discharges at VUMC 345
+- [x] Discharges at VA 346
+- [x] Door Codes 347
+- [x] Phone Numbers 347
