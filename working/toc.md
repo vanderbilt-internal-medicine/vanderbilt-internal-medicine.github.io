@@ -41,7 +41,7 @@
 - [x] Ultrasound in Critical Care 57
 - [x] Running Codes 59
 
-# ENDOCRINOLOGY [x]
+# ENDOCRINOLOGY
 
 - [ ] Inpatient Diabetes Mellitus 61
 - [ ] Hypoglycemia 62
@@ -56,7 +56,7 @@
 - [ ] Severe Hypertriglyceridemia 68
 - [ ] Adrenal Incidentalomas 69
 
-# GASTROENTEROLOGY [x]
+# GASTROENTEROLOGY
 
 - [x] Acute Abdominal Pain 70
 - [x] Nausea & Vomiting 72
@@ -76,7 +76,7 @@
 - [x] Irritable Bowel Syndrome 93
 - [x] GI Manifestations of COVID 93
 
-# GERIATRICS [x]
+# GERIATRICS
 
 - [x] Physiologic Changes with Aging 95
 - [x] Dementia 95
@@ -87,198 +87,198 @@
 - [x] Medication Management 99
 - [x] Urinary Incontinence & Foleys 100
 
-# HEMATOLOGY/ONCOLOGY [x]
+# HEMATOLOGY/ONCOLOGY
 
-[ ] Anemia 101
-[ ] Neutropenia & Neutropenic Fever 103
-[ ] Thrombocytopenia 105
-[ ] Pancytopenia 107
-[ ] Leukocytosis 107
-[ ] Venous Thromboembolism 108
-[ ] Anticoagulation 109
-[ ] Hypercoagulable States 111
-[ ] Coagulopathies 113
-[ ] DIC 114
-[ ] Transfusion Medicine 115
-[ ] Sickle Cell Crisis 117
-[ ] Lymphoma 118
-[ ] Myelodysplastic Syndromes 119
-[ ] Acute Leukemia 120
-[ ] Plasma Cell Dyscrasias 122
-[ ] Myeloproliferative Neoplasms 125
-[ ] Bone Marrow Transplant 127
-[ ] CAR T-cell Therapy 128
-[ ] Oncologic Emergencies 129
-[ ] Paraneoplastic Syndromes 132
-[ ] Therapy Toxicities 134
+- [ ] Anemia 101
+- [ ] Neutropenia & Neutropenic Fever 103
+- [ ] Thrombocytopenia 105
+- [ ] Pancytopenia 107
+- [ ] Leukocytosis 107
+- [ ] Venous Thromboembolism 108
+- [ ] Anticoagulation 109
+- [ ] Hypercoagulable States 111
+- [ ] Coagulopathies 113
+- [ ] DIC 114
+- [ ] Transfusion Medicine 115
+- [ ] Sickle Cell Crisis 117
+- [ ] Lymphoma 118
+- [ ] Myelodysplastic Syndromes 119
+- [ ] Acute Leukemia 120
+- [ ] Plasma Cell Dyscrasias 122
+- [ ] Myeloproliferative Neoplasms 125
+- [ ] Bone Marrow Transplant 127
+- [ ] CAR T-cell Therapy 128
+- [ ] Oncologic Emergencies 129
+- [ ] Paraneoplastic Syndromes 132
+- [ ] Therapy Toxicities 134
 
-# HEPATOLOGY [x]
+# HEPATOLOGY
 
-[ ] Cirrhosis Overview 136
-[ ] Liver Transplant Workup 137
-[ ] Ascites and Hepatic Hydrothorax 138
-[ ] Spontaneous Bacterial Peritonitis 140
-[ ] GE Varices and Hemorrhage 141
-[ ] Hepatic Encephalopathy 142
-[ ] AKI and Hepatorenal Syndrome 143
-[ ] Hyponatremia in Cirrhosis 144
-[ ] TIPS 144
-[ ] Hepatocellular Carcinoma 145
-[ ] Coagulopathy in Cirrhosis 146
-[ ] Portal Vein Thrombosis 147
-[ ] Alcoholic Hepatitis 147
-[ ] NASH and NAFLD 148
-[ ] Acute Liver Injury and Liver Failure 149
+- [x] Cirrhosis Overview 136
+- [x] Liver Transplant Workup 137
+- [x] Ascites and Hepatic Hydrothorax 138
+- [x] Spontaneous Bacterial Peritonitis 140
+- [x] GE Varices and Hemorrhage 141
+- [x] Hepatic Encephalopathy 142
+- [x] AKI and Hepatorenal Syndrome 143
+- [x] Hyponatremia in Cirrhosis 144
+- [x] TIPS 144
+- [x] Hepatocellular Carcinoma 145
+- [x] Coagulopathy in Cirrhosis 146
+- [x] Portal Vein Thrombosis 147
+- [x] Alcoholic Hepatitis 147
+- [x] NASH and NAFLD 148
+- [x] Acute Liver Injury and Liver Failure 149
 
-# HOSPITAL MEDICINE [x]
+# HOSPITAL MEDICINE
 
-[ ] Telemetry 153
-[ ] Lines and Catheters 154
-[ ] Transitions of Care 154
-[ ] Enteral Nutrition 155
-[ ] Guidelines for Pregnant Patients 157
-[ ] Wounds 157
+- [ ] Telemetry 153
+- [ ] Lines and Catheters 154
+- [ ] Transitions of Care 154
+- [ ] Enteral Nutrition 155
+- [ ] Guidelines for Pregnant Patients 157
+- [ ] Wounds 157
 
-# INFECTIOUS DISEASES [x]
+# INFECTIOUS DISEASES
 
-[ ] Skin and Soft Tissue Infection 161
-[ ] Genitourinary Infection 162
-[ ] Sexually Transmitted Infections 165
-[ ] Pulmonary Infections 167
-[ ] Diabetic Foot Infection 170
-[ ] Joint Infections and Osteomyelitis 171
-[ ] Bacteremia 171
-[ ] Endocarditis 174
-[ ] Central Nervous System Infection 175
-[ ] Fungal Infections 177
-[ ] HIV/AIDS and ART 179
+- [ ] Skin and Soft Tissue Infection 161
+- [ ] Genitourinary Infection 162
+- [ ] Sexually Transmitted Infections 165
+- [ ] Pulmonary Infections 167
+- [ ] Diabetic Foot Infection 170
+- [ ] Joint Infections and Osteomyelitis 171
+- [ ] Bacteremia 171
+- [ ] Endocarditis 174
+- [ ] Central Nervous System Infection 175
+- [ ] Fungal Infections 177
+- [ ] HIV/AIDS and ART 179
 
-# NEPHROLOGY [x]
+# NEPHROLOGY
 
-[ ] Acute Kidney Injury 187
-[ ] Contrast Induced AKI 188
-[ ] Approach to CKD 189
-[ ] Renal Replacement Therapy 192
-[ ] Intravenous Fluids 194
-[ ] Acid-Base 195
-[ ] Electrolytes 197
-[ ] Approach to Urinalysis 205
-[ ] Hematuria 206
-[ ] Kidney Transplant 207
+- [ ] Acute Kidney Injury 187
+- [ ] Contrast Induced AKI 188
+- [ ] Approach to CKD 189
+- [ ] Renal Replacement Therapy 192
+- [ ] Intravenous Fluids 194
+- [ ] Acid-Base 195
+- [ ] Electrolytes 197
+- [ ] Approach to Urinalysis 205
+- [ ] Hematuria 206
+- [ ] Kidney Transplant 207
 
-# NEUROLOGY [x]
+# NEUROLOGY
 
-[ ] Stroke 212
-[ ] Status Epilepticus 212
-[ ] Myasthenia Gravis & Lambert Eaton 213
-[ ] AIDP 214
-[ ] Elevated ICP and Hydrocephalus 215
-[ ] Altered Mental Status 216
-[ ] Seizures 216
-[ ] Inpatient Headache 218
-[ ] Outpatient Headache 218
-[ ] Parkinson's Disease 219
-[ ] Brain Masses 220
-[ ] ALS 221
-[ ] Multiple Sclerosis 221
-[ ] Vertigo 222
+- [ ] Stroke 212
+- [ ] Status Epilepticus 212
+- [ ] Myasthenia Gravis & Lambert Eaton 213
+- [ ] AIDP 214
+- [ ] Elevated ICP and Hydrocephalus 215
+- [ ] Altered Mental Status 216
+- [ ] Seizures 216
+- [ ] Inpatient Headache 218
+- [ ] Outpatient Headache 218
+- [ ] Parkinson's Disease 219
+- [ ] Brain Masses 220
+- [ ] ALS 221
+- [ ] Multiple Sclerosis 221
+- [ ] Vertigo 222
 
-# OPHTHALMOLOGY [x]
+# OPHTHALMOLOGY
 
-[ ] Basic Eye Anatomy 224
-[ ] Common Ophtho Abbreviations 224
-[ ] Taking a Good Ocular History 225
-[ ] Approach to Blurry Vision 226
-[ ] Approach to Double Vision 226
-[ ] Approach to Flashes, Floaters, Spots 227
-[ ] Approach to Red Eye 227
-[ ] Anisocoria 228
-[ ] Conjunctivitis 229
-[ ] Corneal Abrasion, Ulceration 229
-[ ] Cataracts 230
-[ ] Dry Eye 230
-[ ] Fungemia and Intraocular Involvement 231
-[ ] Glaucoma 231
-[ ] Orbital and Preseptal Cellulitis 233
-[ ] Optic Neuritis 234
-[ ] Papilledema 234
-[ ] Retinal Detachment 235
-[ ] Uveitis 235
-[ ] Wilson’s Disease 236
+- [ ] Basic Eye Anatomy 224
+- [ ] Common Ophtho Abbreviations 224
+- [ ] Taking a Good Ocular History 225
+- [ ] Approach to Blurry Vision 226
+- [ ] Approach to Double Vision 226
+- [ ] Approach to Flashes, Floaters, Spots 227
+- [ ] Approach to Red Eye 227
+- [ ] Anisocoria 228
+- [ ] Conjunctivitis 229
+- [ ] Corneal Abrasion, Ulceration 229
+- [ ] Cataracts 230
+- [ ] Dry Eye 230
+- [ ] Fungemia and Intraocular Involvement 231
+- [ ] Glaucoma 231
+- [ ] Orbital and Preseptal Cellulitis 233
+- [ ] Optic Neuritis 234
+- [ ] Papilledema 234
+- [ ] Retinal Detachment 235
+- [ ] Uveitis 235
+- [ ] Wilson’s Disease 236
 
-# OUTPATIENT MEDICINE [x]
+# OUTPATIENT MEDICINE
 
-[ ] Obesity/Nutrition 237
-[ ] Lipids 238
-[ ] Hypertension 241
-[ ] Asthma 244
-[ ] Preventative Medicine/Screening 246
-[ ] Anxiety/Depression 247
-[ ] Fatigue 250
-[ ] Chronic Rhinosinusitis 251
+- [ ] Obesity/Nutrition 237
+- [ ] Lipids 238
+- [ ] Hypertension 241
+- [ ] Asthma 244
+- [ ] Preventative Medicine/Screening 246
+- [ ] Anxiety/Depression 247
+- [ ] Fatigue 250
+- [ ] Chronic Rhinosinusitis 251
 
-# PALLIATIVE CARE [x]
+# PALLIATIVE CARE
 
-[ ] Code Status Discussion 253
-[ ] Opioids: Principles & Conversions 254
-[ ] Acute and Chronic Pain 256
-[ ] Hospice 258
-[ ] Medications for Dying Patients 258
-[ ] Videos for Difficult Conversations 259
-[ ] The Death Pronouncement 260
+- [ ] Code Status Discussion 253
+- [ ] Opioids: Principles & Conversions 254
+- [ ] Acute and Chronic Pain 256
+- [ ] Hospice 258
+- [ ] Medications for Dying Patients 258
+- [ ] Videos for Difficult Conversations 259
+- [ ] The Death Pronouncement 260
 
-# PHYSICAL MEDICINE & REHAB [x]
+# PHYSICAL MEDICINE & REHAB
 
-[ ] Rehabilitation Options 263
-[ ] PM&R Consultation 264
-[ ] Spasticity 264
-[ ] Traumatic Brain Injury 265
-[ ] Shoulder Pain 266
-[ ] Neck Pain 267
-[ ] Acute Back Pain 268
-[ ] Knee Pain 270
+- [ ] Rehabilitation Options 263
+- [ ] PM&R Consultation 264
+- [ ] Spasticity 264
+- [ ] Traumatic Brain Injury 265
+- [ ] Shoulder Pain 266
+- [ ] Neck Pain 267
+- [ ] Acute Back Pain 268
+- [ ] Knee Pain 270
 
-# PROCEDURES [x]
+# PROCEDURES
 
-[ ] Consent 273
-[ ] Anticoagulation 273
-[ ] Anesthesia 273
-[ ] Paracentesis 273
-[ ] Thoracentesis 274
-[ ] Central line 275
-[ ] Lumbar Puncture 277
-[ ] Arterial line 278
-[ ] Ultrasound-guided PIV 279
-[ ] Dobhoff Tube 280
+- [ ] Consent 273
+- [ ] Anticoagulation 273
+- [ ] Anesthesia 273
+- [ ] Paracentesis 273
+- [ ] Thoracentesis 274
+- [ ] Central line 275
+- [ ] Lumbar Puncture 277
+- [ ] Arterial line 278
+- [ ] Ultrasound-guided PIV 279
+- [ ] Dobhoff Tube 280
 
-# PSYCHIATRY [x]
+# PSYCHIATRY
 
-[ ] Agitation Management 282
-[ ] Medical Decision-Making Capacity 284
-[ ] Medical Holds 284
-[ ] Inpatient Insomnia 285
-[ ] Substance Use Disorder 286
-[ ] Delirium 289
+- [ ] Agitation Management 282
+- [ ] Medical Decision-Making Capacity 284
+- [ ] Medical Holds 284
+- [ ] Inpatient Insomnia 285
+- [ ] Substance Use Disorder 286
+- [ ] Delirium 289
 
-#  PULMONARY [x]
+#  PULMONARY
 
-[ ] Hypoxia 291
-[ ] Pulmonary Function Tests 292
-[ ] Basics of Blood Gases 293
-[ ] Interstitial Lung Disease 294
-[ ] Acute Asthma Exacerbation 295
-[ ] COPD Exacerbation 296
-[ ] Cystic Fibrosis (CF) Exacerbation 297
-[ ] Pulmonary Hypertension 298
-[ ] Hemoptysis 300
-[ ] Pleural Effusions 301
-[ ] Lung Masses 301
-[ ] Inhaler Therapy 303
-[ ] Airway Clearance Therapy 304
-[ ] Chest Tubes 304
-[ ] Home Oxygen Therapies 306
+- [ ] Hypoxia 291
+- [ ] Pulmonary Function Tests 292
+- [ ] Basics of Blood Gases 293
+- [ ] Interstitial Lung Disease 294
+- [ ] Acute Asthma Exacerbation 295
+- [ ] COPD Exacerbation 296
+- [ ] Cystic Fibrosis (CF) Exacerbation 297
+- [ ] Pulmonary Hypertension 298
+- [ ] Hemoptysis 300
+- [ ] Pleural Effusions 301
+- [ ] Lung Masses 301
+- [ ] Inhaler Therapy 303
+- [ ] Airway Clearance Therapy 304
+- [ ] Chest Tubes 304
+- [ ] Home Oxygen Therapies 306
 
-# RADIOLOGY [x]
+# RADIOLOGY
 
 - [x] Radiology Exams by Diagnosis 308
 - [x] Chest X-ray Interpretation 309
@@ -287,32 +287,32 @@
 - [x] Anticoagulation for IR Procedures 313
 - [x] Contrast Allergies 316
 
-#  RHEUMATOLOGY [x]
+#  RHEUMATOLOGY
 
-[ ] Rheumatology Lab Testing 317
-[ ] Rheumatoid Arthritis 319
-[ ] Systemic Lupus Erythematous (SLE) 319
-[ ] Scleroderma 320
-[ ] Sarcoidosis 322
-[ ] Crystalline Arthropathies 323
-[ ] Vasculitis 324
-[ ] Inflammatory Myopathies 327
-[ ] Arthrocentesis 328
-[ ] Biologics Overview 328
+- [ ] Rheumatology Lab Testing 317
+- [ ] Rheumatoid Arthritis 319
+- [ ] Systemic Lupus Erythematous (SLE) 319
+- [ ] Scleroderma 320
+- [ ] Sarcoidosis 322
+- [ ] Crystalline Arthropathies 323
+- [ ] Vasculitis 324
+- [ ] Inflammatory Myopathies 327
+- [ ] Arthrocentesis 328
+- [ ] Biologics Overview 328
 
-# TOXICOLOGY [x]
+# TOXICOLOGY
 
 - [x] Toxidrome Overview 331
 - [x] Management of Specific Overdoses 332
 - [x] Drug Induced QTc Prolongation 337
 - [x] Brown Recluse Bites (Loxoscelism) 338
 
-# APPENDICES [x]
+# APPENDICES
 
-[ ] Uploading Records 341
-[ ] VUMC Rotations 341
-[ ] VA Rotations 344
-[ ] Discharges at VUMC 345
-[ ] Discharges at VA 346
-[ ] Door Codes 347
-[ ] Phone Numbers 347
+- [ ] Uploading Records 341
+- [ ] VUMC Rotations 341
+- [ ] VA Rotations 344
+- [ ] Discharges at VUMC 345
+- [ ] Discharges at VA 346
+- [ ] Door Codes 347
+- [ ] Phone Numbers 347
