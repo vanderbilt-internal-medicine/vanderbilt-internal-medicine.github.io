@@ -1,5 +1,7 @@
 # Outpatient Headache
 
+---
+
 <table>
 <colgroup>
 <col style="width: 20%" />
