@@ -125,3 +125,76 @@ Trey Richardson
 - Basic infection prevention measures for all comers (e.g. hydration,
     frequent voiding, wiping front to back, voiding after sexual
     intercourse)
+
+# Rejection - See Kidney Transplant Rejection section 
+
+# AKI - See AKI of Kidney Transplant Section 
+
+# Kidney Transplant Immunosuppression
+
+## Background
+
+- Most patients with kidney transplants are on triple therapy with an
+    anti-metabolite (azathioprine or mycophenolate compound) or mTOR
+    inhibitor + calcineurin inhibitor + prednisone
+
+- You may also come across patients who are on monthly infusions with
+    belatacept, a selective T-cell co-stimulation blocker
+
+## Calcineurin inhibitors
+
+- Tacrolimus (FK), cyclosporine (CsA)
+
+- Envarsus XR is a once a day long acting formulation of tacrolimus
+
+    - Common side-effects
+
+        - Worsening kidney function: mediated by vasoconstriction to the
+            afferent arterioles
+
+        - Hypertension- treat with CCBs
+
+        - Diabetes
+
+        - Hand tremors, headache, nausea
+
+        - Thrombotic microangiopathy
+
+        - T4 RTA- hyperkalemia
+
+        - Gingival hyperplasia
+
+## mTOR Inhibitors
+
+- Sirolimus, everolimus
+
+    - Major side effects: Poor wound healing, rarely pneumonitis
+
+## Anti-metabolites
+
+- Azathioprine
+
+- Mycophenolate preparations: Mycophenolate mofetil (Cellcept, MMF),
+    Mycophenolic acid (Myfortic)
+
+- Side effects: Bone marrow suppression- hold for lymphopenia; GI
+    upset- hold for diarrhea
+
+## Additional Information for Overnight Admits:
+
+- Do not change immunosuppression
+
+    - Exception: If pt has severe diarrhea, can hold night tacro dose and
+    inform the day team
+
+- Daily tacrolimus or cyclosporine level (order qam at 5:00). Always
+    order tacrolimus or cyclosporine dose at 6:00 am and 6:00 pm
+    (regardless of what time patient takes at home, lab can only run am
+    tacro levels at a certain time in batches)
+
+    - EXCEPTION: If late afternoon admission, consider paging the fellow
+        (since its early) and ask if they want the evening dose held until
+        the am level comes back
+
+- Transplant patients with normal kidney function can have regular
+    diet
