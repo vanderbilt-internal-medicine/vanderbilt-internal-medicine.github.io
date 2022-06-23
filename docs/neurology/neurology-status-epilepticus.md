@@ -1,8 +1,6 @@
 # Status Epilepticus
 
-Status Epilepticus
-
-Background
+## Background
 
 -   Either a single seizure >5 minutes or
     ≥
@@ -17,7 +15,7 @@ Background
         or purposeful-looking movements, or seizures that have been
         ongoing for “hours”
 
-Evaluation
+## Evaluation
 
 -   Fingerstick
     glucose, BMP/CBC, and UDS
@@ -30,27 +28,38 @@ Evaluation
     of seizure, so they need urgent head imaging, consideration for
     lumbar puncture, infectious and toxic workup, tox screen, and
     sometimes rheumatologic or paraneoplastic workup
+-   If HX of seizure or on Antiseizure meds (ASMs) please order trough levels 
 
-Management
+## Management
 
--   ABCs
-    !
-    Start with **benzos** : 2 mg lorazepam IV every minute or 5 mg of
-    diazepam IV every minute (they do take a few minutes to work,
-    though) up to 0.1 mg/kg of lorazepam
--   After
-    2 rounds of benzos, would shift to antiepileptics if pt is still in
+- ABCs! Start with benzos:
+
+    - 2 mg lorazepam IV then repeat q1-3 minutes up to 0.1 mg/kg OR
+
+    - 5 mg of diazepam IV every minute (takes longer to give diazepam so
+        would give concurrent ASM)
+
+    - 10 mg IM midazolam if no IV access
+
+- After 2 rounds of benzos, would shift to antiepileptics if still in
     status (neurology should be contacted here if not already):
-    -   IV fosphenytoin 20 mg/kg
-    -   IV levetiracetam 30-60 mg/kg (generally 3 grams is good)
-    -   IV valproic acid 30 mg/kg
--   If
-    still seizing at this point, the pt will likely need be intubated
--   These pts MUST be placed on EEG if they get paralyzed or sedated
-    because **convulsive status often continues as nonconvulsive status,
-    which still damages the brain!**
-    -   If still seizing, pts should be on midazolam, propofol or
-        barbiturate infusions for burst suppression
-    -   Focal seizures, such as arm or face twitching with **retained**
+
+    - IV fosphenytoin 20 mg/kg
+
+    - IV levetiracetam 30-60 mg/kg **(generally 3g, up to 4.5g max)**
+
+    - IV valproic acid 30 mg/kg
+
+- If still seizing at this point, the patient will likely need
+    intubation
+
+- These pts MUST be placed on EEG if they get paralyzed or sedated
+    because convulsive status often continues as nonconvulsive status,
+    which still damages the brain!
+
+    - If still seizing, patients should be on midazolam, propofol or
+        barbiturate infusions
+
+    - Focal seizures, such as arm or face twitching with retained
         awareness do not always need to be treated to the point of
         initiating coma
