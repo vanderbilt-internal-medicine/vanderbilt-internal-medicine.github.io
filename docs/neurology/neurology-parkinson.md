@@ -62,3 +62,39 @@
 
 - Similarly, many antipsychotics have dopamine antagonism. Safest
     option is seroquel
+    
+# Parkinson Plus Syndromes
+
+## Evaluation
+
+- Consider if atypical features such as bilateral symmetric onset,
+    early cognitive/personality changes, cerebellar findings, or
+    prominent autonomic dysfunction early
+
+# Types
+
+- Progressive Supranuclear Palsy
+
+    - PD symptoms with early falls and minimal tremor
+
+    - Vertical eye movement abnormalities
+
+
+- Multisystem Atrophy
+
+    - Profound orthostatic hypotension without any increase in HR
+
+    - Three types:
+
+        - MSA-A – autonomic features prominent (previously Shy-Drager
+            Syndrome)
+
+        - MSA-P – prominent atypical Parkinsonism features
+
+        - MSA-C – prominent cerebellar dysfunction
+
+
+- Lewy Body Dementia
+
+    - Parkinsonism with prominent early cognitive impairment and
+        hallucinations
