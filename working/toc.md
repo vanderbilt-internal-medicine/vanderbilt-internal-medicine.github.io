@@ -168,20 +168,20 @@
 
 # NEUROLOGY
 
-- [ ] Stroke 212
-- [ ] Status Epilepticus 212
-- [ ] Myasthenia Gravis & Lambert Eaton 213
-- [ ] AIDP 214
-- [ ] Elevated ICP and Hydrocephalus 215
-- [ ] Altered Mental Status 216
-- [ ] Seizures 216
-- [ ] Inpatient Headache 218
-- [ ] Outpatient Headache 218
-- [ ] Parkinson's Disease 219
-- [ ] Brain Masses 220
-- [ ] ALS 221
-- [ ] Multiple Sclerosis 221
-- [ ] Vertigo 222
+- [x] Stroke 212
+- [x] Status Epilepticus 212
+- [x] Myasthenia Gravis & Lambert Eaton 213
+- [x] AIDP 214
+- [x] Elevated ICP and Hydrocephalus 215
+- [x] Altered Mental Status 216
+- [x] Seizures 216
+- [x] Inpatient Headache 218
+- [x] Outpatient Headache 218
+- [x] Parkinson's Disease 219
+- [x] Brain Masses 220
+- [x] ALS 221
+- [x] Multiple Sclerosis 221
+- [x] Vertigo 222
 
 # OPHTHALMOLOGY
 
