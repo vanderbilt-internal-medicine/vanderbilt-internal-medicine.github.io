@@ -141,25 +141,25 @@
 
 # INFECTIOUS DISEASES
 
-- [ ] Skin and Soft Tissue Infection 161
-- [ ] Genitourinary Infection 162
-- [ ] Sexually Transmitted Infections 165
-- [ ] Pulmonary Infections 167
-- [ ] Diabetic Foot Infection 170
-- [ ] Joint Infections and Osteomyelitis 171
-- [ ] Bacteremia 171
-- [ ] Endocarditis 174
-- [ ] Central Nervous System Infection 175
-- [ ] Fungal Infections 177
-- [ ] HIV/AIDS and ART 179
+- [x] Skin and Soft Tissue Infection 161
+- [x] Genitourinary Infection 162
+- [x] Sexually Transmitted Infections 165
+- [x] Pulmonary Infections 167
+- [x] Diabetic Foot Infection 170
+- [x] Joint Infections and Osteomyelitis 171
+- [x] Bacteremia 171
+- [x] Endocarditis 174
+- [x] Central Nervous System Infection 175
+- [x] Fungal Infections 177
+- [x] HIV/AIDS and ART 179
 
 # NEPHROLOGY
 
-- [ ] Acute Kidney Injury 187
-- [ ] Contrast Induced AKI 188
-- [ ] Approach to CKD 189
-- [ ] Renal Replacement Therapy 192
-- [ ] Intravenous Fluids 194
+- [x] Acute Kidney Injury 187
+- [x] Contrast Induced AKI 188
+- [x] Approach to CKD 189
+- [x] Renal Replacement Therapy 192
+- [x] Intravenous Fluids 194
 - [ ] Acid-Base 195
 - [ ] Electrolytes 197
 - [ ] Approach to Urinalysis 205
