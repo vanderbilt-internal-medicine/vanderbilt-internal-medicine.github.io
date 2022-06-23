@@ -160,11 +160,11 @@
 - [x] Approach to CKD 189
 - [x] Renal Replacement Therapy 192
 - [x] Intravenous Fluids 194
-- [ ] Acid-Base 195
-- [ ] Electrolytes 197
-- [ ] Approach to Urinalysis 205
-- [ ] Hematuria 206
-- [ ] Kidney Transplant 207
+- [x] Acid-Base 195
+- [x] Electrolytes 197
+- [x] Approach to Urinalysis 205
+- [x] Hematuria 206
+- [x] Kidney Transplant 207
 
 # NEUROLOGY
 
