@@ -126,9 +126,9 @@ Trey Richardson
     frequent voiding, wiping front to back, voiding after sexual
     intercourse)
 
-# Rejection - See Kidney Transplant Rejection section 
+## Rejection - See Kidney Transplant Rejection section 
 
-# AKI - See AKI of Kidney Transplant Section 
+## AKI - See AKI of Kidney Transplant Section 
 
 # Kidney Transplant Immunosuppression
 
