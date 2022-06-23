@@ -1,4 +1,4 @@
-Inpatient Headache (HA)
+# Inpatient Headache (HA)
 
 ## Background
 
