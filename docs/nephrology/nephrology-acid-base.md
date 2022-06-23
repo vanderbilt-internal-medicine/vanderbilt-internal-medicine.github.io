@@ -38,7 +38,7 @@ Ned Hardison and Trey Richardson
       pCO2 = 1.5 (serum bicarb) +8 +/- 2
 
       - Shortcut: Expected
-          *p**C**O*<sub>2</sub> ≈ *l**a**s**t* *t**w**o* *d**i**g**i**t**s* *o**f* *p**H*
+          *p**C**O*<sub>2</sub> ≈ last two digits of pH
 
 ## General Approach to Acid-Base Derangements
 
