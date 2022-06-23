@@ -14,32 +14,31 @@ Ned Hardison and Trey Richardson
     that translate to increased morbidity and mortality
 
 - ABG/VBG reference ranges:
+    - pH = 7.36-7.44 (\~7.32-7.40)
 
-  - pH = 7.36-7.44 (\~7.32-7.40)
+    - PCO2 = 36-44 mmHg
 
-  - PCO2 = 36-44 mmHg
+    - pO2: 60-100 mmHg
 
-  - pO2: 60-100 mmHg
-
-  - HCO3 = 22-26 mEq/L
+    - HCO3 = 22-26 mEq/L
 
 - Useful formulas
 
-  - pH on ABG = VBG pH + 0.035
+    - pH on ABG = VBG pH + 0.035
 
-  - Anion Gap= Na-(Cl+Bicarb)
+    - Anion Gap= Na-(Cl+Bicarb)
 
-  - Normal Anion Gap= 12-14
+    - Normal Anion Gap= 12-14
 
-  - Calculated Osmolarity= 2\[Na\]+ (\[Glucose\]/18) + (\[BUN\]/2.8)
+    - Calculated Osmolarity= 2\[Na\]+ (\[Glucose\]/18) + (\[BUN\]/2.8)
 
-  - Osmolar gap= Measured osmolarity – Calculated osmolarity
+    - Osmolar gap= Measured osmolarity – Calculated osmolarity
 
-  - Winter’s formula for respiratory compensation for AGMA: expected
+    - Winter’s formula for respiratory compensation for AGMA: expected
       pCO2 = 1.5 (serum bicarb) +8 +/- 2
 
-    - Shortcut: Expected
-        *p**C**O*<sub>2</sub> ≈ *l**a**s**t* *t**w**o* *d**i**g**i**t**s* *o**f* *p**H*
+      - Shortcut: Expected
+          *p**C**O*<sub>2</sub> ≈ *l**a**s**t* *t**w**o* *d**i**g**i**t**s* *o**f* *p**H*
 
 ## General Approach to Acid-Base Derangements
 
@@ -73,13 +72,13 @@ Ned Hardison and Trey Richardson
 ## Evaluate for secondary disorders
 
 - Corrected bicarbonate
-  - Corrected *H**C**O*<sub>3</sub> = patient’s *H**C**O*<sub>3</sub> +
+    - Corrected *H**C**O*<sub>3</sub> = patient’s *H**C**O*<sub>3</sub> +
     (patient’s anion gap - 12)
 
-    - Corrected *H**C**O*<sub>3</sub> \> 26, coexisting metabolic
-        alkalosis,
+        - Corrected *H**C**O*<sub>3</sub> \> 26, coexisting metabolic
+            alkalosis,
 
-    - Corrected HCO3 \<22 coexisting non-AG metabolic acidosis
+        - Corrected HCO3 \<22 coexisting non-AG metabolic acidosis
 
 ## Osmolar Gap
 
@@ -164,40 +163,39 @@ Ned Hardison and Trey Richardson
 
 - Saline responsive (e.g. hypochloremia)
 
-  - True volume depletion
+    - True volume depletion
 
-  - NG suction/Nausea/vomiting
+    - NG suction/Nausea/vomiting
 
-  - Diuretic use
+    - Diuretic use
 
 - Saline refractory
 
-  - Hypokalemia
+    - Hypokalemia
 
-  - Milk-Alkali syndrome
+    - Milk-Alkali syndrome
 
-  - Mineralocorticoid excess states
+    - Mineralocorticoid excess states
 
-  - Bartters Syndrome
+    - Bartters Syndrome
 
-  - Gitelman’s Syndrome
+    - Gitelman’s Syndrome
 
 ## Treatment
 
 - Saline Responsive/Hypochloremia
 
-  - If volume deplete, then normal saline is treatment of choice
+    - If volume deplete, then normal saline is treatment of choice
 
-  - If alkalosis develops in setting of diuresis, then make sure
-    replacing KCl and consider acetazolamide
+    - If alkalosis develops in setting of diuresis, then make sure replacing KCl and consider acetazolamide
 
 
 - Saline refractory
 
-  - Hypokalemia- replenish potassium stores
+    - Hypokalemia- replenish potassium stores
 
-  - Hyperaldosteronism- covered in more detail in the endocrinology
+    - Hyperaldosteronism- covered in more detail in the endocrinology
       section
 
-  - Bartter syndrome and Gitelman syndrome - replace electrolytes and
+    - Bartter syndrome and Gitelman syndrome - replace electrolytes and
       refer to nephrology
