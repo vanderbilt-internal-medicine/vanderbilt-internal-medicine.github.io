@@ -16,7 +16,7 @@
 - Any associated systemic symptoms (nausea/vomiting, fever/chills,
     headaches, neurologic deficits)
 
-Past Ocular History:
+## Past Ocular History:
 
 - Do you wear glasses? For distance or reading or both? Contact
     lenses?
