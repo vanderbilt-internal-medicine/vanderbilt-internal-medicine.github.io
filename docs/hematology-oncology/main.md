@@ -1,167 +1,106 @@
-Anemia – Margaret Wheless
+# Anemia
 
-Presentation
+Margaret Wheless
+
+---
+
+## Presentation
 
 - Symptoms:
-
-<!-- -->
-
-- Fatigue/malaise, dyspnea on exertion, angina (if history of CAD)
-
-<!-- -->
-
+  - Fatigue/malaise, dyspnea on exertion, angina (if history of CAD)
 - Signs:
-
-<!-- -->
-
-- Pallor, tachycardia, orthostatic hypotension, purpura, glossitis,
+    - Pallor, tachycardia, orthostatic hypotension, purpura, glossitis,
     koilonychia (in IDA)
+    - Jaundice (if hemolysis)
+    - Splenomegaly: suggests extramedullary hematopoiesis or sequestration
+    - Neurologic symptoms: suggests B12 deficiency
 
-- Jaundice (if hemolysis)
-
-- Splenomegaly: suggests extramedullary hematopoiesis or sequestration
-
-- Neurologic symptoms: suggests B12 deficiency
-
-Evaluation
+## Evaluation
 
 - CBC w/diff, reticulocyte count, peripheral blood smear, Iron studies
     (TIBC, Ferritin)
-
-<!-- -->
-
-- RI \> 2%: blood loss vs hemolysis; see below
-
+- RI > 2%: blood loss vs hemolysis; see below
     - Hemolysis labs: Bilirubin, LDH, haptoglobin
+- RI < 2%: hypoproliferative stratify based on RBC size
+    - Microcytic (<80) vs. Normocytic (80-100) vs. Macrocytic (>100)
 
-- RI \< 2%: hypoproliferative stratify based on RBC size
+## Reticulocyte Index >2%
 
-    - Microcytic (\<80) vs. Normocytic (80-100) vs. Macrocytic (\>100)
-
-Reticulocyte Index \> 2%
-
-Background
+### Background
 
 - Etiology: Consumption vs Blood loss
-
-<!-- -->
-
 - Loss: acute bleed vs iatrogenic from labs
-
 - Hemolysis: Microangiopathic hemolytic anemia (MAHA), autoimmune
     hemolytic anemia (AIHA), intrinsic RBC defects
 
-Evaluation
+### Evaluation
 
 - LDH, ↑indirect bilirubin, ↓haptoglobin, PT/PTT
-
 - Peripheral blood smear: evaluated for schistocytes, bite cells, spur
     cells, spherocytes, etc.
-
 - Direct antiglobulin test (DAT) to evaluate for autoimmune hemolytic
     anemia
 
-Extrinsic RBC causes:
+### Extrinsic RBC causes:
 
 - If schistocytes ± thrombocytopenia = MAHA: TTP, DIC, HUS, HELLP,
     mechanical valves, malignant HTN, cocaine, scleroderma renal crisis
-
 - If DAT positive = AIHA
 
-Intrinsic RBC causes:
+### Intrinsic RBC causes:
 
 - Sickle cell disease: chronic hemolysis + splenic sequestration
     crisis where RI is↑ vs aplastic crisis where RI is↓ (see sickle cell
     section)
-
 - Hereditary spherocytosis
-
 - Hereditary elliptocytosis
-
 - PNH
-
 - G6PD: bite cells, Heinz bodies
-
-<!-- -->
-
-- Usually precipitated by drugs: nitrofurantoin, dapsone,
+    - Usually precipitated by drugs: nitrofurantoin, dapsone,
     sulfonamides, rasburicase, primaquine
 
-Management
+## Management
 
 - MAHA
-
-<!-- -->
-
 - DIC: sepsis, malignancy, pregnancy
-
     - Treat underlying cause
-
     - If active bleeding: FFP, cryoprecipitate (to keep
         fibrinogen\>100) and platelets
-
 - TTP: Order ADAMTS13 (prior to plasma transfusion or exchange)
-
     - If concern for TTP you should immediately consult Heme and
         Nephrology
-
 - HUS: + shiga toxin, AKI, diarrhea
-
-<!-- -->
-
 - AIHA:
+    - Cold (rare): IgM binds at temp \<37
+        - Caused by lymphoproliferative disorder (Waldenström
+            Macroglobulinemia), mycoplasma, EBV, HIV
+        - Consult heme. Treat underlying. Consider rituximab (steroids
+            ineffective)
+    - Warm: IgG
+        - Idiopathic or associated with lymphoma, SLE, drugs, babesiosis,
+            HIV
+        - Can use steroids, IVIG, rituximab
 
-<!-- -->
+## RBC Size Framework
 
-- Cold (rare): IgM binds at temp \<37
+### Normocytic Anemia: MCV 80-100
 
-    - Caused by lymphoproliferative disorder (Waldenström
-        Macroglobulinemia), mycoplasma, EBV, HIV
+- Etiologies
+    - Anemia of inflammation: (may also be microcytic)
+    - Anemia of CKD: low Erythropoietin (EPO) levels
+    - Endocrine disease (hypothyroidism, adrenal insufficiency):
+        ↓metabolic demand/O2 requirement
+    - Mixed macrocytic/microcytic disease may have a normal MCV: look for
+        ↑RDW
+    - Pure red cell aplasia: associated with destructive Ab (CLL, thymoma,
+        parvovirus, autoimmune)
+    - Paroxysmal nocturnal hemoglobinuria (PNH)
+    - Bone marrow failure or infiltration (typically will see
+        pancytopenia)
+    - Bone marrow biopsy may be indicated if no identifiable cause or
+        anemia is associated with other cytopenia’s
 
-    - Consult heme. Treat underlying. Consider rituximab (steroids
-        ineffective)
-
-- Warm: IgG
-
-    - Idiopathic or associated with lymphoma, SLE, drugs, babesiosis,
-        HIV
-
-    - Can use steroids, IVIG, rituximab
-
-RBC Size Framework
-
-Normocytic Anemia: MCV 80-100
-
-- Etiologies:
-
-<!-- -->
-
-- Anemia of inflammation: (may also be microcytic)
-
-- Anemia of CKD: low Erythropoietin (EPO) levels
-
-- Endocrine disease (hypothyroidism, adrenal insufficiency):
-    ↓metabolic demand/O2 requirement
-
-- Mixed macrocytic/microcytic disease may have a normal MCV: look for
-    ↑RDW
-
-- Pure red cell aplasia: associated with destructive Ab (CLL, thymoma,
-    parvovirus, autoimmune)
-
-- Paroxysmal nocturnal hemoglobinuria (PNH)
-
-- Splenic sequestration
-
-- Bone marrow failure or infiltration (typically will see
-    pancytopenia)
-
-<!-- -->
-
-- Bone marrow biopsy may be indicated if no identifiable cause or
-    anemia is associated with other cytopenia’s
-
-Microcytic anemia: MCV \<80 (mnemonic: SALTI)
+### Microcytic anemia: MCV <80 (mnemonic: SALTI)
 
 - Sideroblastic, Anemia of chronic disease, Lead poisoning,
     Thalassemia and Iron-deficiency
@@ -245,57 +184,41 @@ absorption</p>
 </tbody>
 </table>
 
-Macrocytic Anemia: MCV \>100
+### Macrocytic Anemia: MCV >100
 
-- Non-megaloblastic:
-
-<!-- -->
-
-- ETOH, liver disease, hypothyroidism, MDS
-
-- Medications that impair DNA synthesis: zidovudine, 5-FU,
-    hydroxyurea, ara-C, AZT, MTX
-
-<!-- -->
+- Non-megaloblastic
+    - ETOH, liver disease, hypothyroidism, MDS
+    - Medications that impair DNA synthesis: zidovudine, 5-FU,
+        hydroxyurea, ara-C, AZT, MTX
 
 - Megaloblastic
+    - B12 deficiency
+        - Presentation: neurologic changes (subacute combined
+            degeneration), paresthesia, ataxia, dementia (reversible with
+            early treatment)
+        - Etiology: malnutrition (alcoholics, vegan), pernicious anemia,
+            gastrectomy, Crohn’s disease, chronic pancreatitis, celiac
+            disease
+        - Diagnosis: ↓B12, ↑MMA, ↑homocysteine
+        - Treatment: either monthly IM or sublingual B12 (oral not
+            absorbed if no IF)
+    - Folate deficiency
+        - Etiology: malnutrition, decreased absorption (e.g. Celiac
+            disease), impaired metabolism (MTX, TMP), ↑requirement
+            (hemolysis, malignancy, dialysis)
+        - Diagnosis: ↓folate, ↑homocysteine, MMA will be normal
+        - Treatment: PO folate 1-4 mg daily
 
-<!-- -->
+# Neutropenia & Neutropenic Fever
 
-- B12 deficiency
+Jennifer Marvin-Peek
 
-    - Presentation: neurologic changes (subacute combined
-        degeneration), paresthesia, ataxia, dementia (reversible with
-        early treatment)
+---
 
-    - Etiology: malnutrition (alcoholics, vegan), pernicious anemia,
-        gastrectomy, Crohn’s disease, chronic pancreatitis, celiac
-        disease
+## Background
 
-    - Diagnosis: ↓B12, ↑MMA, ↑homocysteine
-
-    - Treatment: either monthly IM or sublingual B12 (oral not
-        absorbed if no IF)
-
-- Folate deficiency
-
-    - Etiology: malnutrition, decreased absorption (e.g. Celiac
-        disease), impaired metabolism (MTX, TMP), ↑requirement
-        (hemolysis, malignancy, dialysis)
-
-    - Diagnosis: ↓folate, ↑homocysteine, MMA will be normal
-
-    - Treatment: PO folate 1-4 mg daily
-
-Neutropenia & Neutropenic Fever – Jennifer Marvin-Peek
-
-Background
-
-- Neutropenia: absolute neutrophil count (ANC) \< 1500
-
-<!-- -->
-
-- Severe neutropenia: absolute neutrophil count (ANC) \<500 (Use
+- Neutropenia: absolute neutrophil count (ANC) < 1500
+- Severe neutropenia: absolute neutrophil count (ANC) <500 (Use
     manual count if available)
 
 <table>
@@ -365,144 +288,86 @@ Background
 </tbody>
 </table>
 
-Management
+## Management
 
-- If ANC \<500
+- If ANC <500
+    - Check all lines/IVs for erythema and induration daily
+    - Check mouth for mucositis, mouth care after meals and before bed
+    - Assess for Neutropenic Fever & Complications – see below
+    - Evaluate for indications for prophylaxis – see below
+    - No evidence to support use of neutropenic diet
+    - No digital rectal exams or enemas/suppositories (risk of bacterial
+        translocation)
 
-<!-- -->
+## Neutropenic Fever
 
-- Check all lines/IVs for erythema and induration daily
-
-- Check mouth for mucositis, mouth care after meals and before bed
-
-- Assess for Neutropenic Fever & Complications – see below
-
-- Evaluate for indications for prophylaxis – see below
-
-- No evidence to support use of neutropenic diet
-
-- No digital rectal exams or enemas/suppositories (risk of bacterial
-    translocation)
-
-Neutropenic Fever
-
-- ANC \<500 and T\> 100.4 °F or 38.0 °C
-
+- ANC <500 and T >100.4 °F or 38.0 °C
 - Neutropenic pts are unable to mount an adequate immune response and
     can become critically ill very quickly
-
 - Do not wait for a temp re-check, you need to start antibiotics
     immediately
 
-Evaluation
+### Evaluation
 
 - Chest X-ray
-
 - Two sets of blood cultures (one from PICC/port if present)
-
 - Urinalysis AND urine culture (not the reflex order set)
-
 - If diarrhea, get C. diff PCR
-
 - If abdominal pain, get CT A/P with IV contrast
 
-Management
+### Management
 
 - Empirically treat with Cefepime
-
 - Indications for Vancomycin:
-
-<!-- -->
-
-- Hemodynamically unstable
-
-- Severe mucositis
-
-- Focal consolidation on CXR
-
-- Erythema/induration around line
-
-- Concern for skin/soft tissue infection
-
-- GPCs in blood
-
-- Fever continues \>24h on cefepime
-
-<!-- -->
-
+  - Hemodynamically unstable
+  - Severe mucositis
+  - Focal consolidation on CXR
+  - Erythema/induration around line
+  - Concern for skin/soft tissue infection
+  - GPCs in blood
+  - Fever continues \>24h on cefepime
 - Additional Coverage:
-
-<!-- -->
-
-- If abdominal pain/diarrhea: Flagyl 500mg q8h
-
-- Concern for C-diff: PO Vancomycin 125mg q6h
-
-- Still fevering on Cefepime at 72 hrs (differs by attending)
-    Meropenem
-
-<!-- -->
-
+    - If abdominal pain/diarrhea: Flagyl 500mg q8h
+    - Concern for C-diff: PO Vancomycin 125mg q6h
+    - Still fevering on Cefepime at 72 hrs (differs by attending)
+        Meropenem
 - Fungal coverage: Consider if risk factors (TPN) or persistent fevers
     (\>72hrs)
-
     - Micafungin 100 mg IV daily or Voriconazole 200mg PO BID
 
-Neutropenic Complications
+## Neutropenic Complications
 
-Mucositis
+- Mucositis
+    - Presentation
+        - Can range from mouth soreness to severe erosions preventing
+            eating/drinking
+        - Can become secondarily infected with Candida, HSV
+    - Management
+        - Routine oral care with a soft toothbrush to remove plaque
+        - Oral rinses with saline and/or sodium bicarbonate
+        - Magic mouthwash for symptomatic relief (or viscous lidocaine at
+            the VA)
+        - Typically recovers quickly when ANC \> 500
 
-- Can range from mouth soreness to severe erosions preventing
-    eating/drinking
-
-- Can become secondarily infected with Candida, HSV
-
-<!-- -->
-
-- Management:
-
-    - Routine oral care with a soft toothbrush to remove plaque
-
-    - Oral rinses with saline and/or sodium bicarbonate
-
-    - Magic mouthwash for symptomatic relief (or viscous lidocaine at
-        the VA)
-
-    - Typically recovers quickly when ANC \> 500
-
-Neutropenic enterocolitis (Typhlitis)
-
-- Life-threatening bacterial translocation due to breakdown of
+- Neutropenic enterocolitis (Typhlitis)
+    - Life-threatening bacterial translocation due to breakdown of
     gut-mucosal barrier
+    - Presentation
+        - Abdominal pain + fever
+        - +/- abdominal distension, nausea, vomiting, watery and/or bloody
+        diarrhea
+    - Diagnosis
+        - CT A/P with contrast, consider C. diff PCR if diarrhea
+    - Treatment
+        - Cefepime/Flagyl OR Zosyn
+        - If no perforation/abscess on CT scan, typically continue until 14
+            days after ANC recovers \>500 and abdominal pain resolves
+        - Can change to cipro/flagyl once ANC \>500
+        - If perforation/abscess: will need imaging to confirm resolution, and
+            longer duration of abx
 
-- Presentation: Abdominal pain + fever
-
-<!-- -->
-
-- +/- abdominal distension, nausea, vomiting, watery and/or bloody
-    diarrhea
-
-<!-- -->
-
-- Diagnosis: CT A/P with contrast, consider C. diff PCR if diarrhea
-
-- Treatment:
-
-<!-- -->
-
-- Cefepime/Flagyl OR Zosyn
-
-- If no perforation/abscess on CT scan, typically continue until 14
-    days after ANC recovers \>500 and abdominal pain resolves
-
-- Can change to cipro/flagyl once ANC \>500
-
-- If perforation/abscess: will need imaging to confirm resolution, and
-    longer duration of abx
-
-Neutropenic Prophylaxis
-
-- Used if ANC is expected to be \< 500 for \> 7 days
+- Neutropenic Prophylaxis
+    - Used if ANC is expected to be \< 500 for \> 7 days
 
 <table>
 <colgroup>
@@ -544,166 +409,104 @@ aspergillus)</p>
 </tbody>
 </table>
 
-Filgrastim (G-CSF – Neupogen/Zarxio /Granix)
+## Filgrastim (G-CSF – Neupogen/Zarxio/Granix)
 
 - Induces bone marrow production of neutrophils
-
 - Dose: either 300mcg or 480mcg (rounded from 5 mcg/kg/day)
-
 - Common side effects: fatigue, nausea
-
 - PEG-filgrastim (Neulasta): long-acting version that is only given as
     an outpatient
 
-Thrombocytopenia – Robert Dunn
+# Thrombocytopenia
 
-Background
+Robert Dunn
 
-- Platelet count \<150k (mild), 50-100k (moderate), \<50k (severe)
+---
 
+## Background
+
+- Platelet count <150k (mild), 50-100k (moderate), <50k (severe)
 - Framework for differential: consumption, sequestration, destruction,
     production
-
 - Causes to consider:
+    - Can’t Miss Diagnoses: TTP, HUS, HELLP, DIC, HIT
+    - Platelet clumping (lab artifact - pseudothrombocytopenia)
+    - Splenomegaly can represent: Plt sequestration, cirrhosis, portal
+        hypertension
+    - Drug-induced: (Antibiotics, heparin, chemo, GpIIb/IIIa antagonists,
+        H2-antagonists)
+    - Rheumatologic cause – SLE, sarcoidosis, scleroderma renal crisis
+    - Sepsis, independent of DIC
+    - Immune thrombocytopenia (ITP) is a diagnosis of exclusion
+    - Massive physiologic consumption: large hematoma, active hemorrhage
+    - Cirrhosis – results in low thrombopoietin (TPO) and increased
+        clearance
+    - Chronic alcohol use – direct marrow suppression
+    - Infections: HIV, HCV, EBV, Parvovirus, Rickettsia, H. pylori, CMV
+    - Bone marrow failure: aplastic anemia, MDS, leukemia, chemotherapy
+    - Dilutional: fluid resuscitation and massive transfusion
 
-<!-- -->
-
-- Can’t Miss Diagnoses: TTP, HUS, HELLP, DIC, HIT
-
-- Platelet clumping (lab artifact - pseudothrombocytopenia)
-
-- Splenomegaly can represent: Plt sequestration, cirrhosis, portal
-    hypertension
-
-- Drug-induced: (Antibiotics, heparin, chemo, GpIIb/IIIa antagonists,
-    H2-antagonists)
-
-- Rheumatologic cause – SLE, sarcoidosis, scleroderma renal crisis
-
-- Sepsis, independent of DIC
-
-- Immune thrombocytopenia (ITP) is a diagnosis of exclusion
-
-- Massive physiologic consumption: large hematoma, active hemorrhage
-
-- Cirrhosis – results in low thrombopoietin (TPO) and increased
-    clearance
-
-- Chronic alcohol use – direct marrow suppression
-
-- Infections: HIV, HCV, EBV, Parvovirus, Rickettsia, H. pylori, CMV
-
-- Bone marrow failure: aplastic anemia, MDS, leukemia, chemotherapy
-
-- Dilutional: fluid resuscitation and massive transfusion
-
-Presentation
+## Presentation
 
 - Petechiae – typically begins distally on lower legs (in mouth = wet
     purpura), seen when \<10-20k
-
 - Overt bleeding, mucosal bleeding, epistaxis (seen when \<20k)
 
-Evaluation
+## Evaluation
 
 - CMP, CBC w/diff, peripheral smear, citrated platelet count, immature
     platelet fraction (IPF)
-
 - LDH, Fibrinogen, d-dimer, PT/aPTT
-
 - Determine timing of decline as well as prior values
-
-<!-- -->
-
 - Look at other cell lines - never normal to have two cytopenia’s
-
 - Review recent initiation of drugs: (heparin, antibiotics, and
     chemotherapy)
-
-<!-- -->
-
 - Consider abdominal ultrasound to look for splenomegaly and liver
     pathology
-
 - Infectious work up (HIV, HCV)
-
 - Calculate 4T Score and consider your pretest probability for HIT
     testing
-
-<!-- -->
-
 - HIT Ab: ELISA is first test – only run once/day at VUMC so order
     early if considering
-
 - Reflex Serotonin release assay (SRA) for confirmation (VUMC performs
     reflexive testing)
 
-Management
+## Management
 
-- Plt \<50k
-
-<!-- -->
-
-- Discontinue pharmacologic DVT prophylaxis (unless HIT)
-
-- If on anticoagulation: consider risk/benefits of continued
-    anticoagulation
-
-    - Can transfuse plt’s if AC is mandatory
-
-<!-- -->
-
-- Plt \<10k
-
-<!-- -->
-
-- Transfuse platelets given risk of spontaneous intracranial
-    hemorrhage
-
-- In pt’s with HIT or TTP, there is theoretical concern that
-    transfusing plt can “fuel the fire” and lead to more thrombosis, but
-    if there is active bleeding then consider platelets
-
-    - Therefore, bleeding with HIT or TTP, discuss with Hematology
-        before transfusion
-
-<!-- -->
-
+- Plt <50k
+    - Discontinue pharmacologic DVT prophylaxis (unless HIT)
+    - If on anticoagulation: consider risk/benefits of continued
+        anticoagulation
+        - Can transfuse plt’s if AC is mandatory
+- Plt <10k
+    - Transfuse platelets given risk of spontaneous intracranial
+        hemorrhage
+    - In pt’s with HIT or TTP, there is theoretical concern that
+        transfusing plt can “fuel the fire” and lead to more thrombosis, but
+        if there is active bleeding then consider platelets
+        - Therefore, bleeding with HIT or TTP, discuss with Hematology
+            before transfusion
 - HIT
-
-<!-- -->
-
-- If pretest probability is high or HIT is confirmed
-
-- Stop Unfractionated and low molecular weight heparin products
-
-- Start Argatroban gtt
-
-<!-- -->
-
+    - If pretest probability is high or HIT is confirmed
+    - Stop Unfractionated and low molecular weight heparin products
+    - Start Argatroban gtt
 - If schistocytes present on peripheral smear = concern for TTP
+    - Draw ADAMTS13
+    - Contact Nephrology and Hematology for PLEX
 
-<!-- -->
-
-- Draw ADAMTS13
-
-- Contact Nephrology and Hematology for PLEX
-
-Additional Information
+## Additional Information
 
 - Clumping on lab draws:
+    - Obtain Citrated platelet (“blue top” tube – CPRS refers to it as a
+        blue top platelet count)
+    - If no resolution, obtain a "Gold top" LAB 301 in Epic (Named: Plt
+        count) (ACD tube)
 
-<!-- -->
+# Pancytopenia
 
-- Obtain Citrated platelet (“blue top” tube – CPRS refers to it as a
-    blue top platelet count)
+Thomas Gracie
 
-<!-- -->
-
-- If no resolution, obtain a "Gold top" LAB 301 in Epic (Named: Plt
-    count) (ACD tube)
-
-Pancytopenia – Thomas Gracie
+---
 
 Background
 
