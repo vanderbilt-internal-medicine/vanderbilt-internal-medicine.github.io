@@ -2,9 +2,7 @@
 
 ---
 
-<img src="output/media/image18.png"
-style="width:3.63889in;height:2.69212in"
-alt="A picture containing text Description automatically generated" />
+![approach to blurry vision algorithm](../images/image18.png)
 
 ## Key Points:
 
