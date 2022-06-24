@@ -2,7 +2,7 @@
 
 ---
 
-![approach to double vision algorithm](../images/image19.png)
+![approach to double vision algorithm](../images/image19.jpeg)
 
 ## Key Points
 
