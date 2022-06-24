@@ -55,22 +55,22 @@ alt="Diagram Description automatically generated" />
 
 ## Calculating initial doses:
 
-    - Basal dose: check what the patient is actually taking at home (may
+- Basal dose: check what the patient is actually taking at home (may
         be different than what is prescribed, use OME). Take the total daily
         dose and convert to IV and then divide that by 24 hours to get an
         hourly rate. If moderate pain, increase dose by 25-50%; if severe,
         by 50-100%
 
-    - Demand doses: The bolus dose should be 10-20% of total daily dose.
+- Demand doses: The bolus dose should be 10-20% of total daily dose.
         The availability is based on half-life of the medication (2hr for
         IV). Adjust the availability based on how frequently you want
         patient to be able to have a demand dose (ex: if q10min divide by 12
         or if q15min divide by 8 for 2 hours)
 
-    - Don’t forget to set lock-outs (maximum dose that can be given over a
+- Don’t forget to set lock-outs (maximum dose that can be given over a
         certain period of time) that includes both basal and demand doses
 
-    - Remember that the basal rate will not get to steady state for at
+- Remember that the basal rate will not get to steady state for at
         least 8 hrs; When you admit pts or are transitioning pts to a PCA,
         always initiate the PCA pump with a bolus (or loading) dose
 
