@@ -1,204 +1,210 @@
 # Anemia
 
-Anemia – Margaret Wheless
+Margaret Wheless
 
-General Approach to Diagnosis
+---
 
--   First evaluate RI (decreased production) vs ↑RI (loss vs hemolysis)
-    -   Reticulocyte
-        index > 2%: see below
-    -   RI \< 2%:  hypoproliferative
-        
-        stratify based on RBC size
-        -   Microcytic
-            vs. Normocytic vs. Macrocytic
-        -   Exception to ↓RI is thalassemia where RI can be slightly ↑
+## Presentation
 
-Presentation
+- Symptoms:
+  - Fatigue/malaise, dyspnea on exertion, angina (if history of CAD)
+- Signs:
+    - Pallor, tachycardia, orthostatic hypotension, purpura, glossitis,
+    koilonychia (in IDA)
+    - Jaundice (if hemolysis)
+    - Splenomegaly: suggests extramedullary hematopoiesis or sequestration
+    - Neurologic symptoms: suggests B12 deficiency
 
--   Symptoms: fatigue/malaise, DOE, angina (if CAD)
--   Hx of systemic illness, ETOH abuse, Family History
--   Signs:
-    -   Pallor
-        , tachycardia, orthostatic hypotension, purpura, glossitis,
-        koilonychia (IDA)
-    -   Jaundice (2/2 hemolysis)
-    -   Splenomegaly: suggests ex
-        tramedullary hematopoiesis or sequestration
-    -   Neurologic
-        symptoms:
-        suggests
-        B12 deficiency
+## Evaluation
 
-Evaluation
-
--   CBC w/diff, reticulocyte count, peripheral blood smear, Iron studies
+- CBC w/diff, reticulocyte count, peripheral blood smear, Iron studies
     (TIBC, Ferritin)
--   Hemolysis labs: Bilirubin, LDH, haptoglobin
--   Nutritional studies: B12, folate
+- RI > 2%: blood loss vs hemolysis; see below
+    - Hemolysis labs: Bilirubin, LDH, haptoglobin
+- RI < 2%: hypoproliferative stratify based on RBC size
+    - Microcytic (<80) vs. Normocytic (80-100) vs. Macrocytic (>100)
 
-Reticulocyte Index \> 2%
+## Reticulocyte Index >2%
 
-Background
+### Background
 
--   Consumption vs Blood loss
--   Loss: acute bleed vs iatrogenic from labs
--   Hemolysis:
-    Microangiopathic hemolytic anemia (MAHA), autoimmune hemolytic
-    anemia, intrinsic RBC defects
+- Etiology: Consumption vs Blood loss
+- Loss: acute bleed vs iatrogenic from labs
+- Hemolysis: Microangiopathic hemolytic anemia (MAHA), autoimmune
+    hemolytic anemia (AIHA), intrinsic RBC defects
 
-Evaluation
+### Evaluation
 
--   LDH, ↑indirect bilirubin, ↓haptoglobin, PT/PTT
--   Peripheral
-    blood smear: looking for schistocytes
--   Consider
-    direct antiglobulin test (DAT) if suspicion for autoimmune cause
+- LDH, ↑indirect bilirubin, ↓haptoglobin, PT/PTT
+- Peripheral blood smear: evaluated for schistocytes, bite cells, spur
+    cells, spherocytes, etc.
+- Direct antiglobulin test (DAT) to evaluate for autoimmune hemolytic
+    anemia
 
-Extrinsic RBC causes:
+### Extrinsic RBC causes:
 
--   If
-    schistocytes
-    ± thrombocytopenia = MAHA: TTP, DIC, HUS, HELLP,
+- If schistocytes ± thrombocytopenia = MAHA: TTP, DIC, HUS, HELLP,
     mechanical valves, malignant HTN, cocaine, scleroderma renal crisis
-    -   Check Cr and Plt count to evaluate for TTP
-    -   mechanical valves, malignant HTN, cocaine, scleroderma renal
-        crisis
--   If
-    DAT
-    positive = AIHA
--   Order
-    cold agglutinin titer
+- If DAT positive = AIHA
 
-Intrinsic RBC causes:
+### Intrinsic RBC causes:
 
--   Sickle
-    cell disease: chronic hemolysis + splenic sequestration crisis where
-    RI is
-    ↑
-    vs aplastic crisis where RI is
-    ↓
-    (see sickle cell section)
--   Hereditary
-    spherocytosis
--   Hereditary
-    elliptocytosis
--   PNH
-    (generally see pancytopenia, RI is lower than expected for severity
-    of anemia)
--   G6PD
-    : bite cells, Heinz bodies on PBS
-    : Usually
-    precipitated by drugs: nitrofurantoin,
-    dapsone
-    , sulfonamides, rasburicase, primaquine
+- Sickle cell disease: chronic hemolysis + splenic sequestration
+    crisis where RI is↑ vs aplastic crisis where RI is↓ (see sickle cell
+    section)
+- Hereditary spherocytosis
+- Hereditary elliptocytosis
+- PNH
+- G6PD: bite cells, Heinz bodies
+    - Usually precipitated by drugs: nitrofurantoin, dapsone,
+    sulfonamides, rasburicase, primaquine
 
-Management
+## Management
 
--   MAHA: Caused by DIC, TTP, HUS
-    -   DIC: sepsis, malignancy, pregnancy
-        -   Treat underlying cause
-        -   If active bleeding: FFP, cryoprecipitate (to keep
-            fibrinogen>100) and platelets
-    -   TTP: Order ADAMTS13
-        -   Will need PLEX
-    -   If concern for TTP you should immediately consult Heme and
-        NephrologyHUS: + shiga toxin, AKI, diarrhea
-    -   Other: mechanical valves, malignant HTN, cocaine, scleroderma
-        renal crisis
-        -   Treat underlying cause
--   Autoimmune
-    hemolytic anemia (AIHA):
-    -   Cold
-        : IgM binds at temp \<37
-        -   Caused
-            by lymphoproliferative disorder (Waldenstrom
-            ’
-            s), mycoplasma, EBV, HIV
-        -   Consult heme. Treat underlying
-            . Consider rituximab (steroids don
-            ’
-            t work)
-    -   Warm
-        : IgG
-        -   Idiopathic
-            or associated with lymphoma, SLE, drugs, babesiosis, HIV
-        -   Can use steroids, IVIG, ritux
+- MAHA
+- DIC: sepsis, malignancy, pregnancy
+    - Treat underlying cause
+    - If active bleeding: FFP, cryoprecipitate (to keep
+        fibrinogen\>100) and platelets
+- TTP: Order ADAMTS13 (prior to plasma transfusion or exchange)
+    - If concern for TTP you should immediately consult Heme and
+        Nephrology
+- HUS: + shiga toxin, AKI, diarrhea
+- AIHA:
+    - Cold (rare): IgM binds at temp \<37
+        - Caused by lymphoproliferative disorder (Waldenström
+            Macroglobulinemia), mycoplasma, EBV, HIV
+        - Consult heme. Treat underlying. Consider rituximab (steroids
+            ineffective)
+    - Warm: IgG
+        - Idiopathic or associated with lymphoma, SLE, drugs, babesiosis,
+            HIV
+        - Can use steroids, IVIG, rituximab
 
-RBC Size Framework
+## RBC Size Framework
 
-Normocytic Anemia: MCV 80-100
+### Normocytic Anemia: MCV 80-100
 
--   Look for pancytopenia (eg. something else may be happening in the
-    BM, splenic
-    sequestration
-    , PNH, etc)
--   Anemia
-    of chronic disease may also be microcytic
--   Mixed
-    macrocytic/microcytic disease: look for ↑RDW
--   CKD: low Erythropoietin (EPO) levels
--   Endocrine disease: ↓metabolic demand/O2 requirement
--   Pure red cell aplasia: associated with destructive Ab (CLL, thymoma,
-    parvovirus, autoimmune)
--   Bone marrow biopsy may be indicated if normocytic with low RI
-    without an identifiable cause or anemia associated with other
-    cytopenia’s
+- Etiologies
+    - Anemia of inflammation: (may also be microcytic)
+    - Anemia of CKD: low Erythropoietin (EPO) levels
+    - Endocrine disease (hypothyroidism, adrenal insufficiency):
+        ↓metabolic demand/O2 requirement
+    - Mixed macrocytic/microcytic disease may have a normal MCV: look for
+        ↑RDW
+    - Pure red cell aplasia: associated with destructive Ab (CLL, thymoma,
+        parvovirus, autoimmune)
+    - Paroxysmal nocturnal hemoglobinuria (PNH)
+    - Bone marrow failure or infiltration (typically will see
+        pancytopenia)
+    - Bone marrow biopsy may be indicated if no identifiable cause or
+        anemia is associated with other cytopenia’s
 
-Microcytic anemia: MCV \<80
+### Microcytic anemia: MCV <80 (mnemonic: SALTI)
 
-(Mnemonic: SALTI)
+- Sideroblastic, Anemia of chronic disease, Lead poisoning,
+    Thalassemia and Iron-deficiency
 
--   Sideroblastic, anemia of chronic disease, lead poisoning,
-    thalassemia and iron-deficiency
--   See Table
+<table>
+<colgroup>
+<col style="width: 18%" />
+<col style="width: 26%" />
+<col style="width: 25%" />
+<col style="width: 29%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Disease</th>
+<th>Etiology</th>
+<th>Evaluation</th>
+<th>Considerations</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Sideroblastic</td>
+<td><p>MDS</p>
+<p>Idiopathic</p>
+<p>EtOH, Lead, Isoniazid</p>
+<p>Cu deficiency</p></td>
+<td><p>Social hx, TB, consider Lead level</p>
+<p>Fe: ↑↑</p>
+<p>Ferritin: ↑ to nL</p>
+<p>TIBC: nL</p>
+<p>Smear: basophilic stippling</p>
+<p>BMBx: ringed sideroblasts</p></td>
+<td>In clinical practice this is usually acquired; either due to alcohol
+(can resolved with cessation) or primary bone marrow disorder (e.g.
+MDS-RARS)</td>
+</tr>
+<tr class="even">
+<td>Anemia of Inflammation (formerly chronic disease)</td>
+<td>Chronic inflammation, malignancy, HIV, autoimmune dz, heart failure,
+etc.</td>
+<td><p>Fe/TIBC &gt;18%</p>
+<p>Fe: ↓↓</p>
+<p>Ferritin: ↑↑</p>
+<p>TIBC: ↓↓</p></td>
+<td><p>Treat underlying disease</p>
+<p>Replete Fe if ferritin &lt;100 or TIBC &lt;20%</p>
+<p>EPO if Hgb &lt;10 and serum EPO &lt;10</p></td>
+</tr>
+<tr class="odd">
+<td>Thalassemia</td>
+<td><p>↓ synthesis of α or β chains leads to ↓ erythropoiesis and ↑
+hemolysis</p>
+<p>Family Hx of anemia</p></td>
+<td><p>Mentzer’s index: MCV/RBC &lt;13 = thalassemia</p>
+<p>Normal Fe studies; can mimic microcytic anemia and Fe overload from
+transfusions</p>
+<p>Diagnosis: Hb electrophoresis (α will be normal)</p></td>
+<td><p>α-thal more common in Asian/African descent</p>
+<p>β thal common in Mediterranean descent</p>
+<p>Tx: transfusions, folate, Fe chelator depending on severity</p></td>
+</tr>
+<tr class="even">
+<td>Iron (Fe) deficiency</td>
+<td><p>Chronic bleeding: colon cancer, heavy menstrual periods,
+cirrhosis (portal gastropathy)</p>
+<p>Supply: malnutrition, Crohn’s dz, Celiac dz, subtotal gastrectomy</p>
+<p>Demand: pregnancy</p></td>
+<td><p>Fe/TIBC &lt;18%</p>
+<p>Fe:↓↓ TIBC:↑ nl to ↑</p>
+<p>Ferritin: &lt; 100</p>
+<p>Mentzer’s index: &gt;13</p>
+<p>Consider celiac testing based on clinical suspicion</p>
+<p>Investigate for GIB or source of blood loss</p></td>
+<td><p>Oral Fe: 6wks to correct anemia, 6mo to replete stores; dose
+every other day (↑ absorption w/ ↓ GI side effects); add Vit C for ↑
+absorption</p>
+<p>If can’t tolerate PO consider IV Fe (Avoid when bacteremic)</p>
+<p>HFrEF: IV Fe if ferritin &lt;100 OR 100-300 w/ Fe sat
+&lt;20%</p></td>
+</tr>
+</tbody>
+</table>
 
-| Disease                   | Etiology                                                                                                                                                                   | Evaluation                                                                                                                                                                                 | Considerations                                                                                                                                                                                                                                                     |
-|---------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Sideroblastic             | MDS Idiopathic ETOH, Lead, Isoniazid, Cu deficiency                                                                                                                        | Social hx, work, TB, consider Lead level Fe:↑↑ ferritin:↑nl or ↑ TIBC: nl Smear: basophilic stippling BMbx: ringed sideroblasts                                                            | NaN                                                                                                                                                                                                                                                                |
-| Anemia of chronic disease | Chronic inflammation, malignancy, HIV autoimmune dz, Inflammation (IL6, TNF α)↓                                                                                            | Fe/TIBC \>18% Fe: ↓↓ ferritin:↑↑ TIBC:↓↓                                                                                                                                                   | Tx: underlying dz EPO if Hgb \<10 and serum EPO \<500 Replete Fe if ferritin \<100 or TIBC \<20%                                                                                                                                                                   |
-| Thalassemia               | ↓ synthesis of α or β chains leads to ↓ erythropoiesis and ↑ hemolysis                                                                                                     | Family Hx of anemia Mentzer’s index: MCV/RBC \<13 = thalassemia Normal Fe studies; can mimic microcytic anemia and Fe overload from transfusions Diagnosis: Hb electrophoresis             | α thal more common in Asian/African descent β thal common in Mediterranean descent Tx: transfusions, folate, Fe chelator depending on severity                                                                                                                     |
-| Iron (Fe) deficiency      | Chronic bleeding: colon cancer heavy menstrual periods, cirrhosis (portal gastropathy) Supply: malnutrition, Crohn’s dz, celiac dz, subtotal gastrectomy Demand: pregnancy | Fe/TIBC \<18% Fe:↓↓ TIBC:↑ nl to ↑ ferritin: \< 15, \<41 w/co-morb. Mentzer’s index: \>13 Consider celiac testing based on clinical suspicion Investigate for GIB or sources of blood loss | Oral Fe: 6wks to correct anemia, 6mo to replete stores; dose every other day ( ↑ absorption w/ ↓ GI side effects); add Vit C for ↑ absorption If can’t tolerate PO consider IV Fe (Avoid when bacteremic HFrEF: IV Fe if ferritin \<100 OR 100-300 w/ Fe sat \<20% |
+### Macrocytic Anemia: MCV >100
 
-Macrocytic Anemia: MCV \>100
+- Non-megaloblastic
+    - ETOH, liver disease, hypothyroidism, MDS
+    - Medications that impair DNA synthesis: zidovudine, 5-FU,
+        hydroxyurea, ara-C, AZT, MTX
 
--   Non-megaloblastic:
-    -   ETOH:
-        BM suppression, macrocytosis independent from cirrhosis or
-        vitamin deficiency
-    -   Liver disease
-    -   Hypothyroidism
-    -   MDS
-    -   Medications that impair DNA synthesis: zidovudine, 5-FU,
-        hydroxyurea, ara-C, AZT
-
-<!-- -->
-
--   Megaloblastic
-    -   B12 deficiency
-        -   Total body stores last 2-3 yr; absorbed in terminal ileum,
-            requires IF
-        -   Can have neurologic changes (subacute combined
-            degeneration); paresthesias, ataxia, dementia (reversible
-            with early treatment)
-        -   Etiology: malnutrition (alcoholics, vegan), pernicious
-            anemia, gastrectomy, Crohn’s disease, chronic pancreatitis,
-            celiac disease (8-41% of pt)
-        -   Dx:
-            ↓
-            B12,
-            ↑
-            MMA,
-            ↑
-            homocysteine
-        -   If B12 low normal but have neuro sx, can get MMA to help
-            confirm dx
-            -   Tx: either monthly IM or sublingual B12 (oral not
-                absorbed if no IF)
-    -   Folate deficiency
-        -   Total body stores last 2-3 mo; absorbed mostly in jejunum
-        -   Etiology: malnutrition, decreased absorption (celiac disease
-            2/2 damaged jejunum), impaired metabolism (MTX, TMP),
-            ↑requirement (hemolysis, malignancy, dialysis)
-        -   Dx: ↓folate, ↑homocysteine but wnl MMA
-        -   Tx: PO folate 1-4 mg daily
+- Megaloblastic
+    - B12 deficiency
+        - Presentation: neurologic changes (subacute combined
+            degeneration), paresthesia, ataxia, dementia (reversible with
+            early treatment)
+        - Etiology: malnutrition (alcoholics, vegan), pernicious anemia,
+            gastrectomy, Crohn’s disease, chronic pancreatitis, celiac
+            disease
+        - Diagnosis: ↓B12, ↑MMA, ↑homocysteine
+        - Treatment: either monthly IM or sublingual B12 (oral not
+            absorbed if no IF)
+    - Folate deficiency
+        - Etiology: malnutrition, decreased absorption (e.g. Celiac
+            disease), impaired metabolism (MTX, TMP), ↑requirement
+            (hemolysis, malignancy, dialysis)
+        - Diagnosis: ↓folate, ↑homocysteine, MMA will be normal
+        - Treatment: PO folate 1-4 mg daily
