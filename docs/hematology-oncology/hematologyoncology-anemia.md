@@ -7,7 +7,7 @@ Margaret Wheless
 ## Presentation
 
 - Symptoms:
-  - Fatigue/malaise, dyspnea on exertion, angina (if history of CAD)
+    - Fatigue/malaise, dyspnea on exertion, angina (if history of CAD)
 - Signs:
     - Pallor, tachycardia, orthostatic hypotension, purpura, glossitis,
     koilonychia (in IDA)
@@ -41,13 +41,13 @@ Margaret Wheless
 - Direct antiglobulin test (DAT) to evaluate for autoimmune hemolytic
     anemia
 
-### Extrinsic RBC causes:
+### Extrinsic RBC causes
 
 - If schistocytes ± thrombocytopenia = MAHA: TTP, DIC, HUS, HELLP,
     mechanical valves, malignant HTN, cocaine, scleroderma renal crisis
 - If DAT positive = AIHA
 
-### Intrinsic RBC causes:
+### Intrinsic RBC causes
 
 - Sickle cell disease: chronic hemolysis + splenic sequestration
     crisis where RI is↑ vs aplastic crisis where RI is↓ (see sickle cell
@@ -59,19 +59,19 @@ Margaret Wheless
     - Usually precipitated by drugs: nitrofurantoin, dapsone,
     sulfonamides, rasburicase, primaquine
 
-## Management
+### Management
 
 - MAHA
 - DIC: sepsis, malignancy, pregnancy
     - Treat underlying cause
     - If active bleeding: FFP, cryoprecipitate (to keep
-        fibrinogen\>100) and platelets
+        fibrinogen >100) and platelets
 - TTP: Order ADAMTS13 (prior to plasma transfusion or exchange)
     - If concern for TTP you should immediately consult Heme and
         Nephrology
 - HUS: + shiga toxin, AKI, diarrhea
 - AIHA:
-    - Cold (rare): IgM binds at temp \<37
+    - Cold (rare): IgM binds at temp <37
         - Caused by lymphoproliferative disorder (Waldenström
             Macroglobulinemia), mycoplasma, EBV, HIV
         - Consult heme. Treat underlying. Consider rituximab (steroids
@@ -81,7 +81,7 @@ Margaret Wheless
             HIV
         - Can use steroids, IVIG, rituximab
 
-## RBC Size Framework
+## Reticulocyte Index <2% (RBC Size Framework)
 
 ### Normocytic Anemia: MCV 80-100
 
