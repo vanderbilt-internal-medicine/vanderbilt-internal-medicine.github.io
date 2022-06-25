@@ -208,35 +208,35 @@
 
 # OUTPATIENT MEDICINE
 
-- [ ] Obesity/Nutrition 237
-- [ ] Lipids 238
-- [ ] Hypertension 241
-- [ ] Asthma 244
-- [ ] Preventative Medicine/Screening 246
-- [ ] Anxiety/Depression 247
-- [ ] Fatigue 250
-- [ ] Chronic Rhinosinusitis 251
+- [x] Obesity/Nutrition 237
+- [x] Lipids 238
+- [x] Hypertension 241
+- [x] Asthma 244
+- [x] Preventative Medicine/Screening 246
+- [x] Anxiety/Depression 247
+- [x] Fatigue 250
+- [x] Chronic Rhinosinusitis 251
 
 # PALLIATIVE CARE
 
-- [ ] Code Status Discussion 253
-- [ ] Opioids: Principles & Conversions 254
-- [ ] Acute and Chronic Pain 256
-- [ ] Hospice 258
-- [ ] Medications for Dying Patients 258
-- [ ] Videos for Difficult Conversations 259
-- [ ] The Death Pronouncement 260
+- [x] Code Status Discussion 253
+- [x] Opioids: Principles & Conversions 254
+- [x] Acute and Chronic Pain 256
+- [x] Hospice 258
+- [x] Medications for Dying Patients 258
+- [x] Videos for Difficult Conversations 259
+- [x] The Death Pronouncement 260
 
 # PHYSICAL MEDICINE & REHAB
 
-- [ ] Rehabilitation Options 263
-- [ ] PM&R Consultation 264
-- [ ] Spasticity 264
-- [ ] Traumatic Brain Injury 265
-- [ ] Shoulder Pain 266
-- [ ] Neck Pain 267
-- [ ] Acute Back Pain 268
-- [ ] Knee Pain 270
+- [x] Rehabilitation Options 263
+- [x] PM&R Consultation 264
+- [x] Spasticity 264
+- [x] Traumatic Brain Injury 265
+- [x] Shoulder Pain 266
+- [x] Neck Pain 267
+- [x] Acute Back Pain 268
+- [x] Knee Pain 270
 
 # PROCEDURES
 
