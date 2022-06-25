@@ -89,28 +89,28 @@
 
 # HEMATOLOGY/ONCOLOGY
 
-- [ ] Anemia 101
-- [ ] Neutropenia & Neutropenic Fever 103
-- [ ] Thrombocytopenia 105
-- [ ] Pancytopenia 107
-- [ ] Leukocytosis 107
-- [ ] Venous Thromboembolism 108
-- [ ] Anticoagulation 109
-- [ ] Hypercoagulable States 111
-- [ ] Coagulopathies 113
-- [ ] DIC 114
-- [ ] Transfusion Medicine 115
-- [ ] Sickle Cell Crisis 117
-- [ ] Lymphoma 118
-- [ ] Myelodysplastic Syndromes 119
-- [ ] Acute Leukemia 120
-- [ ] Plasma Cell Dyscrasias 122
-- [ ] Myeloproliferative Neoplasms 125
-- [ ] Bone Marrow Transplant 127
-- [ ] CAR T-cell Therapy 128
-- [ ] Oncologic Emergencies 129
-- [ ] Paraneoplastic Syndromes 132
-- [ ] Therapy Toxicities 134
+- [x] Anemia 101
+- [x] Neutropenia & Neutropenic Fever 103
+- [x] Thrombocytopenia 105
+- [x] Pancytopenia 107
+- [x] Leukocytosis 107
+- [x] Venous Thromboembolism 108
+- [x] Anticoagulation 109
+- [x] Hypercoagulable States 111
+- [x] Coagulopathies 113
+- [x] DIC 114
+- [x] Transfusion Medicine 115
+- [x] Sickle Cell Crisis 117
+- [x] Lymphoma 118
+- [x] Myelodysplastic Syndromes 119
+- [x] Acute Leukemia 120
+- [x] Plasma Cell Dyscrasias 122
+- [x] Myeloproliferative Neoplasms 125
+- [x] Bone Marrow Transplant 127
+- [x] CAR T-cell Therapy 128
+- [x] Oncologic Emergencies 129
+- [x] Paraneoplastic Syndromes 132
+- [x] Therapy Toxicities 134
 
 # HEPATOLOGY
 
@@ -185,26 +185,26 @@
 
 # OPHTHALMOLOGY
 
-- [ ] Basic Eye Anatomy 224
-- [ ] Common Ophtho Abbreviations 224
-- [ ] Taking a Good Ocular History 225
-- [ ] Approach to Blurry Vision 226
-- [ ] Approach to Double Vision 226
-- [ ] Approach to Flashes, Floaters, Spots 227
-- [ ] Approach to Red Eye 227
-- [ ] Anisocoria 228
-- [ ] Conjunctivitis 229
-- [ ] Corneal Abrasion, Ulceration 229
-- [ ] Cataracts 230
-- [ ] Dry Eye 230
-- [ ] Fungemia and Intraocular Involvement 231
-- [ ] Glaucoma 231
-- [ ] Orbital and Preseptal Cellulitis 233
-- [ ] Optic Neuritis 234
-- [ ] Papilledema 234
-- [ ] Retinal Detachment 235
-- [ ] Uveitis 235
-- [ ] Wilson’s Disease 236
+- [x] Basic Eye Anatomy 224
+- [x] Common Ophtho Abbreviations 224
+- [x] Taking a Good Ocular History 225
+- [x] Approach to Blurry Vision 226
+- [x] Approach to Double Vision 226
+- [x] Approach to Flashes, Floaters, Spots 227
+- [x] Approach to Red Eye 227
+- [x] Anisocoria 228
+- [x] Conjunctivitis 229
+- [x] Corneal Abrasion, Ulceration 229
+- [x] Cataracts 230
+- [x] Dry Eye 230
+- [x] Fungemia and Intraocular Involvement 231
+- [x] Glaucoma 231
+- [x] Orbital and Preseptal Cellulitis 233
+- [x] Optic Neuritis 234
+- [x] Papilledema 234
+- [x] Retinal Detachment 235
+- [x] Uveitis 235
+- [x] Wilson’s Disease 236
 
 # OUTPATIENT MEDICINE
 
