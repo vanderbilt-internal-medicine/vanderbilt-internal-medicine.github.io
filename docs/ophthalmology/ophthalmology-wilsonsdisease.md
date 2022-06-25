@@ -1,5 +1,9 @@
 # Wilson’s Disease: Ophthalmic Manifestations
 
+Jonathan A. Barnett
+
+---
+
 - The two classic ophthalmic manifestations of Wilson’s disease are
     the “Kayser-Fleischer ring” (copper deposition around the corneal
     limbus) and the “Sunflower cataract” (copper deposition in the

@@ -1,5 +1,9 @@
 # Papilledema
 
+Jonathan A. Barnett
+
+---
+
 ## Background
 
 - Papilledema refers to edema of the optic nerve due to increased

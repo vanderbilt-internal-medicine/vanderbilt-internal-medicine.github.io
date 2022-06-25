@@ -1,5 +1,9 @@
 # Conjunctivitis
 
+Jonathan A. Barnett
+
+---
+
 ## Background and Presentation
 
 - Allergic, viral, or bacterial cause

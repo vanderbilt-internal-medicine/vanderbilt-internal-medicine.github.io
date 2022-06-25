@@ -1,9 +1,13 @@
 # Fungemia and Intraocular Involvement
 
+Jonathan A. Barnett
+
+---
+
 The American Academy of Ophthalmology currently does NOT recommend
 routine Ophthalmology consults for visually asymptomatic patients with
 systemic candidemia. The incidence of candidemia-related endophthalmitis
-detected from routine screenings is \<1%.
+detected from routine screenings is <1%.
 
 By contrast, if the patient has visual symptoms, an Ophthalmology
 consult is warranted.

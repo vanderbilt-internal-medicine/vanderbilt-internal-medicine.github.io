@@ -1,8 +1,16 @@
 # Approach to Flashes, Floaters, Spots
 
+Jonathan A. Barnett
+
+---
+
+<!--
+
 <img src="output/media/image20.jpeg"
 style="width:3.74868in;height:1.86066in"
 alt="Diagram Description automatically generated" />
+
+-->
 
 ## Key Points
 

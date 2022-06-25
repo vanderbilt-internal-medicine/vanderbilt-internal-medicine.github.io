@@ -1,5 +1,9 @@
 # Uveitis (includes Iritis, Cyclitis, Retinitis, Choroiditis)
 
+Jonathan A. Barnett
+
+---
+
 ## Background
 
 - ”Uvea” = iris + ciliary body + choroid (these 3 tissues are

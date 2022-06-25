@@ -1,8 +1,18 @@
 # Medical Oncology Resources
 
-Medical Oncology Resources – Eric Lander
+Eric Lander
 
-VUMC Oncology Rotation Tips:
+---
+
+## Resources
+
+NCCN (National Comprehensive Cancer Center Network, <https://www.nccn.org/>):
+consensus based treatment guidelines for most hematopoietic and solid tumors. 
+Free for house staff.
+
+<https://www.HemOnc.org> - comprehensive, expert-curated, wiki-style resource, seeks to catalogue all treatment regimens across all cancers. Born at VUMC.
+
+## VUMC Oncology Rotation Tips
 
 The inpatient oncology rotation involves complex decisions often
 resulting from advancing diseases. The question “What do you want?” is
@@ -15,8 +25,8 @@ define how communication with this primary oncologist will be handled.
 
 Oncology summary sentence in presentation:
 
-1.  Cancer type and stage (at diagnosis – \*stage never changes even if
-    progressed\*)
+1.  Cancer type and stage (at diagnosis – stage never changes even if
+    progressed)
 2.  Pertinent tumor genetic information
 3.  Any relevant surgeries (e.g. resections)
 4.  Most recent treatment
@@ -28,12 +38,3 @@ post resection now with metastases to the spine (patient of Dr. Y)
 admitted w/intractable back pain and leg weakness. Full NGS at diagnosis
 with no actionable mutations, and was 40% positive for PDL1. No previous
 chemo.
-
-NCCN:
-
-National Comprehensive Cancer Center Network: (
-
-https://www.nccn.org/
-
-): consensus based treatment guidelines for most hematopoietic and solid
-tumors.  Free for house staff.

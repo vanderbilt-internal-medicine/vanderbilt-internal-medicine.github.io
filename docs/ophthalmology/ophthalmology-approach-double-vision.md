@@ -1,5 +1,7 @@
 # Approach to Double Vision (Diplopia)
 
+Jonathan A. Barnett
+
 ---
 
 ![approach to double vision algorithm](../images/image19.jpeg)

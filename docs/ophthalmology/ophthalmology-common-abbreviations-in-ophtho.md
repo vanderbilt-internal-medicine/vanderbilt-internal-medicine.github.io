@@ -1,5 +1,9 @@
 # Common Abbreviations in Ophthalmology
 
+Jonathan A. Barnett
+
+---
+
 - OD = Right eye \| OS = Left eye \| OU = Both eyes
 
 - VA = Visual Acuity \| VAcc = with correction \[glasses or contact

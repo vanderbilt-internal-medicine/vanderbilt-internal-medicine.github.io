@@ -1,5 +1,9 @@
 # Basic Eye Anatomy
 
+Jonathan A. Barnett
+
+---
+
 - **Sclera** - White wall of the eye
 
 - **Conjunctiva** - Translucent, vascularized tissue that covers

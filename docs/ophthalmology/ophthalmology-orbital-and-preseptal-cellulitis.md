@@ -1,5 +1,9 @@
 # Orbital vs Preseptal Cellulitis
 
+Jonathan A. Barnett
+
+---
+
 ## Background
 
 - The septum is a fibrous, membranous structure that divides the

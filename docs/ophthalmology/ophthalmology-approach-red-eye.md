@@ -1,5 +1,9 @@
 # Approach to a Red Eye
 
+Jonathan A. Barnett
+
+---
+
 When the conjunctiva is vasodilated, or “injected,” the eye looks red.
 The more inflamed the conjunctiva, the angrier-looking the eye.
 

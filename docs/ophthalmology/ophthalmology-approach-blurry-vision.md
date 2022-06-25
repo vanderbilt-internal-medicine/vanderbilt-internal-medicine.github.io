@@ -1,5 +1,7 @@
 # Approach to Blurry Vision
 
+Jonathan A. Barnett
+
 ---
 
 ![approach to blurry vision algorithm](../images/image18.png)

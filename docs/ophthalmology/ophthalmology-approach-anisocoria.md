@@ -1,5 +1,9 @@
 # Anisocoria
 
+Jonathan A. Barnett
+
+---
+
 ## Background
 
 - Anisocoria = unequal pupil size
@@ -30,7 +34,7 @@
 
     - If suspect new onset Horner’s, consider Neurology and Ophthalmology
         consult.
-        
+
 - CN3 Palsy
 
     - Pupillary mydriasis (“blown pupil”) + adduction, supraduction,

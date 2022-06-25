@@ -1,5 +1,9 @@
 # Retinal Detachment and Posterior Vitreous Detachment
 
+Jonathan A. Barnett
+
+---
+
 ## Background
 
 - Retinal detachment (RD) = detachment of retinal tissue from the back

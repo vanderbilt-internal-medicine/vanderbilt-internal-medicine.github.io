@@ -1,5 +1,9 @@
 # Corneal Abrasion, Exposure Keratopathy, Ulceration
 
+Jonathan A. Barnett
+
+---
+
 ## Background
 
 - Corneal abrasion = corneal epithelial defect (KED): an area of

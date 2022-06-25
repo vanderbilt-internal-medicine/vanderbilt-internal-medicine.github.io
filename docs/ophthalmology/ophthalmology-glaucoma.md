@@ -1,5 +1,9 @@
 # Glaucoma
 
+Jonathan A. Barnett
+
+---
+
 ## Background
 
 - Glaucoma is a disease of the optic nerve that follows a

@@ -1,5 +1,9 @@
 # Optic Neuritis
 
+Jonathan A. Barnett
+
+---
+
 ## Background
 
 - Optic neuritis is inflammation of the optic nerve. Often caused by

@@ -1,5 +1,9 @@
 # Taking a Good Ocular History
 
+Jonathan A. Barnett
+
+---
+
 ## History of Present Illness:
 
 - Duration/Onset/Timing of visual or eye symptoms
