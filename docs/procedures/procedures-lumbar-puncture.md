@@ -15,7 +15,7 @@ NEJM video Guide: <https://www.youtube.com/watch?v=xnH9gECy_wU>
     infection or epidural abscess over puncture site, trauma to lumbar
     vertebrae
 
-Relative Contraindications
+## Relative Contraindications
 
 - ↑ intracranial pressure, thrombocytopenia, bleeding diatheses
 
