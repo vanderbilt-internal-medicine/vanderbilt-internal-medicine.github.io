@@ -106,11 +106,11 @@ Pakinam Mekki
 
 ## Misc:
 
-    - PFTs with 6-minute walk test (prognostic value)
+ - PFTs with 6-minute walk test (prognostic value)
 
-    - TTE to evaluate for pHTN
+ - TTE to evaluate for pHTN
 
-    - SLP evaluation for indolent aspiration
+ - SLP evaluation for indolent aspiration
 
 ## Management
 
