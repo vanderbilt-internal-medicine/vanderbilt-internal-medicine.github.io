@@ -1,90 +1,139 @@
-# ILD
+# Interstitial Lung Disease 
 
-| 0                                          |
-|--------------------------------------------|
-| Interstitial Lung Disease – Gaby Schroeder |
+Pakinam Mekki
 
-Background
+---
 
--   MANY CAUSES, one mnemonic to use:
-    -   S
-        arcoidosis
-    -   H
-        ypersensitivity Pneumonitis
-    -   I
-        diopathic Interstitial Pneumonias (IIPs- UIP/IPF, NSIP, OP,
-        RB-ILD, DIP, LIP, AIP)
-    -   T
-        uberculosis
-    -   F
-        ungal
-    -   A
-        spiration/ Asbestosis (and other Pneumoconiosis)
-    -   C
-        onnective Tissue Disease + Cancer
-    -   E
-        osinophilic Pneumonia
-    -   D
-        rugs
+## Background
 
-Evaluation
+- Heterogenous group of parenchymal lung diseases that involve
+    scarring or fibrosis, affecting the lung interstitium, alveoli, and
+    pulmonary capillaries
 
--   History: Ask about 1) Duration, timing, severity of primary
-    respiratory symptoms 2) Exposures: Pets, Occupation, Residence,
-    Mold, Feathers, Smoking, Illicits, Travel, Hobbies, Medications
-    (especially amiodarone, nitrofurantoin and chemotherapies) 3)
-    Symptoms of systemic autoimmune disease 4) Family history
--   Chest Imaging: HRCT is best for characterization, but often not
-    achievable or desirable in inpatient setting when patients are
-    critically ill.
--   Labs:
-    -   Rule out fungal infection: Histo Antigen, Blasto Antigen,
-        Aspergillus Galactomannan, 1,3-
-        β
-        -D-Glucan, sputum GMS (orderable as 'Cytology/Pneumocystis
-        Stain')
-    -   Rheumatologic Work Up: ANA w/ Reflex, CK, Aldolase, consider
-        full myositis panel
-        -   -   RA: RF, Anti-CCP
-            -   Scleroderma: Anticentromere, Anti-SCL-70
-            -   Mixed Connective Tissue Disease: Anti-ribonuclear
-                protein
-            -   DM/PM: Anti-Jo
-            -   SLE: Anti-ds DNA, Anti-sm, APL
-            -   Sjogren: Anti-SS-A (Ro), Anti-SS-B (La)
-    -   If risk factors present: Sputum AFB, Hypersensitivity Panel
--   PFTs, 6-minute walk test
--   Bronchoscopy: BAL (Cell counts, cultures, cytology) + Tissue Biopsy
-    (Transbronchial vs. Cryobiopsy vs. surgical/VATS)
+    - Leads to loss of lung volume and compliance and impaired gas
+        exchange
 
-Management
+## Etiologies
 
--   Treat underlying condition
--   In the inpatient setting, often determine if a patient would benefit
-    from immunosuppression therapy (i.e. steroids) initially, but will
-    need to rule out to infection first
--   Consider lung transplantation for rapidly progressive or refractory
-    cases in appropriate candidate
+- ILD is divided into primary (idiopathic) causes and secondary causes
 
-Primary Respiratory Acidosis:
+- Idiopathic: idiopathic pulmonary fibrosis, eosinophilic pneumonia,
+    idiopathic NSIP, organizing pneumonia, acute interstitial pneumonia,
+    etc
 
--   Assess patient’s history: Is this acute or chronic?
-    -   Acute respiratory acidosis and hypercarbia will often present
-        with somnolence or AMS
-    -   Similarly, if a PCO2 is 80, and the patient is talking to you,
-        it is most likely chronic
--   Common Acute Causes: Decreased respiratory drive (opiates,
-    intoxication) or respiratory muscle weakness (i.e. myasthenia gravis
-    exacerbation)
--   Common Chronic Causes: COPD, sleep apnea
--   Appropriate metabolic compensation?
--   If acute, every 10 mmHg increase in pCO2 above normal (40) should
-    raise HCO3 by 1
-    -   Expected HCO3 = 24 + ((pCO2 -40)/10))
--   If chronic, every 10 mm Hg
-    ↑
-    in pCO2 above normal (40) should raise HCO3 by 3.5
-    -   Expected HCO3 = 24 + 3.5 ((pCO2-40/10)).
--   If HCO3 higher than expected
-    à
-    additional metabolic alkalosis
+- Secondary
+
+    - Systemic:
+
+        - Connective tissue disease: RA, Sjogrens, dermatomyositis,
+            polymyositis SLE, MCTD, scleroderma
+
+        - Granulomatous disease: sarcoidosis, TB
+
+        - Vasculitis: granulomatosis with polyangiitis, eosinophilic
+            granulomatosis with polyangiitis, amyloidosis,
+            lymphangioleiomyomatosis
+
+    - Exposure
+
+        - Pneumoconiosis (inorganic) – exposure to coal mines, silica,
+            asbestos, organic solvents, heavy metals, solder, hair dressing
+            chemicals
+
+        - Hypersensitivity pneumonitis (organic)- farm exposures, chicken
+            coops, pesticide, stored grains, mold (ex: water damage in home,
+            hot tubs)
+
+        - Iatrogenic – amiodarone, immunotherapies, TKI, TNF-a inhibitors,
+            nitrofurantoin, radiation
+
+## Evaluation
+
+- Dry cough is the most common symptom of ILD. Productive coughs are
+    uncharacteristic
+
+- History:
+
+    - Duration, timing, severity of respiratory symptoms
+
+    - Exposures – pets, occupation, residence, smoking, drugs, travel,
+        hobbies, dust, hay, grass,
+
+    - Screen for autoimmune symptoms (arthritis, myalgia, rash, Raynaud’s
+        phenomenon
+
+    - Screen for vasculitis symptoms: hematuria, hemoptysis, mononeuritis
+        multiplex
+
+    - Medication history
+
+    - Family history – premature aging, myelodysplastic syndrome (most
+        common familial IPF association with telomerase mutations)
+
+
+- Chest Imaging:
+
+    - CXR – could find peripheral reticular opacities
+
+    - HRCT protocol is used for diagnosis: evaluates the lung parenchyma
+        while pt is supine, prone, with inspiratory and expiratory cuts
+
+    - There are two morphologic features on HRCT
+
+        - Usual Interstitial Pneumonia (UIP): basilar predominant
+            fibrosis, honey combing, and traction bronchiectasis. Minimal
+            GGOs. Pattern seen in IPF.
+
+        - Non-Specific Interstitial Pneumonia (NSIP): Marked by subpleural
+            sparing, increased reticular patterns, and mosaic attenuation
+            due to air trapping. Minimal or absent honeycombing
+
+- Labs
+
+<!-- -->
+
+    - Rule out infection: CBC, RVP, sputum Cx, Histo antigen, Blasto
+        antigen, Aspergillus galactomannan, 1,3-β-D-Glucan, sputum GMS,
+        consider NTM, HIV
+
+    - Rheumatologic workup: ANA w/ reflex ENA, ESR, CRP, CK, aldolase,
+        consider full myositis panel, RF, anti-CCP
+
+- Bronchoscopy
+
+<!-- -->
+
+    - BAL is not diagnostic ILD (except eosinophilic PNA), may be helpful
+        to rule out infection
+
+    - Transbronchial biopsy is the gold standard for diagnosis. Surgical
+        lung biopsy may be helpful in cases where the clinical evaluation
+        and imaging are not effective (uncommon)
+
+- Misc:
+
+    - PFTs with 6-minute walk test (prognostic value)
+
+    - TTE to evaluate for pHTN
+
+    - SLP evaluation for indolent aspiration
+
+## Management
+
+- Acute flare – all non- UIP = may respond to steroids. Consult
+    rheumatology if CTD origin for further options.
+
+- Chronic therapy
+
+    - Consider tyrosine kinase inhibitor (nintedanib; INPULSIS trial) and
+        antifibrotics (pirfenidone; ASCEND trial) – reduces FVC decline but
+        no change in mortality
+
+    - There is increased mortality in IPF with azathioprine/pred/NAC
+        (PANTHER-IPF); steroids are not indicated
+
+    - Immunosuppression for autoimmune related ILD
+
+    - Antigen avoidance for hypersensitivity pneumonitis
+
+- Consider lung transplant evaluation for severe disease
