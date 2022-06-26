@@ -40,7 +40,7 @@
 - Measure skin/subQ depth with US to help choose sufficiently long
     needle for diagnostic paras
     
-## Procedural considerations - Paracentesis 
+## Procedural considerations 
 
 - Ultrasound Probe: curvilinear
 
