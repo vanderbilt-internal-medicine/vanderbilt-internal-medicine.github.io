@@ -1,6 +1,6 @@
 # Central Line
 
-- NEJM video guide: <https://www.youtube.com/watch?v=qeVdRCqy_mo>
+NEJM video guide: <https://www.youtube.com/watch?v=qeVdRCqy_mo>
 
 ## Indications
 
@@ -118,7 +118,7 @@ open/place the line!</em></td>
     approximately near/superior to carina and right tracheobronchial
     angle
 
-- Troubleshooting Complications:
+## Troubleshooting Complications:
 
     - Arterial Access or puncture: immediately remove needle and hold
         pressure for 15 mins to prevent hematoma formation; if uncontrolled
