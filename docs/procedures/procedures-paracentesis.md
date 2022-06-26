@@ -1,6 +1,6 @@
 # Paracentesis
 
-## Video Guide
+## Video Guide 
 
 - VUMC Procedure Service video: <https://www.youtube.com/watch?v=pQSsb9705LE&t=160s>
 - NEJM video: <https://www.youtube.com/watch?v=KVpwXK7cvzQ>
