@@ -1,6 +1,6 @@
 # Central Line
 
-NEJM video guide: <https://www.youtube.com/watch?v=qeVdRCqy_mo>
+- NEJM video guide: <https://www.youtube.com/watch?v=qeVdRCqy_mo>
 
 ## Indications
 
