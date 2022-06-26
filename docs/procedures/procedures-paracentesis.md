@@ -5,7 +5,7 @@
 - VUMC Procedure Service video: <https://www.youtube.com/watch?v=pQSsb9705LE&t=160s>
 - NEJM video: <https://www.youtube.com/watch?v=KVpwXK7cvzQ>
 
-# Indications
+## Indications
 
 - Diagnostic: Evaluation of new onset ascites or of known ascites with
     concern for SBP
@@ -13,18 +13,18 @@
 - Therapeutic: tense ascites, refractory to diuretics, causing pt
     discomfort
 
-# Relative Contraindications
+## Relative Contraindications
 
 - Significant bowel distension due to ileus or SBO, hemodynamic
     instability (due to large fluid shifts with LVP), DIC,
     infection/breakdown of skin overlying puncture site
 
-# Consent
+## Consent
 
 - Risks: abdominal wall hematoma (1%), hemoperitoneum, organ puncture
     / bowel perforation, infection, ascitic fluid leak
 
-# Pre-procedural considerations
+## Pre-procedural considerations
 
 - **Bleeding risk guidelines:** Plts \> 20k, INR \< 4 \* (note that
     cirrhosis complicates INR interpretation)
