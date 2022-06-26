@@ -1,6 +1,6 @@
 # Procedures
 
-Kate Heckman MD
+Kate Heckman, MD
 
 ---
 
