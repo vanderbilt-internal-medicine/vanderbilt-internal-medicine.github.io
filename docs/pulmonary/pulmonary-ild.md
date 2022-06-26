@@ -88,29 +88,23 @@ Pakinam Mekki
             sparing, increased reticular patterns, and mosaic attenuation
             due to air trapping. Minimal or absent honeycombing
 
-- Labs
+## Labs
 
-<!-- -->
+- Rule out infection: CBC, RVP, sputum Cx, Histo antigen, Blasto antigen, Aspergillus galactomannan, 1,3-β-D-Glucan, sputum GMS, consider NTM, HIV
 
-    - Rule out infection: CBC, RVP, sputum Cx, Histo antigen, Blasto
-        antigen, Aspergillus galactomannan, 1,3-β-D-Glucan, sputum GMS,
-        consider NTM, HIV
+ - Rheumatologic workup: ANA w/ reflex ENA, ESR, CRP, CK, aldolase,
+            consider full myositis panel, RF, anti-CCP
 
-    - Rheumatologic workup: ANA w/ reflex ENA, ESR, CRP, CK, aldolase,
-        consider full myositis panel, RF, anti-CCP
+## Bronchoscopy
 
-- Bronchoscopy
-
-<!-- -->
-
-    - BAL is not diagnostic ILD (except eosinophilic PNA), may be helpful
+- BAL is not diagnostic ILD (except eosinophilic PNA), may be helpful
         to rule out infection
 
-    - Transbronchial biopsy is the gold standard for diagnosis. Surgical
+- Transbronchial biopsy is the gold standard for diagnosis. Surgical
         lung biopsy may be helpful in cases where the clinical evaluation
         and imaging are not effective (uncommon)
 
-- Misc:
+## Misc:
 
     - PFTs with 6-minute walk test (prognostic value)
 
