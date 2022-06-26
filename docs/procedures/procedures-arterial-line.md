@@ -1,6 +1,6 @@
 # Arterial Line
 
-Pre-procedure considerations
+## Pre-procedure considerations
 
 -   Palpate of artery of interest to best understand anatomy and
     surrounding structures
@@ -12,7 +12,7 @@ Pre-procedure considerations
 -   If attempting radial access, ensure wrist is adequately extended,
     often using towel roll under wrist and taping hand to bed or table
 
-Procedure considerations
+## Procedure considerations
 
 -   Types of Kits
     -   Arrow kit: all-in-one device that has arterial catheter over
@@ -24,7 +24,7 @@ Procedure considerations
 -   Reconfirm location with US after lidocaine
 -   Ensure arterial access (pulsatile flow of bright red blood)
 
-Post- procedure considerations
+## Post- procedure considerations
 
 -   Immediately connect pressure tubing to catheter while maintaining
     sterile technique
