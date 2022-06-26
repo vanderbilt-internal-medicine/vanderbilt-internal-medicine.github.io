@@ -1,7 +1,5 @@
 # Consent
 
----
-
 - When printing consent forms at VUMC, use MedEx (on the virtual
     machine/desktop)
 
