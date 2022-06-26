@@ -9,5 +9,5 @@
 | Rivaroxaban (Xarelto) | 1-2 days                  |
 | Warfarin (Coumadin)   | 5-7 days                  |
 
-- Platelets, INR: refer to individual procedure sections for
+Platelets, INR: refer to individual procedure sections for
 procedure-specific guidelines
