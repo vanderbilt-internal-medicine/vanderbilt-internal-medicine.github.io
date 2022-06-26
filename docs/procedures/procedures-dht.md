@@ -19,7 +19,7 @@
 
 - SBO or ileus (use NGT instead for suction)
 
-Absolute Contraindications for blind approach
+## Absolute Contraindications for blind approach
 
 - Facial trauma, basilar skull fracture, pharyngeal or esophageal
     trauma
