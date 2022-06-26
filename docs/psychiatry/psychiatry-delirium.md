@@ -14,7 +14,7 @@ Julian Raffoul, reviewed by Wesley Ely and Jo Ellen Wilson
     changes (hyperactive, hypoactive, or mixed); language impairment;
     and/or emotional lability (agitation)
 
-      - Think about the ABC’s of Delirium
+     - Think about the ABC’s of Delirium
 
           - Affect (anxiety, paranoia, irritability, apathy, mood shifts,
               personality changes)
