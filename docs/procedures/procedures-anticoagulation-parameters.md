@@ -1,7 +1,5 @@
 # Anticoagulation and Bleeding Risk
 
----
-
 | Anticoagulant         | How Long to Hold          |
 |-----------------------|---------------------------|
 | Heparin gtt           | 4-8 hours, ensure PTT wnl |
