@@ -9,8 +9,6 @@ Eva Niklinska
 
 - Presentation:
 
-<!-- -->
-
     - Constitutional: fatigue, fevers, weight loss
 
     - Neurologic: cerebritis, myelitis, mononeuritis multiplex, psychosis
