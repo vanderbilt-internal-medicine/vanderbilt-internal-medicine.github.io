@@ -31,9 +31,7 @@ Julian Raffoul, reviewed by Wesley Ely and Jo Ellen Wilson
     Assessment Method (bCAM). See critical care section for the ICU
     version, CAM-ICU
 
-    <img src="output/media/image28.png"
-    style="width:1.9635in;height:1.9635in"
-    alt="Diagram Description automatically generated" />
+   ![approach to delirium](../images/image28.png)
 
 - Once delirium is diagnosed, evaluate for the underlying cause.
     Delirium has many etiologies and may occur alone or in combination
