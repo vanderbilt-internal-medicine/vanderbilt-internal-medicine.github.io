@@ -37,7 +37,7 @@ Greg Jackson
 
 ## Evaluation
 
-- Labbs: BMP, TSH, CK level, anti Jo-1 antibody
+- Labs: BMP, TSH, CK level, anti Jo-1 antibody
 
 - EMG: findings indicate myopathy
 
