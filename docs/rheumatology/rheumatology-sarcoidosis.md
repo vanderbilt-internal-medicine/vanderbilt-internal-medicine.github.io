@@ -20,8 +20,6 @@ Jared Freitas
 
 - Extrapulmonary manifestations:
 
-<!-- -->
-
     - Cutaneous: Highly variable, but present in 25% of patients
 
         - Papules, macules, or plaques commonly involving neck, upper
@@ -61,8 +59,6 @@ Jared Freitas
 - Combination of clinical features, radiographic manifestations,
     exclusion of other similarly presenting diseases, and noncaseating
     granulomas on pathology
-
-<!-- -->
 
     - CXR: hilar and mediastinal lymphadenopathy ± pulmonary infiltrates
 
