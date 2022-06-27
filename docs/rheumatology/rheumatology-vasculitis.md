@@ -40,12 +40,9 @@ Hannah Angle
 
         - GPA: granulomatous; classically involves nasopharynx, lungs, kidneys
 
-        - MPA: affects multiple organs but predilection for lungs and kidneys;
-            > in contrast to GPA, no nasopharynx involvement or granulomas
+        - MPA: affects multiple organs but predilection for lungs and kidneys; in contrast to GPA, no nasopharynx involvement or granulomas
 
-        - EGPA: granulomatous; predilection for heart and lungs; associated
-            > with eosinophilia, chronic rhinosinusitis, asthma; uncommon \> 65
-            > years old
+        - EGPA: granulomatous; predilection for heart and lungs; associated with eosinophilia, chronic rhinosinusitis, asthma; uncommon \> 65 years old
 
 - Immune-complex vasculitis: not addressed here
 
@@ -68,7 +65,7 @@ Hannah Angle
     stenosis), diminished or absent pulses (“pulseless disease”),
     arterial bruits, carotidynia (tenderness of carotid artery)
 
-    Evaluation
+## Evaluation
 
 - ESR/CRP (often elevated, though can be normal during active disease)
 
