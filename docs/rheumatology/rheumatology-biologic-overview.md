@@ -1,84 +1,345 @@
-# Biologic Overview
+# Biologic Overview 
 
-Biologic Overview – Hannah Lomzenski
+Hannah Lomzenski
 
-Background
+---
 
--   "-cept" refers to fusion of a receptor to the Fc part of human
+## Background
+
+- "-cept" refers to fusion of a receptor to the Fc part of human
     immunoglobulin G1 (IgG1)
--   "-mab" indicates a monoclonal antibody (mAb)
--   "-ximab" indicates a chimeric mAb
--   "-zumab" indicates a humanized mAb
--   "-umab" indicates a fully human mAb
--   “-tinib” indicates a tyrosine kinase inhibitor (TKIs are small
-    molecule inhibitors rather than true biologics)
 
-​​​​​​​
+- "-mab" indicates a monoclonal antibody (mAb)
 
-Kinase inhibition
+- "-ximab" indicates a chimeric mAb
 
-| 0            | 1          | 2                          | 3                                | 4                                                                   |
-|--------------|------------|----------------------------|----------------------------------|---------------------------------------------------------------------|
-| Generic Name | Brand Name | Mechanism of Action        | Common Uses                      | Common Side Effects                                                 |
-| Tofacitinib  | Xeljanz    | JAK-1 and JAK-3 inhibitors | RA, UC, JIA, psoriatic arthritis | infections, nasopharyngitis, skin rash, GI sx, GU sx; \<1% lymphoma |
-| Baracitinib  | Olumiant   | JAK-1 and JAK-2 inhibitor  | RA; off-label: COVID-19          | infections, URI, nausea, ÝAST/ALT; \<1% lymphoma                    |
-| Upadacitinib | Rinvoq     | non-specific JAK inhibitor | RA                               | URI, nausea, neutropenia, ÝAST, ÝCPK                                |
+- "-zumab" indicates a humanized mAb
 
-IL-1 inhibition
+- "-umab" indicates a fully human mAb
 
-| 0            | 1          | 2                                                                   | 3                                                                                                                                        | 4                                                                                             |
-|--------------|------------|---------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| Generic Name | Brand Name | Mechanism of Action                                                 | Common Uses                                                                                                                              | Common Side Effects                                                                           |
-| Anakinra     | Kineret    | IL-1 receptor antagonist                                            | IL-1 receptor antagonist deficiency, neonatal multi-system inflammatory Dz, RA; off-label: gout flares, FMF, recurrent pericarditis, HLH | HA, vomiting, infections, nasopharyngitis, Ab development; in RA: eosinophilia, decreased WBC |
-| Canakinumab  | Ilaris     | mAb against IL-1β                                                   | cryoporin-associated periodic syndromes (CAPS), FMF, hyperimmunoglobin D syndrome, TRAPS; off-label: gout flare                          | weight gain, GI sx, HA, vertigo, serious infections                                           |
-| Rilonacept   | Arcalyst   | binds to IL-1β (some binding of IL-1α and IL-1 receptor antagonist) | CAPS, deficiency of IL-1 receptor antagonist                                                                                             | URI, infections, hypoesthesia, Ab development                                                 |
+- “-tinib” indicates a tyrosine kinase inhibitor (small molecule
+    inhibitors, not true biologics)
 
-TNF-inhibition
+# Selected biologics
 
-| 0            | 1          | 2                                                                      | 3                                                               | 4                                                                               |
-|--------------|------------|------------------------------------------------------------------------|-----------------------------------------------------------------|---------------------------------------------------------------------------------|
-| Generic Name | Brand Name | Mechanism of Action                                                    | Common Uses                                                     | Common Side Effects                                                             |
-| Adalilumab   | Humira     | mAb against TNFα                                                       | RA, IBD, AS, psoriasis, uveitis, hidradenitis suppurativa       | skin rash, HA, URI, infections, Ý CPK, +ANA titer (12%), Ab development (3-26%) |
-| Certolizumab | Cimzia     | humanized mAb Fab fragment against TNFα                                | RA, Crohn’s, AS, psoriasis; \*approved for use during pregnancy | skin rash, nausea, URI, infections                                              |
-| Etanercept   | Enbrel     | tumor necrosis factor receptor linked to Fc portion of IgG1; binds TNF | RA, AS, psoriasis, JIA                                          | skin rash, diarrhea, infections, +ANA titer (11%)                               |
-| Infliximab   | Remicade   | chimeric mAb against TNFα                                              | RA, IBD, AS, psoriasis                                          | abd pain, URI sx, anemia, Ý ALT, Ab development (10-50%), infections            |
-| Golimumab    | Simponi    | mAb against TNFα                                                       | RA, UC, AS, psoriasis, JIA                                      | URI, infections, Ab development (16-38%), +ANA titer (4-17%)                    |
+# Kinase inhibition
 
-IL-17 inhibition
+<table>
+<colgroup>
+<col style="width: 19%" />
+<col style="width: 22%" />
+<col style="width: 22%" />
+<col style="width: 35%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>Generic Name</p>
+<p>(Brand Name)</p></th>
+<th>Mechanism of Action</th>
+<th>Common Uses</th>
+<th>Common Side Effects</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>Tofacitinib</p>
+<p>(Xeljanz)</p></td>
+<td>JAK-1 and JAK-3 inhibitor</td>
+<td>RA, UC, JIA, psoriatic arthritis</td>
+<td>nasopharyngitis, skin rash, GI sx, GU sx; &lt;1% lymphoma</td>
+</tr>
+<tr class="even">
+<td><p>Baracitinib</p>
+<p>(Olumiant)</p></td>
+<td>JAK-1 and JAK-2 inhibitor</td>
+<td>RA; off-label: COVID-19</td>
+<td>URI, nausea, ⇑AST/ALT; &lt;1% lymphoma</td>
+</tr>
+<tr class="odd">
+<td><p>Upadacitinib</p>
+<p>(Rinvoq)</p></td>
+<td>non-specific JAK inhibitor</td>
+<td>RA</td>
+<td>URI, nausea, neutropenia, ⇑AST, ⇑CPK</td>
+</tr>
+</tbody>
+</table>
 
-| 0            | 1          | 2                             | 3             | 4                                                            |
-|--------------|------------|-------------------------------|---------------|--------------------------------------------------------------|
-| Generic Name | Brand Name | Mechanism of Action           | Common Uses   | Common Side Effects                                          |
-| Secukinumab  | Cosentyx   | human IgG1 mAb against IL-17A | AS, psoriasis | infections, nasopharyngitis, GI, IBD (\<1%)                  |
-| Ixekizumab   | Taltz      | human IgG4 mAb against IL-17A | AS, psoriasis | neutropenia, Ab development, infections, URI, Crohn’s (\<1%) |
+# IL-1 inhibition
 
-Costimulation blockade
+<table>
+<colgroup>
+<col style="width: 17%" />
+<col style="width: 16%" />
+<col style="width: 35%" />
+<col style="width: 29%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>Generic Name</p>
+<p>(Brand Name)</p></th>
+<th>Mechanism of Action</th>
+<th>Common Uses</th>
+<th>Common Side Effects</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>Anakinra</p>
+<p>(Kineret)</p></td>
+<td>IL-1 receptor antagonist</td>
+<td>IL-1 receptor antagonist deficiency, gout flares, FMF, HLH</td>
+<td>HA, vomiting, infections, nasopharyngitis, Ab development; in RA:
+eosinophilia, decreased WBC</td>
+</tr>
+<tr class="even">
+<td><p>Canakinumab</p>
+<p>(Ilaris)</p></td>
+<td>mAb against IL-1β</td>
+<td>Cryoporin-associated periodic syndromes (CAPS), FMF,
+hyperimmunoglobin D syndrome, TRAPS; off-label: gout flare</td>
+<td>Weight gain, GI sx, HA, vertigo, serious infections</td>
+</tr>
+</tbody>
+</table>
 
-| 0            | 1          | 2                                                                                                                          | 3                  | 4                                                |
-|--------------|------------|----------------------------------------------------------------------------------------------------------------------------|--------------------|--------------------------------------------------|
-| Generic Name | Brand Name | Mechanism of Action                                                                                                        | Common Uses        | Common Side Effects                              |
-| Abatacept    | Orencia    | inhibits T-cell activation by binding CD80 and CD86 on APCs, thus blocking the required CD28 ixn between APCs and T cells. | RA, psoriasis, JIA | nausea, UTI, HA, infections, URI, Ab development |
+# IL-17 inhibition
 
-B-cell depletion and inhibition
+<table>
+<colgroup>
+<col style="width: 19%" />
+<col style="width: 25%" />
+<col style="width: 16%" />
+<col style="width: 38%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>Generic Name</p>
+<p>(Brand Name)</p></th>
+<th>Mechanism of Action</th>
+<th>Common Uses</th>
+<th>Common Side Effects</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>Secukinumab</p>
+<p>(Cosentyx)</p></td>
+<td>human IgG1 mAb against IL-17A</td>
+<td>AS, psoriasis</td>
+<td>nasopharyngitis, GI, IBD (&lt;1%)</td>
+</tr>
+<tr class="even">
+<td><p>Ixekizumab</p>
+<p>(Taltz)</p></td>
+<td>human IgG4 mAb against IL-17A</td>
+<td>AS, psoriasis</td>
+<td>neutropenia, Ab development, URI, Crohn’s (&lt;1%)</td>
+</tr>
+</tbody>
+</table>
 
-| 0            | 1          | 2                                                                                                                                                                     | 3                                                                                                                                                        | 4                                                                                                                                                |
-|--------------|------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
-| Generic Name | Brand Name | Mechanism of Action                                                                                                                                                   | Common Uses                                                                                                                                              | Common Side Effects                                                                                                                              |
-| Rituximab    | Rituxan    | mAb against the CD20 antigen on surface of B-lymphocytes                                                                                                              | CLL, Non-Hodgkin lymphomas, GPA, microscopic polyangiitis, pemphigus vulgaris, RA; many off-label uses (GvHD, lupus nephritis, MG, neuromyelitis optica) | HTN, peripheral edema, night sweats, fever, weight gain, angioedema, arthralgias, Ý ALT, infections, hypophosphatemia, hematologic abnormalities |
-| Belimumab    | Benlysta   | IgG1-lambda mAb that prevents survival of B-lymphocytes by blocking the binding of soluble human B lymphocyte stimulator protein (BLyS) to receptors on B lymphocytes | lupus nephritis, SLE                                                                                                                                     | GI sx, hypersensitivity rxn, infections, psychiatric disturbances                                                                                |
+# IL-6 inhibition
 
-IL-6 inhibition
+<table>
+<colgroup>
+<col style="width: 19%" />
+<col style="width: 26%" />
+<col style="width: 24%" />
+<col style="width: 29%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>Generic Name</p>
+<p>(Brand Name)</p></th>
+<th>Mechanism of Action</th>
+<th>Common Uses</th>
+<th>Common Side Effects</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>Tocilizumab</p>
+<p>(Actemra)</p></td>
+<td>IL-6 receptor antagonist</td>
+<td>cytokine release syndrome, giant cell arteritis, RA, JIA</td>
+<td>⇑ serum cholesterol, ⇑ AST/ALT, infusion rxn, HSV infection
+(&lt;2%)</td>
+</tr>
+<tr class="even">
+<td><p>Sarilumab</p>
+<p>(Kevzara)</p></td>
+<td>IL-6 receptor antagonist (soluble + membrane-bound)</td>
+<td>RA</td>
+<td>⇑ AST/ALT, HSV infection (&lt;2%)</td>
+</tr>
+</tbody>
+</table>
 
-| 0            | 1          | 2                                                   | 3                                                        | 4                                                                  |
-|--------------|------------|-----------------------------------------------------|----------------------------------------------------------|--------------------------------------------------------------------|
-| Generic Name | Brand Name | Mechanism of Action                                 | Common Uses                                              | Common Side Effects                                                |
-| Tocilizumab  | Actemra    | IL-6 receptor antagonist                            | cytokine release syndrome, giant cell arteritis, RA, JIA | Ý serum cholesterol, Ý AST/ALT, infusion rxn, HSV infection (\<2%) |
-| Sarilumab    | Kevzara    | IL-6 receptor antagonist (soluble + membrane-bound) | RA                                                       | Ý AST/ALT, HSV infection (\<2%)                                    |
+# IL-12/23 inhibition
 
-IL-12/23 inhibition
+<table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 23%" />
+<col style="width: 28%" />
+<col style="width: 28%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>Generic Name</p>
+<p>(Brand Name)</p></th>
+<th>Mechanism of Action</th>
+<th>Common Uses</th>
+<th>Common Side Effects</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>Ustekinumab</p>
+<p>(Stelara)</p></td>
+<td>mAb against IL-12 + IL-23</td>
+<td>IBD, psoriasis</td>
+<td>nasopharyngitis, Ab development, acne vulgaris, GI sx, GU sx</td>
+</tr>
+<tr class="even">
+<td><p>Guselkumab</p>
+<p>(Tremfya)</p></td>
+<td>human IgG1 mAb against IL-23</td>
+<td>psoriasis</td>
+<td>URI, tinea, GI sx</td>
+</tr>
+</tbody>
+</table>
 
-| 0            | 1          | 2                            | 3              | 4                                                                        |
-|--------------|------------|------------------------------|----------------|--------------------------------------------------------------------------|
-| Generic Name | Brand Name | Mechanism of Action          | Common Uses    | Common Side Effects                                                      |
-| Ustekinumab  | Stelara    | mAb against IL-12 + IL-23    | IBD, psoriasis | infections, nasopharyngitis, Ab development, acne vulgaris, GI sx, GU sx |
-| Guselkumab   | Tremfya    | human IgG1 mAb against IL-23 | psoriasis      | infections, URI, tinea, GI sx                                            |
+# Costimulation blockade
+
+<table>
+<colgroup>
+<col style="width: 19%" />
+<col style="width: 38%" />
+<col style="width: 14%" />
+<col style="width: 27%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>Generic Name</p>
+<p>(Brand Name)</p></th>
+<th>Mechanism of Action</th>
+<th>Common Uses</th>
+<th>Common Side Effects</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>Abatacep</p>
+<p>(Orencia)</p></td>
+<td>inhibits T-cell activation by binding CD80 and CD86 on APCs, thus
+blocking the required CD28 ixn between APCs and T cells.</td>
+<td>RA, psoriasis, JIA</td>
+<td>nausea, UTI, HA, URI, Ab development</td>
+</tr>
+</tbody>
+</table>
+
+# B-cell depletion and inhibition
+
+<table style="width:100%;">
+<colgroup>
+<col style="width: 18%" />
+<col style="width: 25%" />
+<col style="width: 28%" />
+<col style="width: 28%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>Generic Name</p>
+<p>(Brand Name)</p></th>
+<th>Mechanism of Action</th>
+<th>Common Uses</th>
+<th>Common Side Effects</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>Rituximab</p>
+<p>(Rituxan)</p></td>
+<td>mAb against the CD20 antigen on surface of B-lymphocytes</td>
+<td>CLL, Non-Hodgkin lymphomas, GPA, microscopic polyangiitis, pemphigus
+vulgaris, RA; many off-label uses (GvHD, lupus nephritis, MG,
+neuromyelitis optica)</td>
+<td>HTN, peripheral edema, night sweats, fever, weight gain, angioedema,
+arthralgias, ⇑ ALT, hypophosphatemia, hematologic abnormalities</td>
+</tr>
+<tr class="even">
+<td><p>Belimumab</p>
+<p>(Benlysta)</p></td>
+<td>IgG1-lambda mAb that prevents survival of B-lymphocytes by blocking
+the binding of soluble human B lymphocyte stimulator protein (BLyS) to
+receptors on B lymphocytes</td>
+<td>lupus nephritis, SLE</td>
+<td>GI symptoms, hypersensitivity reaction, infections, psychiatric
+disturbances</td>
+</tr>
+</tbody>
+</table>
+
+# TNF-inhibition
+
+<table>
+<colgroup>
+<col style="width: 19%" />
+<col style="width: 28%" />
+<col style="width: 25%" />
+<col style="width: 26%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>Generic Name</p>
+<p>(Brand Name)</p></th>
+<th>Mechanism of Action</th>
+<th>Common Uses</th>
+<th>Common Side Effects</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>Adalilumab</p>
+<p>(Humira)</p></td>
+<td>mAb against TNFα</td>
+<td>RA, IBD, AS, psoriasis, uveitis, hidradenitis suppurativa</td>
+<td>skin rash, HA, URI, ⇑ CPK, +ANA titer (12%), Ab development
+(3-26%)</td>
+</tr>
+<tr class="even">
+<td><p>Certolizumab</p>
+<p>(Cimzia)</p></td>
+<td>humanized mAb Fab fragment against TNFα</td>
+<td>RA, Crohn’s, AS, psoriasis; \*approved for use during pregnancy</td>
+<td>skin rash, nausea, URI</td>
+</tr>
+<tr class="odd">
+<td><p>Etanercept</p>
+<p>(Enbrel)</p></td>
+<td>tumor necrosis factor receptor linked to Fc portion of IgG1; binds
+TNF</td>
+<td>RA, AS, psoriasis, JIA</td>
+<td><p>skin rash, diarrhea,</p>
+<p>+ANA titer (11%)</p></td>
+</tr>
+<tr class="even">
+<td><p>Infliximab</p>
+<p>(Remicade)</p></td>
+<td>chimeric mAb against TNFα</td>
+<td>RA, IBD, AS, psoriasis</td>
+<td>abd pain, URI sx, anemia, ⇑ ALT, Ab development (10-50%)</td>
+</tr>
+<tr class="odd">
+<td><p>Golimumab</p>
+<p>(Simponi)</p></td>
+<td>mAb against TNFα</td>
+<td>RA, UC, AS, psoriasis, JIA</td>
+<td>URI, Ab development (16-38%), +ANA titer (4-17%)</td>
+</tr>
+</tbody>
+</table>
