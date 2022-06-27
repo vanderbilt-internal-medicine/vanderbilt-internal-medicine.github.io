@@ -10,7 +10,7 @@ Hannah Angle
 
     - Takayasu arteritis:
 
-        - Most commonly \<30 years old, 80-90% cases in females, greatest
+        - Most commonly <30 years old, 80-90% cases in females, greatest
             prevalence in Asia
 
         - Branches of aorta/aortic arch (subclavian, innominate, carotid
@@ -18,7 +18,7 @@ Hannah Angle
 
     - Giant cell Arteritis:
 
-        - Most commonly \>50 years old, slight F \> M predominance
+        - Most commonly >50 years old, slight F > M predominance
 
         - Cranial arteries (temporal artery), aorta and its branches
 
