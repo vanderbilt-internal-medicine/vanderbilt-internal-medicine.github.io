@@ -2,6 +2,8 @@
 
 NEJM video Guide: <https://www.youtube.com/watch?v=8hK04ai17-k&list=PLaxEyg3FbHI8x5IQMWD0qtbXEzN5RdIKM&index=3>
 
+<iframe src="https://www.youtube.com/watch?v=8hK04ai17-k&list=PLaxEyg3FbHI8x5IQMWD0qtbXEzN5RdIKM&index=3" allowfullscreen></iframe>
+
 ## Indications
 
 - Continuous, accurate hemodynamic monitoring (pts requiring
@@ -26,7 +28,7 @@ NEJM video Guide: <https://www.youtube.com/watch?v=8hK04ai17-k&list=PLaxEyg3FbHI
 ## Pre-procedural considerations
 
 - **Bleeding risk guidelines:** no definitive guidelines (some suggest
-    plts \> 50K, INR \< 3, PTT \< 100)
+    plts > 50K, INR < 3, PTT < 100)
 
 - Palpate of artery of interest to best understand anatomy and
     surrounding structures

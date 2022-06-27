@@ -2,6 +2,8 @@
 
 VUMC video Guide: <https://www.youtube.com/watch?v=GQGhciB6TvM>
 
+<iframe src="https://www.youtube.com/watch?v=GQGhciB6TvM" allowfullscreen></iframe>
+
 ## Indications
 
 - Vascular access; large bore (16-18G) is optimal for blood
@@ -22,7 +24,7 @@ VUMC video Guide: <https://www.youtube.com/watch?v=GQGhciB6TvM>
 
 ## Pre-procedural considerations
 
-- **Bleeding risk guidelines:** Plts \> 10k, no specific INR
+- **Bleeding risk guidelines:** Plts > 10k, no specific INR
     guidelines
 
 - Location selection: anuric AKI or ESRD patients – d/w renal, avoid

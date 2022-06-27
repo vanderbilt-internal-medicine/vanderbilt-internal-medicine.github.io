@@ -240,43 +240,43 @@
 
 # PROCEDURES
 
-- [ ] Consent 273
-- [ ] Anticoagulation 273
-- [ ] Anesthesia 273
-- [ ] Paracentesis 273
-- [ ] Thoracentesis 274
-- [ ] Central line 275
-- [ ] Lumbar Puncture 277
-- [ ] Arterial line 278
-- [ ] Ultrasound-guided PIV 279
-- [ ] Dobhoff Tube 280
+- [x] Consent 273
+- [x] Anticoagulation 273
+- [x] Anesthesia 273
+- [x] Paracentesis 273
+- [x] Thoracentesis 274
+- [x] Central line 275
+- [x] Lumbar Puncture 277
+- [x] Arterial line 278
+- [x] Ultrasound-guided PIV 279
+- [x] Dobhoff Tube 280
 
 # PSYCHIATRY
 
-- [ ] Agitation Management 282
-- [ ] Medical Decision-Making Capacity 284
-- [ ] Medical Holds 284
-- [ ] Inpatient Insomnia 285
-- [ ] Substance Use Disorder 286
-- [ ] Delirium 289
+- [x] Agitation Management 282
+- [x] Medical Decision-Making Capacity 284
+- [x] Medical Holds 284
+- [x] Inpatient Insomnia 285
+- [x] Substance Use Disorder 286
+- [x] Delirium 289
 
 #  PULMONARY
 
-- [ ] Hypoxia 291
-- [ ] Pulmonary Function Tests 292
-- [ ] Basics of Blood Gases 293
-- [ ] Interstitial Lung Disease 294
-- [ ] Acute Asthma Exacerbation 295
-- [ ] COPD Exacerbation 296
-- [ ] Cystic Fibrosis (CF) Exacerbation 297
-- [ ] Pulmonary Hypertension 298
-- [ ] Hemoptysis 300
-- [ ] Pleural Effusions 301
-- [ ] Lung Masses 301
-- [ ] Inhaler Therapy 303
-- [ ] Airway Clearance Therapy 304
-- [ ] Chest Tubes 304
-- [ ] Home Oxygen Therapies 306
+- [x] Hypoxia 291
+- [x] Pulmonary Function Tests 292
+- [x] Basics of Blood Gases 293
+- [x] Interstitial Lung Disease 294
+- [x] Acute Asthma Exacerbation 295
+- [x] COPD Exacerbation 296
+- [x] Cystic Fibrosis (CF) Exacerbation 297
+- [x] Pulmonary Hypertension 298
+- [x] Hemoptysis 300
+- [x] Pleural Effusions 301
+- [x] Lung Masses 301
+- [x] Inhaler Therapy 303
+- [x] Airway Clearance Therapy 304
+- [x] Chest Tubes 304
+- [x] Home Oxygen Therapies 306
 
 # RADIOLOGY
 
@@ -289,16 +289,16 @@
 
 #  RHEUMATOLOGY
 
-- [ ] Rheumatology Lab Testing 317
-- [ ] Rheumatoid Arthritis 319
-- [ ] Systemic Lupus Erythematous (SLE) 319
-- [ ] Scleroderma 320
-- [ ] Sarcoidosis 322
-- [ ] Crystalline Arthropathies 323
-- [ ] Vasculitis 324
-- [ ] Inflammatory Myopathies 327
-- [ ] Arthrocentesis 328
-- [ ] Biologics Overview 328
+- [x] Rheumatology Lab Testing 317
+- [x] Rheumatoid Arthritis 319
+- [x] Systemic Lupus Erythematous (SLE) 319
+- [x] Scleroderma 320
+- [x] Sarcoidosis 322
+- [x] Crystalline Arthropathies 323
+- [x] Vasculitis 324
+- [x] Inflammatory Myopathies 327
+- [x] Arthrocentesis 328
+- [x] Biologics Overview 328
 
 # TOXICOLOGY
 

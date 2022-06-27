@@ -1,9 +1,14 @@
 # Paracentesis
 
-## Video Guide 
+## Video Guide
 
-- VUMC Procedure Service video: <https://www.youtube.com/watch?v=pQSsb9705LE&t=160s>
-- NEJM video: <https://www.youtube.com/watch?v=KVpwXK7cvzQ>
+VUMC Procedure Service video: <https://www.youtube.com/watch?v=pQSsb9705LE&t=160s>
+
+<iframe src="https://www.youtube.com/watch?v=pQSsb9705LE&t=160s" allowfullscreen></iframe>
+
+NEJM video: <https://www.youtube.com/watch?v=KVpwXK7cvzQ>
+
+<iframe src="https://www.youtube.com/watch?v=KVpwXK7cvzQ" allowfullscreen></iframe>
 
 ## Indications
 
@@ -26,7 +31,7 @@
 
 ## Pre-procedural considerations
 
-- **Bleeding risk guidelines:** Plts \> 20k, INR \< 4 \* (note that
+- **Bleeding risk guidelines:** Plts > 20k, INR < 4 (note that
     cirrhosis complicates INR interpretation)
 
 - If therapeutic, determine volume pt typically gets drained so you
@@ -39,12 +44,12 @@
 
 - Measure skin/subQ depth with US to help choose sufficiently long
     needle for diagnostic paras
-    
-## Procedural considerations 
+
+## Procedural considerations
 
 - Ultrasound Probe: curvilinear
 
-- Identify safe pocket (\>2 cm deep), with no nearby bowel or
+- Identify safe pocket (>2 cm deep), with no nearby bowel or
     adhesions
 
 - Local anesthesia with lidocaine all the way to peritoneum, as this
@@ -76,12 +81,12 @@
 
 ## Post-procedural considerations
 
-- Albumin (25%) for large volume (\>5L fluid removal): give 8 g per
+- Albumin (25%) for large volume (>5L fluid removal): give 8 g per
     liter removed, up to 50 g
 
 - Ascitic leak: Can try skin glue or place 1 figure-of-eight stitch
     with 4.0 vicryl
 
 - Bleeding complication: hold pressure with quick-clot and gauze for
-    \>5-10 mins if persistent bleeding at site; if profuse bleeding or
+    >5-10 mins if persistent bleeding at site; if profuse bleeding or
     concern for organ injury, STAT page EGS and/or IR

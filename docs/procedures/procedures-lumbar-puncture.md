@@ -2,6 +2,8 @@
 
 NEJM video Guide: <https://www.youtube.com/watch?v=xnH9gECy_wU>
 
+<iframe src="https://www.youtube.com/watch?v=xnH9gECy_wU" allowfullscreen></iframe>
+
 ## Indications
 
 - Diagnosis of suspected CNS infections, CNS malignancies,

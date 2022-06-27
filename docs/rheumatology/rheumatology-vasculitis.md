@@ -1,4 +1,4 @@
-# Vasculitis 
+# Vasculitis
 
 Hannah Angle
 
@@ -52,9 +52,9 @@ Hannah Angle
 
     - Anti-GBM disease
 
-# Takayasu's Arteritis
+## Takayasu's Arteritis
 
-## Presentation
+### Presentation
 
 - Subacute constitutional symptoms (fevers, arthralgias, myalgias,
     rash, weight loss), limb claudication, neuro symptoms from
@@ -65,13 +65,13 @@ Hannah Angle
     stenosis), diminished or absent pulses (“pulseless disease”),
     arterial bruits, carotidynia (tenderness of carotid artery)
 
-## Evaluation
+### Evaluation
 
 - ESR/CRP (often elevated, though can be normal during active disease)
 
 - Arteriography: MRA or CTA of head/neck, chest, and abdomen/pelvis
 
-## Management
+### Management
 
 - New arterial stenosis or aorta/carotid artery involvement: 1mg/kg
     prednisone daily (max 60-80mg) for 2-4 weeks followed by steroid
@@ -82,9 +82,9 @@ Hannah Angle
     methylprednisolone daily for 1-3 days, then 1mg/kg prednisone daily
     for 2-4 weeks followed by steroid taper
 
-# Giant Cell Arteritis
+## Giant Cell Arteritis
 
-## Presentation
+### Presentation
 
 - Always consider in pts \>50 years old with new headache, abrupt
     vision changes (diplopia, amaurosis fugax), jaw claudication,
@@ -94,7 +94,7 @@ Hannah Angle
     bilateral shoulder and hip pain/stiffness (with elevated ESR, but
     normal CK)
 
-## Evaluation
+### Evaluation
 
 - ESR/CRP (almost always elevated), CK, TSH
 
@@ -105,7 +105,7 @@ Hannah Angle
 
 - Temporal artery biopsy by vascular surgery
 
-## Management
+### Management
 
 - Start glucocorticoids as soon as GCA is suspected, do not delay
     while awaiting biopsy
@@ -117,9 +117,9 @@ Hannah Angle
         > 3 days, followed by prednisone 1mg/kg daily (max 60mg) for 2-4
         > weeks followed by steroid taper  
 
-# Polyarteritis Nodosa (PAN)
+## Polyarteritis Nodosa (PAN)
 
-## Presentation
+### Presentation
 
 - Constitutional symptoms: fatigue, weakness, fevers, arthralgias,
     myalgias, rash, weight loss
@@ -143,7 +143,7 @@ Hannah Angle
 - Classically spares the lungs (consider other dx if pulmonary
     complaints)
 
-## Evaluation
+### Evaluation
 
 - ESR/CRP, CK, TSH
 
@@ -156,7 +156,7 @@ Hannah Angle
     fibrinoid necrosis of arterial wall (no granulomas, presence
     suggests another process)
 
-## Management
+### Management
 
 - Mild disease (ex: isolated cutaneous disease): prednisone 1mg/kg
     daily (max 60-80mg) for 4 weeks followed by steroid taper
@@ -170,9 +170,9 @@ Hannah Angle
     prednisone 1mg/kg daily (max 60mg) for 4 weeks followed by steroid
     taper  
 
-# Granulomatosis with Polyangiitis (GPA)
+## Granulomatosis with Polyangiitis (GPA)
 
-## Presentation
+### Presentation
 
 - Constitutional symptoms (fevers, fatigue, weight loss) + evidence of
     glomerulonephritis (hematuria, proteinuria), upper respiratory tract
@@ -182,7 +182,7 @@ Hannah Angle
 - Less commonly affects eyes (scleritis), skin (palpable purpura), and
     peripheral nerves (mononeuritis multiplex)
 
-# Evaluation
+### Evaluation
 
 - ANCA + (typically PR3-cANCA)
 
@@ -201,7 +201,7 @@ Hannah Angle
     to evaluate for RBC casting or dysmorphic cells. Quick way to
     confirm active GN, renal biopsy takes time to arrange
 
-# Management
+### Management
 
 - Mild-moderate disease: MTX + prednisone 0.5 mg/kg/day followed by
     steroid taper
@@ -215,14 +215,14 @@ Hannah Angle
 
 - DVT ppx (high risk for DVT/PE)
 
-# Microscopic Polyangiitis (MPA)
+## Microscopic Polyangiitis (MPA)
 
-## Presentation
+### Presentation
 
 - Similar to GPA, but without upper respiratory tract involvement;
     classically only involves lungs and kidneys
 
-## Evaluation
+### Evaluation
 
 - ANCA + (typically MPO-pANCA)
 
@@ -236,13 +236,13 @@ Hannah Angle
 - Biopsy: necrotizing vasculitis (no granulomas), pauci-immune
     glomerulonephritis
 
-# Management
+### Management
 
 - Same as GPA, see above
 
-# Eosinophilic Granulomatosis with Polyangiitis (EGPA)
+## Eosinophilic Granulomatosis with Polyangiitis (EGPA)
 
-## Presentation
+### Presentation
 
 - Similar to GPA/MPA + atopic symptoms such as asthma (\>90%),
     rhinosinusitis, and peripheral eosinophilia
@@ -252,7 +252,7 @@ Hannah Angle
 
 - Skin involvement (\>50%): tender subcutaneous nodules
 
-## Evaluation
+### Evaluation
 
 - ANCA + (typically MPO-pANCA), peripheral eosinophilia
 

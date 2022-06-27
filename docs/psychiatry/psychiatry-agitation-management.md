@@ -1,6 +1,8 @@
-# Agitation Management 
+# Agitation Management
 
 Jonathan Constant, Jonathan Smith
+
+---
 
 ## Background
 
@@ -94,8 +96,6 @@ Jonathan Constant, Jonathan Smith
 
     - Aligning goals: Emphasize common ground and big picture; make small
         concessions
-
-<!-- -->
 
 - Restraints
 

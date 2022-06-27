@@ -2,6 +2,8 @@
 
 NEJM video guide: <https://www.youtube.com/watch?v=qeVdRCqy_mo>
 
+<iframe src="https://www.youtube.com/watch?v=qeVdRCqy_mo" allowfullscreen></iframe>
+
 ## Indications
 
 - Extracorporeal therapies: HD, CRRT, Plasma (PLEX) or RBC exchange

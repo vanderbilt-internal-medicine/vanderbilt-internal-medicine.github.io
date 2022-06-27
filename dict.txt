@@ -4018,6 +4018,7 @@ allotypies
 allotypy
 allous
 allovera
+allowfullscreen
 alloxan
 alloxanate
 alloxanic

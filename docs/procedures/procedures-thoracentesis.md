@@ -2,13 +2,15 @@
 
 NEJM Video Guide: <https://www.youtube.com/watch?v=ivTyH09BcHg>
 
+<iframe src="https://www.youtube.com/watch?v=ivTyH09BcHg" allowfullscreen></iframe>
+
 ## Indications
 
 - New pleural effusion that has no obvious explanation (not attributed
     to HF alone) or concern for pleural space infection
 
 - Any respiratory symptoms that would positively respond to large
-    volume thoracentesis (\>1L)
+    volume thoracentesis (>1L)
 
 ## Contraindications
 
@@ -19,14 +21,14 @@ NEJM Video Guide: <https://www.youtube.com/watch?v=ivTyH09BcHg>
 
 ## Consent
 
-- Common risks (\> 5%): coughing, fainting, PTX
+- Common risks (> 5%): coughing, fainting, PTX
 
-- Rare risks (\< 1%): hemothorax, re-expansion pulmonary edema,
+- Rare risks (< 1%): hemothorax, re-expansion pulmonary edema,
     liver/spleen puncture
 
 ## Pre-procedural considerations
 
-- **Bleeding risk guidelines:** Plts \> 50k, INR \< 2 \* (risk/benefit
+- **Bleeding risk guidelines:** Plts > 50k, INR < 2 (risk/benefit
     evaluation outside these)
 
 - If loculations present on US, high risk, or any question about
@@ -39,7 +41,7 @@ NEJM Video Guide: <https://www.youtube.com/watch?v=ivTyH09BcHg>
 
 ## Procedural considerations
 
-- US Probe: Cardiac (or Linear) to identify safe pocket (\>2 cm)
+- US Probe: Cardiac (or Linear) to identify safe pocket (>2 cm)
     between lung and diaphragm (ask Interventional Pulm or IR if sample
     is needed of a smaller pocket)
 
@@ -50,7 +52,7 @@ NEJM Video Guide: <https://www.youtube.com/watch?v=ivTyH09BcHg>
     pulmonology
 
 - Effusion size: if unable to tap above 9th rib, too small; CXR with
-    costophrenic angle blunting should correlate to \~250-500mL
+    costophrenic angle blunting should correlate to ~250-500mL
 
 - Insert needle superior to rib to avoid neurovascular bundle (bundles
     run below)

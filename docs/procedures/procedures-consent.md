@@ -12,8 +12,10 @@
 - When consenting pts at NAVA, use the COW with pen pad and the IMed
     Consent forms
 
+- Refer to individual procedure sections for procedure-specific risks
+    to discuss in consent
+
 - Informed consent video guide:
     <https://www.youtube.com/watch?v=6yXOEkFqk2o>
 
-- Refer to individual procedure sections for procedure-specific risks
-    to discuss in consent
+<iframe src="https://www.youtube.com/watch?v=6yXOEkFqk2o" allowfullscreen></iframe>
