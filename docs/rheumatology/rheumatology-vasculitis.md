@@ -261,7 +261,7 @@ Hannah Angle
 - Biopsy: necrotizing granulomatous vasculitis, eosinophilic
     infiltrates with fibrinoid necrosis, pauci-immune glomerulonephritis
 
-## Management
+### Management
 
 - Mild-moderate disease: prednisone 0.5-1 mg/kg/day for 6-12 weeks
     followed by steroid taper
