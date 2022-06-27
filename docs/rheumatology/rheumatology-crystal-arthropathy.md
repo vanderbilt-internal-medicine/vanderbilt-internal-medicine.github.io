@@ -149,8 +149,7 @@ Acute:
     - For steroid intra-articular injections triamcinolone is the
         formulary option
 
-# Pseudogout- Calcium pyrophosphate dihydrate crystal deposition disease
-(CPPD)
+# Pseudogout- Calcium pyrophosphate dihydrate crystal deposition disease (CPPD)
 
 ## Presentation
 
@@ -192,9 +191,7 @@ Evaluation
 
     - Resembles RA in presentation
 
-    - Treatment base on symptoms and ranges from NSAIDs (1st line) to
-        > Colchicine, HCQ, and steroids. Can also use anakinra in acute
-        > cases, with consult to rheumatology
+    - Treatment base on symptoms and ranges from NSAIDs (1st line) to Colchicine, HCQ, and steroids. Can also use anakinra in acute cases, with consult to rheumatology
 
 ## Additional Information
 
@@ -203,4 +200,4 @@ Evaluation
     hypocalciuric hypercalcemia
 
     - Consider further workup for these conditions, especially in a
-        > younger patient.
+      younger patient.
