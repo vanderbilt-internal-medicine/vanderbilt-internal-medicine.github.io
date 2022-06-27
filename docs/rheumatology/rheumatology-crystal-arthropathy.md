@@ -4,7 +4,7 @@ Thomas Horton
 
 ---
 
-#Gout
+# Gout
 
 ## Presentation
 
