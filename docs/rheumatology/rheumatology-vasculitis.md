@@ -1,224 +1,279 @@
-# Vasculitis
+# Vasculitis 
 
-Vasculitides – Trever Stevens and Greg Jackson
+Hannah Angle
 
-Background
+---
 
--   Large
-    vessel vasculitides
-    \- affect the Aorta and its major branches:
-    -   Takayasu's
-        Arteritis: most commonly affects \<50 years old and young Asian
-        Females
-        -   Branches of the aorta and aortic arch (subclavian,
-            innominate, and carotid arteries)
-    -   Giant
-        Cell: most commonly affects adults >50 years old
-        -   Almost never seen under the age of 50; and affects F>M
-            slightly
-        -   Cranial arteries like the temporal artery, although can
-            involve aorta and its branches
--   Medium
-    vessel vasculitides
-    \- affect the muscular arteries that supply visceral organs:
-    -   PAN: Necrotizing vasculitis, involves muscular arteries
-        including the renal arteries, mesenteric artery, and arteries
-        that supply neurons and the skin
-        -   PAN **spares the lung** (consider other process if pulmonary
-            complaints)
-        -   Affects middle age to older adults (peaks at 5th decade of
-            life)
-        -   Can be associated with HBV infection and HBsAg
-    -   Kawasaki’s: most commonly affects children (not addressed here)
--   Small
-    Vessel Vasculitides
-    \- affect arterioles, capillaries, and venules
-    -   Cryoglobulinemic vasculitis and Henoch Schonlein Purpura - not
-        discussed here
-    -   GPA
-        : Necrotizing and granulomatous; involves the nasopharynx,
-        lungs, and kidneys
-    -   MPA
-        :
-        Necrotizing
-        ; affects multiple organs, predilection for lungs and kidneys
-        -   Nasopharyngeal involvement and granulomas are **absent**
-            (contrast to GPA)
-    -   EGPA: Granulomatous
-        necrotizing inflammation with eosinophilia
-        -   Uncommon over the age of 65; predilection for heart and
-            lungs
+## Background
 
-Takayasu's Arteritis
+- Large vessel vasculitis (aorta and its major branches)
 
-Presentation
+    - Takayasu arteritis:
 
--   Unequal pulses, arterial bruits, or different BP in both arms (known
-    as “pulseless disease”)
--   Constitutional symptoms: fevers, arthralgias, myalgias, rash, weight
-    loss
--   Can also cause carotidynia (tenderness of carotid artery),
-    lightheadedness, vertigo, headaches, syncope, and strokes due to
-    involvement of carotid arteries
+        - Most commonly \<30 years old, 80-90% cases in females, greatest
+            prevalence in Asia
 
+        - Branches of aorta/aortic arch (subclavian, innominate, carotid
+            arteries)
 
+    - Giant cell Arteritis:
 
-Evaluation
+        - Most commonly \>50 years old, slight F \> M predominance
 
--   Inflammatory markers: ESR & CRP (usually elevated)
--   Arteriography: MRA or CTA of head/neck, chest, and abdomen
+        - Cranial arteries (temporal artery), aorta and its branches
 
+- Medium vessel vasculitis (muscular arteries that supply visceral
+    organs)
 
+    - Polyarteritis nodosa (PAN):
 
-Management
+        - Most often middle age/older adults (peaks in 5th decade of life)
 
--   If signs of aortitis/carotidynia or arterial stenosis: 1mg/kg
-    prednisone daily (max 60-80mg/kg) for 2-4 weeks followed by steroid
+        - Necrotizing vasculitis of muscular arteries (renal, mesenteric,
+            arteries supplying neurons and skin)
+
+    - Kawasaki’s: not addressed here- most often children
+
+- Small Vessel Vasculitis (arterioles, capillaries, and venules)
+
+    - ANCA-associated vasculitis:
+
+        - GPA: granulomatous; classically involves nasopharynx, lungs, kidneys
+
+        - MPA: affects multiple organs but predilection for lungs and kidneys;
+            > in contrast to GPA, no nasopharynx involvement or granulomas
+
+        - EGPA: granulomatous; predilection for heart and lungs; associated
+            > with eosinophilia, chronic rhinosinusitis, asthma; uncommon \> 65
+            > years old
+
+- Immune-complex vasculitis: not addressed here
+
+    - Cryoglobulinemic vasculitis (see lab section)
+
+    - IgA vasculitis
+
+    - Anti-GBM disease
+
+# Takayasu's Arteritis
+
+## Presentation
+
+- Subacute constitutional symptoms (fevers, arthralgias, myalgias,
+    rash, weight loss), limb claudication, neuro symptoms from
+    carotid/vertebral arteritis (vertigo, headaches, syncope, strokes),
+    GI symptoms from mesenteric ischemia, angina from coronary arteritis
+
+- HTN (renal artery involvement), discrepant BP between arms (arterial
+    stenosis), diminished or absent pulses (“pulseless disease”),
+    arterial bruits, carotidynia (tenderness of carotid artery)
+
+    Evaluation
+
+- ESR/CRP (often elevated, though can be normal during active disease)
+
+- Arteriography: MRA or CTA of head/neck, chest, and abdomen/pelvis
+
+## Management
+
+- New arterial stenosis or aorta/carotid artery involvement: 1mg/kg
+    prednisone daily (max 60-80mg) for 2-4 weeks followed by steroid
     taper
--   Organ threatening disease or ischemia: 500-1000 mg IV
-    methylprednisolone (1-3 days) then 1mg/kg prednisone daily (2-4
-    weeks) followed by steroid taper
--   MTX, immunomodulators
 
-Giant Cell Arteritis
+- Organ threatening disease (coronary artery involvement, critical
+    stenosis of carotid/vertebral arteries): 500-1000mg IV
+    methylprednisolone daily for 1-3 days, then 1mg/kg prednisone daily
+    for 2-4 weeks followed by steroid taper
 
-Presentation
+# Giant Cell Arteritis
 
--   In a pt >65 with headache and vision changes (diplopia or amaurosis
-    fugax) this needs to be ruled out!
--   Classically presents as headache, jaw claudication, tenderness to
-    palpation of scalp in addition to constitutional symptoms
--   Polymyalgia rheumatica will often accompany GCA
-    -   B/l shoulder and hip pain and stiffness (elevated ESR but normal
-        CK)
+## Presentation
 
-Evaluation
+- Always consider in pts \>50 years old with new headache, abrupt
+    vision changes (diplopia, amaurosis fugax), jaw claudication,
+    temporal artery tenderness
 
--   Order ESR, CRP, CK level, TSH
--   Detailed vascular exam for (4 limb blood pressures with attention to
-    symmetry, abdominal/neck/chest auscultation for bruit)
--   Ophthalmology eval if there is ocular involvement.
--   Temporal artery biopsy – evaluating for evidence of vasculitis or
-    giant cells
-    -   (Vascular surgery can assist with timely biopsy)
+- Polymyalgia rheumatica will often accompany GCA; classically with
+    bilateral shoulder and hip pain/stiffness (with elevated ESR, but
+    normal CK)
 
-Management
+## Evaluation
 
--   If ESR is elevated in a moderate to high probability setting, give
-    steroids without delay (biopsy results will be unaffected if done
-    within \~2 weeks)
--   Without visual loss: prednisone 1mg/kg (max of 60 mg) daily
--   With visual loss or diplopia: 100-1000mg of IV methylprednisolone
-    daily for 3 days, followed by prednisone 1mg/kg daily (max of 60mg)
--   Duration: daily high-dose steroids as above for 2-4 weeks, then
-    begin to taper steroids
+- ESR/CRP (almost always elevated), CK, TSH
 
-Polyarteritis Nodosa (PAN)
+- Evaluate for any temporal artery abnormalities (tenderness to
+    palpation, presence of nodules)
 
-Presentation
+- Ophthalmology evaluation if any concern for ocular involvement
 
--   Constitutional symptoms: fevers, arthralgias, myalgias, rash, weight
-    loss
--   Asymmetric polyneuropathy (most common symptom) & **both** motor and
-    sensory deficits
--   Foot drop, radial and ulnar neuropathies
--   Hypertension if renal artery involvement
--   Abdominal pain and melena if mesenteric artery inflammation
--   Skin manifestations: livedo reticularis, palpable purpura, or tender
-    erythematous nodules
+- Temporal artery biopsy by vascular surgery
 
-Evaluation
+## Management
 
--   ESR, CRP, CK level, TSH
--   Arteriography: MRI or CT or catheter based angiogram - “string of
-    pearls” appearance
--   Histology: fibrinoid necrosis and vasculitis in target tissue
+- Start glucocorticoids as soon as GCA is suspected, do not delay
+    while awaiting biopsy
 
-Management
+    - No vision loss: prednisone 1mg/kg daily (max 60 mg) for 2-4
+        > weeks followed by steroid taper
 
--   Hepatitis screening if not previously done to evaluate for HBsAg
--   Mild disease or isolated cutaneous disease: Glucocorticoids
--   Moderate disease: Up to 1mg/kg prednisone daily (up to 60-80mg max)
-    for 2-4 weeks followed by steroid taper +/- DMARD
--   Severe disease or life threatening disease (evidence of renal
-    insufficiency, significant proteinuria, gastrointestinal, cardiac,
-    or neurologic involvement): 500-1000mg IV methylprednisolone daily
-    for up to 3 doses followed by prednisone as above for 4 weeks with
-    taper plus cyclophosphamide
+    - Vision loss/diplopia: 500-1000mg IV methylprednisolone daily for
+        > 3 days, followed by prednisone 1mg/kg daily (max 60mg) for 2-4
+        > weeks followed by steroid taper  
 
-Granulomatosis with Polyangiitis (GPA)
+# Polyarteritis Nodosa (PAN)
 
-Presentation
+## Presentation
 
--   Sinus and respiratory symptoms, sinusitis/ulcers, hemoptysis
--   Renal involvement – elevated Cr, hematuria, or proteinuria from RPGN
--   Less commonly affects eyes (scleritis: red, painful, light
-    sensitive), skin (palpable purpura), peripheral nerves (mononeuritis
-    multiplex)
+- Constitutional symptoms: fatigue, weakness, fevers, arthralgias,
+    myalgias, rash, weight loss
 
-Evaluation
+- Evidence of multisystem involvement:
 
--   ANCA + (Usually PR3-cANCA > MPO-pANCA)
--   U/A with urine microscopy: need to spin the urine to evaluate for
-    active renal disease
--   Biopsy of a site of suspected disease activity (necrotizing
-    granulomatous vasculitis)
+    - Asymmetric polyneuropathy with motor and sensory deficits (foot
+        > drop, radial/ulnar neuropathy)
 
-Management
+    - Skin manifestations: livedo reticularis, palpable purpura,
+        > ulcers, tender erythematous nodules, bullae, vesicles
 
--   If treating inpatient, has 20x increase risk of DVT/PE – ensure DVT
-    ppx
--   Mild to moderate disease: MTX + glucocorticoids
--   Severe disease: rituximab or cyclophosphamide, then maintenance w/
-    Rituxan or DMARD
+    - HTN (renal arteritis)
 
-Microscopic Polyangiitis (MPA)
+    - Abdominal pain and melena (mesenteric arteritis)
 
-Presentation
+    - Ischemic cardiomyopathy (coronary arteritis)
 
--   Similar to GPA but will only involve kidneys and lungs (less sinus
-    involvement)
--   Hemoptysis with bilateral nodular lung involvement and
-    hematuria/proteinuria common
+    - Testicular pain (orchitis)
 
-Evaluation
+- Classically spares the lungs (consider other dx if pulmonary
+    complaints)
 
--   ANCA +, typically MPO-pANCA
--   U/A with urine microscopy: need to spin the urine to evaluate for
-    active renal disease
--   Biopsy of a site of suspected diseased activity
+## Evaluation
 
-Management
+- ESR/CRP, CK, TSH
 
--   DVT ppx is important as patients are at higher risk for DVTs/PE
--   Mild to moderate disease: MTX (or similar DMARD) + glucocorticoids
--   Severe disease: rituximab or cyclophosphamide, then maintenance
-    w/Rituxan or DMARD
+- Hepatitis panel (HBV/HCV can cause secondary PAN)
 
-Eosinophilic Granulomatosis with Polyangiitis (EGPA or Churg-Strauss
-Syndrome)
+- Arteriography: MRI, CT, or angiogram with classic “string of pearls”
+    appearance 
 
-Presentation
+- Biopsy: segmental transmural inflammation of muscular arteries,
+    fibrinoid necrosis of arterial wall (no granulomas, presence
+    suggests another process)
 
--   Similar to MPA and GPA; unique symptoms include atopic symptoms
-    (asthma, etc.)
-    -   Asthma is the most common symptom with involvement in over 90%
-        of patients
--   Can have Peripheral eosinophilia
--   More likely small vessel vasculitis to cause cardiac tissue
-    involvement: Coronary arteritis, myocarditis, heart failure and
-    arrhythmias
--   Skin lesions: tender subcutaneous nodules
--   Renal involvement: hematuria and proteinuria
+## Management
 
-Evaluation
+- Mild disease (ex: isolated cutaneous disease): prednisone 1mg/kg
+    daily (max 60-80mg) for 4 weeks followed by steroid taper
 
--   ANCA + (typically MPO-pANCA) and peripheral eosinophilia
--   Histology: Eosinophilic infiltrates with fibrinoid necrosis
+- Moderate disease: cyclophosphamide + prednisone 1mg/kg daily (max
+    60-80mg) for 4 weeks followed by steroid taper
 
-Management
+- Severe/life-threatening disease (renal failure, significant
+    proteinuria, GI/cardiac/neurologic involvement): cyclophosphamide +
+    500-1000mg IV methylprednisolone daily for 3 days, followed by
+    prednisone 1mg/kg daily (max 60mg) for 4 weeks followed by steroid
+    taper  
 
--   DVT prophylaxis as patients are high risk for DVTs/PE
--   Mild to moderate disease: MTX (or similar DMARD) + glucocorticoids
--   Severe disease (cardiac or neurologic involvement): cyclophosphamide
-    induction with maintenance DMARD, Rituximab
+# Granulomatosis with Polyangiitis (GPA)
+
+## Presentation
+
+- Constitutional symptoms (fevers, fatigue, weight loss) + evidence of
+    glomerulonephritis (hematuria, proteinuria), upper respiratory tract
+    involvement (nasal crusting, rhinorrhea, epistaxis, sinusitis), and
+    pulmonary involvement (dyspnea, cough, hemoptysis)
+
+- Less commonly affects eyes (scleritis), skin (palpable purpura), and
+    peripheral nerves (mononeuritis multiplex)
+
+# Evaluation
+
+- ANCA + (typically PR3-cANCA)
+
+- ESR/CRP, ANA, anti-GBM, C3/C4, cryoglobulins, HBV/HCV, HIV
+
+- UA with microscopy (hematuria, proteinuria, RBC casts, dysmorphic
+    RBCs)
+
+- CT chest if pulmonary symptoms
+
+- Biopsy: necrotizing granulomatous vasculitis, pauci-immune
+    glomerulonephritis
+
+- Clinical Pearl: If you suspect renal disease based (elevated Cr,
+    hematuria) ask renal fellow or rheum fellow to help spin the urine
+    to evaluate for RBC casting or dysmorphic cells. Quick way to
+    confirm active GN, renal biopsy takes time to arrange
+
+# Management
+
+- Mild-moderate disease: MTX + prednisone 0.5 mg/kg/day followed by
+    steroid taper
+
+- Severe disease: rituximab or cyclophosphamide + prednisone
+    1mg/kg/day (60-80mg max)
+
+    - For pts with RPGN, pulmonary hemorrhage, mononeuritis multiplex,
+        > or optic neuritis: IV methylprednisolone 7-15mg/kg/day (1000mg
+        > max) x 3 days for induction therapy
+
+- DVT ppx (high risk for DVT/PE)
+
+# Microscopic Polyangiitis (MPA)
+
+## Presentation
+
+- Similar to GPA, but without upper respiratory tract involvement;
+    classically only involves lungs and kidneys
+
+## Evaluation
+
+- ANCA + (typically MPO-pANCA)
+
+- ESR/CRP, ANA, anti-GBM, C3/C4, cryoglobulins, HBV/HCV, HIV
+
+- UA with microscopy (hematuria, proteinuria, RBC casts, dysmorphic
+    RBCs)
+
+- CT chest if pulmonary symptoms
+
+- Biopsy: necrotizing vasculitis (no granulomas), pauci-immune
+    glomerulonephritis
+
+# Management
+
+- Same as GPA, see above
+
+# Eosinophilic Granulomatosis with Polyangiitis (EGPA)
+
+## Presentation
+
+- Similar to GPA/MPA + atopic symptoms such as asthma (\>90%),
+    rhinosinusitis, and peripheral eosinophilia
+
+- Cardiac involvement (accounts for 50% deaths from EGPA): coronary
+    arteritis, myocarditis, heart failure, arrhythmias
+
+- Skin involvement (\>50%): tender subcutaneous nodules
+
+## Evaluation
+
+- ANCA + (typically MPO-pANCA), peripheral eosinophilia
+
+- IgE, ANA, RF, C3/C4
+
+- Biopsy: necrotizing granulomatous vasculitis, eosinophilic
+    infiltrates with fibrinoid necrosis, pauci-immune glomerulonephritis
+
+## Management
+
+- Mild-moderate disease: prednisone 0.5-1 mg/kg/day for 6-12 weeks
+    followed by steroid taper
+
+- Severe disease: cyclophosphamide + prednisone 0.5-1 mg/kg/day for
+    6-12 weeks followed by steroid taper
+
+    - For pts with life-threatening multiorgan involvement (cardiac,
+        > pulmonary, renal, neurologic): IV methylprednisolone 1000mg
+        > daily x 3 days for induction therapy
+
+- DVT ppx (high risk for DVT/PE)
