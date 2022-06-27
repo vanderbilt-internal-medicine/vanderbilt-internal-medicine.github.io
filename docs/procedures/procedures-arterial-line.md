@@ -1,8 +1,15 @@
 # Arterial Line
 
+<figure class="mdx-video" markdown>
+  <div class="mdx-video__inner">
+    <iframe src="https://www.youtube.com/watch?v=8hK04ai17-k&list=PLaxEyg3FbHI8x5IQMWD0qtbXEzN5RdIKM&index=3" allowfullscreen></iframe>
+  </div>
+  <figcaption markdown>
+
 NEJM video Guide: <https://www.youtube.com/watch?v=8hK04ai17-k&list=PLaxEyg3FbHI8x5IQMWD0qtbXEzN5RdIKM&index=3>
 
-<iframe src="https://www.youtube.com/watch?v=8hK04ai17-k&list=PLaxEyg3FbHI8x5IQMWD0qtbXEzN5RdIKM&index=3" allowfullscreen></iframe>
+  </figcaption>
+</figure>
 
 ## Indications
 

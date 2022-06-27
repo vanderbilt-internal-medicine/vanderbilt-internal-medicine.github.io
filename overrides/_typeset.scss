@@ -1,0 +1,31 @@
+// ----------------------------------------------------------------------------
+// Rules
+// ----------------------------------------------------------------------------
+
+// Scoped in typeset content to match specificity of regular content
+
+.md-typeset {
+
+  .mdx-video {
+    width: auto;
+
+    // video container
+    &__inner {
+      position: relative;
+      width: 100%;
+      height: 0;
+      padding-bottom: 56.138%;
+    }
+
+    // video iframe
+    iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+      border: none;
+    }
+  }
+}
