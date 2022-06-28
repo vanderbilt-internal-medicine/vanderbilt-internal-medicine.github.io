@@ -1,9 +1,5 @@
 # Thoracentesis
 
-NEJM Video Guide: <https://www.youtube.com/watch?v=ivTyH09BcHg>
-
-<iframe src="" allowfullscreen></iframe>
-
 <figure markdown>
   <iframe src="https://www.youtube.com/embed/ivTyH09BcHg" allowfullscreen></iframe>
   <figcaption markdown>[NEJM Video Guide](https://www.youtube.com/watch?v=ivTyH09BcHg)</figcaption>
