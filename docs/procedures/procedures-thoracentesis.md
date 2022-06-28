@@ -2,7 +2,12 @@
 
 NEJM Video Guide: <https://www.youtube.com/watch?v=ivTyH09BcHg>
 
-<iframe src="https://www.youtube.com/watch?v=ivTyH09BcHg" allowfullscreen></iframe>
+<iframe src="" allowfullscreen></iframe>
+
+<figure markdown>
+  <iframe src="https://www.youtube.com/embed/ivTyH09BcHg" allowfullscreen></iframe>
+  <figcaption markdown>[NEJM Video Guide](https://www.youtube.com/watch?v=ivTyH09BcHg)</figcaption>
+</figure>
 
 ## Indications
 
