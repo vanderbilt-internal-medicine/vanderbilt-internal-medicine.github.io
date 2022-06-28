@@ -1,7 +1,7 @@
 # Paracentesis
 
 <figure markdown>
-  <iframe src="https://www.youtube.com/embed/pQSsb9705LE&t=160s" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/pQSsb9705LE" allowfullscreen></iframe>
   <figcaption markdown>[VUMC Procedure Service Video Guide](https://www.youtube.com/watch?v=pQSsb9705LE&t=160s)</figcaption>
 </figure>
 
