@@ -1,14 +1,14 @@
 # Paracentesis
 
-## Video Guide
+<figure markdown>
+  <iframe src="https://www.youtube.com/embed/pQSsb9705LE&t=160s" allowfullscreen></iframe>
+  <figcaption markdown>[VUMC Procedure Service Video Guide](https://www.youtube.com/watch?v=pQSsb9705LE&t=160s)</figcaption>
+</figure>
 
-VUMC Procedure Service video: <https://www.youtube.com/watch?v=pQSsb9705LE&t=160s>
-
-<iframe src="https://www.youtube.com/watch?v=pQSsb9705LE&t=160s" allowfullscreen></iframe>
-
-NEJM video: <https://www.youtube.com/watch?v=KVpwXK7cvzQ>
-
-<iframe src="https://www.youtube.com/watch?v=KVpwXK7cvzQ" allowfullscreen></iframe>
+<figure markdown>
+  <iframe src="https://www.youtube.com/embed/KVpwXK7cvzQ" allowfullscreen></iframe>
+  <figcaption markdown>[NEJM Video Guide](https://www.youtube.com/watch?v=KVpwXK7cvzQ)</figcaption>
+</figure>
 
 ## Indications
 
