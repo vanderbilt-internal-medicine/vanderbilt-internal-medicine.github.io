@@ -5,10 +5,18 @@
   <iframe src="https://www.youtube.com/embed/8hK04ai17-k" allowfullscreen></iframe>
   
   <figcaption>
+    
     [NEJM Video Guide](https://www.youtube.com/watch?v=8hK04ai17-k)
+  
   </figcaption>
 
 </figure>
+
+<figure markdown>
+  <iframe src="https://www.youtube.com/embed/8hK04ai17-k" allowfullscreen></iframe>
+  <figcaption>[NEJM Video Guide](https://www.youtube.com/watch?v=8hK04ai17-k)</figcaption>
+</figure>
+
 
 ## Indications
 
