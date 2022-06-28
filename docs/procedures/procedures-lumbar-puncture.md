@@ -1,8 +1,9 @@
 # Lumbar Puncture
 
-NEJM video Guide: <https://www.youtube.com/watch?v=xnH9gECy_wU>
-
-<iframe src="https://www.youtube.com/watch?v=xnH9gECy_wU" allowfullscreen></iframe>
+<figure markdown>
+  <iframe src="https://www.youtube.com/embed/xnH9gECy_wU" allowfullscreen></iframe>
+  <figcaption markdown>[NEJM Video Guide](https://www.youtube.com/watch?v=xnH9gECy_wU)</figcaption>
+</figure>
 
 ## Indications
 
