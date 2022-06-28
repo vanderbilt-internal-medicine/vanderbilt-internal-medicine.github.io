@@ -15,7 +15,8 @@
 - Refer to individual procedure sections for procedure-specific risks
     to discuss in consent
 
-- Informed consent video guide:
-    <https://www.youtube.com/watch?v=6yXOEkFqk2o>
 
-<iframe src="https://www.youtube.com/watch?v=6yXOEkFqk2o" allowfullscreen></iframe>
+<figure markdown>
+  <iframe src="https://www.youtube.com/embed/6yXOEkFqk2o" allowfullscreen></iframe>
+  <figcaption markdown>[Informed Consent Video Guide](https://www.youtube.com/watch?v=6yXOEkFqk2o)</figcaption>
+</figure>
