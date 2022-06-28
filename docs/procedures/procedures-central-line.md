@@ -1,8 +1,9 @@
 # Central Line
 
-NEJM video guide: <https://www.youtube.com/watch?v=qeVdRCqy_mo>
-
-<iframe src="https://www.youtube.com/watch?v=qeVdRCqy_mo" allowfullscreen></iframe>
+<figure markdown>
+  <iframe src="https://www.youtube.com/embed/qeVdRCqy_mo" allowfullscreen></iframe>
+  <figcaption markdown>[NEJM Video Guide](https://www.youtube.com/watch?v=qeVdRCqy_mo)</figcaption>
+</figure>
 
 ## Indications
 
