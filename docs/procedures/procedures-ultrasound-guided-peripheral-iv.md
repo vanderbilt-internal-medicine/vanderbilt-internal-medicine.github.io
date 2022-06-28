@@ -1,8 +1,9 @@
 # US-Guided PIV
 
-VUMC video Guide: <https://www.youtube.com/watch?v=GQGhciB6TvM>
-
-<iframe src="https://www.youtube.com/watch?v=GQGhciB6TvM" allowfullscreen></iframe>
+<figure markdown>
+  <iframe src="https://www.youtube.com/embed/GQGhciB6TvM" allowfullscreen></iframe>
+  <figcaption markdown>[VUMC Video Guide](https://www.youtube.com/watch?v=GQGhciB6TvM)</figcaption>
+</figure>
 
 ## Indications
 
