@@ -7,4 +7,5 @@ mkdocs-git-revision-date-localized-plugin
 mkdocs-material
 mkdocs-print-site-plugin
 mkdocs-spellcheck
+mkdocs-video
 pre-commit
