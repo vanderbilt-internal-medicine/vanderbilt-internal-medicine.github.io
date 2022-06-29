@@ -1,4 +1,4 @@
-# The Death Pronouncement 
+# The Death Pronouncement
 
 Michael J. Neuss
 
@@ -70,7 +70,7 @@ particularly when cross covering, that may not be the case
 
 - Make sure you have notified the attending of record
 
-\*Please see further VA- and VUMC-specific guidance below
+*Please see further VA- and VUMC-specific guidance below
 
 ## Death Process at VUMC
 
@@ -82,12 +82,12 @@ particularly when cross covering, that may not be the case
 
 Required steps:
 
-- Cardiopulmonary Death Charting -\> Select “New Reading” and
+- Cardiopulmonary Death Charting -> Select “New Reading” and
     complete.
 
-- Cardiopulmonary Death -\>Select “+Create Note”
+- Cardiopulmonary Death ->Select “+Create Note”
 
-- Medical Examiner Criteria -\> Select “+New Reading”; Criteria
+- Medical Examiner Criteria -> Select “+New Reading”; Criteria
     requiring notification of ME is listed in a drop down menu in the
     navigator. Includes accidental deaths, threats to public health,
     suspicion for foul play, etc. The Vanderbilt Operator can assist
@@ -97,9 +97,9 @@ Required steps:
 
     - All patients diagnosed with Covid are automatic ME cases
 
-- Autopsy Criteria -\> Select “+New Reading”
+- Autopsy Criteria -> Select “+New Reading”
 
-- Preliminary Cause of Death and Date/Time of Death -\>. Rather than
+- Preliminary Cause of Death and Date/Time of Death ->. Rather than
     list “Cardiopulmonary arrest,” be specific (e.g., Pulmonary
     Embolism, Myocardial Infarction, Metastatic Colon Cancer, etc.)
 
@@ -116,7 +116,7 @@ Required steps:
         and your attending physician’s name (to sign the death certificate;
         give their pager number in this subsection).
 
-- Report of Death Note -\> Select “+New Reading” and complete.
+- Report of Death Note -> Select “+New Reading” and complete.
 
 - Complete Synopsis + Hospital Course and then at the very bottom
     under Summary of Death select “+Create Note.”

@@ -1,6 +1,6 @@
-# Lipids 
+# Lipids
 
---- 
+---
 
 Brittany Saldivar
 
@@ -15,7 +15,7 @@ Brittany Saldivar
 
 - Screening: USPSTF 2016 Guidelines: q5years for adults 40-75yrs
 
-    - ACC/AHA 2019 Guideline: adults 20-39 q 4-6yrs; \<21yrs if strong fam
+    - ACC/AHA 2019 Guideline: adults 20-39 q 4-6yrs; <21yrs if strong fam
         hx; 40-75 “routinely” assess CV risk and calculate 10 yr ASCVD risk
         (lipid pnl q3-12 months)
 
@@ -58,18 +58,26 @@ Brittany Saldivar
         non-Hispanic whites and blacks. Consider use of additional risk
         prediction tools/factors in other patient populations
 
-<img src="output/media/image21.jpg"
-style="width:3.41538in;height:2.37961in"
-alt="Diagram Description automatically generated" />
+
+<figure markdown>
+  ![ascvd primary prevention](../images/ascvd-primary-prevention-flowchart.png)
+  <figcaption markdown>
 
 Figure from 2019 ACC/AHA Guideline on Primary Prevention of
 Cardiovascular Disease
 
-<img src="output/media/image22.jpeg"
-style="width:2.99231in;height:2.02062in"
-alt="Diagram Description automatically generated" />
+</figcaption>
+</figure>
+
+
+<figure markdown>
+  ![ascvd primary prevention](../images/ascvd-2018.png)
+  <figcaption markdown>
 
 Figure from 2018 ACC/AHA Guideline on Management of Blood Cholesterol
+
+</figcaption>
+</figure>
 
 <table>
 <colgroup>
@@ -89,7 +97,7 @@ Figure from 2018 ACC/AHA Guideline on Management of Blood Cholesterol
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>Atorvastatin (40mg) 80mg\*</p>
+<td><p>Atorvastatin (40mg) 80mg</p>
 <p>Rosuvastatin 20mg (40mg)</p></td>
 <td><p><strong>Atorvastatin 10mg</strong> (20mg)</p>
 <p><strong>Rosuvastatin</strong> (5mg) <strong>10mg</strong></p>
@@ -114,9 +122,9 @@ benefit</em></td>
 </tbody>
 </table>
 
-# Statin Options
+## Statin Options
 
-## Statin Side effects:
+### Statin Side effects:
 
 - Spectrum of statin associated muscle symptoms (SAMS) include
     myalgias, myopathy, rhabdomyolysis, autoimmune myopathy
@@ -148,22 +156,22 @@ benefit</em></td>
 
 ## Hypertriglyceridemia:
 
-- Moderate: TG 175-499 mg/dL; Moderate-severe 500 - 999; Severe: TG \>
+- Moderate: TG 175-499 mg/dL; Moderate-severe 500 - 999; Severe: TG >
     1000
 
 - Focus on addressing lifestyle factors and stopping medication that
     increase TG’s (HCTZ, some BB’s, estrogens, some ART, antipsychotics)
 
-- Consider medical therapy when TG\> 500mg/dL (increased risk of
+- Consider medical therapy when TG> 500mg/dL (increased risk of
     pancreatitis):
 
-    - Omega-3-fatty acids (icosapent ethyl) 4gms daily or Vascepa 4gm
+    - Omega-3-fatty acids (icosapent ethyl) 4gm daily or Vascepa 4gm
         daily
 
     - Fibrates: Fenofibrate 120 mg daily (avoid in CKD), Gemfibrozil 600mg
         bid (increased risk of myopathy with concomitant statin)
 
-## VA- Specific Guidelines
+## VA-Specific Guidelines
 
 - <https://www.healthquality.va.gov/guidelines/cd/lipids/index.asp>
 
@@ -173,7 +181,7 @@ benefit</em></td>
 
 - Statins that require PADR: Pravastatin, Rosuvastatin (2nd line high
     intensity statin)
-    
+
     - Must have documented intolerances or drug-drug interaction to all
         preferred statins
 
@@ -193,4 +201,4 @@ benefit</em></td>
             to use of formulary alternatives (statin, niacin, gemfibrozil,
             cholestyramine, fish oil)
 
-        - If TG \> 500 mg/dL, fenofibrate should be approved
+        - If TG > 500 mg/dL, fenofibrate should be approved
