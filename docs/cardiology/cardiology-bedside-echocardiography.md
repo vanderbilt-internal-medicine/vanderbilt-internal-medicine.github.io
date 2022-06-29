@@ -21,9 +21,6 @@ Jamie Pfaff
 
 ### Parasternal long
 
-![image](../images/image9.png)
-![image](../images/image8.png)
-
 - Probe position: Rotate probe 180 degrees with right edge of
     probe/probe marker pointing toward patient’s left shoulder
 - Make sure probe is centered over mitral valve (In right spot if you
@@ -37,8 +34,8 @@ Jamie Pfaff
         (perpendicular to septum)
     - Identify E point (passive filling of LV) and determine distance
         from interventricular septum (IVS)
-        - \<7mm = Normal
-        - \>10mm = HF
+        - <7mm = Normal
+        - >10mm = HF
     - Confounders that elevate EPSS: AR, MS
 
 ### Parasternal short
@@ -76,10 +73,9 @@ Apical four chamber
     patient’s head tilted slightly left of midline, trace IVC into RA to
     verify correct vessel (vs aorta)
 - IVC size and collapsibility used as a surrogate for CVP and RAP
-    - \<2.1 cm and \>50% collapse: RAP \~3mmHg
-    - \<2.1 cm and \< 50% collapse or \>2.1cm and \>50% collapse: RAP
-        \~8mmHg
-    - \>2.1cm, \<50% collapse: RAP \~ \>15mmHg
+    - <2.1 cm and >50% collapse: RAP ~3mmHg
+    - <2.1 cm and < 50% collapse or >2.1cm and >50% collapse: RAP ~8mmHg
+    - >2.1cm, <50% collapse: RAP ~ >15mmHg
 
 
 ## Resources

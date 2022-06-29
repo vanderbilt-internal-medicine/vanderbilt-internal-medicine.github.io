@@ -6,10 +6,12 @@ Kate Heckman, MD
 
 This section was adapted from Procedure Service Guidebook by Tyson Heller, MD
 
-- Procedure Service Video: <https://www.youtube.com/watch?v=UfYmVX8llZk>
+<figure markdown>
+  <iframe src="https://www.youtube.com/embed/UfYmVX8llZk" allowfullscreen></iframe>
+  <figcaption markdown>[VUMC Procedure Service video](https://www.youtube.com/watch?v=UfYmVX8llZk)</figcaption>
+</figure>
 
-<iframe src="https://www.youtube.com/watch?v=UfYmVX8llZk" allowfullscreen></iframe>
-
-- Making an ultrasound note: <https://www.youtube.com/watch?v=jIqHOyze2T4>
-
-<iframe src="https://www.youtube.com/watch?v=jIqHOyze2T4" allowfullscreen></iframe>
+<figure markdown>
+  <iframe src="https://www.youtube.com/embed/jIqHOyze2T4" allowfullscreen></iframe>
+  <figcaption markdown>[Making an ultrasound note](https://www.youtube.com/watch?v=jIqHOyze2T4)</figcaption>
+</figure>

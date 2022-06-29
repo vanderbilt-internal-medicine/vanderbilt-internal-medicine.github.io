@@ -20,7 +20,7 @@ Neurology)
     - No evidence of residual paralytics (electrical stimulation if
         paralytics used)
     - Absence of severe acid-base, electrolyte, endocrine abnormality
-    - Normothermia or mild hypothermia (core temp \>36°C)
+    - Normothermia or mild hypothermia (core temp >36°C)
     - SBP ≥100 mm Hg
     - No spontaneous respirations
 2. Examination (all must be checked) – Attending MUST be present for
@@ -28,15 +28,19 @@ brain death exam
 
 <figure markdown>
   ![brain death](../images/image14.png)
-  <figcaption>Greer DM, Determination of Brain Death. NEJM. 2021;385;2554-61. DOI:
-0.1056/NEJMcp2025326</figcaption>
+  <figcaption markdown>
+
+Greer DM, Determination of Brain Death. NEJM. 2021;385;2554-61. DOI:
+[10.1056/NEJMcp2025326](https://doi.org/10.1056/nejmcp2025326)
+
+</figcaption>
 </figure>
 
 3. Apnea testing (all must be checked) – Attending MUST be present
     - Pt is hemodynamically stable
     - Ventilator adjusted to provide normocarbia (PaCO2 35–45 mm Hg)
-    - Preoxygenate with 100% FiO2 and PEEP of 5 cm water for \>10 minutes
-        to PaO2 \>200 mmHg
+    - Preoxygenate with 100% FiO2 and PEEP of 5 cm water for >10 minutes
+        to PaO2 >200 mmHg
     - Provide oxygen via a suction catheter to the level of the carina at
         6 L/min or attach T-piece with continuous positive airway pressure
         (CPAP) at 10 cm H2O
