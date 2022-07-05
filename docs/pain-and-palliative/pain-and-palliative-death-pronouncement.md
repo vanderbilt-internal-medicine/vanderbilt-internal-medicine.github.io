@@ -128,6 +128,6 @@ Required steps:
 ## Death Process at the VA
 
 <figure markdown>
-![VA death  pronouncement process](../images/va-death-pronouncement-process.png.png)
+![VA death  pronouncement process](../images/va-death-pronouncement-process.png)
 <figcaption markdown>VA death pronouncement process</figcaption>
 </figure>
