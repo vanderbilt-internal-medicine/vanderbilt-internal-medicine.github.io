@@ -60,54 +60,32 @@ Silhouette sign
         and pulmonary edema (linear opacities, fluid in fissures, Kerley
         B lines, cephalization)
 
-<!--
-<img src="output/media/image30.jpeg"
-style="width:1.89623in;height:2.30208in"
-alt="Diagram Description automatically generated" /><img src="output/media/image31.jpeg"
-style="width:1.64653in;height:2.30694in"
-alt="A picture containing indoor, tattoo, plant Description automatically generated" />
-
+<figure markdown>
+![CXR example](../images/cxr.png)
+<figcaption>CXR example</figcaption>
+</figure>
 
 - 1,2-10: first rib, posterior aspect of ribs 2 to 10
-
 - AK: aortic knob
-
 - APW: aortopulmonary window
-
 - BS: breast shadow
-
 - C, T: carina, tracheal air column
-
 - CA, GA: colonic air, gastric air
-
 - CPA: costophrenic angle
-
 - DA: descending aorta
-
 - LHB: left heart border (most of which represents the left ventricle,
     the superior aspect represents the left atrial appendage)
-
 - LPA: left pulmonary artery
-
 - RC: right clavicle
-
 - RHB: right heart border (represents the right atrium)
-
 - PHB: posterior heart border
-
 - RHD, LHD: right hemidiaphragm, left hemidiaphragm
-
 - RPA: right pulmonary artery
-
 - S: scapula
-
 - RA: retrosternal space
-
 - RMF: right lung fissure (left major and minor fissures are not
     always visualized)
 
 Chapter 15. Imaging Studies. Gomella L.G., & Haist S.A. (Eds.), (2007).
 Clinician's Pocket Reference: The Scut Monkey, 11e. McGraw Hill.
 <https://accessmedicine.mhmedical.com/content.aspx?bookid=365&sectionid=43074924>
-
--->
