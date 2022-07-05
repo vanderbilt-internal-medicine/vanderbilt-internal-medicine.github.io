@@ -547,11 +547,12 @@ dilation)</p></td>
 
 ## Contrast Allergies or Extravasation
 
-See ACR contrast manual for additional Information
-(<https://www.acr.org/Clinical-Resources/Contrast-Manual>)
+See ACR contrast manual for additional Information:
 
-<!--
-<img src="output/media/image34.png"
-style="width:3.56291in;height:4.31726in"
-alt="Text Description automatically generated" />
--->
+<https://www.acr.org/Clinical-Resources/Contrast-Manual>
+
+
+<figure markdown>
+![ACR contrast infographic](../images/contrast-allergies.png)
+<figcaption markdown>From the [ACR contrast manual](https://www.acr.org/Clinical-Resources/Contrast-Manual)</figcaption>
+</figure>
