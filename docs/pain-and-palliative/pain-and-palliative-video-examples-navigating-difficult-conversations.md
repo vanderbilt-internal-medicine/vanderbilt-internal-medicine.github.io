@@ -1,6 +1,8 @@
 # Video Examples for Navigating Difficult Conversations
 
-Video Examples for Navigating Difficult Conversations – Mohana Karlekar
+Mohana Karlekar
+
+---
 
 Navigating difficult conversations with patients can be daunting
 especially if you have never seen someone do one well before. 
@@ -11,7 +13,9 @@ makes us better
 Scan the QR Code To View Video Examples Or Search The Learning Exchange
 “Navigating Difficult Conversations With Patients”
 
-<img src="/sites/default/files/inline-images/QR_Code.png" data-entity-type="file" data-entity-uuid="2c524db5-5c53-4ef3-b775-3b4829476db2" alt="QR Code" />
+<figure markdown>
+  ![qr code for difficult conversations video](../images/qr-code-navigating-difficult-conversations.svg)
+</figure>
 
 Good communicators have both **formulated** their message and
 **identified** which communication strategy to use before they initiate
@@ -25,4 +29,6 @@ Here are some suggestions for “Navigating Difficult Conversations”
     prognosis or navigating goals of care
 -   Step 3. Pick the video that best suits your purpose
 
-<img src="/sites/default/files/inline-images/SPIKES.jpg" data-entity-type="file" data-entity-uuid="abfa6510-5644-4853-86bb-786aabd5480f" alt="Spikes" />
+<figure markdown>
+  ![SPIKE framework for difficult conversations](../images/tools-for-difficult-conversations.png)
+</figure>
