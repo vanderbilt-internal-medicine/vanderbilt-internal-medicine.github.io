@@ -1,4 +1,4 @@
-# Opioids: General Principles & Conversion 
+# Opioids: General Principles & Conversion
 
 Eli Cohen
 
@@ -18,13 +18,11 @@ Eli Cohen
 
 ## Conversion:
 
-- Transition between opiates is done using oral morphine equivalents
-    (OMEs). Each drugs’ potency is compared to oral morphine (see
+- Transition between opiates is done using OME.
+    Each drugs’ potency is compared to oral morphine (see
     table). Ex: 1 mg IV morphine = 3 mg PO morphine
-
 - When transitioning, doses are traditionally reduced by 1/4 to 1/3
     due to cross tolerance
-
 - IR/ER regimens: Consider switching to extended release when
     requiring 3-4 doses of intermediate release (IR) medications in a
     24-hour period regularly. The ER medication should treat the chronic
@@ -33,9 +31,10 @@ Eli Cohen
     total OME dose a patient takes daily. Fentanyl patches should last
     72 hours
 
-<img src="output/media/image24.png"
-style="width:3.32661in;height:1.16in"
-alt="Diagram Description automatically generated" />
+<figure markdown>
+![opiate conversions](../images/opiate-conversion.png)
+<figcaption markdown>Opiate conversions</figcaption>
+</figure>
 
 ## Patient Controlled Analgesia (PCAs)
 

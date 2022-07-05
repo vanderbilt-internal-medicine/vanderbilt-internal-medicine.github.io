@@ -39,5 +39,5 @@ important reminders:
 
 <figure markdown>
 ![CXR example](../images/kub.png)
-<figcaption>KUB example</figcaption>
+<figcaption markdown>KUB example</figcaption>
 </figure>

@@ -149,11 +149,10 @@ perceptual motor, social cognition</td>
         the 11 and the 2
 - Ask pt to recall the three words
 
-<!--
-<img src="output/media/image16.png"
-style="width:2.41484in;height:1.09028in"
-alt="Diagram Description automatically generated" />
--->
+<figure markdown>
+![MINI-COG Flowchart](../images/mini-cog-flowchart.png)
+<figcaption markdown>MINI-COG Flowchart</figcaption>
+</figure>
 
 - MOCA: Montreal Cognitive Assessment
     - Lengthier test of cognition (but highly specific for cognitive
@@ -197,7 +196,6 @@ alt="Diagram Description automatically generated" />
         - Fewer SE than cholinergic medications
 - Vitamin supplementation (i.e. Vitamin E)
     - Unclear benefit in delaying progression of dementia
-
 - Targeting Behaviors
     - Non-pharmacologic management has the best evidence of effectiveness
     - Depression: Treat with antidepressants (SSRI’s)

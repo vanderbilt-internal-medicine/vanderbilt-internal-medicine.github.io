@@ -61,11 +61,10 @@ Ashley Zeoli
     - If anemia: Type and Screen, peripheral smear, reticulocyte count,
     LDH, haptoglobin, coags to evaluate for hemolysis or DIC
 
-<!-- 
-<img src="output/media/image35.png"
-style="width:3.66923in;height:2.52573in"
-alt="Diagram Description automatically generated" />
--->
+<figure markdown>
+![Loxocelism flowchart](../images/loxoscelism-flowchart.png)
+<figcaption markdown>Loxocelism flowchart</figcaption>
+</figure>
 
 ## Management
 
