@@ -70,7 +70,7 @@ particularly when cross covering, that may not be the case
 
 - Make sure you have notified the attending of record
 
-*Please see further VA- and VUMC-specific guidance below
+- Please see further VA- and VUMC-specific guidance below
 
 ## Death Process at VUMC
 
@@ -85,7 +85,7 @@ Required steps:
 - Cardiopulmonary Death Charting -> Select “New Reading” and
     complete.
 
-- Cardiopulmonary Death ->Select “+Create Note”
+- Cardiopulmonary Death -> Select “+Create Note”
 
 - Medical Examiner Criteria -> Select “+New Reading”; Criteria
     requiring notification of ME is listed in a drop down menu in the
@@ -127,6 +127,7 @@ Required steps:
 
 ## Death Process at the VA
 
-<img src="output/media/image27.png"
-style="width:3.75in;height:4.42569in"
-alt="A picture containing timeline Description automatically generated" />
+<figure markdown>
+![VA death  pronouncement process](../images/va-death-pronouncement-process.png.png)
+<figcaption markdown>VA death pronouncement process</figcaption>
+</figure>

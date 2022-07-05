@@ -8,9 +8,13 @@ Nicholas King
 
 -   Determining likelihood that chest pain has a cardiac etiology
     depends on symptoms and lies on a spectrum
-
--   Cardiac \> possible cardiac \> noncardiac is more useful than
+-   Cardiac > possible cardiac > noncardiac is more useful than
     typical vs atypical angina
+
+<figure markdown>
+![angina characteristics](../images/chest-pain.png)
+<figcaption markdown> </figcaption>
+</figure>
 
 ## Diagnoses Not to Miss: “The Serious Six”
 
@@ -46,7 +50,7 @@ Nicholas King
 -   Pulm: absent breath sounds for PTX, crackles for left heart failure,
     PNA
 -   Abdomen: abdominal pain mistaken or referred as chest pain
--   Extremities: asymmetric leg swelling (\>2 cm difference) for DVT/PE
+-   Extremities: asymmetric leg swelling (>2 cm difference) for DVT/PE
 
 ## Diagnostic Studies
 
