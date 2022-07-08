@@ -25,13 +25,14 @@
 
 Non-comprehensive list of non-teaching services you may interact with:
 
-| Non-Teaching Service                      | Type                            |
-|-------------------------------------------|---------------------------------|
-| Riven                                     | General medicine                |
-| Page Campbell                             | Cardiology                      |
-| Advanced Lung Disease Service (ALDS)      | Lung transplant                 |
-| Browning                                  | Hematology (benign + malignant) |
-| Stem Cell Transplant                      | Stem Cell Transplant            |
+| Non-Teaching Service                      | Type                                                 |
+|-------------------------------------------|------------------------------------------------------|
+| Riven                                     | General medicine                                     |
+| Scoville                                  | General medicine (NP, night admitting)               |
+| Page Campbell                             | Cardiology                                           |
+| Advanced Lung Disease Service (ALDS)      | Lung transplant                                      |
+| Browning                                  | Hematology (benign + malignant)                      |
+| Stem Cell Transplant                      | Stem Cell Transplant                                 |
 
 
 ## Morgan (1 – 6) (General Medicine)
