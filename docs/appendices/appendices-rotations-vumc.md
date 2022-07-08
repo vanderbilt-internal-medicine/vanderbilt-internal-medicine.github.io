@@ -2,9 +2,10 @@
 
 ## Structure Overview
 
+
 | Teaching Service                          | Structure              | Patient Cap               |
 |-------------------------------------------|------------------------|---------------------------|
-| Morgan 1-6                                | 1 resident, 1 intern   | 10                        |
+| Morgan 1-6 (Gen med)                      | 1 resident, 1 intern   | 10                        |
 | Geriatrics                                | 1 resident, 1 intern   | 10                        |
 | Rogers (Hep, ID, Pulm, Renal)             | 1 resident, 1 intern   | 10                        |
 | Heart Failure (CHF 1 & 2 ) (one team)     | 1 resident, 2 interns  | 8 per intern (16 total)   |
@@ -22,7 +23,18 @@
 | VA Night: Crosscover                      | 1 resident             | N/A                       |
 
 
-## Morgan (1 – 6)
+Non-comprehensive list of non-teaching services you may interact with:
+
+| Non-Teaching Service                      | Type                            |
+|-------------------------------------------|---------------------------------|
+| Riven                                     | General medicine                |
+| Page Campbell                             | Cardiology                      |
+| Advanced Lung Disease Service (ALDS)      | Lung transplant                 |
+| Browning                                  | Hematology (benign + malignant) |
+| Stem Cell Transplant                      | Stem Cell Transplant            |
+
+
+## Morgan (1 – 6) (General Medicine)
 
 - Team: 1 Res, 1 Intern with patient cap of 10
 - Pagers: Morgan 1: 831-4765, Morgan 2: 831-4766, Morgan 3: 831-4767,

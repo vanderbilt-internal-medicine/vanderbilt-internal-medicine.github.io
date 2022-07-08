@@ -3418,6 +3418,7 @@ aldoxime
 Aldrich
 aldrich's
 aldrin
+ALDS
 Aldurazyme
 alea
 aleatory
@@ -24609,6 +24610,7 @@ crossbreeding
 crossbridge
 crossclamped
 crossclamping
+crosscover
 Crosse
 crossed
 crosses
