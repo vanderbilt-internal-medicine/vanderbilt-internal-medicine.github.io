@@ -3,7 +3,7 @@
 *[ACS]: Acute Coronary Syndrome
 *[AHA]: American Heart Association
 *[ARB]: Angiotensin Receptor Blocker
-*[ASA]: aspirin, Acetylsalicylic Acid
+*[ASA]: aspirin, "Acetylsalicylic Acid"
 *[CABG]: Coronary Artery Bypass Graft
 *[CCB]: Calcium Channel Blocker
 *[CCU]: Cardiac Critical Care Unit
@@ -21,7 +21,7 @@
 *[LMWH]: Low Molecular Weight Heparin
 *[LV]: Left Ventricle
 *[MN]: midnight
-*[NPO]: nothing by mouth, nil per os
+*[NPO]: nothing by mouth, "nil per os"
 *[NSTEMI]: Non-ST-segment Elevation Myocardial Infarction
 *[PCI]: Percutaneous Intervention
 *[PE]: Pulmonary Embolism or Physical Exam
