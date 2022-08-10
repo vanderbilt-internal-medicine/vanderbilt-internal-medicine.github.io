@@ -86,6 +86,9 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.tilde
   - pymdownx.snippets
+      auto_append:
+        - includes/abbreviations.md
+
 
 extra_css:
   - stylesheets/extra.css
