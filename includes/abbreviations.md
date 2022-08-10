@@ -19,7 +19,7 @@
 *[LDH]: Lactate Dehydrogenase
 *[LHC]: Left Heart Catheterization
 *[LMWH]: Low Molecular Weight Heparin
-*[LV] Left Ventricle
+*[LV]: Left Ventricle
 *[MN]: midnight
 *[NPO]: nothing by mouth, nil per os
 *[NSTEMI]: Non-ST-segment Elevation Myocardial Infarction
