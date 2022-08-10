@@ -5,6 +5,7 @@
 *[AIHA]: Autoimmune Hemolytic Anemia
 *[ARB]: Angiotensin Receptor Blocker
 *[ASA]: aspirin, "Acetylsalicylic Acid"
+*[BF]: Body Fluid
 *[CAD]: Coronary Artery Disease
 *[CABG]: Coronary Artery Bypass Graft
 *[CCB]: Calcium Channel Blocker
@@ -20,11 +21,18 @@
 *[DVT]: Deep Vein Thrombosis
 *[EKG]: Electrocardiogram
 *[EP]: Electrophysiology
+*[GGO]: Ground Glass Opacity
+*[Hct]: Hematocrit
+*[HF]: Heart Failure
 *[HFrEF]: Heart Failure with reduced Ejection Fraction
+*[hgb]: Hemoglobin
+*[Hgb]: Hemoglobin
+*[Hb]: Hemoglobin
 *[HoTN]: Hypotension
 *[HTN]: Hypertension
 *[HUS]: Hemolytic Uremic Syndrome
 *[IDA]: Iron Deficiency Anemia
+*[INR]: International Normalized Ratio
 *[LAD]: Left Anterior Descending artery
 *[LBBB]: Left Bundle Branch Block
 *[LDH]: Lactate Dehydrogenase
@@ -37,6 +45,7 @@
 *[NSTEMI]: Non-ST-segment Elevation Myocardial Infarction
 *[PCI]: Percutaneous Intervention
 *[PE]: Pulmonary Embolism or Physical Exam
+*[PTX]: Pneumothorax
 *[RBBB]: Right Bundle Branch Block
 *[RHC]: Right Heart Catheterization
 *[RI]: Reticulocyte Index
