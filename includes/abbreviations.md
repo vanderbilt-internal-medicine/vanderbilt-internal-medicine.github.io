@@ -1,36 +1,38 @@
-*[CSF]: Cerebrospinal Fluid
-*[LDH]: Lactate Dehydrogenase
-*[VUMC]: Vanderbilt University Medical Center
-*[STEMI]: ST-segment Elevation Myocardial Infarction
-*[NSTEMI]: Non-ST-segment Elevation Myocardial Infarction
-*[EKG]: Electrocardiogram
 *[ACC]: American College of Cardiology
+*[ACEi]: Angiotensin-Converting Enzyme inhibitor
+*[ACS]: Acute Coronary Syndrome
 *[AHA]: American Heart Association
-*[TSH]: Thyroid Stimulating Hormone
+*[ARB]: Angiotensin Receptor Blocker
 *[ASA]: aspirin, Acetylsalicylic Acid
-*[LMWH]: Low Molecular Weight Heparin
-*[CrCl]: Creatinine Clearance
-*[LHC]: Left Heart Catheterization
-*[RHC]: Right Heart Catheterization
-*[NPO]: nothing by mouth, nil per os
-*[MN]: midnight
 *[CABG]: Coronary Artery Bypass Graft
-*[LAD]: Left Anterior Descending artery
-*[PCI]: Percutaneous Intervention
+*[CCB]: Calcium Channel Blocker
+*[CCU]: Cardiac Critical Care Unit
+*[CrCl]: Creatinine Clearance
+*[CSF]: Cerebrospinal Fluid
 *[DAPT]: Dual Antiplatelet Therapy
 *[DVT]: Deep Vein Thrombosis
-*[PE]: Pulmonary Embolism or Physical Exam
-*[ACEi]: Angiotensin-Converting Enzyme inhibitor
-*[ARB]: Angiotensin Receptor Blocker
+*[EKG]: Electrocardiogram
+*[EP]: Electrophysiology
 *[HFrEF]: Heart Failure with reduced Ejection Fraction
-*[VT]: Ventricular Tachycardia
+*[LAD]: Left Anterior Descending artery
+*[LBBB]: Left Bundle Branch Block
+*[LDH]: Lactate Dehydrogenase
+*[LHC]: Left Heart Catheterization
+*[LMWH]: Low Molecular Weight Heparin
+*[LV] Left Ventricle
+*[MN]: midnight
+*[NPO]: nothing by mouth, nil per os
+*[NSTEMI]: Non-ST-segment Elevation Myocardial Infarction
+*[PCI]: Percutaneous Intervention
+*[PE]: Pulmonary Embolism or Physical Exam
+*[RBBB]: Right Bundle Branch Block
+*[RHC]: Right Heart Catheterization
+*[STEMI]: ST-segment Elevation Myocardial Infarction
+*[TEE]: Transesophageal Echocardiogram
+*[TIMI]: Thrombolysis In Myocardial Infarction
+*[TSH]: Thyroid Stimulating Hormone
+*[TTE]: Transthoracic Echocardiogram
 *[VF]: Ventricular Fibrillation
 *[VSD]: Ventricular Septal Defect
-*[LV] Left Ventricle
-*[CCU]: Cardiac Critical Care Unit
-*[ACS]: Acute Coronary Syndrome
-*[TIMI]: Thrombolysis In Myocardial Infarction
-*[TTE]: Transthoracic Echocardiogram
-*[TEE]: Transesophageal Echocardiogram
-*[CCB]: Calcium Channel Blocker
-*[EP]: Electrophysiology
+*[VT]: Ventricular Tachycardia
+*[VUMC]: Vanderbilt University Medical Center
