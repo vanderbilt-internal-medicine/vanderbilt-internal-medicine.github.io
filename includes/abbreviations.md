@@ -9,8 +9,11 @@
 *[CABG]: Coronary Artery Bypass Graft
 *[CCB]: Calcium Channel Blocker
 *[CCU]: Cardiac Critical Care Unit
+*[CHF]: Congestive Heart Failure
 *[CrCl]: Creatinine Clearance
 *[CSF]: Cerebrospinal Fluid
+*[CT]: Computed Tomography
+*[CXR]: Chest X-Ray
 *[DAPT]: Dual Antiplatelet Therapy
 *[DAT]: Direct Antiglobulin Test
 *[DIC]: Disseminated Intravascular Coagulation
@@ -38,6 +41,7 @@
 *[RHC]: Right Heart Catheterization
 *[RI]: Reticulocyte Index
 *[STEMI]: ST-segment Elevation Myocardial Infarction
+*[TB]: Tuberculosis
 *[TEE]: Transesophageal Echocardiogram
 *[TIBC]: Total Iron Binding Capacity
 *[TIMI]: Thrombolysis In Myocardial Infarction
