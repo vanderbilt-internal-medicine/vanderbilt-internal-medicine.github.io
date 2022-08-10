@@ -1,29 +1,32 @@
-# Pleural Effusions
+# Pleural Effusions 
 
-Author: Eddie Qian
+Eddie Qian
+
+---
 
 ## Background
 
 There is a normal influx of fluid into the pleural space due to
-leaky capillary membranes and the pleural space’s negative pressure.
-This fluid is constantly reabsorbed by lymphatics. An imbalance in
-the system will result in accumulation.
+    leaky capillary membranes and the pleural space’s negative pressure.
+    This fluid is constantly reabsorbed by lymphatics. An imbalance in
+    the system will result in accumulation.
 
-Some examples:
+- Some examples:
 
-- Increased Influx: increased filtration from the capillaries from
-        high intravascular hydrostatic pressure (i.e., heart failure,
-        renal failure, volume overload) or low intravascular oncotic
-        pressure
-- Other liquid entry into the pleural space through anatomic
-        deficits: CSF, chyle, urine, blood, ascites (the diaphragm is
-        naturally porous and pleural effusions with ascites are not uncommon)
-- Decreased Efflux: obstruction of the parietal pleural stoma
-        (from protein or cellular debris in exudative pleural effusions)
-- Increased systemic venous pressure (lymphatic system drains into
-        systemic venous circulation, so if there is high venous
-        pressure this prevents the lymphatics from draining
-        appropriately)
+    - Increased influx: increased filtration from the capillaries from
+        high intravascular hydrostatic pressure (i.e., heart failure, renal
+        failure) or low intravascular oncotic pressure
+
+    - Other liquid entry into the pleural space through anatomic deficits:
+        CSF, chyle, urine, blood, ascites (the diaphragm is naturally
+        porous)
+
+    - Decreased efflux: obstruction of the parietal pleural stoma (from
+        protein or cellular debris in exudative pleural effusions)
+
+    - Increased systemic venous pressure (lymphatic system drains into the
+        systemic venous circulation so high venous pressure prevents
+        lymphatics from draining appropriately)
 
 ## Evaluation
 
@@ -85,5 +88,3 @@ Pearls about initial tests:
 
 ??? info "References"
     [Lights Criteria Original Paper](https://doi.org/10.7326/0003-4819-77-4-507)
-
---8<-- "includes/abbreviations.md"
