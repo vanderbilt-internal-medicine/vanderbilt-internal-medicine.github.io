@@ -85,7 +85,7 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
-  - pymdownx.snippets
+  - pymdownx.snippets:
       auto_append:
         - includes/abbreviations.md
 
