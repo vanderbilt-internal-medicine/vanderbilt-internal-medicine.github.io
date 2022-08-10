@@ -60,11 +60,6 @@ Interpretation:
 | pleural LDH : serum LDH                          | > 0.60                           |
 | pleural LDH : upper limit of normal of serum LDH | > 0.66                           |
 
-- Lights criteria: >=1 of the following to be considered an
-        exudative effusion
-  - Pleural to serum protein ratio > 0.5
-  - Pleural to serum LDH ratio > 0.6
-  - Pleural LDH > 2/3 upper limit of normal range of serum LDH
 - Transudative: CHF exacerbation, hepatic hydrothorax, atelectasis
         (caused by increased intrapleural negative pressure),
         hypoalbuminemia, renal failure
