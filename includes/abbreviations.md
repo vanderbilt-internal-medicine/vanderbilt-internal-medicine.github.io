@@ -7,12 +7,12 @@
 *[ACC]: American College of Cardiology
 *[AHA]: American Heart Association
 *[TSH]: Thyroid Stimulating Hormone
-*[ASA]: aspirin, "Acetylsalicylic Acid"
+*[ASA]: aspirin, Acetylsalicylic Acid
 *[LMWH]: Low Molecular Weight Heparin
 *[CrCl]: Creatinine Clearance
 *[LHC]: Left Heart Catheterization
 *[RHC]: Right Heart Catheterization
-*[NPO]: nothing by mouth, "nil per os"
+*[NPO]: nothing by mouth, nil per os
 *[MN]: midnight
 *[CABG]: Coronary Artery Bypass Graft
 *[LAD]: Left Anterior Descending artery
