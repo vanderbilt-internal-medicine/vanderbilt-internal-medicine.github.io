@@ -90,7 +90,7 @@ Pakinam Mekki
 
 ## Labs
 
-- Rule out infection: CBC, RVP, sputum Cx, Histo antigen, Blasto antigen, Aspergillus galactomannan, 1,3-β-D-Glucan, sputum GMS, consider NTM, HIV
+- Rule out infection: CBC, RPP, sputum Cx, Histo antigen, Blasto antigen, Aspergillus galactomannan, 1,3-β-D-Glucan, sputum GMS, consider NTM, HIV
 
  - Rheumatologic workup: ANA w/ reflex ENA, ESR, CRP, CK, aldolase,
             consider full myositis panel, RF, anti-CCP
