@@ -4,9 +4,9 @@
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/vanderbilt-internal-medicine/vimbook)
 
-# neovimbook
+# VIMbook
 
-This repository has the contents of the Vanderbilt Internal Medicine Handbook.
+This repository has the contents of the Vanderbilt Internal Medicine Handbook (VIMBook).
 
 
 ## contributing
@@ -50,7 +50,7 @@ that closely resembles the formatting
 we tend to use in medical documentation.
 E.g. a single '#' is used to denote a top-level header,
 multiple '##' denote sub-headings,
-'\-' are used to denote list items 
+'\-' are used to denote list items
 (put a blank line before you start a new list,
 or markdown will think you're just putting a hyphen into a sentence),
 '\*' around things mark them as important.
@@ -114,8 +114,8 @@ Here's a link for more on
 [images in Markdown](https://www.markdownguide.org/basic-syntax/#images-1).
 
 First, make sure you have the rights to the image
-(i.e. you made it, 
-  it's protected under public domain or fair use, 
+(i.e. you made it,
+  it's protected under public domain or fair use,
   or you obtained rights from the appropriate source)
 
 Then, the basic approach (add this line into your document):
@@ -123,7 +123,7 @@ Then, the basic approach (add this line into your document):
 `![cat](/docs/images/500.jpg)`
 
  Which will result in:
-  
+
 ![cat](/docs/images/500.jpg)
 
 The exclamation point is shorthand
