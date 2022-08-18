@@ -112,13 +112,13 @@ extra:
           note: >-
             Thanks for your feedback! Help us improve this page by
             using our <a href="https://github.com/vanderbilt-internal-medicine/vimbook/issues/new/?title=[Feedback]+{title}+-+{url}" target=_blank>feedback form</a>.
-  consent:
-    title: Cookie consent
-    description: >-
-      We use cookies to recognize your repeated visits and preferences, as well
-      as to measure the effectiveness of our documentation and whether users
-      find what they're searching for. With your consent, you're helping us to
-      make our documentation better.
+#  consent:
+#    title: Cookie consent
+#    description: >-
+#      We use cookies to recognize your repeated visits and preferences, as well
+#      as to measure the effectiveness of our documentation and whether users
+#      find what they're searching for. With your consent, you're helping us to
+#      make our documentation better.
 
 # VUMC Colors (https://www.vanderbilt.edu/communications/brand/color.php)
 # Gold: Hex: D8AB4C, Black: Hex: 000000, Blue: Hex: 006682, Red: Hex:  993D1B, Dark Gray: Hex:  333333 Green: Hex:  464E21
