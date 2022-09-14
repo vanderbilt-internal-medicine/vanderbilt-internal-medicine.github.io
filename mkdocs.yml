@@ -32,7 +32,7 @@ theme:
     - search.highlight
     - search.share
   favicon: images/vumc-favicon.png
-  logo: images/vumc-favicon.png
+  logo: images/vumc-logo-words.png
   palette:
     - scheme: default
       primary: black
