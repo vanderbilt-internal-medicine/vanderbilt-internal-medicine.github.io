@@ -62,9 +62,8 @@ Patricia Checinski
 
 - Runyon’s Criteria to distinguish, requires 2/3 criteria below (protein, glucose, LDH)
 
-| 0               | 1                    | 2             |
+|                 | Spontaneous          | Secondary     |
 |-----------------|----------------------|---------------|
-| NaN             | Spontaneous          | Secondary     |
 | Protein (g/dL)  | \< 1                 | \> 1          |
 | Glucose (mg/dL) | ≥50                  | \< 50         |
 | LDH (U)         | Elevated, but \< 225 | \> 225        |
