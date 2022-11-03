@@ -64,7 +64,7 @@ Patricia Checinski
 
 |                 | Spontaneous          | Secondary     |
 |-----------------|----------------------|---------------|
-| Protein (g/dL)  | \< 1                 | \> 1          |
-| Glucose (mg/dL) | ≥50                  | \< 50         |
-| LDH (U)         | Elevated, but \< 225 | \> 225        |
+| Protein (g/dL)  | <1                   | >1          |
+| Glucose (mg/dL) | ≥50                  | <50         |
+| LDH (U)         | Elevated, but < 225  | >225        |
 | Organisms       | 0-1                  | Polymicrobial |
