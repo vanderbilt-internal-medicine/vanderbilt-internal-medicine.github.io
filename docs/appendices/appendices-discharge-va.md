@@ -7,16 +7,16 @@ accurately reflected on the DIPN.
     - The list of outpatient medications at the end of your reconciliation
         is the final medication discharge list.
     - In the medication tab, transfer new inpatient medications to the
-        outpatient medication list by right-clicking and select ‘Transfer’
+        outpatient medication list by right-clicking and select ‘Transfer.’
     - Select “Pick up at window,” as this will ensure the patient will
-        have the medication prior to leaving the hospital
+        have the medication prior to leaving the hospital.
     - Order new supplies (wound care, tube feeds, etc) by placing new
-        outpatient "med" order
+        outpatient "med" order.
     - Review the existing outpatient medications to determine if they need
         to be continued and if the pt has an adequate supply at home -
-        refill meds if necessary
+        refill meds if necessary.
     - Discontinue any outpatient medications that you do not want the pt
-        to continue taking. Right-click and select ‘Discontinue’
+        to continue taking. Right-click and select ‘Discontinue.’
 - Return to clinic (Primary care)
 - Critical to tag PCP on discharge summary to ensure they are alerted
     to hospital stay. Can also tag consultants and office coordinators
