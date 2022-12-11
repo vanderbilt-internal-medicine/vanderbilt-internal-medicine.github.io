@@ -12,6 +12,7 @@
 | Hematology (Brittingham A & B) (one team) | 1 resident, 2 interns  | 8 per intern (16 total)   |
 | Oncology (Onc A & B)  (two teams)         | 1 resident, 1 intern   | 10                        |
 | VU MICU 1 & 2   (two teams)               | 3 residents, 3 interns | no cap (typically 10-12)  |
+| VU CCU                                    | 2 residents | no cap (typically 10-12)  |
 | VU Night: Admitting Morgan/Rogers         | 1 resident, 2 interns  | 10                        |
 | VU Night: Admitting Harrison/Heme/Onc     | 1 resident, 1 intern   | 10                        |
 | VU Night: Crosscover                      | 1 resident, 1 intern   | N/A                       |
