@@ -75,7 +75,7 @@ Apical four chamber
 - IVC size and collapsibility used as a surrogate for CVP and RAP
     - <2.1 cm and >50% collapse: RAP ~3mmHg
     - <2.1 cm and < 50% collapse or >2.1cm and >50% collapse: RAP ~8mmHg
-    - >2.1cm, <50% collapse: RAP ~ >15mmHg
+    - \>2.1cm, <50% collapse: RAP ~ >15mmHg
 
 
 ## Resources
