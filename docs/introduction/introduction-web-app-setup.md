@@ -8,9 +8,9 @@ of a web app.
     of the screen, hit the "Share" icon (box with upward facing arrow).
     Hit "Add to Home Screen." Rename it to your liking. The gold
     Vanderbilt icon will appear on your home screen, and you can click
-    this icon to be taken directly to the website!
+    this icon to be taken directly to the website.
 -   Android users:  Go to [VIMBook.org](http://vimbook.org/) . Press
     Menu, then select "Bookmarks." Hold it down until "Add Shortcut to
     Home Screen" appears, and click it. This will place an icon on your
     home screen, and you can click this icon to be taken directly to the
-    website!
+    website.
