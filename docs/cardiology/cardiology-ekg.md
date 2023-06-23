@@ -40,9 +40,9 @@ Method = mastery, approach each EKG the same.
         WPW)
     - If > 200 ms, first degree AV block
 - QRS Complex: 60 – 100 ms (normal)
-    - 100-120 ms: Incomplete BBB or non-specific intraventricular
+    - If 100-120 ms: Incomplete BBB or non-specific intraventricular
         conduction delay (IVCD)
-    - if > 120ms: complete BBB, ventricular tachycardia, hyperkalemia
+    - If > 120ms: complete BBB, ventricular tachycardia, hyperkalemia
 - QT interval: Normal duration < 450ms in men and < 460ms in women
     - QT is inversely proportional to HR (QT interval shortens at faster
         HRs)
