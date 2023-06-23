@@ -42,7 +42,7 @@ Method = mastery, approach each EKG the same.
 - QRS Complex: 60 – 100 ms (normal)
     - 100-120 ms: Incomplete BBB or non-specific intraventricular
         conduction delay (IVCD)
-    - > 120ms: complete BBB, ventricular tachycardia, hyperkalemia
+    - if > 120ms: complete BBB, ventricular tachycardia, hyperkalemia
 - QT interval: Normal duration < 450ms in men and < 460ms in women
     - QT is inversely proportional to HR (QT interval shortens at faster
         HRs)
