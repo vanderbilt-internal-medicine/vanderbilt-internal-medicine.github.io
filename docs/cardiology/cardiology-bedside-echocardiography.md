@@ -34,7 +34,7 @@ Jamie Pfaff
     - Identify E point (passive filling of LV) and determine distance
         from interventricular septum (IVS)
         - <7mm = Normal
-        - >10mm = HF
+        - \>10mm = HF
     - Confounders that elevate EPSS: AR, MS
 
 ### Parasternal short
