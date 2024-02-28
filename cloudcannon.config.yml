@@ -1,7 +1,7 @@
 source: /docs
 paths:
-  uploads: uploads
-  static: ''
+  uploads: docs
+  static: docs
   collections: ''
   data: ''
   layouts:
