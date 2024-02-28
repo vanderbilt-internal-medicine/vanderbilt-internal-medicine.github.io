@@ -1,85 +1,38 @@
-source: /docs
-paths:
-  uploads: docs
-  static: docs
-  collections: ''
-  data: ''
-  layouts:
+# Which collections CloudCannon will show in the CMS sidebar
 collections_config:
   docs:
-    path: docs
+    name: Documentation
+    path: "docs"
     output: true
-    url: '"/[full_slug]/"'
-    filter:
-    parse_branch_index:
-    name:
-    description: ''
-    icon: notes
-    documentation:
-    preview:
-    sort:
-    sort_options:
-    singular_name:
-    singular_key:
-    _editables: {}
-    _inputs: {}
-    _select_data: {}
-    _structures: {}
-    add_options:
-    create:
-    disable_add: false
-    disable_add_folder: false
-    disable_file_actions: false
-    new_preview_url:
-    schemas: {}
-    schema_key:
-_enabled_editors:
-  - visual
-  - content
-  - data
-_inputs: {}
-_select_data: {}
-_structures: {}
+    url: "/[full_slug]/" # mkdocs' default url behavior for nested files
+
+# Where CloudCannon should put new files, and how it should build URLs
+paths:
+  uploads: "docs" # Put new files inside the docs folder
+  static: "docs" # Reference files in the docs folder as /<file>
+
+# The available buttons in the CloudCannon Content Editor
 _editables:
   content:
+    link: true
     blockquote: true
     bold: true
-    bulletedlist: true
-    center:
-    code: true
-    copyformatting: true
-    correct_orientation: true
-    embed: true
-    expandable: true
-    format: p h1 h2 h3 h4 h5 h6
-    height:
-    horizontalrule: true
-    image: true
-    image_size_attributes: true
-    indent: true
+    format: "p h1 h2 h3 h4 h5 h6"
     italic: true
-    justify:
-    left:
-    link: true
-    mime_type:
-    numberedlist: true
-    outdent: true
-    paths:
-      uploads:
-      dam_uploads:
-      dam_static:
-    redo: true
-    removeformat: true
-    resize_style: contain
-    right:
-    snippet: true
     strike: true
-    styles:
     subscript: true
     superscript: true
-    table: true
     underline: true
+    bulletedlist: true
+    indent: true
+    numberedlist: true
+    outdent: true
+    code: true
+    embed: true
+    horizontalrule: true
+    image: true
+    table: true
     undo: true
-    width:
-data_config: {}
-timezone: Etc/UTC
+    redo: true
+    removeformat: true
+    copyformatting: true
