@@ -1,16 +1,16 @@
 # Gastroesophageal Varices and Hemorrhage 
 
-Patricia Checinski
+H. Anh Nguyen
 
 ---
 
 ## Background
 
-- Varices form due to portosystemic collaterals in the setting of portal HTN
-
-- The risk of mortality with each episode of esophageal variceal hemorrhage (EVH) is 15-25%
-
-- Recurrence occurs in 60% of patients within 1-2 years of the index event
+- Varices form due to portosystemic collaterals in the setting of portal HTN 
+- Gastroesophageal varices are present in approximately 50% of patients with cirrhosis and their presence correlates with severity of liver disease
+- The risk of mortality with esophageal variceal hemorrhage (EVH) can be up to 15-20%
+- Recurrence occurs in over 60% of patients within 1-2 years of the index event
+- The most important predictor of hemorrhage is the size of the varices. Other predictors include decompensated cirrhosis (Child B/C) and endoscopic presence of red wale marks or red spots 
 
 ## Variceal Screening
 
