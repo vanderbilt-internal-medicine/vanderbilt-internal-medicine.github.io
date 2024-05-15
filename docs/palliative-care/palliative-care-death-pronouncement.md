@@ -46,4 +46,4 @@ Michael J. Neuss
 
 ## Death Process at the VA
 
-<img src="../images/va-death-flowchart.png" alt="Death Process at VA" width="400">
+<img src="../images/va-death-flowchart.png" alt="Death Process at VA" width="600">
