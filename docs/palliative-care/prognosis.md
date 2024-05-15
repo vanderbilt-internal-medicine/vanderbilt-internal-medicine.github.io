@@ -50,4 +50,4 @@ Liana Mosley
 
 ## Cultivation of prognostic awareness:
 
-<img src=”../images/prognostic-awareness.png” alt=”Flowchart of prognostic awareness” width=”300”/>
+<img src="../images/prognostic-awareness.png" alt="Flowchart of prognostic awareness" width="500"/> 
