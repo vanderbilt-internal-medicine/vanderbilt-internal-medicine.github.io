@@ -1,64 +1,34 @@
 # Rheumatoid Arthritis 
 
-Raeann Whitney
+Anika Morgado
 
 ---
 
 ## Background
+-	Inflammatory disorder of synovial joints, typically polyarticular, that results in proliferation of synovial tissue leading to loss of articular cartilage and juxta articular bone
 
-- Inflammation and proliferation of synovial tissue, loss of articular
-    cartilage, erosion of juxtarticular bone
-
-- Female predominant (\~3:1), mostly child-bearing age at onset
-
-- Chronic, inflammatory polyarthritis affecting the small joints of
-    the hands (MCPs, PIPs, classically spares DIPs), wrists, feet,
-    ankles - typically *symmetric*
-
-- Ulnar deviation, swan neck, boutonniere deformities are late
-    findings of untreated disease
-
-- Morning stiffness lasting \>30 min (often 1 hr+) suggests
-    inflammatory arthritis (not specific)
-
-- Extra-articular manifestations include: sicca symptoms, scleritis,
-    ILD, pulm nodules, serositis, constrictive pericarditis, anemia,
-    mononeuritis multiplex, rheumatoid nodules, rheumatoid vasculitis.
-    Increased risk of lymphoma, osteoporosis
-
-- C1-C2 instability: pts need evaluation with imaging prior to
-    surgical procedure/intubation
+## Presentation
+-	Usually insidious onset of polyarticular, often symmetric joint pain and swelling; often with morning stiffness (i.e. >30min)
+-	Most common joints: MCPs, PIPs, wrists, ankles, MTPs, knees; classically spares DIPs
+-	Axial skeleton is usually spared, other than in severe disease when C1-C2 can be affected (pts usually need spinal imaging before surgical procedures or intubation)
+-	Systemic symptoms: fatigue, widespread pain, comorbid psychiatric disease (depression)
+-	Extra-articular manifestations: only in seropositive pts
+-	Osteopenia, rheumatoid nodules (usually on skin but can form anywhere including lungs), sicca symptoms, scleritis, ILD, constrictive pericarditis, rheumatoid vasculitis, anemia, neutropenia (associated splenomegaly)
+-	RA is an independent risk factor for CAD
 
 ## Evaluation
-
-- Clinical diagnosis + positive RF, anti-CCP. Note up to 15-20%
-    patients have seronegative RA
-
-    - RF is more sensitive but not specific; can be + in HBV/HCV,
-        cryoglobulinemia
-
-    - CCP is less sensitive but more specific
-
-- CBC, CMP, CRP, ESR, HIV, Hepatitis B and C screening; Quantiferon
-    Gold (biologics)
-
-- Obtain hand and foot films to assess for periarticular osteopenia &
-    typical marginal erosions
+-	Diagnosis: Clinical symptoms above with physical exam concerning for active synovitis/inflammatory joint changes
+    -	MCP subluxation, ulnar deviation, Swan and Boutonnieres deformities are late findings of untreated RA
+-	~75-80% of pts test positive for RF, anti CCP (more specific), or both. Up to ~20% seronegative
+-	RF can be nonspecific, seen in any disease with chronic stimulation of humoral immune system (HBV, HC, Sjogren’s, lymphoma, cryoglobulinemia)
+-	Labs: ESR and CRP (usually elevated in active disease and degree of elevation tends to correlate with disease activity, CBC, CMP, hep B, hep C, TB screening (treatment planning)
+-	Imaging: hand and foot plain films 
 
 ## Management
-
-- The majority of joint damage occurs early in the disease so early
-    treatment paramount
-
-- DMARDs: typically start with MTX; may require biologics such as TNF
-    inhibitors
-
-    - MTX dosed weekly; required daily 1 mg folic acid supplement
-
-        - Toxicities: oral ulcers, bone marrow suppression, liver
-            toxicity, pneumonitis, teratogenic (contraception required)
-
-- Symptomatic/Flare treatment (no impact on disease progression):
-
-- Steroids at low-moderate dosage (e.g., prednisone 15-20mg/day);
-    NSAIDs (high doses required for anti-inflammatory effects)
+-	Early diagnosis and use of DMARDs are key with goal of early remission or low disease activity. Most joint damage begins early in disease course
+-	Start with MTX weekly (with folic acid) in most pts
+-	NSAIDs/systemic glucocorticoids can be initiated simultaneously to rapidly reduce symptoms/disease activity while MTX takes effect (weeks to months for peak)
+-	If pts cannot take MTX, trial HDQ, SSZ, or LEF 
+-	If poor response to MTX, usually trial combination therapy
+-	MTX + SSZ and HCQ in resource limited settings or biologics contraindications 
+-	MTX + TNF inhibitor or JAK inhibitor
