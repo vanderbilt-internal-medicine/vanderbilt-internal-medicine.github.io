@@ -103,6 +103,8 @@ Eli Cohen
 -	When transitioning, doses are traditionally reduced by 1/4 to 1/3 due to cross tolerance; however, if the pain is uncontrolled, it is reasonable to not dose reduce to account for this.
 -	IR/ER regimens:  Consider switching to extended release when requiring 3-4 doses of intermediate release (IR) medications in a 24-hour period regularly. The ER medication should treat the chronic pain experienced by a pt.  The IR preparation is indicated for breakthrough pain.   The IR dose should be calculated as 10-20% of the total OME dose a pt takes daily.  Fentanyl patches should last 72 hours
 
+<img src="../images/opioid-conversion-new.png" alt="Opioid Conversion Flowchart" width="600"> 
+
 ## Patient-Controlled Analgesia (PCA)
 -	Pumps can be programmed to deliver a continuous rate and/or a bolus dose
     -	Basal rate: a continuous infusion dosed per hour that cannot be adjusted by the pt
