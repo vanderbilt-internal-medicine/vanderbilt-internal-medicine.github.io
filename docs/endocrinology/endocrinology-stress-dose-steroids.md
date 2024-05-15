@@ -16,3 +16,4 @@ Griffin Bullock
     -	Minor (e.g. hernia repair): hydrocortisone 25mg for 1 day
     -	Moderate (e.g. cholecystectomy): 50-75mg day of surgery and post-op day 1
     -	Major (e.g. CABG): 100-150mg daily 2-3 days (would consult endocrine)
+- Trauma, critical illness, or unclear give stress dose
