@@ -49,4 +49,4 @@ Tina Arkee
 
 ## Synovial fluid aspiration and analysis: see “Arthrocentesis Quick Look” section
 
-<img src='../images/joint-pain-flowchart.png' alt='Joint Pain Flowchart' width='400'>
+<img src='../images/joint-pain-flowchart.png' alt='Joint Pain Flowchart' width='600'>
