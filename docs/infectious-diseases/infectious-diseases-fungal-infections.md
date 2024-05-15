@@ -1,157 +1,122 @@
 # Fungal Infections 
 
-Justin Smith
+Ally Glover
 
 ---
 
-# Histoplasmosis
-
-## Background
-
-- Endemic to Ohio and Mississippi river valley
-
-- Pulmonary infiltrate with hilar or mediastinal LAD, pulmonary
-    nodule/cavitary lesion, pulmonary syndrome with erythema nodosum
-
-- DDx: TB, malignancy, sarcoidosis (if considering sarcoidosis, rule
-    out histoplasmosis as sarcoidosis treatment can induce disseminated
-    histoplasmosis)
-
 ## Evaluation
+-	Bacterial BCx can detect candidemia but low sensitivity (50%). Fungal blood cultures also with low sensitivity.  
+-	Beta-d-glucan: note will not be elevated in mucormycosis, cryptococcosis, and blastomycosis.
+-	Aspergillus galactomannan: BAL > serum. 
+-	Pts with risk factors for candidemia (TPN, chronic line, GI disease, persistent neutropenic fever) with concerning clinical syndrome can be treated empirically with micafungin.
 
-- Antigen (requires attending approval): For acute pulmonary
-    histoplasmosis, 65% urine sensitivity, 69% serum sensitivity, and
-    83% sensitivity when co-tested. Thus, both serum and urine Ag are
-    usually sent together
-    - Lower rates of positivity when disease is localized, versus diffuse
-    throughout the lungs or disseminated.
-    - There are relatively high rates of cross-reactivity, where
-    histoplasma antigen will be positive with blastomycosis; therefore,
-    do not order blasto Ag if ordering histo Ag in MOST cases
+## Candida Infections
 
-- Serology: Consider Histoplasma Ab if evaluating for pulmonary
-    disease
+### Background 
+-	Part of normal flora of human GI and GU tract
+-	Broad range of associated diseases from vaginal candidiasis to candidemia
+-	Pts at highest risk of severe / invasive candida infection (candidemia):
+    -	Burn / surgical ICU pts
+    -	Solid organ recipients
+    -	Chemo pts / malignant heme pts
+    -	TPN dependent / central access pts (especially in ICU) 
 
-- Culture: most useful in chronic infections, sensitivity is low in
-    acute/localized and may take \>6 weeks to grow.
+### Presentation 
+-	Oropharyngeal: white plaques/patches in mouth +/- erythema, painful when eating
+-	Esophageal: dysphagia/odynophagia, chest pain w/ swallowing 
+-	Vulvovaginitis: white, thick discharge; pruritus/erythema 
+-	Balanitis: white patches on penis with severe burning/itching
+-	Mastitis:  breast feeding pts with nipple injury 
+-	Invasive focal infections
+    -	UTI: ascending infection (can often be unilateral) vs. hematologic source (micro abscesses)
+    -	Peritonitis: often in peritoneal dialysis pts
+    -	Mediastinitis: often post thoracic surgery
+    -	Hepatosplenic: often in pts who just recovered from neutropenia in setting of heme malignancy 
+-	Candidemia: sepsis, often in setting of critical illness, think about when above risk factors present 
 
-- Bronchoscopy: If clinical suspicion is high and work up negative,
-    consider interventional pulmonology consult for consideration of
-    bronchoscopy
+### Evaluation
+-	Blood: candida is NEVER a contaminant in blood cultures 
+-	Urine: culture is standard method of identification but RARELY a urinary pathogen
 
-## Management
+### Management
+-	Candidemia / critical illness: start micafungin 100mg daily, consult ID
+-	Vulvovaginitis: fluconazole 150mg x1 if mild, 150mg every 72 hrs for 2-3 doses if severe
+-	Oropharyngeal: nystatin oral suspension if mild thrush, if moderate – severe candidiasis then fluconazole 100-200mg qday for 7-14 days
+-	Esophageal candidiasis (AIDS defining illness): fluconazole 200-400mg qday or micafungin 150mg daily for 14-21 days as an alternative agent
 
-- Outpatient/Mild disease:
+### Additional information 
+-	Remember to check susceptibilities (C krusei has intrinsic azole resistance and C glabrata has high rates of fluconazole resistance)
 
-    - Tx not required if symptoms \<4 weeks, initiate if symptomatic
-    beyond 4 weeks
-    - Itraconazole: 200mg TID x3 days loading, then BID (adjusted by
-    levels which are drawn 2 weeks post-start) for 6-12 weeks minimum
-    - Can use oral formulation or capsules (capsules require high acidity,
-    give with food consumption or OJ or coke; do not use capsules if
-    patient is on H2 blockers/PPI)
-    - Voriconazole, Posaconazole: used if not tolerating itraconazole or
-    as salvage therapy
+## Aspergillosis
+### Background
+-	Most often in pts who have prolonged neutropenia, high dose steroids, or other immunosuppressive drug regimen or condition 
+-	Take thorough hx: farming, occupational exposure where pt might have inhaled conidia
 
-- Inpatient/Moderate to Severe Disease:
+### Presentation
+-	Classic pulmonary aspergillosis presentation: neutropenic pt with fever, pleuritic chest pain and hemoptysis
+-	Tracheobronchitis: can occur in lung transplant pts 
 
-    - Amphotericin: 1-2 weeks induction, followed by PO itraconazole for
-    12 weeks (total)
+### Evaluation 
+-	Aspergillus galactomannan Ag 
+-	Lung imaging if concerned for pulmonary aspergillosis
+-	Differentiate possible vs probable vs proven (tissue) aspergillosis as it can reflect colonization without proper clinical syndrome or host 
 
-    - Methylprednisolone: help to prevent ARDS with significant lung
-    involvement
+### Management
+-	Consult ID. Usually treat with voriconazole or other triazole (posaconazole, isavuconazole). Preferred over amphotericin based on clinical trials.
+-	Fluconazole is NOT active against aspergillus
 
-## Additional Information
+## Blastomycosis
+### Background
+-	Endemic in midwest, southeast, southern central US, and parts of Canada that border the Great Lakes
+-	Mostly pulmonary manifestations, 25-40% of infections w/ extrapulmonary involvement (skin, bone, GU, and CNS presentations)
 
-- Complications: Pericarditis, arthritis/arthralgias with erythema
-    nodosum, chronic cavitary lesions, fibrosing mediastinitis,
-    broncholithiasis
+### Presentation
+-	Pulmonary symptoms common: dyspnea, cough, fever, hemoptysis, chest pain
+-	Verrucous lesions with irregular borders
+-	Osteolytic bone lesions 
+-	Draining sinuses 
 
-- Disseminated Histoplasmosis:
-    - Typically found in immunocompromised populations
-    - Clinical presentations: FUO, weight loss, disseminated LAD,
-    cutaneous manifestations, bone marrow suppression/pancytopenia,
-    liver enzymes elevation, various solid organ involvement on imaging
-    (liver, spleen, adrenals, nodes)
-    - Management
-        - Mild: itraconazole
-        - Moderate to Severe: amphotericin induction followed by
-        itraconazole
-        - CNS involvement: amphotericin for 4-6 weeks as induction
+### Evaluation: 
+-	Serum and urine blastomycosis Ag
+-	Antibody testing less useful in acute disease (interpret with caution)
 
-# Blastomycosis
+### Management
+-	Pulmonary blastomycosis
+    -	Mild to Moderate: itraconazole 6-12 months
+    -	Moderate to Severe: ampho followed by itraconazole for 6-12 months
+-	Disseminated extrapulmonary blastomycosis: ampho followed by itraconazole for a year
+    -	Note: in anyone who is immunosuppressed, especially pts with AIDS, start with amphotericin
+-	CNS blastomycosis: 4-6 weeks of ampho followed by a year of itraconazole
 
-## Background
+## Histoplasmosis
+### Background 
+-	The most common endemic mycosis in the US. Endemic to Ohio and Mississippi river valley. 
+-	Most infections are not clinically significant / do not require treatment. 
+-	At risk for disseminated disease (HIV, transplant recipients, immunocompromised, TNF- alpha inhibitors, elderly) 
+-	Differential diagnosis: TB, malignancy, sarcoidosis, other fungal infection
 
-- Endemic to Mississippi/Ohio river valley, southern and midwestern
-    US, great lakes
+### Presentation
+-	Pulmonary histo: pna w/ mediastinal or hilar LND or masses, pulmonary nodules, cavitation
+-	Disseminated histo: fever, mediastinal LND, diffuse pulm interstitial infiltrates, HSM, liver involvement, popular rash, cytopenias, mucosal lesions,  LDH, ferritin, adrenal involvement, colonic involvement. 
 
-- Pulmonary syndrome: cough, fever, hemoptysis, chest pain, dyspnea
-    - Can result in both an acute or chronic pneumonia, as well as ARDS
+### Evaluation
+-	Send BOTH Urine and Serum antigens. Requires attending name to order. 
+-	Antibody testing less useful in acute disease (interpret with caution)
+-	Other diagnostics to consider: peripheral smear/buffy coat, fungal blood cultures, LDH, ferritin, BAL with cultures and cytology 
+-	Remember histo Ag has high cross reactivity with blasto Ag
 
-- Cutaneous: raised verrucous lesion, varying in color, with irregular
-    borders
+### Management: 
+-	Amphotericin and Itraconazole- discuss with ID, pharmacy about dosing, duration. 
+-	Pulmonary histo:
+    -	Mediastinal granuloma, fibrosis, broncholithiasis: usually no tx.
+    -	Mild-moderate acute pulmonary histo: itraconazole if persistent symptoms > 1mo
+    -	Chronic cavitations: itraconazole, likely 1 to 2 years
+    -	Severe acute pulmonary histo: amphotericin for 1-2 weeks +/- methylprednisolone followed by itraconazole for 12 weeks
+-	Disseminated histo:
+    -	Mild-moderate disseminated disease: itraconazole for ~12 months
+    -	Severe disseminated disease: ampho for 1-2 weeks followed by itraconazole for ~12 mo 
 
-- MSK: osteolytic lesion, draining sinus, soft tissue swelling
-
-- Multi-system: up to 20-40% of cases, most typically lung/skin
-    involvement.
-
-## Evaluation
-
-- Culture: typically takes 1-4 weeks
-
-- Ag: urine \>serum. \~90% sensitive, but only 80% specific because of
-    cross-reactivity
-
-- Serology: available, but not very useful because of high degree of
-    cross-reactivity
-
-## Management
-
-- Mild: PO itraconazole for 6-12 months with loading, check level at 2
-    weeks
-
-- Moderate to Severe: induction with Amphotericin, followed by 6-12
-    months of PO itraconazole
-
-# Candida
-
-## Background
-
-- Oropharyngeal: white plaques in mouth, change in taste, erythema
-    without plaques
-    - Usually seen in infants, older adults, immunocompromised host (HIV
-    or chemotherapy), inhaled steroid users
-
-- Esophageal: odynophagia, especially retrosternal pain (AIDS defining
-    illness)
-
-- Vulvovaginitis: itching, burning, vaginal discharge, vulvar
-    erythema, vulvar edema, dyspareunia, dysuria
-
-- Balanitis: painful white plaques with burning and itching on the
-    glans penis
-
-- Mastitis: erythema, tenderness in breast feeding woman.
-
-## Management
-
-- Depends on specifics, but typically nystatin or fluconazole EXCEPT
-    *C. glabrata* (proof of fluconazole susceptibility needed) and *C.
-    krusei* (intrinsically resistant to fluconazole)
-
-- Cx generally not indicated unless complicated pt with extensive tx
-    history for Candida
-
-## Additional Information
-
-- Disseminated disease
-    - Presentation: Primarily immunocompromised populations (hematologic
-    malignancies, solid organ transplant recipients, receiving
-    chemotherapy, TPN, steroid use, broad spectrum antibiotics) and ICU
-    settings (especially, burn, trauma, and neonatal)
-    - Diagnosis: *Candida* in a bacterial blood culture (NEVER
-    contaminant)
-    - Start micafungin 100mg IV and consult ID for candidemia or if
-    concerned for disseminated disease
+### Additional information
+-	Disseminated histoplasmosis can be associated with secondary HLH. Follow CBC closely. 
+-	If concerned for sarcoidosis, need to rule out histo prior to starting treatment for sarcoidosis 
+-	Urine antigen can be used to trend response to treatment 
