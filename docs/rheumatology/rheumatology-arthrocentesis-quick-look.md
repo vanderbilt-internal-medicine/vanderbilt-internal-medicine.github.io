@@ -1,39 +1,82 @@
 # Arthrocentesis Quick Look 
 
-Raeann Whitney
+Tina Arkee
 
 ---
 
-## When in doubt, tap it!
+## Indications for arthrocentesis: 
+-	 Monoarthritis (acute or chronic)
+-	Suspicion for infection, crystal arthropathy, or hemarthrosis
+-	Trauma with joint effusion
+-	When diagnosis is unclear despite history and other workup 
 
-- Send synovial fluid for Gram stain/culture and cell count
+## Relative Contraindications to arthrocentesis
+-	Extensive cellulitis or psoriatic plaque around the site of interest (risk of introducing bacteria into a sterile space) 
+-	Coagulopathy 
+-	Bacteremia 
+-	Concern for infection of a prosthetic joint – these should only be tapped by Ortho!
 
-- Beware: Inflammatory / crystal arthropathies can have very high
-    leukocyte counts!
+## What to order
+-	Synovial fluid exam (includes cell count and crystal exam). *Note: may see similar cell counts in gout and septic arthritis. The presence of crystals does not necessarily rule out septic arthritis. 
+-	Body fluid gram stain and culture
 
-    - The presence of crystals does NOT exclude septic arthritis
+## Synovial Fluid Analysis
 
-- A fever or concern for infection in a prosthetic joint is a surgical
-    emergency; ortho will come in the middle of the night to tap a joint
-
-- Contraindications to tap: overlying cellulitis or psoriatic plaque
-
-    - Anticoagulation / DVT ppx is OK (no need to hold)
-
-| ​Arthritis Type                  | Appearance ​          | Total WBC ​              | PMNs ​ |
-|---------------------------------|----------------------|-------------------------|-------|
-| Non-inflammatory ​               | Straw like / yellow ​ | \<2000​                  | \<25%​ |
-| Inflammatory / Crystalopathies ​ | Yellow / cloudy ​     | \>2000​ (often 20-50K+)  | \>50%​ |
-| Septic ​                         | Purulent ​            | \>50,000​ (often \>100K) | \>75%​ |
+<table border="1">
+  <tr>
+    <th></th>
+    <th>Non-inflammatory</th>
+    <th>Inflammatory</th>
+    <th>Septic</th>
+    <th>Hemorrhagic</th>
+  </tr>
+  <tr>
+    <td>Appearance</td>
+    <td>Clear straw/yellow</td>
+    <td>Clear to cloudy yellow</td>
+    <td>Opaque/turbid yellow green</td>
+    <td>Reddish brown</td>
+  </tr>
+  <tr>
+    <td>Cell count</td>
+    <td>&lt;2000</td>
+    <td>&gt;2000–50,000</td>
+    <td>&gt;50,000</td>
+    <td>&lt;2000</td>
+  </tr>
+  <tr>
+    <td>% of PMNs</td>
+    <td>&lt;25%</td>
+    <td>&gt;50%</td>
+    <td>&gt;75%</td>
+    <td>&lt;50%</td>
+  </tr>
+  <tr>
+    <td>Culture</td>
+    <td>Negative</td>
+    <td>Negative</td>
+    <td>Positive</td>
+    <td>Negative</td>
+  </tr>
+  <tr>
+    <td>Crystals</td>
+    <td>No</td>
+    <td>Yes<br>Gout: needle shaped, negatively birefringent<br>Pseudogout: rhomboid shaped, positively birefringent</td>
+    <td>No</td>
+    <td>No</td>
+  </tr>
+  <tr>
+    <td>DDx</td>
+    <td>Osteoarthritis, trauma, osteonecrosis</td>
+    <td>Inflammatory arthritis, crystal arthritis, sarcoidosis, indolent infections</td>
+    <td>Septic arthritis</td>
+    <td>Trauma, coagulopathy</td>
+  </tr>
+</table>
 
 ## Crystals
 
 - Monosodium urate: needle-shaped, negatively birefringent
-
-    - Sensitivity is generally good (\>90s%)
-
-
-- Calcium pyrophosphate dihydrate: rhomboid-shaped, positively
-    birefringent (weakly)
-
-    - Weak birefringence significantly reduced sensitivity
+    - Sensitivity is generally good (>90s%) 
+- Calcium pyrophosphate dihydrate: rhomboid-shaped, positively birefringent (weakly), appear blue when parallel to the polarizer
+    - Weak birefringence significantly reduces sensitivity
