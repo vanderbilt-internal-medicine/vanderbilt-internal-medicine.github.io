@@ -1,84 +1,73 @@
 # Thrombocytopenia
 
-Robert Dunn
+Spencer Lessans
 
 ---
 
 ## Background
-
-- Platelet count <150k (mild), 50-100k (moderate), <50k (severe)
-- Framework for differential: consumption, sequestration, destruction,
-    production
-- Causes to consider:
-    - Can’t Miss Diagnoses: TTP, HUS, HELLP, DIC, HIT
-    - Platelet clumping (lab artifact - pseudothrombocytopenia)
-    - Splenomegaly can represent: Plt sequestration, cirrhosis, portal
-        hypertension
-    - Drug-induced: (Antibiotics, heparin, chemo, GpIIb/IIIa antagonists,
-        H2-antagonists)
-    - Rheumatologic cause – SLE, sarcoidosis, scleroderma renal crisis
-    - Sepsis, independent of DIC
-    - Immune thrombocytopenia (ITP) is a diagnosis of exclusion
-    - Massive physiologic consumption: large hematoma, active hemorrhage
-    - Cirrhosis – results in low thrombopoietin (TPO) and increased
-        clearance
-    - Chronic alcohol use – direct marrow suppression
-    - Infections: HIV, HCV, EBV, Parvovirus, Rickettsia, H. pylori, CMV
-    - Bone marrow failure: aplastic anemia, MDS, leukemia, chemotherapy
-    - Dilutional: fluid resuscitation and massive transfusion
+- Classified as either mild (100K-150K), moderate (50K-99K), or severe (<50K)
+- Can be divided into different causes
+    - Decreased platelet production
+        - Decreased TPO: Cirrhosis
+        - Bone marrow suppression: sepsis, EtOH, infections (HIV, tick-borne [RMSF, anaplasma, erhlichia], leptospirosis, parvovirus aplastic crisis), certain drugs (vancomycin, linezolid, bactrim, valganciclovir, immunosuppressive therapies, chemotherapies, allopurinol, colchicine)
+        - Bone marrow failure
+        - Infiltrative: malignancies (leukemia, lymphoma, myeloma, metastatic solid tumors), infections (TB, NTM, fungal infections), fibrosis (myelofibrosis)
+        - Aplastic anemia
+        - Nutrient deficiencies: Copper (primary or caused by elevated zinc levels), B12, folate
+    - Platelet destruction/consumption:
+        - Immune thrombocytopenia (ITP):
+        - Drug-induced (quinines, sulfonamides, beta-lactams, vancomycin, meropenem, valacyclovir, PPIs, H2 blockers, anti MTB therapy)
+        - Heparin-induced thrombocytopenia
+        - Infections (HIV, HBV, HCV, CMV, EBV, malaria, H. pylori)
+        - Autoimmune disorders (SLE, scleroderma)
+        - Thyroid disease
+        - Bleeding
+        - Idiopathic
+        - Thrombotic microangiopathies (TMAs)
+        - TTP (acquired, hereditary)
+        - HUS
+        - DIC (sepsis, APML, pancreatitis, transfusion reaction, HELLP)
+        - Drug-induced (Calcineurin inhibitors, gemcitabine, cocaine)
+        - Autoimmune (scleroderma renal crisis)
+        - Complement-mediated (atypical HUS)
+        - Catastrophic antiphospholipid syndrome (APLS)
+        - Hypertensive emergency
+    - Sequestration: Hypersplenism or splenic sequestration (e.g. cirrhosis)
+    - Pseudothrombocytopenia: platelet clumping
+    - Dilutional: gestational thrombocytopenia 
 
 ## Presentation
-
-- Petechiae – typically begins distally on lower legs (in mouth = wet
-    purpura), seen when \<10-20k
-- Overt bleeding, mucosal bleeding, epistaxis (seen when \<20k)
+- Usually asymptomatic
+- Bleeding due to low platelet counts presents as petechiae
+- Some causes of thrombocytopenia have a paradoxical increased risk of thrombosis (HIT, DIC, TMA, VITT from the AstraZeneca or Johnson & Johnson COVID vaccines)
 
 ## Evaluation
+- Repeat CBC w/ diff PLUS a peripheral smear
+- Citrated platelet count (to rule out pseudothrombocytopenia though a smear without clumping is sufficient to exclude this) and immature platelet fraction (IPF)
+- IPF can help differentiate between decreased platelet production vs. increased platelet production (in setting of destruction/consumption)
+- Medication reconciliation to look for any offending drugs
+- TMA/DIC labs: Haptoglobin, LDH, LFTs, PT/PTT, fibrinogen, peripheral smear
+- Viral serologies: HIV, HBV, HCV, EBV, CMV, parvovirus (if clinically indicated)
+- Infectious work-up
+- Sepsis: blood cultures
+- Fungal work-up (if clinically indicated): 1,3-Beta-D-Glucan, aspergillus galactomannan, urine blasto Ag, urine and serum histo Ag, crypto Ag
+- Tick-borne (if clinically indicated): RMSF, Ehrlichia, Anaplasma
+- Leptospirosis (if clinically indicated)
+- TB and/or NTM (if clinically indicated): AFB, interferon-Gamma release assay
+- Autoimmune work-up (if clinically indicated): ESR, CRP, ANA w/ reflex, RF
+- Nutritional studies: B12, folate, copper, zinc
+- TSH to screen for thyroid disease
+- Abdominal U/S to look for splenomegaly (or review recent imaging)
+- Bone marrow biopsy (if clinically indicated): co-existing cytopenias raise suspicion for bone marrow involvement (particularly if present prior to admission)
+- HIT work-up: Calculate 4T score: if 4+, order HIT Ab ELISA. If (+), serotonin-release assay (SRA) will reflex for confirmation 
 
-- CMP, CBC w/diff, peripheral smear, citrated platelet count, immature
-    platelet fraction (IPF)
-- LDH, Fibrinogen, d-dimer, PT/aPTT
-- Determine timing of decline as well as prior values
-- Look at other cell lines - never normal to have two cytopenia’s
-- Review recent initiation of drugs: (heparin, antibiotics, and
-    chemotherapy)
-- Consider abdominal ultrasound to look for splenomegaly and liver
-    pathology
-- Infectious work up (HIV, HCV)
-- Calculate 4T Score and consider your pretest probability for HIT
-    testing
-- HIT Ab: ELISA is first test – only run once/day at VUMC so order
-    early if considering
-- Reflex Serotonin release assay (SRA) for confirmation (VUMC performs
-    reflexive testing)
-
-## Management
-
-- Plt <50k
-    - Discontinue pharmacologic DVT prophylaxis (unless HIT)
-    - If on anticoagulation: consider risk/benefits of continued
-        anticoagulation
-        - Can transfuse plt’s if AC is mandatory
-- Plt <10k
-    - Transfuse platelets given risk of spontaneous intracranial
-        hemorrhage
-    - In pt’s with HIT or TTP, there is theoretical concern that
-        transfusing plt can “fuel the fire” and lead to more thrombosis, but
-        if there is active bleeding then consider platelets
-        - Therefore, bleeding with HIT or TTP, discuss with Hematology
-            before transfusion
-- HIT
-    - If pretest probability is high or HIT is confirmed
-    - Stop Unfractionated and low molecular weight heparin products
-    - Start Argatroban gtt
-- If schistocytes present on peripheral smear = concern for TTP
-    - Draw ADAMTS13
-    - Contact Nephrology and Hematology for PLEX
-
-## Additional Information
-
-- Clumping on lab draws:
-    - Obtain Citrated platelet (“blue top” tube – CPRS refers to it as a
-        blue top platelet count)
-    - If no resolution, obtain a "Gold top" LAB 301 in Epic (Named: Plt
-        count) (ACD tube)
+## Management: 
+- Platelet transfusion indications
+    - CNS or ocular bleeding: <100K
+    - Pt actively bleeding or plan for OR: <50K
+    - Plan for central line, bronch, LP, diagnostic endoscopy, or bone marrow biopsy: <20K
+    - Afebrile, hospitalized pts: <10K
+- HIT management: Stop any heparin product and start argatroban.
+- Schistocytes on smear:
+    - Think TTP or DIC when there are schistocytes on smear and thrombocytopenia
+    - If DIC is excluded, consult Hematology to discuss sending ADAMTS13 and starting PLEX. A Vascath is needed for PLEX
