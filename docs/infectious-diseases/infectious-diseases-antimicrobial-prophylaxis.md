@@ -4,20 +4,82 @@ Rachel Pellegrino
 
 ---
 
-| 0               | 1                                              | 2                                                                             | 3                                                                                          | 4                                                                            |
-|-----------------|------------------------------------------------|-------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
-| CD4 counts      | Opportunistic Infection                        | Indication for Prophylaxis                                                    | Medication                                                                                 | Special Notes                                                                |
-| <200 cells/mm3 | Pneumocystis Pneumonia (PJP)                   | CD4 < 200, or CD4 < 14%, or CD4 200-250 w/ delayed init. ART & poor f/u     | TMP-SMX: 1 DS daily (qd), or TMP-SMX: 1SS qd TMP-SMX: 1 DS TIW                             | If intolerant of TMP-SMX: dapsone\*, or pentamidine, or atovaquone           |
-| <200 cells/mm3 | Toxoplasma gondii encephalitis                 | Toxoplasma IgG + and CD4 < 100                                               | TMP-SMX 1 DS tab daily                                                                     | Alternative regimens: Dapsone, or Atovaquone (all regimens effect. for PJP ) |
-| <200 cells/mm3 | Mycobacterium avium- intracellulare (MAC, MAI) | Only if not on fully suppressive ART and active disseminated MAC is ruled out | - Azithromycin 1200 mg weekly, or -Clarithromycin 500 mg BID, or - Rifabutin 300 mg daily | NOT indicated for those initiating ART                                       |
+<table border="1">
+  <tr>
+    <th>CD4 counts</th>
+    <th>Opportunistic Infection</th>
+    <th>Indication for Prophylaxis</th>
+    <th>Medication</th>
+    <th>Special Notes</th>
+  </tr>
+  <tr>
+    <td>&lt;200 cells/mm3</td>
+    <td>Pneumocystis Pneumonia (PJP)</td>
+    <td>CD4 &lt; 200, or CD4 &lt; 14%, may consider discontinuation if CD4 100-200 in setting of viral suppression</td>
+    <td>TMP-SMX: 1 DS daily (qd), or TMP-SMX: 1SS qd TMP-SMX: 1 DS TIW</td>
+    <td>If intolerant of TMP-SMX: dapsone*, or inhaled pentamidine, or atovaquone</td>
+  </tr>
+  <tr>
+    <td>&lt;200 cells/mm3</td>
+    <td>Toxoplasma gondii encephalitis</td>
+    <td>Toxoplasma IgG + and CD4 &lt; 100</td>
+    <td>TMP-SMX 1 DS tab daily</td>
+    <td>Alternative regimens: dapsone + pyrimethamine + leucovorin, or atovaquone (all regimens also effective for PJP)</td>
+  </tr>
+  <tr>
+    <td>&lt;50 cells/mm3</td>
+    <td>Mycobacterium avium-intracellulare (MAC, MAI)</td>
+    <td>Only if not on fully suppressive ART and active disseminated MAC is ruled out</td>
+    <td>Azithromycin 1200 mg weekly, or Clarithromycin 500 mg BID, or Rifabutin 300 mg daily</td>
+    <td>NOT indicated for those initiating ART</td>
+  </tr>
+</table>
 
-| Infection                                          | Screening Indication                                                                                                                                                                                               | Intervention                                                                       |
-|----------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
-| Hepatitis A Virus (HAV)                            | Non-immune w/ ↑ risk for HAV infection (MSM, IVDU) or chronic liver disease                                                                                                                                        | HAV vaccine                                                                        |
-| Hepatitis B Virus (HBV)                            | Pts w/o chronic HBV or non-immune                                                                                                                                                                                  | HBV vaccine. Ideally admin. before CD4 < 350                                      |
-| Human Papilloma virus (HPV)                        | Age 13-45                                                                                                                                                                                                          | HPV vaccine series                                                                 |
-| Influenza A and B Virus                            | All patients                                                                                                                                                                                                       | Yearly inactivated influenza vaccine                                               |
-| Latent Mycobacterium tuberculosis infection (LTBI) | -Pts with positive screening test for LTBI w/ no evidence of active disease. -Pts w/ known exposure                                                                                                                | (INH 300mg + pyridoxine 25-50mg) PO daily for 9 months                             |
-| Streptococcus pneumoniae                           | All patients                                                                                                                                                                                                       | PCV13 and PPV23 (order and timing depends on previous vaccination history and CD4) |
-| Syphilis                                           | All pts exposed to sex partner with syphilis diagnosis                                                                                                                                                             | Screening for syphilis and gonorrhea/chlamydia with treatment if indicated.        |
-| Varicella Zoster Virus (VZV)                       | Pre-exposure: CD4 >200, no previous vaccine.Shingrix (recombinant vaccine) is not live virus, only Zostavax (live virus) is contraindicated for CD4 <200). Post-exposure: Close contact, particularly if CD4 <200 | Pre-exposure: Consider vaccination Post-exposure: Varicella-zoster immune globulin |
+<table border="1">
+  <tr>
+    <th>Infection</th>
+    <th>Screening Indication</th>
+    <th>Prevention or Intervention</th>
+  </tr>
+  <tr>
+    <td>Hepatitis A Virus (HAV)</td>
+    <td>Non-immune with ↑ risk for HAV infection (MSM, IVDU) or chronic liver disease</td>
+    <td>HAV vaccine series</td>
+  </tr>
+  <tr>
+    <td>Hepatitis B Virus (HBV)</td>
+    <td>Pts without chronic HBV or non-immune</td>
+    <td>HBV vaccine series</td>
+  </tr>
+  <tr>
+    <td>Human Papilloma virus (HPV)</td>
+    <td>Age 13-45</td>
+    <td>HPV vaccine series</td>
+  </tr>
+  <tr>
+    <td>Influenza A and B Virus</td>
+    <td>All pts</td>
+    <td>Yearly inactivated influenza vaccine</td>
+  </tr>
+  <tr>
+    <td>Latent Mycobacterium tuberculosis infection (LTBI)</td>
+    <td>Pts with positive screening test for LTBI with no evidence of active disease.<br>Pts with known exposure</td>
+    <td>(INH 300mg + pyridoxine 25-50mg) PO daily for 9 months</td>
+  </tr>
+  <tr>
+    <td>Streptococcus pneumoniae</td>
+    <td>All pts</td>
+    <td>Pts without any previous pneumococcal vaccines: Give PCV15 or PCV20. If PCV15 is used, also give PPSV23 in 1 year.<br><br>Pts who have already received PPSV23: Give PCV15 or PCV20 one year after most recent PPSV23 vaccine<br><br>Pts who have already received PCV13: Give PPSV23</td>
+  </tr>
+  <tr>
+    <td>Syphilis</td>
+    <td>All sexually active pts</td>
+    <td>Screening for syphilis and gonorrhea/chlamydia with treatment if indicated.</td>
+  </tr>
+  <tr>
+    <td>Herpes zoster (shingles)</td>
+    <td>Pts &gt; age 50</td>
+    <td>Shingrix (recombinant zoster) vaccine series</td>
+  </tr>
+</table>
+
