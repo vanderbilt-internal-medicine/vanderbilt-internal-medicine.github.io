@@ -35,17 +35,24 @@ theme:
   favicon: images/vumc-favicon.png
   logo: images/vumc-logo-white-text.png
   palette:
-    - scheme: default
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
       primary: black
       accent: amber
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
-    - scheme: slate
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
       primary: black
       accent: amber
       toggle:
         icon: material/toggle-switch
+        name: Switch to light mode
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
         name: Switch to light mode
 
 markdown_extensions:
