@@ -11,6 +11,7 @@ plugins:
   - search
   - awesome-pages
   - autolinks
+  - glightbox
   # - mdx_spanner
   - git-revision-date-localized:
       type: iso_datetime
