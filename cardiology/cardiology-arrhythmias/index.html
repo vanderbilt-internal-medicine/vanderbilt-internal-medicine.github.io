@@ -85,7 +85,16 @@
  <!-- Umami Analytics -->
  <script async defer src="https://analytics.umami.is/script.js" data-website-id="fc4c62f8-c99d-48d6-97d0-b091012913cd"></script>
 
-  </head>
+   <link href="../../assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
+    html.glightbox-open { overflow: initial; height: 100%; }
+    .gslide-title { margin-top: 0px; user-select: text; }
+    .gslide-desc { color: #666; user-select: text; }
+    .gslide-image img { background: white; }
+    .gscrollbar-fixer { padding-right: 15px; }
+    .gdesc-inner { font-size: 0.75rem; }
+    body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color);}
+    body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color);}
+    body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color);}</style> <script src="../../assets/javascripts/glightbox.min.js"></script></head>
   
   
     
@@ -7982,7 +7991,7 @@
     unlikely to be true bradyarrhythmia</li>
 </ul>
 <p>AV Block</p>
-<p><img alt="AV block" src="../../images/image2.png" /></p>
+<p><a class="glightbox" href="../../images/image2.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="AV block" src="../../images/image2.png" /></a></p>
 <h3 id="evaluation">Evaluation<a class="headerlink" href="#evaluation" title="Permanent link">&para;</a></h3>
 <ul>
 <li><abbr title="Transthoracic Echocardiogram">TTE</abbr> if structural disease suspected</li>
@@ -8023,7 +8032,7 @@ Hypokalemia, ischemia, infracts, excess calcium and drug toxicity</li>
 </li>
 </ul>
 <p>Tachyarrhythmia differential</p>
-<p><img alt="tachyarrhythmia" src="../../images/image3.png" /></p>
+<p><a class="glightbox" href="../../images/image3.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="tachyarrhythmia" src="../../images/image3.png" /></a></p>
 <h3 id="evaluation_1">Evaluation<a class="headerlink" href="#evaluation_1" title="Permanent link">&para;</a></h3>
 <ul>
 <li>Unstable tachyarrhythmia</li>
@@ -8185,8 +8194,8 @@ conduction</td>
 <li>Fusion Beats: QRS which appears like a signal average of <abbr title="Ventricular Tachycardia">VT</abbr> and
         native complex</li>
 </ul>
-<p><img alt="capture beat" src="../../images/image4.png" />
-<img alt="fusion beat" src="../../images/image5.png" /></p>
+<p><a class="glightbox" href="../../images/image4.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="capture beat" src="../../images/image4.png" /></a>
+<a class="glightbox" href="../../images/image5.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="fusion beat" src="../../images/image5.png" /></a></p>
 <ul>
 <li>There are more advanced criteria to help distinguish. The aVR
     (Vereckie) criteria is one example that is fast and accurate</li>
@@ -8413,5 +8422,7 @@ EOE/AA/Women/Minority/Vets/Disabled <br>
         <script src="../../js/print-site.js"></script>
       
     
-  </body>
+  <script id="init-glightbox">const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});
+document$.subscribe(() => { lightbox.reload() });
+</script></body>
 </html>

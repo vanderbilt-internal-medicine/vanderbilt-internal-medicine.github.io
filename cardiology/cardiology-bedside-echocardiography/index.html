@@ -85,7 +85,16 @@
  <!-- Umami Analytics -->
  <script async defer src="https://analytics.umami.is/script.js" data-website-id="fc4c62f8-c99d-48d6-97d0-b091012913cd"></script>
 
-  </head>
+   <link href="../../assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
+    html.glightbox-open { overflow: initial; height: 100%; }
+    .gslide-title { margin-top: 0px; user-select: text; }
+    .gslide-desc { color: #666; user-select: text; }
+    .gslide-image img { background: white; }
+    .gscrollbar-fixer { padding-right: 15px; }
+    .gdesc-inner { font-size: 0.75rem; }
+    body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color);}
+    body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color);}
+    body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color);}</style> <script src="../../assets/javascripts/glightbox.min.js"></script></head>
   
   
     
@@ -7749,7 +7758,7 @@
 <li>Round wing: 5<sup>th</sup> floor, ask nurses</li>
 </ul>
 <h2 id="tte-standard-views"><abbr title="Transthoracic Echocardiogram">TTE</abbr> Standard Views<a class="headerlink" href="#tte-standard-views" title="Permanent link">&para;</a></h2>
-<p><img alt="image" src="../../images/image10.jpeg" /></p>
+<p><a class="glightbox" href="../../images/image10.jpeg" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="image" src="../../images/image10.jpeg" /></a></p>
 <h3 id="parasternal-long">Parasternal long<a class="headerlink" href="#parasternal-long" title="Permanent link">&para;</a></h3>
 <ul>
 <li>Probe position: Rotate probe 180 degrees with right edge of
@@ -7798,7 +7807,7 @@
 </ul>
 <h3 id="ivc">IVC<a class="headerlink" href="#ivc" title="Permanent link">&para;</a></h3>
 <figure>
-<p><img alt="image" src="../../images/image11.jpeg" /></p>
+<p><a class="glightbox" href="../../images/image11.jpeg" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="image" src="../../images/image11.jpeg" /></a></p>
 </figure>
 <ul>
 <li>Probe position: subxiphoid area with probe marker facing toward
@@ -7942,5 +7951,7 @@ EOE/AA/Women/Minority/Vets/Disabled <br>
         <script src="../../js/print-site.js"></script>
       
     
-  </body>
+  <script id="init-glightbox">const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});
+document$.subscribe(() => { lightbox.reload() });
+</script></body>
 </html>

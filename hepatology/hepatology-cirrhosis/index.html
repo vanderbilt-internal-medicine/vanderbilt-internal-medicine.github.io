@@ -85,7 +85,16 @@
  <!-- Umami Analytics -->
  <script async defer src="https://analytics.umami.is/script.js" data-website-id="fc4c62f8-c99d-48d6-97d0-b091012913cd"></script>
 
-  </head>
+   <link href="../../assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
+    html.glightbox-open { overflow: initial; height: 100%; }
+    .gslide-title { margin-top: 0px; user-select: text; }
+    .gslide-desc { color: #666; user-select: text; }
+    .gslide-image img { background: white; }
+    .gscrollbar-fixer { padding-right: 15px; }
+    .gdesc-inner { font-size: 0.75rem; }
+    body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color);}
+    body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color);}
+    body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color);}</style> <script src="../../assets/javascripts/glightbox.min.js"></script></head>
   
   
     
@@ -7675,7 +7684,7 @@
 <ul>
 <li>Standard 1-liner for any patient with cirrhosis:</li>
 </ul>
-<p><img alt="cirrhosis one-liner" src="../../images/cirrhosisoneliner.png" /></p>
+<p><a class="glightbox" href="../../images/cirrhosisoneliner.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="cirrhosis one-liner" src="../../images/cirrhosisoneliner.png" /></a></p>
 <ul>
 <li>
 <p>Example 1-liner: 65yo M with cirrhosis due to HCV decompensated by ascites and HE (MELD 25) who is listed for transplant and followed by Dr. Izzy</p>
@@ -7902,5 +7911,7 @@ EOE/AA/Women/Minority/Vets/Disabled <br>
         <script src="../../js/print-site.js"></script>
       
     
-  </body>
+  <script id="init-glightbox">const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});
+document$.subscribe(() => { lightbox.reload() });
+</script></body>
 </html>

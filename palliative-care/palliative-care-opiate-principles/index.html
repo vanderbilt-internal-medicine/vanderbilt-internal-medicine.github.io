@@ -85,7 +85,16 @@
  <!-- Umami Analytics -->
  <script async defer src="https://analytics.umami.is/script.js" data-website-id="fc4c62f8-c99d-48d6-97d0-b091012913cd"></script>
 
-  </head>
+   <link href="../../assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
+    html.glightbox-open { overflow: initial; height: 100%; }
+    .gslide-title { margin-top: 0px; user-select: text; }
+    .gslide-desc { color: #666; user-select: text; }
+    .gslide-image img { background: white; }
+    .gscrollbar-fixer { padding-right: 15px; }
+    .gdesc-inner { font-size: 0.75rem; }
+    body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color);}
+    body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color);}
+    body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color);}</style> <script src="../../assets/javascripts/glightbox.min.js"></script></head>
   
   
     
@@ -7854,7 +7863,7 @@
 <li>When transitioning, doses are traditionally reduced by &frac14; to &#8531; due to cross tolerance; however, if the pain is uncontrolled, it is reasonable to not dose reduce to account for this.</li>
 <li>IR/ER regimens:  Consider switching to extended release when requiring 3-4 doses of intermediate release (IR) medications in a 24-hour period regularly. The ER medication should treat the chronic pain experienced by a pt.  The IR preparation is indicated for breakthrough pain.   The IR dose should be calculated as 10-20% of the total OME dose a pt takes daily.  Fentanyl patches should last 72 hours</li>
 </ul>
-<p><img src="../images/opioid-conversion-new.png" alt="Opioid Conversion Flowchart" width="600"> </p>
+<p><a class="glightbox" href="../images/opioid-conversion-new.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img src="../images/opioid-conversion-new.png" alt="Opioid Conversion Flowchart" width="600"></a> </p>
 <h2 id="patient-controlled-analgesia-pca">Patient-Controlled Analgesia (PCA)<a class="headerlink" href="#patient-controlled-analgesia-pca" title="Permanent link">&para;</a></h2>
 <ul>
 <li>Pumps can be programmed to deliver a continuous rate and/or a bolus dose<ul>
@@ -8066,5 +8075,7 @@ EOE/AA/Women/Minority/Vets/Disabled <br>
         <script src="../../js/print-site.js"></script>
       
     
-  </body>
+  <script id="init-glightbox">const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});
+document$.subscribe(() => { lightbox.reload() });
+</script></body>
 </html>

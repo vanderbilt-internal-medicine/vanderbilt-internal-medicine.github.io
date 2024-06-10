@@ -83,7 +83,16 @@
  <!-- Umami Analytics -->
  <script async defer src="https://analytics.umami.is/script.js" data-website-id="fc4c62f8-c99d-48d6-97d0-b091012913cd"></script>
 
-  </head>
+   <link href="assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
+    html.glightbox-open { overflow: initial; height: 100%; }
+    .gslide-title { margin-top: 0px; user-select: text; }
+    .gslide-desc { color: #666; user-select: text; }
+    .gslide-image img { background: white; }
+    .gscrollbar-fixer { padding-right: 15px; }
+    .gdesc-inner { font-size: 0.75rem; }
+    body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color);}
+    body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color);}
+    body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color);}</style> <script src="assets/javascripts/glightbox.min.js"></script></head>
   
   
     
@@ -7542,7 +7551,7 @@
 <p>The authors and the editors dedicate the fourth edition of the Housestaff Handbook to the memory of Dr. Michael Fowler, whose compassion, sincerity, and commitment to education continue to guide and inspire us.</p>
 <p>Michael J. Fowler, MD, Associate Professor of Medicine and Associate Professor, Office of Teaching and Learning in Medicine in the Vanderbilt University School of Medicine, was an inspiring teacher and educator, an outstanding physician, and a wonderful colleague who passed away on February 20, 2022. As a Master Clinical Teacher at Vanderbilt, Mike was the Course Director for Physical Diagnosis and taught physical diagnosis to more than 1500 Vanderbilt medical students. As Co-director of the Shade Tree Clinic, he touched the lives of many patients and inspired Vanderbilt medical students to understand how to be a physician who cared for the entire patient. He was a wonderful, passionate teacher and advocate for all students in the clinical setting, in the classroom and in life, and touched many, many people with his kindness, humor, intellect, humility, and medical and teaching skills.</p>
 <p>– Alvin C. Powers, MD, Nashville, TN, May 2022</p>
-<p><img alt="QR code for vimbook.org" src="images/qr-light.svg#only-light" width="300" /></p>
+<p><a class="glightbox" href="images/qr-light.svg#only-light" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="QR code for vimbook.org" src="images/qr-light.svg#only-light" width="300" /></a></p>
 <figure>![QR code for vimbook.org](images/qr-light.svg#only-light){ width="300" } ![QR code for vimbook.org](images/qr-dark.svg#only-dark){ width="300" }<figcaption>QR code link for this online VIMBook</figcaption></figure>
 
 
@@ -7668,5 +7677,7 @@ EOE/AA/Women/Minority/Vets/Disabled <br>
         <script src="js/print-site.js"></script>
       
     
-  </body>
+  <script id="init-glightbox">const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});
+document$.subscribe(() => { lightbox.reload() });
+</script></body>
 </html>

@@ -85,7 +85,16 @@
  <!-- Umami Analytics -->
  <script async defer src="https://analytics.umami.is/script.js" data-website-id="fc4c62f8-c99d-48d6-97d0-b091012913cd"></script>
 
-  </head>
+   <link href="../../assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
+    html.glightbox-open { overflow: initial; height: 100%; }
+    .gslide-title { margin-top: 0px; user-select: text; }
+    .gslide-desc { color: #666; user-select: text; }
+    .gslide-image img { background: white; }
+    .gscrollbar-fixer { padding-right: 15px; }
+    .gdesc-inner { font-size: 0.75rem; }
+    body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color);}
+    body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color);}
+    body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color);}</style> <script src="../../assets/javascripts/glightbox.min.js"></script></head>
   
   
     
@@ -7687,7 +7696,7 @@
     </tr>
     <tr>
       <td>CN VIII (also III + VI)</td>
-      <td>Oculocephalic reflex - turn head left/right, eyes should compensate to fix in forward position<br><img src='../images/oculocephalic.png' alt='oculocephalic reflex' width='400'></td>
+      <td>Oculocephalic reflex - turn head left/right, eyes should compensate to fix in forward position<br><a class="glightbox" href="../images/oculocephalic.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img src='../images/oculocephalic.png' alt='oculocephalic reflex' width='400'></a></td>
     </tr>
     <tr>
       <td>CN IX/X</td>
@@ -7720,7 +7729,7 @@
 <li>Always remember patients can be encephalopathic and evolve another acute neurological syndrome. Follow up any odd/changing exam findings. </li>
 <li>Perform the CAM-ICU for scoring – ICU nurses perform this q4h as part of routine ICU care</li>
 </ul>
-<p><img src='../images/camflow.png' alt='CAM ICU flowsheet' width='400'>
+<p><a class="glightbox" href="../images/camflow.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img src='../images/camflow.png' alt='CAM ICU flowsheet' width='400'></a>
 -   See RASS scoring table in ABCDEF Bundle Critical Care chapter.</p>
 <h2 id="differential-diagnosis">Differential Diagnosis<a class="headerlink" href="#differential-diagnosis" title="Permanent link">&para;</a></h2>
 <ul>
@@ -7925,5 +7934,7 @@ EOE/AA/Women/Minority/Vets/Disabled <br>
         <script src="../../js/print-site.js"></script>
       
     
-  </body>
+  <script id="init-glightbox">const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});
+document$.subscribe(() => { lightbox.reload() });
+</script></body>
 </html>
