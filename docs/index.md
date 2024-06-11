@@ -15,7 +15,17 @@ Michael J. Fowler, MD, Associate Professor of Medicine and Associate Professor, 
   <figcaption>Image caption</figcaption>
 </figure>
 
-<figure>![QR code for vimbook.org](images/qr-light.svg#only-light){ width="300" } ![QR code for vimbook.org](images/qr-dark.svg#only-dark){ width="300" }<figcaption>QR code link for this online VIMBook</figcaption></figure>
+<figure markdown="span">
+  ![Image title](https://dummyimage.com/600x500/#only-light){ width="300" }
+  <figcaption>only-light</figcaption>
+</figure>
 
-![Image title](https://dummyimage.com/600x400/f5f5f5/aaaaaa#only-light)
-![Image title](https://dummyimage.com/600x400/21222c/d5d7e2#only-dark)
+<figure markdown="span">
+  ![Image title](https://dummyimage.com/600x200/#only-dark){ width="300" }
+  <figcaption>only-dark</figcaption>
+</figure>
+
+
+![Image title](images/qr-light.svg#only-light){ width="300" }
+
+![Image title](images/qr-dark.svg#only-dark){ width="300" }
