@@ -10,22 +10,14 @@ Michael J. Fowler, MD, Associate Professor of Medicine and Associate Professor, 
 
 – Alvin C. Powers, MD, Nashville, TN, May 2022
 
+
 <figure markdown="span">
-  ![Image title](https://dummyimage.com/600x400/){ width="300" }
-  <figcaption>Image caption</figcaption>
+  ![Image title](images/qr-light.svg#only-light){ width="300" }
+  <figcaption></figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Image title](https://dummyimage.com/600x500/#only-light){ width="300" }
-  <figcaption>only-light</figcaption>
+  ![Image title](images/qr-dark.svg#only-dark){ width="300" }
+  <figcaption></figcaption>
 </figure>
 
-<figure markdown="span">
-  ![Image title](https://dummyimage.com/600x200/#only-dark){ width="300" }
-  <figcaption>only-dark</figcaption>
-</figure>
-
-
-![Image title](images/qr-light.svg#only-light){ width="300" }
-
-![Image title](images/qr-dark.svg#only-dark){ width="300" }
