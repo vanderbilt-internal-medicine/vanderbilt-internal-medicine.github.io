@@ -36,7 +36,7 @@ Ashley Ciosek
 | Hemodialysis                                              | Clinical judgement                                         |
 | Drug overdose                                             | Until free of influence of substance                       |
 
-Notable non-indications:
+## Notable non-indications
 -	Rate-controlled afib + clinically stable
 -	Chronic PVCs
 -	ESRD on HD
