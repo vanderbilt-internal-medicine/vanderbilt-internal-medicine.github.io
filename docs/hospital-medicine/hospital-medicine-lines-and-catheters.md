@@ -18,11 +18,9 @@ Seth Alexander
 
 - Indications: surgery, immobilization, urinary retention, need for strict urine output monitoring (critical illness, diuresis), and open sacral/perineal wounds with incontinence
    - Chronic foleys should typically be exchanged on admission
-    
 - Duration of use is biggest risk factor for CAUTI
     - Best way to prevent CAUTI is to avoid inappropriate placement
     - Assess daily whether foley can be removed
-
 - Chronic Foleys generally should be exchanged at time of admission
 - Potential complications: Traumatic placement, difficult placement, and CAUTI
     - Any concern for catheter obstruction should prompt urgent urology consult
@@ -32,7 +30,6 @@ Seth Alexander
 -	Alternate devices: Purewick catheter and condom catheter 
 
 ## Central venous catheter 
-
 -	Central venous access can be obtained through large central venous catheters (internal jugular, subclavian, or femoral CVC) or peripherally inserted central catheters (PICC). 
 -	Indications: Vasoactive infusions (pressors, inotropes), long-term antibiotics, inability to obtain peripheral access, caustic agent administration (chemotherapy, antibiotics, etc), and total parenteral nutrition
    - Note, single lumen PICC appropriate for most patients; double lumen typically reserved for special populations such as those in the ICU, on chemo, or on TPN
@@ -45,7 +42,6 @@ Seth Alexander
 -	There are indwelling catheters (tunneled ports, Hickman lines) which are more permanent central venous access devices used in patients with need for intermittent ventral venous access, typically placed by IR or surgery
 
 ## Arterial Lines
-
 -	Indications: accurate blood pressure measurement, frequent arterial blood draws (ABG)
 -	Potential complications: arterial occlusion (spasm, thrombus), with resultant ischemia, hematoma formation
 -	Criteria for removal: resolution of placement criteria
