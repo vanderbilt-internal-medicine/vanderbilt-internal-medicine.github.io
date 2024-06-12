@@ -1,19 +1,16 @@
 # Telemetry 
 
-Ahmad Dbouk and Samuel Lazaroff
+Ashley Ciosek 
 
 ---
 
 ## Background
-
 - Many monitored pts do not have a true indication
     - Leads to alarm fatigue, unnecessary workups, and is expensive
-    
+    - Cost: about $110 per patient per day
 - Telemetry is not a substitute for more frequent vital signs
-
-- Discuss frequently on rounds: always reassess need and indication
-
-- Stable patients without troponin elevation or new arrythmias are typically appropriate for transfers without telemetry
+- Discuss frequently on rounds: reassess need and indication
+- Select “MAY” for transfers off telemetry and showering off telemetry among stable patients without troponin elevation or new arrythmia 
 
 | 0                                                         | 1                                                          |
 |-----------------------------------------------------------|------------------------------------------------------------|
@@ -40,11 +37,12 @@ Ahmad Dbouk and Samuel Lazaroff
 | Drug overdose                                             | Until free of influence of substance                       |
 
 Notable non-indications:
+-	Rate-controlled afib + clinically stable
+-	Chronic PVCs
+-	ESRD on HD
+-	PCI for non-ACS indication (e.g. pre-transplant)
+-	Non-cardiac chest pain
+-	Patient with AICD admitted for non-cardiac condition, non-cardiac surgery, chronic rate-controlled AFib 
+-	Nearly all non-cardiac conditions (e.g. undifferentiated sepsis, stable GI bleed, alcohol withdrawal) upon transfer out of ICU
+-	Patient in hospice/comfort care
 
--   PCI for non-ACS indication (i.e. pre-transplant), non-cardiac chest
-    pain, Pt with AICD admitted for non-cardiac cause, non-cardiac
-    surgery, chronic AF and clinically stable
--   Contraindicated in hospice/comfort care
--   Nearly all noncardiac conditions (i.e.,
-    undifferentiated sepsis, stable GI bleed, alcohol withdrawal) upon
-    transfer out of ICU
