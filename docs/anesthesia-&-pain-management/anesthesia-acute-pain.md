@@ -1,12 +1,10 @@
-# Anesthesia & Pain Management 
+# Acute Pain 
 
 Camille Adajar and Frances Alexandra Brown 
 
 ---
 
-## Acute Pain 
-
-Multimodal pain regimen suggestions
+## Multimodal pain regimen suggestions
 -   Tylenol
 	- Dose: 1,000mg PO Q8H (can reduce to 650 based on age or
     comorbidities)
@@ -29,7 +27,7 @@ Multimodal pain regimen suggestions
 	-   Indications: analgesic, anti-inflammatory, antipyretic
 	-   Contraindications: CKD/AKI, ulcers, GI bleed
 
-Other methods
+## Other methods
 -   Thoracic epidural catheter (TEC) - These are done and managed by the
     Acute Pain Service. With any issues or concerns, APS needs to be
     contacted.
