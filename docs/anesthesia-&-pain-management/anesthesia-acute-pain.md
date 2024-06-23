@@ -5,9 +5,10 @@ Camille Adajar and Frances Alexandra Brown
 ---
 
 ## Acute Pain 
+
 Multimodal pain regimen suggestions
 -   Tylenol
-	-   Dose: 1,000mg PO Q8H (can reduce to 650 based on age or
+	- Dose: 1,000mg PO Q8H (can reduce to 650 based on age or
     comorbidities)
 	-   Indications: Analgesic and antipyretic
  	-   Contraindications: Cirrhosis -- limit to 2000mg daily
