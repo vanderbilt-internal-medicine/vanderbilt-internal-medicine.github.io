@@ -27,6 +27,7 @@ Multimodal pain regimen suggestions
 	-   Ibuprofen 600mg Q6H
 	-   Indications: analgesic, anti-inflammatory, antipyretic
 	-   Contraindications: CKD/AKI, ulcers, GI bleed
+
 Other methods
 -   Thoracic epidural catheter (TEC) - These are done and managed by the
     Acute Pain Service. With any issues or concerns, APS needs to be
