@@ -4,98 +4,101 @@
 
 # Editors-in-Chief
 
-Lauren Chan, MD & Jacqueline Visina, MD
+Kristijan Bogdanovski, MD, Julie Giannini, MD, and Spencer Lessans, MD
 
 ---
 
 # Resident Editors
 
-Cardiology: Brittany Saldivar, MD  
+Anesthesia: Alex Brown, MD and Camile Adajar, MD
 
-Critical Care:  Raymond Dieter, MD 
+Cardiology:  John Mitchell, MD, Emily Walsh, MD, and Nicholas Weinand,
+MD
 
-Endocrinology: Kinsley Ojukwu, MD  
+Critical Care:  Alexandra Flemington, MD
 
-Gastroenterology: Taylor Riggs, MD  
+Endocrinology: Kinsley Ojukwu, MD (2023)
 
-Geriatrics: Thomas Horton, MD  
+Gastroenterology: Katy Welp, MD
 
-Hematology/Oncology: Michael LaPelusa, MD 
+Geriatrics: Mallory Bryant, MD 
 
-Hepatology: Julie Cui, MD  
+Hematology/Oncology: Thomas Gracie, MD, Matthew Lu, MD, and Alexis
+Froehlich, MD
 
-Hospital Medicine: Soibhan Kelley, MD  
+Hepatology: Ahmad Yanis, MD
 
-Infectious Diseases: Kaitlyn Reasoner, MD 
+Hospital Medicine: Christine Hamilton, MD
 
-Nephrology: Trey Richardson, MD  
+Infectious Diseases: Alexis Froehlich, MD
 
-Neurology: Hunter Hewitt, MD 
+Nephrology: Emily Walsh, MD
 
-Ophthalmology: Jonathan Barnett, MD 
+Neurology: Meghan Nicholas, MD, Lauren Osborne, MD, and Eesha Oza, MD
 
-Outpatient Medicine: Christina Snider, MD 
+Ophthalmology: Jonathan Barnett, MD (2023)
 
-Palliative Care: Eli Cohen, MD 
+Outpatient Medicine: Lauren Waskowitz, MD
 
-Physical Medicine & Rehabilitation: Jakob Dovgan, MD, Douglas Bryant, MD, William Galbraith, DO, and Nicholas Abramson, MD 
+Palliative Care: Liana Mosley, MD
 
-Procedures: Katherine Heckman, MD  
+Physical Medicine & Rehabilitation: Jakob Dovgan, MD, Douglas Bryant, MD, William Galbraith, DO, and Nicholas Abramson, MD (2023)
 
-Psychiatry: Soibhan Kelley, MD 
+Procedures: Rochelle Prokupets, MD 
 
-Pulmonary: Taryn Boyle, MD 
+Psychiatry: Benjamin Johnson, MD
 
-Radiology: Janesh Lakhoo, MD, MS  
+Pulmonary: Bailey DeCoursey, MD and Justin Smith, MD
 
-Rheumatology: Raeann Whitney, MD   
+Radiology: Austin Glenn, MD, Lane Polk, MD, Kyle Maughan, MD & Nicholas
+Schreiter, MD
 
-Toxicology:  Jennifer Marvin-Peek, MD  
+Rheumatology: Tina Arkee, MD and Lale Ertuglu, MD 
 
----
+Toxicology: John Mitchell (2023)
 
-# Faculty Reviewers
+Faculty Reviewers
 
-Cardiology:  Lisa Mendes, MD and Jared O’Leary, MD  
+Anesthesia: Brandon Pruett, MD
 
-Critical Care: Todd Rice, MD 
+Cardiology:  Lisa Mendes, MD and Jared O'Leary, MD 
 
-Endocrinology: Laura Heller, MD 
+Critical Care: Todd Rice, MD
 
-Gastroenterology: Patrick Yachimski, MD  
+Endocrinology: Laura Heller, MD
 
-Geriatrics: Mariu Duggan, MD, MPH 
+Gastroenterology: Patrick Yachimski, MD 
 
-Hematology/Oncology: Rajiv Agarwal, MD and Benjamin Tillman, MD 
+Geriatrics: Mariu Duggan, MD, MPH
 
-Hepatology: Manhal J. Izzy, MD 
+Hematology/Oncology: Rajiv Agarwal, MD and Vivek Patel, MD
 
-Hospital Medicine: Chase J. Webber, DO 
+Hepatology: Manhal J. Izzy, MD
 
-Infectious Diseases: Milner Staub, MD, MPH and Sean Kelly, MD 
+Hospital Medicine: Chase J. Webber, DO
 
-Nephrology: JP Arroyo, MD, PhD, 
+Infectious Diseases: Milner Staub, MD, MPH and Sean Kelly, MD
 
-Edward Gould, MD, and Beatrice Concepcion, MD 
+Nephrology: JP Arroyo, MD, PhD, Edward Gould, MD, and Beatrice Concepcion, MD
 
-Neurology: Christopher Lee, MD 
+Neurology: Matthew Meriweather, MD
 
-Ophthalmology: John Bond, MD 
+Ophthalmology: John Bond, MD
 
-Outpatient: Jennifer K. Green, MD, MPH    
+Outpatient: Jennifer K. Green, MD, MPH
 
-Palliative Care: Mohana Karlekar, MD 
+Palliative Care: Mohana Karlekar, MD
 
-Physical Medicine & Rehabilitation: C. J. Plummer, MD 
+Physical Medicine & Rehabilitation: C. J. Plummer, MD
 
-Procedures: Garren Montgomery, MD 
+Procedures: Garren Montgomery, MD
 
-Psychiatry: Jonathan Smith, MD and Jose Arriola Vigo MD, MPH 
+Psychiatry: Kristopher Kast, MD and David Marcovitz, MD
 
-Pulmonary: Meredith Pugh, MD 
+Pulmonary: Meredith Pugh, MD
 
-Radiology: Virginia Planz, MD 
+Radiology: Reza Imani, MD
 
-Rheumatology: Kevin Byram, MD  
+Rheumatology: Kevin Byram, MD
 
-Toxicology:  Rebecca E. Bruccoleri, MD and Saralyn R. Williams, MD
+Toxicology:  Rebecca E. Bruccoleri, MD and Saralyn R. Williams, MD
