@@ -57,7 +57,9 @@ Rheumatology: Tina Arkee, MD and Lale Ertuglu, MD
 
 Toxicology: John Mitchell (2023)
 
-Faculty Reviewers
+# Faculty Reviewers
+
+---
 
 Anesthesia: Brandon Pruett, MD
 
