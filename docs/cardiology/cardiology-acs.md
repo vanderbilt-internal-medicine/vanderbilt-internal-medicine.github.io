@@ -1,6 +1,6 @@
 # Acute Coronary Syndromes
 
-Anna Berry
+Kelly Vogel 
 
 ---
 
@@ -19,20 +19,28 @@ Anna Berry
     segment elevation
 -   Unstable Angina: Angina without evidence of myocardial necrosis
     (normal troponin)
+-   Newer nomenclature: occlusion and non-occlusion MI (OMI and NOMI)
+    -   Occlusion MI: near or total occlusion with insufficient collateral
+    circulation causing active infarction, further broken into STEMI (+)
+    OMI or STEMI (-) OMI; both considered a type I MI
+    -   Non-occlusion MI: no occlusion or sufficient collateral circulation
+    to avoid active infarction, further broken into STEMI (+) NOMI or
+    STEMI(-) NOMI; can be either type I or II MI
 -   Other causes of myocardial injury: coronary spasm, embolism,
     imbalance of oxygen demand and supply 2/2 fever, tachycardia,
     hypo-/hypertension
 
 ## Presentation
 
--   Classic Angina: dyspnea on exertion, substernal, pressure or
+- Symptoms
+    -   Classic Angina: dyspnea on exertion, substernal, pressure or
     vice-like quality, improved with rest. Note that response
     nitroglycerin is no longer in the guidelines.
--   Anginal Equivalents: nausea, weakness, epigastric pain (esp. in age
+    -   Anginal Equivalents: nausea, weakness, epigastric pain (esp. in age
     \> 65 y/o, women, diabetics)
--   Change in patient’s baseline angina, especially onset at rest
--   Physical Exam: sinus tachycardia, diaphoresis
--   If large infarct, can present with symptoms of acute heart failure
+        -   Change in pt's baseline angina, especially onset at rest
+        -   Physical Exam: sinus tachycardia, diaphoresis
+        -   If large infarct, can present with symptoms of acute heart failure
 
 ## Evaluation
 
@@ -41,7 +49,7 @@ Anna Berry
     - T wave inversions: not specific but more concerning if deep (\>
         0.3mV)
     - Biphasic T waves and deep T wave inversions in leads V2 & V3
-        (Wellens' sign \[LAD\])
+        (Wellens sign \[LAD\])
 - Cardiac biomarkers: troponin I is most sensitive for myocardial
     injury
 - ACC/AHA guidelines recommend both EKG and trop q2-6 hours
@@ -53,25 +61,23 @@ Anna Berry
 ## Management
 
 ### STEMI
-
 - STAT page Cardiology on call via Synergy (whether in VA or
     Vanderbilt)
-- ASAP: aspirin 325mg, heparin drip (high nomogram, with bolus)
-- Hold P2Y12 receptor blocker until discussed with cards fellow
+- ASAP: aspirin 325mg, heparin drip (high intensity nomogram, with bolus)
+- Hold P2Y12 until discussed with cards fellow
 
 ### NSTEMI
 - Medical management followed by left-heart catheterization within 48
     hours
-- General: bedrest, telemetry, repeat EKG with recurrent chest pain,
-    NPO at midnight
-- Place cath case request (see “pre-catheterization” management below)
+    - General: bedrest, telemetry, repeat EKG with recurrent chest pain,
+        NPO at midnight
+    - Place cath case request (see “pre-catheterization” management below)
 
 ### Anti-thrombotic therapy
 
 Antiplatelet agents
-
 - ASA 325 mg loading dose then 81 mg daily after
-- Do not give P2Y12 receptor blocker until discussed with
+    - Do not give P2Y12 receptor blocker until discussed with
         cardiology fellow
 - Clopidogrel: prodrug that is metabolized to active form (can
             have undermetabolizers), irreversible inhibition
@@ -79,13 +85,11 @@ Antiplatelet agents
 - Prasugrel: prodrug but more rapidly metabolized than
             clopidogrel with less variation, irreversible inhibition, do
             not use w/ age \> 75 or weight \< 60 kg
-- Prasugrel and ticagrelor are superior to clopidogrel but
+    - Prasugrel and ticagrelor are superior to clopidogrel but
             have higher bleeding risk
 - Cangrelor: IV, rarely used
 
-Anti-coagulants
-
-- Unfractionated heparin drip
+Anti-coagulants: Unfractionated heparin drip
 - Type this in Epic and select “nursing managed” protocol for
         “ACS”
 - VA: it can be found under the “Orders” tab along the left-hand
@@ -95,7 +99,6 @@ Anti-coagulants
         prior to LHC
 
 ### Pre-Catheterization Care
-
 - Ensure pt. is NPO at MN for planned cath
 - Continue anticoagulation with heparin gtt
 - Place cardiac catheterization request (must be in cardiology
@@ -129,10 +132,10 @@ Anti-coagulants
     0000 cath check), only needed for femoral arterial access
 - Look, listen, feel: evaluate for hematoma & pseudoaneurysm; call
     fellow if concerned
-- Small amount of bruising and mild tenderness at the site is normal
-- Listen above and below the site for a bruit; the area should be soft
+    - Small amount of bruising and mild tenderness at the site is normal
+    - Listen above and below the site for a bruit; the area should be soft
 - Hypotension after femoral access is concerning for RP bleed
-    - STAT CBC, CT A/P & call the cardiology fellow
+    - Apply pressure, STAT page interventional fellow, do NOT take pt to scanner prior to hearing back, order blood if needed
 - Femoral oozing: Cardiology fellow, will need to hold pressure
 - Radial oozing: instruct nurse to re-inflate the TR band and restart
     the clock on deflation
@@ -155,13 +158,4 @@ Anti-coagulants
 
 -   VT/VF, sinus bradycardia, third-degree heart block, new VSD, LV
     perforation, acute mitral regurgitation, pericarditis and
-    cardiogenic shock; More common with STEMI CCU post-cath
-
-### Additional Information
-
--   Initiate treatment if there is true concern for ACS and bleeding
-    risk acceptable, medications can always be discontinued
--   TIMI score: \>2 correlates with ↑ mortality, indicating a need for
-    aggressive treatment
--   ACC Guideline Clinical App is a useful resource with summaries of
-    guideline-based recs
+    cardiogenic shock; More common with STEMI->CCU post-cath
