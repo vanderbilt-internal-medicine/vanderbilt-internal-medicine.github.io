@@ -1,24 +1,23 @@
 # Autonomics and Orthostatic Hypotension
 
-Leonard Chiu
+Emily Walsh
 
 ---
 
 ## Background
-
-- Orthostatic Hypotension: SBP ↓ \> 20 mmHg, DBP ↓ \> 10 mmHg), or HR
+- Orthostatic Hypotension (OH): SBP ↓ \> 20 mmHg, DBP ↓ \> 10 mmHg), or HR
     Increase \> 30 within 3 min of standing up or head-up tilt to 60% on
     a tilt table
 - Etiologies: Neurogenic OH (nOH) vs non-neurogenic OH
-- nOH associated with autonomic failure
-    - Blunted tachycardia during hypotension characteristic of
+    - nOH associated with autonomic failure
+        - Blunted tachycardia during hypotension characteristic of
         autonomic failure
-    - nOH: If HR rise is \<15
-    - nOH also associated with periods of high BP (supine
+        - nOH: If HR rise is \<15
+        - nOH also associated with periods of high BP (supine
         hypertension)
-    - Ex: Neurodegenerative disease, neuropathy (diabetes, amyloid,
+        - Ex: Neurodegenerative disease, neuropathy (diabetes, amyloid,
         paraneoplastic, etc)
-- Other causes: volume depletion (most common), medications
+    - Other causes: volume depletion (most common), medications
     (diuretics, alpha-1 blockers, BB, etc), pump failure (severe AS,
     arrhythmia)
 
@@ -27,25 +26,20 @@ Leonard Chiu
 - Orthostatic vitals signs (checking supine, sitting, and standing
     with 5-minute wait in each position)
 - Volume status exam
-- Labs: CBC, CMP, EKG, TSH, B12, , LFTs,
+- Labs: CBC, CMP, EKG, TSH, B12, , LFTs
 - Consider SPEP/UPEP, paraneoplastic panel, autonomic function testing
     depending on clinical context
-- Autonomic Function Testing: Available at 4:15pm Tues, Wed, Thurs NPO
-    4 hours prior
-- Hold oral pressors and antihypertensives 12 hours prior
 
 ## Management
-
 - Conservative:
-- TED hose and abdominal binder for ambulation
-- Drink 16oz of fluid 15 min prior to standing
-- If they have supine HTN, keep HOB 30-45 degrees at all times
-- Add 2.3-4.6g of salt per day to diet (if no contraindications)
-- Avoid high temperatures (which cause peripheral vasodilation)
-- Supine HTN therapies: transdermal nitroglycerin (preferred);
-    minoxidil, hydralazine, or clonidine in select patients
+    - TED hose and abdominal binder for ambulation
+    - Drink 16oz of fluid 15 min prior to standing
+    - If they have supine HTN, keep HOB 30-45 degrees at all times
+    - Add 2.3-4.6g of salt per day to diet (if no contraindications)
+    - Avoid high temperatures (which cause peripheral vasodilation)
 
-Orthostatic hypotension pharmacologic therapies
+
+- Pharmacologic therapies (see table): 
 
 <table>
 <colgroup>
@@ -103,3 +97,6 @@ circulating catecholamines</td>
 </tr>
 </tbody>
 </table>
+
+- Supine HTN therapies: transdermal nitroglycerin (preferred);
+    minoxidil, hydralazine, or clonidine in select patients
