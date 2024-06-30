@@ -2,8 +2,7 @@
 
 ---
 
-## Acute management of arrhythmias
-
+## Acute management 
 - 12-lead EKG if possible and have defib pads on patient
 - Is the pt unstable (hypotensive, signs/symptoms of
     hypoperfusion)?
@@ -15,13 +14,7 @@
 - Ensure pt has good IV access
 - Labs: BMP, Mg, TSH, and +/- troponin, tox screen
 
----
-
-## Bradyarrhythmias
-
-Lin Cao
-
----
+## Bradyarrhythmias - Lin Cao 
 
 ### Background
 
