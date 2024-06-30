@@ -82,4 +82,4 @@ Jamie Pfaff
 - https://www.coreultrasound.com/basic-cardiac-function/
 - http://pie.med.utoronto.ca/tte
 - https://www.echocardiographer.org/TTE.html
-- App: FATE CARD (Focus Assessed Transthoracic Echocardiography) https://test.usabcd.org/fate-card/
+- App: FATE CARD (Focus Assessed Transthoracic Echocardiography) https://test.usabcd.org/fate-card/ https://apps.apple.com/us/app/fate-card/id413628612
