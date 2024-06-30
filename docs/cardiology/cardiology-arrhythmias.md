@@ -64,12 +64,9 @@ AV Block
       (Pacer pads on the defib device are capable of pacing,
       but don’t forget to sedate!)
 
-## Tachyarrhythmias - Narrow complex
-
-Manasa Atyam 
+## Tachyarrhythmias - Narrow complex - Manasa Atyam 
 
 ---
-
 ### Background
 
 - Three causes of tachyarrhythmias
