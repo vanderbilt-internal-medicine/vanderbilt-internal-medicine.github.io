@@ -300,10 +300,6 @@ reached</td>
 
 ## Premature Ventricular Complexes (PVCs)
 
-Madeline Rukavina
-
----
-
 ### Background
 
 - Premature Ventricular Complex (PVC): early ventricular
