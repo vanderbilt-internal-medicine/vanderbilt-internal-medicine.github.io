@@ -1,7 +1,7 @@
 
 # Atrial Fibrillation & Flutter
 
-Brittany Saldivar
+Matt Gayoso 
 
 ---
 
@@ -39,9 +39,9 @@ Brittany Saldivar
 - Treatment goals
     - Rate control, Goal HR \< 110 (RACE II)
     - Rhythm control (if indicated)
-    - Stroke prevention
+    - Stroke prevention (CHADS2VASc) 
 
-Rate control (inpatient)
+Rate control:
 
 - RVR \~ sinus tach of AF; Always work to address the underlying cause
     (infection, volume overload, etc). Rate control is rarely an
@@ -61,13 +61,7 @@ Rate control (inpatient)
 - Unstable (SBPs \<80)
     - Cardioversion
 
-Rate control (outpatient)
-
-- typically achieved with beta blocker therapy,
-  metoprolol is most frequently used
-
-Rhythm control (inpatient)
-
+Rhythm control 
 - New onset a-fib (first time diagnosis): most pts will be a candidate
     for trial of cardioversion
 - If onset clearly within 48 hours, can proceed without TEE. Often TEE
@@ -80,16 +74,14 @@ Rhythm control (inpatient)
     inpt)
       - Caution using antiarrhythmics in any pt you wouldn't
         electrically cardiovert without TEE
-
-Rhythm control (outpatient)
-
 - Consider EP consult for ablation in symptomatic paroxysmal or
     persistent AF refractory to anti-arrhythmic drugs, AF in HFrEF, or
     flutter
-- Stroke Prevention (for AF and flutter)
-    - CHA2DS2-VASc risk score \>2 in M or \>3 in F should prompt long term
+
+Stroke Prevention (for AF and flutter)
+- CHA2DS2-VASc risk score \>2 in M or \>3 in F should prompt long term
     AC in AF persisting \>48 hours
-    - NOACs (apixaban, dabigatran, edoxaban, rivaroxaban) are preferred to
+- NOACs (apixaban, dabigatran, edoxaban, rivaroxaban) are preferred to
     warfarin except in moderate to severe MS or mechanical valve
 - If cardioversion planned for new onset AF, start AC as soon as
     possible
