@@ -4,33 +4,51 @@ Ahmad Yanis
 
 ---
 
-## Background
+Pulmonary artery catheter (PAC): Multilumen catheter that sits in the
+right heart to provide invasive measurement of hemodynamic parameters
 
-- Pulmonary artery catheter (PAC): Multilumen catheter that sits in
-    the right heart to provide invasive measurement of hemodynamic
-    parameters
-- Indications for PAC placement
-    - Diagnose undifferentiated shock
-    - Severe cardiogenic shock
-    - Diagnose pulmonary hypertension
-    - Diagnose left -\> right shunting
-    - Diagnose valvular and pericardial disease
-    - Titrating medications, specifically inotropes, pulmonary
-        vasodilators, diuresis
-- Contraindications to PAC placement
-    - RA/RV mass or thrombi
-    - Tricuspid or pulmonic valve endocarditis
-    - Mechanical tricuspid or pulmonic valves
-    - Presence of RV assist device
-- Complications of PAC placement
-    - Arrythmias: VT, RBBB, 3rd degree AV block if preexisting LBBB
-    - Infection (endocarditis of the pulmonary valve)
-    - Bleeding
-    - Pulmonary embolism and pulmonary Infarct
-    - Pneumothorax
-    - Air embolism
-    - Pulmonary artery perforation / rupture
-    - Endocardial/valvular damage
+## Indications for PAC placement
+-   Diagnose undifferentiated shock
+
+-   Severe cardiogenic shock
+
+-   Diagnose pulmonary hypertension
+
+-   Diagnose left -\> right shunting
+
+-   Diagnose valvular and pericardial disease
+
+-   Titrating medications, specifically inotropes, pulmonary
+    vasodilators, diuresis
+
+## Contraindications to PAC placement
+-   Infection at the insertion site
+
+-   RA/RV mass or thrombi
+
+-   Tricuspid or pulmonic valve endocarditis
+
+-   Mechanical tricuspid or pulmonic valves
+
+-   Presence of RV assist device
+
+## Complications of PAC placement
+
+-   Arrythmias: VT, RBBB, 3rd degree AV block if preexisting LBBB
+
+-   Infection (endocarditis of the pulmonary valve)
+
+-   Bleeding
+
+-   Pulmonary embolism and pulmonary Infarct
+
+-   Pneumothorax
+
+-   Air embolism
+
+-   Pulmonary artery perforation / rupture
+
+-   Endocardial/valvular damage
 
 ## PAC Pressure Tracings
 
