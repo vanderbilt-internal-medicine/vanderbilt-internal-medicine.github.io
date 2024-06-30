@@ -85,7 +85,7 @@ Stroke Prevention (for AF and flutter)
     warfarin except in moderate to severe MS or mechanical valve
 - If cardioversion planned for new onset AF, start AC as soon as
     possible
-      - Post-cardioversion, anticoagulate for at least 4 weeks due to
+  - Post-cardioversion, anticoagulate for at least 4 weeks due to
         atrial stunning and stroke risk
 - If no contraindications or procedures, continue anticoagulation
     while inpatient
@@ -93,4 +93,4 @@ Stroke Prevention (for AF and flutter)
     procedures unless mechanical valve is present. Decide on a case
     by-case basis
 - Left atrial appendage closure can be considered in those with
-    increased risk of bleeding
+    increased risk of bleeding (WATCHMAN, Amulet devices) 
