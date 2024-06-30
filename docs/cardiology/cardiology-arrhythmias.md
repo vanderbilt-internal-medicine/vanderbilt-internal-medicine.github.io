@@ -1,19 +1,17 @@
 # Arrhythmias
 
-Kunal Patel, Madeline Rukavina
-
 ---
 
 ## Acute management of arrhythmias
 
 - 12-lead EKG if possible and have defib pads on patient
-- Is the patient unstable (hypotensive, signs/symptoms of
+- Is the pt unstable (hypotensive, signs/symptoms of
     hypoperfusion)?
 - Is the information real?
-- Review tele strips if stable: VUMC Web Resources -\> VUH PIICiX
+    - Review tele strips if stable: VUMC Web Resources -\> VUH PIICiX
     Philips Web -\> patient selection -\> alarm review
     (vuhphilipsweb.app.vumc.org)
-- Review past EKGs to determine if patient has had this rhythm before
+    - Review past EKGs to determine if patient has had this rhythm before
 - Ensure pt has good IV access
 - Labs: BMP, Mg, TSH, and +/- troponin, tox screen
 
@@ -21,7 +19,7 @@ Kunal Patel, Madeline Rukavina
 
 ## Bradyarrhythmias
 
-Kunal Patel
+Lin Cao
 
 ---
 
@@ -31,12 +29,12 @@ Kunal Patel
     atrioventricular block (conduction defect)
 - Clinical presentation varies widely based on underlying cause,
     timing, degree of block/dysfunction
-- Unlikely to cause symptoms if HR \>50
-- Symptoms include syncope/presyncope, dyspnea, angina
+    - Unlikely to cause symptoms if HR \>50
+    - Symptoms include syncope/presyncope, dyspnea, angina
 
-### Etiologies
+### Potential Etiologies
 
-- Infection/sepsis
+- Infection (including perivalvular abscess from endocarditis)/sepsis
 - Ischemia
 - Rheumatologic/Inflammatory
 - Post-cardiac surgery
@@ -46,13 +44,6 @@ Kunal Patel
 - High vagal tone (pain, nausea)
 - Medications: Antihypertensives, antiarrhythmics, psychoactive meds,
     anesthetics, cannabis, muscle relaxants, etc.
-
-Sinus node dysfunction
-
-- Symptomatic sinus bradycardia, tachy-brady syndrome, chronotropic
-    incompetence, sinus pause, SA exit block
-- Asymptomatic sinus bradycardia (esp in young/healthy patient) is
-    unlikely to be true bradyarrhythmia
 
 AV Block
 
@@ -82,7 +73,7 @@ AV Block
 
 ## Tachyarrhythmias - Narrow complex
 
-Kunal Patel
+Manasa Atyam 
 
 ---
 
@@ -96,10 +87,6 @@ Kunal Patel
     - Triggered Activity: early and late after depolarizations. Ex:
     Hypokalemia, ischemia, infracts, excess calcium and drug toxicity
 
-Tachyarrhythmia differential
-
-![tachyarrhythmia](../images/image3.png)
-
 ### Evaluation
 
 - Unstable tachyarrhythmia
@@ -108,10 +95,13 @@ Tachyarrhythmia differential
     0.5-2mg IV midazolam for sedation, prepare for synchronized
     cardioversion at 200J (can ↑ to 300-360 J)
 
+Tachyarrhythmia differential
+
+![tachyarrhythmia](../images/image3.png)
+
 ### Management
 
-- Sinus tachycardia
-    - Almost always secondary
+- Sinus tachycardia- Almost always secondary
     - Address underlying causes: fever/sepsis, hypo/hypervolemia, anxiety,
       anemia, PE, ACS, hypoxia, pain, urinary retention, withdrawal
 - Atrial Fibrillation/Flutter – See Atrial fibrillation section
@@ -204,9 +194,9 @@ conduction</td>
 </tbody>
 </table>
 
-## Tachyarrhythmias - Wide Complex
+## Tachyarrhythmias - Wide Complex and PVCs 
 
-Madeline Rukavina
+Manasa Atyam 
 
 ---
 
