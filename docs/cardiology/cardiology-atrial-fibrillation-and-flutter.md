@@ -41,8 +41,7 @@ Matt Gayoso
     - Rhythm control (if indicated)
     - Stroke prevention (CHADS2VASc) 
 
-Rate control:
-
+## Rate control:
 - RVR \~ sinus tach of AF; Always work to address the underlying cause
     (infection, volume overload, etc). Rate control is rarely an
     emergency unless the patient is unstable
@@ -61,7 +60,7 @@ Rate control:
 - Unstable (SBPs \<80)
     - Cardioversion
 
-Rhythm control 
+## Rhythm control 
 - New onset a-fib (first time diagnosis): most pts will be a candidate
     for trial of cardioversion
 - If onset clearly within 48 hours, can proceed without TEE. Often TEE
@@ -78,7 +77,7 @@ Rhythm control
     persistent AF refractory to anti-arrhythmic drugs, AF in HFrEF, or
     flutter
 
-Stroke Prevention (for AF and flutter)
+## Stroke Prevention (for AF and flutter)
 - CHA2DS2-VASc risk score \>2 in M or \>3 in F should prompt long term
     AC in AF persisting \>48 hours
 - NOACs (apixaban, dabigatran, edoxaban, rivaroxaban) are preferred to
