@@ -3,7 +3,6 @@
 Claire Lo
 
 ---
-
 ## Chest Pain / Angina:
 -   Symptoms determine likelihood that chest pain has a cardiac etiology
 -   Cardiac \> possible cardiac \> noncardiac is more useful than
