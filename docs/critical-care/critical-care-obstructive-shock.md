@@ -8,10 +8,10 @@ Seth Alexander
 -	Obstructive shock occurs when there is increased resistance to forward blood flow which can occur due to:
     -	Resistance in the cardiovascular circuit (i.e., pulmonary embolism, HOCM, critical aortic stenosis)
     -	Extrinsic compression on the heart (i.e., pericardial tamponade, tension pneumothorax, dynamic hyperinflation (auto-PEEP), restrictive cardiomyopathy)
-    -	Risk factors vary based on the underlying pathology but include:
-        -	PE: Known DVT, prothrombotic conditions, malignancy, recent orthopedic surgery
-        -	Pneumothorax: Recent chest trauma/thoracic procedures, mechanical ventilation, COPD/emphysema, endobronchial valve placement
-        -	Tamponade: Recent cardiac procedure, ESRD, cancer, trauma
+-	Risk factors vary based on the underlying pathology but include:
+    -	PE: Known DVT, prothrombotic conditions, malignancy, recent orthopedic surgery
+    -	Pneumothorax: Recent chest trauma/thoracic procedures, mechanical ventilation, COPD/emphysema, endobronchial valve placement
+    -	Tamponade: Recent cardiac procedure, ESRD, cancer, trauma
 
 ## Clinical Signs/Symptoms
 -	General: Hypotension, tachycardia, hypoxemia, elevated JVP
