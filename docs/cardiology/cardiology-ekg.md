@@ -50,7 +50,7 @@ Method = mastery, approach each EKG the same.
         interval
     - QTc estimates the QT interval at a HR of 60 bpm (to allow for
         comparison across HRs)
-    - A couple formulas exist to calculate QTc:
+    - A couple of formulas exist to calculate QTc:
         - QTcB= most commonly used due to simplicity, most accurate HR of
             60
         - QTcF= more accurate when HR is outside the range of 60-100
