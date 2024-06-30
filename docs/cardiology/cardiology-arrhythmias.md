@@ -66,9 +66,7 @@ AV Block
 
 ## Tachyarrhythmias - Narrow complex - Manasa Atyam 
 
----
 ### Background
-
 - Three causes of tachyarrhythmias
     - Re-entry: patient with structural heart disease (ex post-infarction
     scar)
@@ -78,7 +76,6 @@ AV Block
     Hypokalemia, ischemia, infracts, excess calcium and drug toxicity
 
 ### Evaluation
-
 - Unstable tachyarrhythmia
 - Start with treatment, determine type later
 - Synchronized cardioversion: place defibrillator pads, consider
