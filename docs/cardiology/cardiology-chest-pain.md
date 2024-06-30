@@ -1,14 +1,12 @@
 # Chest Pain
 
-Nicholas King
+Claire Lo
 
 ---
 
-## Chest Pain / Angina Framework
-
--   Determining likelihood that chest pain has a cardiac etiology
-    depends on symptoms and lies on a spectrum
--   Cardiac > possible cardiac > noncardiac is more useful than
+## Chest Pain / Angina:
+-   Symptoms determine likelihood that chest pain has a cardiac etiology
+-   Cardiac \> possible cardiac \> noncardiac is more useful than
     typical vs atypical angina
 
 <figure markdown>
@@ -16,27 +14,30 @@ Nicholas King
 <figcaption markdown> </figcaption>
 </figure>
 
-## Diagnoses Not to Miss: “The Serious Six”
+## Diagnoses Not to Miss: “The Serious Six” (3 Heart, 2 Lung, 1 Esophagus)
 
 - Acute Coronary Syndrome
-- Mediastinitis (e.g, esophageal perforation)
 - Aortic Dissection/Aneurysm
 - Cardiac Tamponade
-- Pulmonary Embolus
 - Pneumothorax
+- Pulmonary Embolus
+- Mediastinitis (e.g, esophageal perforation)
 
 ## Other Differential Diagnoses
 
--   Skin: Laceration, herpes zoster
--   Subcutaneous: cellulitis, abscess
--   Musculoskeletal: Costochondritis, fracture, myositis, sprain/strain
--   Pleural space (no pain receptors in the lung): PNA, tumor, pleuritis
--   Pericardium: Pericarditis
--   Heart: Myocarditis, spontaneous coronary artery dissection (SCAD),
-    coronary vasospasm, aortic stenosis, stress-induced cardiomyopathy
-    (Takotsubo), decompensated heart failure
--   Esophagus: GERD, esophagitis
--   Trachea: Tracheitis, tracheal tear
+-   **Skin/subcutaneous**: Laceration, herpes zoster, cellulitis,
+    abscess
+-   **Musculoskeletal**: Costochondritis, rib fracture, myositis,
+    sprain/strain
+-   **Pleural space** (no pain receptors in the lung): PNA, tumor,
+    pleuritis
+-   **Heart**: Myocarditis, pericarditis, spontaneous coronary artery
+    dissection (SCAD), coronary vasospasm, aortic stenosis,
+    stress-induced cardiomyopathy (Takotsubo), decompensated heart
+    failure
+-   **GI**: GERD, esophagitis, rupture, impaction, diaphragmatic hernia
+-   **Trachea**: Tracheitis, tracheal tear
+-   **Nervous system**: thoracic radiculopathy
 
 ## Physical Exam
 
@@ -54,8 +55,8 @@ Nicholas King
 
 ## Diagnostic Studies
 
--   EKG: ACS (STEMI, new LBBB, ST depressions, T wave Inversions,
-    Wellens' sign), pericarditis, pericardial effusion
+-   EKG: ACS (STEMI, new LBBB, ST depressions, TWI,
+    Wellens sign), pericarditis, pericardial effusion
 -   Labs: Troponin (ACS, PE, myocarditis), CBC, BNP, lactate
 -   CXR: PTX, PNA, dissection, esophageal rupture
 -   Bedside ultrasound: pericardial effusion, R heart strain for PE,
