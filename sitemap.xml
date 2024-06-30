@@ -111,6 +111,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://vim-book.org/cardiology/cardiology-pericarditis/</loc>
+         <lastmod>2024-06-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://vim-book.org/cardiology/cardiology-rhc/</loc>
          <lastmod>2024-06-30</lastmod>
          <changefreq>daily</changefreq>
