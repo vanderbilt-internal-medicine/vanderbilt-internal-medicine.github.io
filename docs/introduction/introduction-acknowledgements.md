@@ -16,5 +16,5 @@ to the 6th edition of the Housestaff Handbook:
     throughout the year as the Handbook’s faculty advisor.
 -   C. Beau Hilton, MD for his work in updating and improving the online
     version of this handbook.
--   John McPherson, MD, Jane Freeman MD, Hilary Tindle MD PhD, Kristy Braden and Maria
-    Kasel, for their unwavering support.
+-   ViTAL Center and William Anderson Spickard Scholars fund, for supporting the publication of the physical copy of the book. 
+-   John McPherson, MD, Jane Freeman MD, Hilary Tindle MD PhD, Kristy Braden and Maria Kasel, for their unwavering support.
