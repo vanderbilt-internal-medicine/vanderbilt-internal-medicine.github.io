@@ -1,6 +1,6 @@
 # Inpatient Hypertension
 
-Lee Richardson
+Nicholas Weinand 
 
 ---
 
@@ -13,13 +13,13 @@ Lee Richardson
 ## Evaluation
 
 - Are there signs/symptoms of end organ damage?
-- Neurologic symptoms: agitation, delirium, stupor, seizures, visual
+    - Neurologic symptoms: agitation, delirium, stupor, seizures, visual
     disturbances
-- Focal neurologic deficits
-- Chest pain
-- Back pain (consider aortic dissection)
-- Dyspnea (consider pulmonary edema)
-- BMP, LFTs, Troponin, BNP: Lab findings suggestive of end-organ
+    - Focal neurologic deficits
+    - Chest pain
+    - Back pain (consider aortic dissection)
+    - Dyspnea (consider pulmonary edema)
+    - BMP, LFTs, Troponin, BNP: Lab findings suggestive of end-organ
     damage
 
 ## Management
@@ -35,12 +35,12 @@ Lee Richardson
     - Aortic dissection: Goal = rapidly lower BP in minutes to target
         of 100-120 systolic to avoid aortic shearing forces
 - Pharmacologic therapy
-    - If pt was previously on anti-HTN meds, ensure their home medicines
-        have been restarted at appropriate doses, formulation (long acting
-        vs. short), and dosing intervals
-    - If pt has a rapid acting anti-HTN med, can consider giving a dose
-        early or an “extra dose” and then up titrating their overall daily
-        dose
+    -   Ensure their home medicines have been restarted at appropriate
+    doses, formulation (long acting vs. short), and dosing intervals
+    -   If pt has a rapid acting anti-HTN med, can consider giving a dose
+    early or an "extra dose" and then up titrating their overall daily
+    dose
+
 - Rescue therapies
     - Captopril PO (12.5mg or 25mg dosed Q8H; conversion ratio of
         captopril:lisinopril = 5:1)
