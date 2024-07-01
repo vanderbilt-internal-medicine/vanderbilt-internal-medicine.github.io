@@ -1,39 +1,46 @@
 # Cardiogenic Shock
 
-Ashley Cozart
+Sims Hershey 
 
 ---
 
 ## Definition
 
-Impairment of cardiac output due to primary cardiac disorder that
+- Impairment of CO due to primary cardiac disorder that
     results in end-organ hypoperfusion and hypoxia
+- Mortality of up to 40-50%
 
 ## Etiology
 
-- Cardiomyopathic: myocardial infarction with LV dysfunction,
-    exacerbation of heart failure, myocarditis, myocardial contusion,
+- Cardiomyopathic: myocardial infarction with LV dysfunction (most common cause),
+    exacerbation of heart failure, PHTN exacerbation, myocarditis, myocardial contusion,
     drug-induced
 - Arrhythmic: atrial tachycardias (atrial fibrillation/flutter, AVRT,
-    AVNRT), ventricular tachycardia and fibrillation, complete heart
-    block, second degree heart block
-- Mechanical: valvular insufficiency, valvular rupture, critical
-    valvular stenosis, ventricular septal wall defect, ruptures
-    ventricular wall aneurysm, atrial myxoma
+    AVNRT), VT/VF, complete heart
+    block, 2nd degree heart block
+- Mechanical: valvular insufficiency, valvular rupture, papillary muscle rupture, critical
+    valvular stenosis, ventricular septal wall defect, ruptured
+    ventricular wall aneurysm, atrial myxoma, HOCM 
 
-## Presentation
+## Presentation and diagnostic criteria 
 
-- Cold (decreased perfusion) due to reduced cardiac output (can be
-    wet- increased PCWP OR dry normal PCWP)
-- Symptoms of volume overload + end-organ hypoperfusion (altered
-    mental status, nausea, abdominal pain, decreased urine output)
-- Hypotension; narrow pulse pressure
+- "Cold and wet" - decreased perfusion due to reduced cardiac output
+    with pulmonary congestion and/or increased left sided filling
+    pressures. May also be "cold and dry" in the setting of normal PCWP
+    with low cardiac output.
+- Signs of end-organ hypoperfusion - AMS, cold and clammy skin,
+    decreased UOP (\<30cc/hr), and elevated lactate (\>2).
+- SBP \< 90 mmHg for \>30min or needing vasopressors to achieve this
+    goal, usually with narrow pulse pressure
+- Initially, SVR is elevated in the s/o hypoperfusion. SVR then
+    declines in progressive shock due to vasodilation in the s/o
+    systemic inflammation causing elevated NO in the shock state.
 
 ## Evaluation
 
 - EKG
 - Labs: CBC, CMP, BNP, troponin, lactate
-- Evidence of end organ damage: lactic acidosis, acute kidney injury,
+    - Evidence of end organ damage: lactic acidosis, acute kidney injury,
     acute liver injury
 - Echocardiogram: assess EF and valves
 - LHC If ischemia (see ACS)
@@ -57,15 +64,16 @@ Impairment of cardiac output due to primary cardiac disorder that
 
 ### Medical management
 
-Focus on optimizing preload, afterload, and contractility.
-
-- Preload: IV diuresis
-- Afterload: IV – nitroglycerine, nitroprusside; PO – hydralazine,
+- Medical management: focus on optimizing preload, afterload, and
+    contractility
+    - Preload: IV diuresis -- hypotension IMPROVES with diuresis in
+    cardiogenic shock
+    - Afterload: IV -- nitroglycerine, nitroprusside; PO -- hydralazine,
     isosorbide dinitrate; vasoconstricting pressors (phenylephrine,
     vasopressin) if needing BP support
-- Contractility - Inodilators (increase contractility, decrease
-    afterload – milrinone, dobutamine) or inoconstrictors (increase
-    contractility and afterload – epinephrine, norepinephrine)
+    - Contractility - Inodilators (increase contractility, decrease
+    afterload -- milrinone, dobutamine) or inoconstrictors (increase
+    contractility and afterload -- epinephrine, norepinephrine)
 
 ### Mechanical circulatory support indications
 
@@ -164,22 +172,19 @@ root</p>
 </tbody>
 </table>
 
-Daily management of MCS devices:
+## Possible contraindications to mechanical circulatory support:
 
-- Ensure optimal placement of device with daily CXR
+- Aortic regurgitation, intracardiac shunt via ASD, VSD, or PFO,
+    severe RV dysfunction, LA or ventricular thrombus, aortic
+    dissection, uncontrolled sepsis, severe coagulopathy or bleeding
+    diathesis
+
+## Daily management of MCS devices:
+
+- Ensure optimal placement of device with daily CXR/Echo
+
 - Anticoagulation (based on device)
+
 - Hematoma monitoring at device site
+
 - Check distal pulses to monitor for limb ischemia
-
-Pearls for MCS
-
-- MCS devices are contraindicated in following situations: aortic
-    regurgitation or metallic aortic valve, aortic aneurysm or
-    dissection, severe aortic or peripheral artery disease, left
-    ventricular or left atrial thrombi, bleeding diathesis, uncontrolled
-    sepsis
-- ECMO is placed by the cardiac surgery team, once a patient is
-    cannulated they will move onto the cardiac surgery team
-- Impella, tandem heart, and IABPs are placed in the cath lab
-- MCS is a bridge to recovery/definitive therapy, durable cardiac
-    support (VAD), or transplant
