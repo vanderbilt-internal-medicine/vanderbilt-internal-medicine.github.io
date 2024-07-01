@@ -641,6 +641,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://vim-book.org/hospital-medicine/hospital-medicine-ama-discharges/</loc>
+         <lastmod>2024-07-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://vim-book.org/hospital-medicine/hospital-medicine-enteral-nutrition/</loc>
          <lastmod>2024-07-01</lastmod>
          <changefreq>daily</changefreq>
