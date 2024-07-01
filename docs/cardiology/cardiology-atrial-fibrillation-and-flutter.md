@@ -80,7 +80,7 @@ Matt Gayoso
 ## Stroke Prevention (for AF and flutter)
 - CHA2DS2-VASc risk score \>2 in M or \>3 in F should prompt long term
     AC in AF persisting \>48 hours
-- NOACs (apixaban, dabigatran, edoxaban, rivaroxaban) are preferred to
+- DOACs (apixaban, dabigatran, edoxaban, rivaroxaban) are preferred to
     warfarin except in moderate to severe MS or mechanical valve
 - If cardioversion planned for new onset AF, start AC as soon as
     possible
