@@ -46,21 +46,21 @@ NY Heart Association (NYHA) Functional Classes of HF
     cardiomyopathy
 
 ## Causes of Heart Failure Exacerbations (FAILURES)
-- **F**orgetting medications or taking drugs that can worsen HF (e.g. BB,
+- Forgetting medications or taking drugs that can worsen HF (e.g. BB,
     CCB, NSAIDs, TZDs), chemo (anthracyclines, trastuzumab)
-- **A**rrhythmia/Anemia: AF, VT, PVCs; Increased arrhythmia burden on
+- Arrhythmia/Anemia: AF, VT, PVCs; Increased arrhythmia burden on
     device check?
-- **I**schemia/Infarction/Infection: myocarditis; Acute vascular
+- Ischemia/Infarction/Infection: myocarditis; Acute vascular
     dysfunction (e.g. endocarditis), especially mitral or aortic
     regurgitation.
-- **L**ifestyle choices: Dietary indiscretions - high salt, EtOH,
+- Lifestyle choices: Dietary indiscretions - high salt, EtOH,
     excessive fluid intake. Obesity.
-- **U**pregulation (of CO): pregnancy and hyperthyroidism
-- **R**enal failure: acute, progression of CKD, or insufficient dialysis
+- Upregulation (of CO): pregnancy and hyperthyroidism
+- Renal failure: acute, progression of CKD, or insufficient dialysis
     (Increased preload)
-- **E**mbolus (pulmonary) or COPD (leads to increase right-sided
+- Embolus (pulmonary) or COPD (leads to increase right-sided
     afterload)
-- **S**tenosis (worsening AS, RAS) leading to hypertensive crisis high
+- Stenosis (worsening AS, RAS) leading to hypertensive crisis high
     left-sided afterload
 
 ## Presentation
