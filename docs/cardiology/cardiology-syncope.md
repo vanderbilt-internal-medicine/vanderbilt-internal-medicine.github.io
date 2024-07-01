@@ -29,29 +29,29 @@ Sarah Myers
     - Situational (micturition/defecation/coughing)
     - Carotid sinus sensitivity syndrome
 - Orthostatic
-- Medications (diuretics, nitrates/CCB/alpha blockers, TCAs)
-- Volume depletion (hemorrhage, dehydration)
-- Autonomic dysfunction
+    - Medications (diuretics, nitrates/CCB/alpha blockers, TCAs)
+    - Volume depletion (hemorrhage, dehydration)
+    - Autonomic dysfunction
 
 ## Differential diagnosis
 
 - Seizure, stroke, metabolic derangements, Intoxication/withdrawal,
     hypoglycemia, head trauma
-- With rare exceptions, these do not result In complete LOC with
-    spontaneous recovery
+    - With rare exceptions, these do not result In complete LOC with
+        spontaneous recovery
 
 ## Evaluation
 
 - History and physical are essential for evaluation of a syncopal
     event 
 - Characteristics associated with cardiac syncope 
-- Male, \>60, known structural/ischemic heart disease, brief/no
-    prodrome, syncope while supine/at rest or during exercise, family hx
-    of SCD/premature death, abnormal exam 
+    - Male, \>60, known structural/ischemic heart disease, brief/no
+        prodrome, syncope while supine/at rest or during exercise, family hx
+        of SCD/premature death, abnormal exam 
 - Characteristics associated with noncardiac syncope
-- Younger age, syncope while standing or with positional changes,
-    prodrome (nausea, vomiting, warmth), specific triggers, previous
-    episodes that have been similar  
+    - Younger age, syncope while standing or with positional changes,
+        prodrome (nausea, vomiting, warmth), specific triggers, previous
+        episodes that have been similar  
 
 ## Workup
 
@@ -86,5 +86,5 @@ Sarah Myers
     - Autonomic dysfunction: see autonomics section
 
 - Driving: TN law does not require any MD to inform the state of TLOC 
-- Should still recommend patients not drive while work-up ongoing.
-    Document all conversations about driving with patients
+    - Should still recommend patients not drive while work-up ongoing.
+        Document all conversations about driving with patients
