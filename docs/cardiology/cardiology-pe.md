@@ -124,4 +124,27 @@ embolectomy</p></td>
 
 ## Long-term management
 
-- Anticoagulation: see “Venous Thromboembolism” in Hematology/Oncology
+- Anticoagulation
+    - NOAC - Remember to give initial loading dose (duration of load
+    varies with each agent)
+    - Warfarin (Coumadin): Goal INR 2-3, requires frequent monitoring
+        - Need to bridge with heparin or lovenox
+        - Pharmacy consult, and will need to be set up with coumadin clinic at
+        the time of dc
+
+-   IVC filter: only if AC is contraindicated, bleeding risk
+    unacceptably high, recurrent PE despite optimal AC (placed by IR or
+    Interventional cards)
+
+   ## Duration of Anticoagulation:
+
+- Major reversible/transient risk factors (surgery, trauma): 3-6
+    months
+- Idiopathic, unprovoked, or with less compelling risk factors: 12
+    months
+- Major permanent risk factors (cancer, homozygote F5L or prothrombin
+    gene mutation, APLS, protein C/S deficiencies, AT III deficiency):
+    At least 1 year, preferably lifelong.
+-   Recurrent DVT/PE: lifelong
+    - Consider etiology of recurrent VTE: cancer screenings, family hx of
+    hypercoagulable disorders, features of autoimmune disease
