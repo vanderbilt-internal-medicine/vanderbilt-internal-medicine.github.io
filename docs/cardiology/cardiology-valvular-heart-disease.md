@@ -1,32 +1,33 @@
 
 # Valvular Heart Disease
 
-Jonathan Napper, Marcus Threadcraft
+Audrey White
 
 ---
 
-# Aortic stenosis
-
-Jonathan Napper 
+## Aortic stenosis 
 
 ---
+
+Chloe Carr
 
 ## Etiology
 
 - Degenerative calcification of the aortic cusps
-- Congenital bicuspid aortic valve
-- Chronic deterioration (calcific)
-- Prior rheumatic fever/inflammation
+    - Congenital bicuspid aortic valve
+    - Chronic deterioration (calcific)
+    - Prior rheumatic fever/inflammation
 
 ## Presentation
 
+- Usually asymptomatic 
 - Angina, syncope, exertional dyspnea, heart failure (HF carries worse
-    prognosis)
+    prognosis) when severe
 - Typically aged 70 – 80 y/o; if bicuspid aortic valve expect 10-20
     yrs earlier
 - Physical exam: Systolic crescendo-decrescendo murmur that radiates
     towards the carotids
-- Late peaking murmur, faint or absent S2, or delayed carotid upstroke
+    - Late peaking murmur, faint or absent S2, or delayed carotid upstroke
     suggest severe AS
 
 ## Evaluation
@@ -83,8 +84,7 @@ Jonathan Napper 
 </tbody>
 </table>
 
-AS stages
-
+## AS stages
 - A: at risk of AS (those with bicuspid anatomy or calcification
 - B: Asymptomatic non-severe AS
 - C: asymptomatic AS
@@ -136,7 +136,7 @@ AS stages
 
 # Aortic Regurgitation
 
-Jonathan Napper 
+Hannah Granger 
 
 ---
 
@@ -161,15 +161,19 @@ Jonathan Napper 
 ## Management
 
 - Acute severe AR
-    - Prompt surgical repair
+    - Page cardiac surgery for urgent surgical repair
     - Vasodilators such as nitroprusside and diuretics can be used to
         stabilize patient
+    - Though pts with aortic dissection are often treated with beta
+    blockers, these should be used with caution if there is concomitant
+    severe AR as it may block compensatory tachycardia and lead to
+    marked hypotension  
 - Chronic severe AR
     - Medical management
-    - Early symptoms of exercise intolerance can be treated with
-        diuretics
-    - Systolic BP should also be controlled with goal SBP \< 140 in
-        chronic AR
+        - Early symptoms of exercise intolerance can be treated with
+            diuretics
+        - Systolic BP should also be controlled with goal SBP \< 140 in
+            chronic AR
 
 - Repeat imaging should be performed 3-6 month to assess for depressed
     LVEF or LV dilation
@@ -179,21 +183,13 @@ Jonathan Napper 
       - If symptoms are present, automatically Stage D, otherwise
         Progression through stages is determined by AR Jet Width
 - Class I indications for Valve Repair:
-    - Stage D (Symptomatic) or Stage C (Asymptomatic Severe AR)
-      with LVEF \< 55%, or are undergoing other
-      cardiac surgery
-    - If LVEF \> or equal 55%, patients should be considered for
-            surgery if LV is dilated (LVESD \> 50 mm (class IIa) or LVEDD \>
-            65 mm (class IIb))
-    - Any patient with progressive AR, even if they do not meet criteria
-        for severe AR, should consider valve replacement if undergoing
-        cardiac surgery for other reasons
-    - Note: TAVI for isolated chronic AR is challenging 2/2 dilation
-            of the aortic annulus and root
+    - Stage D (Symptomatic)
+    - Stage C (Asymptomatic Severe AR) with LVEF \< 55%
+    - Severe AR and undergoing cardiac surgery for other indication
 
 # Mitral Regurgitation
 
-Marcus Threadcraft
+Krissie Lobon 
 
 ---
 
@@ -201,47 +197,50 @@ Marcus Threadcraft
 
 - Primary MR – caused by direct involvement of the valve apparatus
     (leaflets or chordae tendineae)
-- Degenerative/myxomatous mitral valve disease (mitral valve prolapse
-    with flail leaflet, mitral annular calcification, chordal rupture)
-- Rheumatic fever
-- Infective endocarditis
-- Papillary muscle rupture following acute (inferior) MI
-- Secondary MR- caused by changes of the LV that lead to valvular
-    incompetence
-- Dilated Cardiomyopathy
-- HOCM with systolic anterior motion
-- Coronary Artery Disease or prior MI leading to papillary muscle
-    tethering
-
+    - Most common cause: Degenerative/myxomatous mitral valve disease
+        (mitral valve prolapse with flail leaflet, mitral annular
+        calcification, chordal rupture)
+    - Rheumatic fever
+    - Infective endocarditis
+    - Papillary muscle rupture following acute (inferior) MI
+ 
+- Secondary MR (also called functional MR)- caused by changes of the
+    LV that lead to valvular incompetence
+    -   Dilated Cardiomyopathy
+    -   HOCM with systolic anterior motion
+    -   Coronary Artery Disease or prior MI leading to papillary muscle
+        tethering
+        
 ## Presentation
 
 - Acute MR- sudden onset reduction in forward cardiac flow and left
     atrial/pulmonary vein volume overload
-- Dyspnea with flash pulmonary edema
-- Left-sided heart failure
+    - Dyspnea with flash pulmonary edema
+    - Left-sided heart failure
 - Chronic MR- progressive symptoms d/t cardiac remodeling to
     compensate for mitral flow reversal
-- Progressively worsening heart failure: dyspnea, orthopnea, PND
-- LV dilation from volume overload
-- LA remodeling/dilation leading to afib
+    - Progressively worsening heart failure: dyspnea, orthopnea, PND
+    - LV dilation from volume overload
+    - LA remodeling/dilation leading to afib
 
 ## Auscultation
 
-- Holosystolic Murmur
-- Best heard at Apex
-- Radiation to the Axilla
-- Frequently associated with S3
-- Murmur may be absent in acute MR due to large regurgitant
-    orifice/low velocity regurgitant jet
-- Increases w/ increased preload or afterload
-- Pulmonary Rales
+- Holosystolic murmur, best heard at Apex, Radiation to the Axilla
+    - Frequently associated with S3
+    - Murmur may be absent in acute MR due to large regurgitant
+        orifice/low velocity regurgitant jet
+    - Increases w/ increased preload or afterload
 
 ## Evaluation
 
-- CXR: assess for pulmonary edema, r/o other causes of acute dyspnea
-- ECG: often non-specific, LVH
-- Echocardiography: assess valve apparatus, size, and function of
-    LA/LV, grade severity of MR
+-   CXR: assess for pulmonary edema, typically normal cardiac silhouette
+    in acute MR. Cardiomegaly and LA enlargement in chronic MR.
+-   ECG: often non-specific if chronic LA enlargement notable on p wave
+    morphology (p-mitrale). Chronic MR often c/b development of atrial
+    fibrillation.
+-   Echocardiography needed for confirming diagnosis
+    - TEE, CMR, or cardiac catheterization performed when insufficient or
+    discordant information from TTE. TEE used to guide MV interventions
 
 ## Chronic MR stages
 
@@ -280,15 +279,13 @@ Chronic severe primary MR
 
 # Mitral Stenosis
 
-Marcus Threadcraft
+Krissie Lobon
 
 ---
 
-# Etiology
-
-Characterized by thickened mitral valve leaflets and fused
+## Etiology
+- Characterized by thickened mitral valve leaflets and fused
 leaflet tips.
-
 - Rheumatic Fever (leading cause worldwide)
 - Calcification of the mitral valve annulus (common in high income
     countries)
@@ -297,16 +294,16 @@ leaflet tips.
 ## Presentation
 
 - Progressive symptoms: Asymptomatic Heart Failure
-- Orthopnea
-- PND
-- Hoarseness/Dysphagia (compression of recurrent laryngeal
-    nerve/esophagus by enlarged left atrium from pressure overload)
-- Symptoms of Right Heart Failure
+    - Orthopnea
+    - PND
+    - Hoarseness/Dysphagia (compression of recurrent laryngeal
+        nerve/esophagus by enlarged left atrium from pressure overload)
+    - Symptoms of Right Heart Failure
 - Acute Symptoms may present in settings of increased cardiac output
     (pregnancy, sepsis, or exercise) or tachyarrhythmias
-- Dyspnea
-- Fatigue
-- Palpitations
+    - Dyspnea
+    - Fatigue
+    - Palpitations
 
 ## Physical exam
 
@@ -315,6 +312,19 @@ leaflet tips.
     - Loud S1, opening snap after S2
     - Prominent P2 if pulmonary HTN develops
 - Pulmonary Rales
+
+ ## Stages of MS
+- A: At risk of MS, characterized by mild valve doming during
+    diastole, asymptomatic
+
+- B: Progressive MS, characterized by commissural fusion, increased
+    transmitral flow velocities, asymptomatic
+
+- C: Asymptomatic Severe MS, characterized by above + mitral valve
+    area \<1.5cm2
+
+- D: Symptomatic Severe MS, characterized by above criteria +
+    decreased exercise tolerance
 
 ## Evaluation
 
@@ -338,11 +348,15 @@ leaflet tips.
 - Surgical valve replacement may be considered for severely
     symptomatic patients (technically challenging)
 
-## Anti-Coagulation
+## Anticoagulation
 
-- Anti-coagulation is indicated if:
+- Anticoagulation is indicated if:
     - Mechanical prosthetic mitral valve
         - Warfarin, goal INR 3-4 lifelong
     - Bioprosthetic mitral valve replacement
         - Warfarin, goal INR 2-3 for first 3-6 months
     - Atrial Fibrillation regardless of CHADS2VASC score
+
+ [2020 ACC/AHA Heart Valve Disease Guidelines: Mitral Stenosis
+    Management
+    Algorithm](https://www.ahajournals.org/doi/10.1161/CIR.0000000000000923#d1e6762)
