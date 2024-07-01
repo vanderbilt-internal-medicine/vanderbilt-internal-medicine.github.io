@@ -1,6 +1,6 @@
 # Heart Failure
 
-Brittany Saldivar
+Leonie Dupuis 
 
 ---
 
@@ -8,10 +8,13 @@ Brittany Saldivar
 
 ACC/AHA Stages of HF
 
-- Stage A: At risk but without structural heart disease or symptoms
-- Stage B: + structural HD, - symptoms
-- Stage C: + structural HD, + prior or current symptoms
-- Stage D: refractory HF requiring specialized intervention
+-   Stage A: At risk but without structural heart disease, symptoms, or
+    cardiac biomarkers
+-   Stage B: no symptoms/signs of HF; presence of structural heart
+    disease, incr filling pressures, or incr cardiac biomarkers
+-   Stage C: + structural HD, + prior or current symptoms
+-   Stage D: marked HF, symptoms interfere with daily life and recurrent
+    hospitalizations
 
 NY Heart Association (NYHA) Functional Classes of HF
 
@@ -26,43 +29,41 @@ NY Heart Association (NYHA) Functional Classes of HF
 ## Etiologies
 
 - HFrEF (Clinical diagnosis + LVEF \< 40%)
-    - Ischemic: Obstructive CAD, previous/current myocardial
+    - Ischemic (approx. 2/3): Obstructive CAD, previous/current myocardial
         infarction
     - Non-ischemic:
         - Load: HTN, valvulopathy
         - Arrhythmia: tachyarrhythmia, pacemaker induced
         - Myocardium
-    - Toxins (EtOH, drugs, chemo, radiation),
-    - Inflammatory (infections, AI),
-    - Metabolic (thyroid, thiamine deficiency),
-    - Infiltrative (amyloid, sarcoid, hemochromatosis)
-    - Stress induced/takotsubo CM
-        - Genetic
+            - Toxins (EtOH, drugs, chemo, radiation),
+            - Inflammatory (infections, autoimmune),
+            - Metabolic (thyroid, thiamine deficiency),
+            - Infiltrative (amyloid, sarcoid, hemochromatosis)
+            - Stress induced/takotsubo CM
+            - Genetic
         - Idiopathic
 - HFpEF: HTN, CAD, obesity, DM, infiltrative, hypertrophic
     cardiomyopathy
 
-Causes of Heart Failure Exacerbations (FAILURES)
-
-- Forgetting medications or taking drugs that can worsen HF (e.g. BB,
+## Causes of Heart Failure Exacerbations (FAILURES)
+- **F**orgetting medications or taking drugs that can worsen HF (e.g. BB,
     CCB, NSAIDs, TZDs), chemo (anthracyclines, trastuzumab)
-- Arrhythmia/Anemia: AF, VT, PVCs; Increased arrhythmia burden on
+- **A**rrhythmia/Anemia: AF, VT, PVCs; Increased arrhythmia burden on
     device check?
-- Ischemia/Infarction/Infection: myocarditis; Acute vascular
+- **I**schemia/Infarction/Infection: myocarditis; Acute vascular
     dysfunction (e.g. endocarditis), especially mitral or aortic
     regurgitation.
-- Lifestyle choices: Dietary indiscretions - high salt, EtOH,
+- **L**ifestyle choices: Dietary indiscretions - high salt, EtOH,
     excessive fluid intake. Obesity.
-- Upregulation (of CO): pregnancy and hyperthyroidism
-- Renal failure: acute, progression of CKD, or insufficient dialysis
+- **U**pregulation (of CO): pregnancy and hyperthyroidism
+- **R**enal failure: acute, progression of CKD, or insufficient dialysis
     (Increased preload)
-- Embolus (pulmonary) or COPD (leads to increase right-sided
+- **E**mbolus (pulmonary) or COPD (leads to increase right-sided
     afterload)
-- Stenosis (worsening AS, RAS) leading to hypertensive crisis high
+- **S**tenosis (worsening AS, RAS) leading to hypertensive crisis high
     left-sided afterload
 
 ## Presentation
-
 - Volume overload: shortness of breath, dyspnea on exertion,
     Orthopnea, PND
 - Nausea/poor po intake (hepatic and gut congestion)
@@ -71,7 +72,6 @@ Causes of Heart Failure Exacerbations (FAILURES)
     JVD, + hepatojugular reflex, ascites
 
 ## Evaluation
-
 - CBC, CMP, Magnesium, Lactate, TSH, iron studies
 - Troponin, ECG
 - BNP (Pro-BNP if on Entresto) – high negative predictive value for HF
@@ -126,9 +126,9 @@ Causes of Heart Failure Exacerbations (FAILURES)
 </tbody>
 </table>
 
-## Management
+## Management of exacerbations 
 
-- Telemetry, Daily STANDING weights, 2 L fluid restriction, 2g sodium
+- Tele, Daily STANDING weights, 2L fluid restriction, 2g sodium
     diet, strict I/Os
 - Diuresis: Place on 2.5 x home dose of IV diuretic, dose BID-TID
     (DOSE Trial)
@@ -139,23 +139,20 @@ Causes of Heart Failure Exacerbations (FAILURES)
     transition to drip if not diuresing adequately
 - Can also augment with sequential nephron blockade (thiazides,
     acetazolamide)
+- Lasix 40mg PO = Lasix 20mg IV = Torsemeide 20mg PO/IV = Bumex 1mg PO/IV 
 - Continuation/optimization of GDMT (below)
 
 ---
 
 # Guideline-Directed Medical Therapy for HFrEF
 
-Brittany Saldivar
-
----
-
 ## General Principles
 
 - Starting patients on low dose of multiple agents preferred to max
     dose of single agent
-- D/C summary should have discharge weight, diuretic regimen, and
+- D/C summary should have discharge weight, GDMT and diuretic regimen, and
     renal function
-- Daily weights at home with rescue diuretic plan (pm dose for 3 lbs
+- Daily home weights with rescue diuretic plan (pm dose for 3 lbs
     in 1 day, 5 lbs in 3 days
 
 <table>
@@ -302,16 +299,11 @@ saturation &lt;20%</td>
 </tbody>
 </table>
 
-## Device therapies (after optimization of medical GDMT)
+## Device therapies (after optimization of medical GDMT for 3 months)
 
 - Cardiac resynchronization therapy (CRT)
     - Class I indication: NYHA class II to IV, LVEF ≤35% with QRS ≥150 ms
     and left bundle branch block (LBBB)
-    - Class II (consider) If EF \< 35% and:
-        - QRSd \> 150, without LBBB
-        - AF that requires ventricular pacing and AVN ablation
-        - Undergoing placement of device with anticipation of \>40%
-        ventricular pacing
 - ICD
     - Class I indication: NYHA class II – VI with LVEF \<35% (must have
     \>1yr expected survival and 40+ days from MI)
@@ -319,3 +311,13 @@ saturation &lt;20%</td>
     - Criteria: moderate to severe mitral regurgitation (3-4+), on
     maximally tolerated GDMT, an ejection fraction \>20%, and a left
     ventricle end-systolic dimension of less than 7 cm
+
+## Guideline-Directed Medical Therapy for HFpEF
+
+- Medications overlap with HFrEF treatment (above) but outcomes are less
+significant
+    -   SGLT2 inhibitors can decrease HF hospitalizations and CV mortality
+    -   MRAs can decrease HF hospitalizations
+    -   ARBs and ARNis can be used to decrease hospitalizations
+    -   Diuretics as needed for congestion (no morbidity or mortality
+        benefit)
