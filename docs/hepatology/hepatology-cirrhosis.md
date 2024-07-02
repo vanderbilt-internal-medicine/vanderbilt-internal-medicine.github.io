@@ -7,7 +7,6 @@ Ahmad Yanis
 ## Background
 
 - Standard 1-liner for any patient with cirrhosis:
-
 ![cirrhosis one-liner](../images/cirrhosisoneliner.png)
  
 - Example 1-liner: 65yo M with cirrhosis due to HCV decompensated by ascites and HE (MELD 25) who is listed for transplant and followed by Dr. Izzy
