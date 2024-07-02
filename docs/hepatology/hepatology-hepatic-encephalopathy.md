@@ -2,7 +2,7 @@
 
 Ahmad Yanis
 
-##Classifications of HE:
+## Classifications of HE:
 - Type A: in patients with acute liver failure
 - Type B: in patients with portosystemic shunt without significant liver disease
 - Type C: in patients with cirrhosis
