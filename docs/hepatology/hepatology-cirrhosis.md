@@ -1,6 +1,6 @@
 # Cirrhosis Overview  
 
-Hannah Angle, Lee Richardson 
+Ahmad Yanis
 
 ---
 
@@ -12,7 +12,7 @@ Hannah Angle, Lee Richardson
  
 - Example 1-liner: 65yo M with cirrhosis due to HCV decompensated by ascites and HE (MELD 25) who is listed for transplant and followed by Dr. Izzy
     
-- Etiology of cirrhosis: HCV>HBV, EtOH, NASH, Wilson’s, hemochromatosis, A1AT deficiency, autoimmune hepatitis, PSC, PBC, congestive hepatopathy (right heart failure), medication-induced
+- Etiology of cirrhosis: HCV>HBV, EtOH, NASH, Wilson’s, hemochromatosis, A1AT deficiency, autoimmune hepatitis, PSC, PBC, congestive hepatopathy (right heart failure), medication- induced
 
 - Complications that cause decompensation: overt ascites (or hepatic hydrothorax), overt hepatic encephalopathy (HE), esophageal variceal hemorrhage (EVH)
 
@@ -20,12 +20,12 @@ Hannah Angle, Lee Richardson
 
 ## Evaluation
 
-- Goals: establish cause of cirrhosis, evaluate for complications and treat accordingly, determine prognosis, and consider transplant evaluation
+- Goals: establish etiology, evaluate/treat complications, determine prognosis, and consider transplant evaluation
 
 - History:
     - Symptoms suggesting decompensation: confusion, sleep disturbances, abdominal swelling, lower extremity edema, scleral icterus/jaundice, pruritus, easy bruising/bleeding (skin, mouth, GI tract), dyspnea
     - Social history: EtOH and drug use hx, date of last drink, average # of drinks/day, duration of EtOH use, prior rehab, hx of DUI, if there has been continued EtOH use despite knowledge of liver disease; these factors all impact transplant candidacy
-    - Ascites: compliance with diuretics, compliance with salt restriction, frequency of paracentesis (volume removed, date of last para), h/o SBP
+    - Ascites: compliance with diuretics, compliance with salt restriction, frequency of paracentesis (volume removed, date of last para), h/o SBP, hx of TIPs
     - HE: compliance with lactulose, # of BMs per day, any potential triggers (see HE section)
     - GIB/EVH: hematemesis, coffee ground emesis, melena, hematochezia (duration, volume, # of bleeding episodes), last EGD (varices, banding) and colonoscopy, compliance with non-selective BBs
 
@@ -33,11 +33,13 @@ Hannah Angle, Lee Richardson
 
 - Labs
 
-    - Initial Workup: CMP, CBC, coags, UA, HCV/HBV, Fe studies, PEth
-    - Unless requested by hepatology, defer to outpatient: AFP, ANA, IgG, A1AT, ceruloplasmin, AMA (PBC), ASMA (AIH), anti-SLA (AIH), anti-LKM (AIH)
+    - Initial Workup: CMP, CBC, Coags, UA, HCV/HBV, Fe studies, PEth
+    - Unless requested by hepatology, defer to outpatient: AFP, ANA, IgG, A1AT,
+ceruloplasmin, AMA (PBC), ASMA (AIH), anti-SLA (AIH), anti-LKM (AIH)
+
 
 - Imaging:
-    - Abdominal US with duplex 
+    - Abdominal US with duplex unless done in past 6 months or indication for repeating sooner (concern for new portal vein thrombosis)
     - For transplant eval, needs triple phase CT A/P (contrasted study, arterial and venous phases) or MRI abdomen with contrast
 
 - Liver biopsy: gold standard for cirrhosis diagnosis but is not always needed if clinical presentation, labs, and imaging consistent with cirrhosis
@@ -55,14 +57,17 @@ Hannah Angle, Lee Richardson
 ## Management
 
 - Nutrition: high protein diet, 2g Na restriction (if ascites present)
+    - Consider MVI, folate, thiamine (particularly in pts with EtOH use disorder)
     - Mediterranean diet for NASH
     - Fluid restriction if hyponatremic
 
-- Immunizations: ensure up-to-date with HBV/HAV, PPSV23, Prevnar, Flu, COVID-19 vaccines
+- Immunizations: ensure UTD with HBV/HAV, PPSV23, Prevnar, Flu, COVID-19 vaccines
 
 - Consider consulting Addiction Psych and Social Work for pts with EtOH use disorder - can assist with arranging Intensive Outpatient Program (IOP), Alcoholics Anonymous (AA)
 
 - General screenings include: HCC screening (q6 months), EVH screening (see section below), monitor for other decompensations and treat accordingly, monitor MELD and consider transplant evaluation when >15
+
+- Refer to hepatology outpatient
 
 ## Medication Tips:
 
