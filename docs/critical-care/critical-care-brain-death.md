@@ -8,6 +8,7 @@ Anna Berry
 -	Brain death= complete and permanent loss of brain function. Defined by coma with loss of capacity for consciousness, brainstem reflexes, and the ability to breathe independently
 
 ## Checklist for Determination of Brain Death (American Academy of Neurology)
+
 ### 1. Prerequisites (all must be checked)
 -	Coma, irreversible and cause known
 -	Neuroimaging explains coma – usually CT or MRI
@@ -20,7 +21,7 @@ Anna Berry
 
 ### 2. Examination (all must be checked) – Attending MUST be present for brain death exam
 
-<img src='../images/braindeath.png' alt='Brain death physical exam' width='500'>
+<img src='images/braindeath.png' alt='Brain death physical exam' width='500'>
 
 Greer DM, Determination of Brain Death. NEJM. 2021;385;2554-61. doi: 0.1056/NEJMcp2025326
 
