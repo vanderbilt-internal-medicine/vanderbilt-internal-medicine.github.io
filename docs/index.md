@@ -5,11 +5,11 @@ Welcome to the online home of the Vanderbilt Internal Medicine Residency Handboo
 A QR code to the online version can be found on the back cover of the handbook. An LLM-enhanced Chatbot version of the handbook is currently under development.
 
 <figure markdown="span">
-  ![Image title](images/qr-light.svg#only-light){ width="300" }
+  ![QR Code Light](images/qr-light.svg#only-light){ width="300" }
   <figcaption></figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Image title](images/qr-dark.svg#only-dark){ width="300" }
+  ![QR Code Dark](images/qr-dark.svg#only-dark){ width="300" }
   <figcaption></figcaption>
 </figure>
