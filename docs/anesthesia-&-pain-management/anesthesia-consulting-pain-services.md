@@ -1,4 +1,4 @@
-## Consulting Pain Services
+## Consulting Acute Pain Service (APS)
 
 -   If refractory to multimodal pain regimen above, consider consulting
     APS for:
