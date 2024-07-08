@@ -11,14 +11,14 @@ Audrey White
 
 Chloe Carr
 
-## Etiology
+### Etiology
 
 - Degenerative calcification of the aortic cusps
     - Congenital bicuspid aortic valve
     - Chronic deterioration (calcific)
     - Prior rheumatic fever/inflammation
 
-## Presentation
+### Presentation
 
 - Usually asymptomatic 
 - Angina, syncope, exertional dyspnea, heart failure (HF carries worse
@@ -30,7 +30,7 @@ Chloe Carr
     - Late peaking murmur, faint or absent S2, or delayed carotid upstroke
     suggest severe AS
 
-## Evaluation
+### Evaluation
 
 - TTE with doppler is test of choice
 
@@ -84,7 +84,7 @@ Chloe Carr
 </tbody>
 </table>
 
-## AS stages
+### AS stages
 - A: at risk of AS (those with bicuspid anatomy or calcification
 - B: Asymptomatic non-severe AS
 - C: asymptomatic AS
@@ -98,7 +98,7 @@ Chloe Carr
     high velocities and gradients (ex EF of 10% w/ critical valve area)
     = low flow/low gradient AS; consider dobutamine to unmask AS
 
-## Management
+### Management
 
 - No proven effective medical therapy
 - Definitive treatment is valve replacement for:
@@ -119,13 +119,13 @@ Chloe Carr
     - Significant vasodilation may ↓ coronary filling pressures -\>
     myocardial ischemia
 
-## Monitoring
+### Monitoring
 
 - Severe AS: TTE q 6-12 months
 - Moderate AS: TTE q 1-2 years
 - Mild AS: TTE q 3-5 years
 
-## Post AVR anticoagulation
+### Post AVR anticoagulation
 
 - All patients will get 3-6 months of AC s/p AVR
 - Continued duration based on type of AVR
@@ -133,14 +133,15 @@ Chloe Carr
         Initial AC
     - Mechanical: lifelong AC with warfarin only
 
+---
 
-# Aortic Regurgitation
+## Aortic Regurgitation
 
 Hannah Granger 
 
 ---
 
-## Etiology
+### Etiology
 
 - Primary valve disease (rheumatic disease, bicuspid aortic valve,
     infective endocarditis, syphilis)
@@ -148,7 +149,7 @@ Hannah Granger 
     Marfan’s syndrome, bicuspid aortic valve, syphilis, non-syndromic
     familial)
 
-## Presentation
+### Presentation
 
 - Acute AR: LV cannot respond to increased volume to maintain stroke
     volume pulmonary edema and cardiogenic shock
@@ -158,7 +159,7 @@ Hannah Granger 
     displaced PMI, high pitched “blowing” decrescendo murmur best heard
     at third intercostal space at left sternal border, S3
 
-## Management
+### Management
 
 - Acute severe AR
     - Page cardiac surgery for urgent surgical repair
@@ -187,13 +188,15 @@ Hannah Granger 
     - Stage C (Asymptomatic Severe AR) with LVEF \< 55%
     - Severe AR and undergoing cardiac surgery for other indication
 
-# Mitral Regurgitation
+---
+
+## Mitral Regurgitation
 
 Krissie Lobon 
 
 ---
 
-## Etiology
+### Etiology
 
 - Primary MR – caused by direct involvement of the valve apparatus
     (leaflets or chordae tendineae)
@@ -211,7 +214,7 @@ Krissie Lobon
     -   Coronary Artery Disease or prior MI leading to papillary muscle
         tethering
         
-## Presentation
+### Presentation
 
 - Acute MR- sudden onset reduction in forward cardiac flow and left
     atrial/pulmonary vein volume overload
@@ -223,7 +226,7 @@ Krissie Lobon
     - LV dilation from volume overload
     - LA remodeling/dilation leading to afib
 
-## Auscultation
+### Auscultation
 
 - Holosystolic murmur, best heard at Apex, Radiation to the Axilla
     - Frequently associated with S3
@@ -231,7 +234,7 @@ Krissie Lobon
         orifice/low velocity regurgitant jet
     - Increases w/ increased preload or afterload
 
-## Evaluation
+### Evaluation
 
 -   CXR: assess for pulmonary edema, typically normal cardiac silhouette
     in acute MR. Cardiomegaly and LA enlargement in chronic MR.
@@ -242,7 +245,7 @@ Krissie Lobon
     - TEE, CMR, or cardiac catheterization performed when insufficient or
     discordant information from TTE. TEE used to guide MV interventions
 
-## Chronic MR stages
+### Chronic MR stages
 
 - A: No symptoms
 - B: \>mild MR w/o hemodynamic changes or symptoms
@@ -251,9 +254,9 @@ Krissie Lobon
     - C2: reduced EF (\<60%), dilated LV (LVESD \> 40mm)
 - D: Severe/symptomatic
 
-## Management
+### Management
 
-Acute hemodynamically significant MR
+#### Acute hemodynamically significant MR
 
 - Urgent surgical repair or replacement
 - Medical stabilization as a bridge to surgery
@@ -262,7 +265,7 @@ Acute hemodynamically significant MR
     - Diuresis to reduce preload and improve pulmonary edema
     - IABP placement can be used as mechanical afterload reduction
 
-Chronic severe primary MR
+#### Chronic severe primary MR
 
 - Surgical repair favored over valve replacement
 - Class I:
@@ -277,13 +280,15 @@ Chronic severe primary MR
 - In HFrEF, consider MitraClip after volume optimization (see Heart
     Failure section)
 
-# Mitral Stenosis
+---
+
+## Mitral Stenosis
 
 Krissie Lobon
 
 ---
 
-## Etiology
+### Etiology
 - Characterized by thickened mitral valve leaflets and fused
 leaflet tips.
 - Rheumatic Fever (leading cause worldwide)
@@ -291,7 +296,7 @@ leaflet tips.
     countries)
 - Autoimmune Diseases: SLE, Rheumatoid arthritis
 
-## Presentation
+### Presentation
 
 - Progressive symptoms: Asymptomatic Heart Failure
     - Orthopnea
@@ -305,7 +310,7 @@ leaflet tips.
     - Fatigue
     - Palpitations
 
-## Physical exam
+### Physical exam
 
 - Low-pitched rumbling, diastolic Murmur, best heard at apex,
     low-pitched, rum
@@ -313,7 +318,8 @@ leaflet tips.
     - Prominent P2 if pulmonary HTN develops
 - Pulmonary Rales
 
- ## Stages of MS
+### Stages of MS
+
 - A: At risk of MS, characterized by mild valve doming during
     diastole, asymptomatic
 
@@ -326,13 +332,13 @@ leaflet tips.
 - D: Symptomatic Severe MS, characterized by above criteria +
     decreased exercise tolerance
 
-## Evaluation
+### Evaluation
 
 - CXR: LA enlargement, increased pulmonary vasculature
 - Echocardiography: thickening of mitral valve leaflets, decreased
     area of valve leaflets, left atrial enlargement
 
-## Management
+### Management
 
 - Varies between rheumatic MS and calcific MS (in general,
     intervention of calcific MS is very challenging and high risk)
@@ -348,7 +354,7 @@ leaflet tips.
 - Surgical valve replacement may be considered for severely
     symptomatic patients (technically challenging)
 
-## Anticoagulation
+### Anticoagulation
 
 - Anticoagulation is indicated if:
     - Mechanical prosthetic mitral valve
@@ -357,6 +363,4 @@ leaflet tips.
         - Warfarin, goal INR 2-3 for first 3-6 months
     - Atrial Fibrillation regardless of CHADS2VASC score
 
- [2020 ACC/AHA Heart Valve Disease Guidelines: Mitral Stenosis
-    Management
-    Algorithm](https://www.ahajournals.org/doi/10.1161/CIR.0000000000000923#d1e6762)
+ [2020 ACC/AHA Heart Valve Disease Guidelines: Mitral Stenosis Management Algorithm](https://www.ahajournals.org/doi/10.1161/CIR.0000000000000923#d1e6762)
