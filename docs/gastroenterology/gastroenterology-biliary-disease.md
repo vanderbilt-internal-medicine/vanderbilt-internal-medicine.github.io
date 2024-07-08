@@ -90,13 +90,11 @@ Alex Wiles, Anton de Witte
     - NPO & IVF, pain control PRN
     - Stratify risk to determine whether to pursue MRCP (noninvasive,
     diagnostic) vs ERCP
-    - If any one of the following, patient is HIGH risk consult GI for
-    > ERCP + EGS to consider cholecystectomy
+    - If any one of the following, patient is HIGH risk consult GI for ERCP + EGS to consider cholecystectomy
         - CBD stone on imaging
         - Acute cholangitis
         - Tbili > 4 AND dilated CBD (>6mm with GB, > 8mm without GB)
-    - If any one of the following, patient is INTERMEDIATE risk consider
-        MRCP (or EUS or cholecystectomy with intraoperative cholangiogram)
+    - If any one of the following, patient is INTERMEDIATE risk consider MRCP (or EUS or cholecystectomy with intraoperative cholangiogram)
         - Abnormal liver enzymes
         - Age > 55
         - Dilated CBD on U/S with Tbili < 4
