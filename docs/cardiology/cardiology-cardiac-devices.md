@@ -98,4 +98,4 @@ Matt Gayoso
     When differentiating PPM vs. ICD, look for a coil and charge
     generator to identify the ICD.
 
-![image](../images/image6.tiff)
+![image](../images/cxr-icd.png)
