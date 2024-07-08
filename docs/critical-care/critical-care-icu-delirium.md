@@ -68,6 +68,7 @@ Phil Schmitt
 -	Perform the CAM-ICU for scoring – ICU nurses perform this q4h as part of routine ICU care
 
 <img src='../../images/camflow.png' alt='CAM ICU flowsheet' width='400'>
+
 -	See RASS scoring table in ABCDEF Bundle Critical Care chapter.
 
 ## Differential Diagnosis
