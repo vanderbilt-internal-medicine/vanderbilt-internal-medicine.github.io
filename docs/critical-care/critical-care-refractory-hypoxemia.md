@@ -32,7 +32,26 @@ Amelia Muhs
         -	Limited by high plateau pressures/barotrauma, overdistension/dead space ventilation, decreased preload/venous return
     -	ARDSnet FiO2/PEEP Tables: At VUMC we typically use the Lower PEEP table
 
-<img src='../images/ards-table.png' alt='ARDSnet PEEP/FiO2 table' width='500'>
+### Lower PEEP/higher FiO₂
+
+| **FiO₂** | 0.3 | 0.4 | 0.4 | 0.5 | 0.5 | 0.6 | 0.7 | 0.7 |
+|----------|-----|-----|-----|-----|-----|-----|-----|-----|
+| **PEEP** | 5   | 5   | 8   | 8   | 10  | 10  | 10  | 12  |
+
+| **FiO₂** | 0.7 | 0.8 | 0.9 | 0.9 | 0.9 | 1.0 |
+|----------|-----|-----|-----|-----|-----|-----|
+| **PEEP** | 14  | 14  | 14  | 16  | 18  | 18-24 |
+
+### Higher PEEP/lower FiO₂
+
+| **FiO₂** | 0.3 | 0.3 | 0.3 | 0.3 | 0.3 | 0.4 | 0.4 | 0.5 |
+|----------|-----|-----|-----|-----|-----|-----|-----|-----|
+| **PEEP** | 5   | 8   | 8   | 10  | 12  | 14  | 14  | 16  |
+
+| **FiO₂** | 0.5 | 0.5-0.8 | 0.8 | 0.9 | 1.0 | 1.0 |
+|----------|-----|---------|-----|-----|-----|-----|
+| **PEEP** | 18  | 20      | 22  | 22  | 22  | 24  |
+
 
 - Other recruitment maneuvers
     - Reposition pt – can try elevating HOB or positioning so “good lung” is down
