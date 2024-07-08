@@ -21,9 +21,11 @@ Anna Berry
 
 ### 2. Examination (all must be checked) – Attending MUST be present for brain death exam
 
-<img src='images/braindeath.png' alt='Brain death physical exam' width='500'>
+<figure markdown="span">
+  ![Brain death physical exam](../images/braindeath.png){ width="500" }
+  <figcaption>Greer DM, Determination of Brain Death. NEJM. 2021;385;2554-61. doi: 0.1056/NEJMcp2025326</figcaption>
+</figure>
 
-Greer DM, Determination of Brain Death. NEJM. 2021;385;2554-61. doi: 0.1056/NEJMcp2025326
 
 ### 3. Apnea testing (all must be checked) – Attending MUST be present
 -	Pt is hemodynamically stable
