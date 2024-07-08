@@ -37,7 +37,7 @@ Kaele Leonard
 -	Sedatives: dexmedetomidine (dex) or propofol >>> benzodiazepines (increased delirium risk)
 
 <figure markdown="span">
-  ![RAAS Chart](images/raas.png){ width="500" }
+  ![RAAS Chart](../images/raas.png){ width="500" }
   <figcaption>Figure 1: Richmond Agitation-Sedation Scale (RASS) Delirium - assess, prevent, and manage</figcaption>
 </figure>
 
@@ -58,6 +58,6 @@ Kaele Leonard
 - Incorporate family at the bedside and on rounds to learn pt preferences and values, engage in shared-decision making, and address questions and concerns
 
 <figure markdown="span">
-  ![CAM ICU table](images/camicu.png){ width="500" }
+  ![CAM ICU table](../images/camicu.png){ width="500" }
   <figcaption>Figure 2: Confusion Assessment Method for the Intensive Care Unit (CAM-ICU)</figcaption>
 </figure>
