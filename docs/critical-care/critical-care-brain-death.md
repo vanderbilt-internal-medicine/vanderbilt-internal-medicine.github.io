@@ -21,11 +21,19 @@ Anna Berry
 
 ### 2. Examination (all must be checked) – Attending MUST be present for brain death exam
 
-<figure markdown="span">
-  ![Brain death physical exam](../images/braindeath.png){ width="500" }
-  <figcaption>Greer DM, Determination of Brain Death. NEJM. 2021;385;2554-61. doi: 0.1056/NEJMcp2025326</figcaption>
-</figure>
 
+| **Test**                       | **Regions Tested**                          | **Indications of Brain Death**                                                                           | **Cautions**                                                                                             |
+|--------------------------------|---------------------------------------------|-----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+| **Consciousness**              | Rostral brainstem, thalamus, bilateral cerebral hemispheres | No response to noxious auditory, visual, or tactile stimulation                                           | Use of adequate stimulation is important, including noxious tactile stimulus of the cranium (supra-orbital notch and temporomandibular joint, intra-nasal stimulation) as well as the torso and limbs |
+| **Pupillary reflex**           | Upper brainstem                             | No response to bright light                                                                               | Use of medications may affect pupillary reactivity History of corneal trauma or ophthalmic surgery may affect reactivity Quantitative pupillometry may be a useful adjunct for detection of subtle reactivity |
+| **Corneal reflex**             | Middle-to-upper brainstem                   | No eyelid response when pressure is applied at the border of iris with a cotton swab on a stick            | Use of adequate pressure should be ensured; the lateral conjunctiva, which is less sensitive than the proximal conjunctiva, should be avoided |
+| **Oculocephalic reflex ("doll's eye" maneuver)** | Middle brainstem                             | No eye movement with head turning                                                                         | Use of this approach should be avoided when the integrity of the cervical spine is questionable            |
+| **Oculovestibular reflex ("cold caloric" reflex test)** | Middle brainstem                             | No eye movement within 60 seconds of instillation of ice water                                            | Clear pathway to intact tympanic membrane should be ensured; head should be elevated to an angle of 30 degrees; wait 5 minutes between testing of each ear |
+| **Gag reflex**                 | Lower brainstem                             | No gag reflex in response to bilateral stimulation of the posterior pharynx with a tongue depressor or suction catheter | Avoid manipulation of endotracheal tube, if present                                                       |
+| **Cough reflex**               | Lower brainstem                             | No cough in response to deep bronchial suctioning                                                        | May be absent in patients with phrenic nerve palsy resulting from injury to the cervical cord               |
+| **Motor response**             | Brainstem, cerebral hemispheres             | No cerebrally mediated response to deep nail-bed pressure or proximal stimulation of trunk or arms and legs | May be difficult to distinguish spinally mediated responses from cerebrally mediated responses; expertise and, in some instances, ancillary testing may be required |
+
+Greer DM, Determination of Brain Death. NEJM. 2021;385;2554-61. doi: 10.1056/NEJMcp2025326
 
 ### 3. Apnea testing (all must be checked) – Attending MUST be present
 -	Pt is hemodynamically stable
