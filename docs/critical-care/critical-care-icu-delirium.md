@@ -35,7 +35,7 @@ Phil Schmitt
     </tr>
     <tr>
       <td>CN VIII (also III + VI)</td>
-      <td>Oculocephalic reflex - turn head left/right, eyes should compensate to fix in forward position<br><img src='images/oculocephalic.png' alt='oculocephalic reflex' width='400'></td>
+      <td>Oculocephalic reflex - turn head left/right, eyes should compensate to fix in forward position<br><img src='../../images/oculocephalic.png' alt='oculocephalic reflex' width='400'></td>
     </tr>
     <tr>
       <td>CN IX/X</td>
@@ -67,7 +67,7 @@ Phil Schmitt
 -	Always remember patients can be encephalopathic and evolve another acute neurological syndrome. Follow up any odd/changing exam findings. 
 -	Perform the CAM-ICU for scoring – ICU nurses perform this q4h as part of routine ICU care
 
-<img src='images/camflow.png' alt='CAM ICU flowsheet' width='400'>
+<img src='../../images/camflow.png' alt='CAM ICU flowsheet' width='400'>
 -	See RASS scoring table in ABCDEF Bundle Critical Care chapter.
 
 ## Differential Diagnosis
