@@ -36,7 +36,7 @@ Kaele Leonard
 -	Analgosedation with focus on treating pain first and then adding sedation meds PRN
 -	Sedatives: dexmedetomidine (dex) or propofol >>> benzodiazepines (increased delirium risk)
 
-<img src='../images/raas.png' alt='RAAS Chart' width='500'>
+<img src='/images/raas.png' alt='RAAS Chart' width='500'>
 
 Figure 1: Richmond Agitation-Sedation Scale (RASS) Delirium - assess, prevent, and manage
 
@@ -54,6 +54,6 @@ Figure 1: Richmond Agitation-Sedation Scale (RASS) Delirium - assess, prevent, a
 - Especially important when pts are unable to communicate themselves
 - Incorporate family at the bedside and on rounds to learn pt preferences and values, engage in shared-decision making, and address questions and concerns
 
-<img src='../images/camicu.png' alt='CAM ICU table' width='500'>
+<img src='/images/camicu.png' alt='CAM ICU table' width='500'>
 
 Figure 2: Confusion Assessment Method for the Intensive Care Unit (CAM-ICU)
