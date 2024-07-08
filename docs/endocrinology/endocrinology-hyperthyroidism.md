@@ -20,7 +20,7 @@ Griffin Bullock, Lauren Waskowicz
     -	Biotin affects assay, causes falsely ↓ TSH and falsely ↑ FT4/FT3
 -	CBC: may have a normocytic anemia due to increased plasma volume
 
-<img src='../images/hyperthyroidism.png' alt='Hyperthyroidism flowchart' width='500'>
+<img src='../../images/hyperthyroidism.png' alt='Hyperthyroidism flowchart' width='500'>
 
 ## Management
 -	Methimazole, PTU, beta blockers, radioiodine ablation, surgery
