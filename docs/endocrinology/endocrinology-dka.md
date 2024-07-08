@@ -40,4 +40,4 @@ Will Bassett, Matthew Gonzalez
 -	Avoid ordering C-peptide if concern for new type 1 diabetes, beta islet cells can be "stunned" with recent hyperglycemic states and may be falsely low
 -	SGLT2 inhibitors, are being prescribed much more often and can cause a euglycemic DKA, where acidosis and ketosis present but no elevated BG
 
-<img src='../images/dka.jpg' alt='DKA management flowchart' width='700'>
+<img src='../../images/dka.jpg' alt='DKA management flowchart' width='700'>
