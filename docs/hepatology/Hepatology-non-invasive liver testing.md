@@ -1,4 +1,3 @@
-Non-Invasive Liver Testing for Liver Disease
 
 Shabnam Eghbali
 
@@ -41,4 +40,4 @@ count, diabetes, sex, age, LSM
 liver disease (cACLD). If there are known clinical signs, may need further test for
 confirmation
   - 9-13 kPa suggestive of cACLD but need further test for confirmation o > 13 kPa Rules in cACLD
-  - >17 kPa suggestive of clinically significant portal hypertension
+  - > 17 kPa suggestive of clinically significant portal hypertension
