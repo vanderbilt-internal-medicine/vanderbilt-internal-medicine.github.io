@@ -1,13 +1,16 @@
 # Hepatocellular Carcinoma (HCC) 
 
-Julie Cui, Lee Richardson 
+Julie Cui 
 
 ---
 
 ## Background
 
-- Pts with HCV cirrhosis are at greatest risk (incidence 2-4% per year)
+- Fifth most common tumor and the second most common cause of cancer related death
+worldwide
 
+- The incidence in patients with cirrhosis is 2-4% per year
+  
 - In chronic HBV and NASH, pts can develop HCC without having cirrhosis
 
 ## Evaluation
