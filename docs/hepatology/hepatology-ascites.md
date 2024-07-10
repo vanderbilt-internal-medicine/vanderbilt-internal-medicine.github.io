@@ -1,6 +1,6 @@
 # Ascites and Hepatic Hydrothorax 
 
-Lauren Evers Carlini, Thomas Strobel
+Thomas Strobel
 
 ---
 
