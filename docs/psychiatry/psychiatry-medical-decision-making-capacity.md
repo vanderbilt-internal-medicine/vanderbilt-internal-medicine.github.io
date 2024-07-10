@@ -21,19 +21,15 @@ Chelsea Sprick, Neil Phillips, Jonathan Smith
 
 - “Can you tell me what your decision is?”
 
-2.  Understand: Patient must grasp the fundamental meaning of the
-    > information communicated by the medical team
+2.  Understand: Patient must grasp the fundamental meaning of the information communicated by the medical team
 
 - “Please tell me in your own words what you were told about:
 
-    - The problem with (1) your health now and (2) the recommended
-        treatment
+    - The problem with (1) your health now and (2) the recommended treatment
 
-    - The risks/benefits of (3) treatment, (4) alternative treatments
-        and (5) no treatment”
+    - The risks/benefits of (3) treatment, (4) alternative treatments and (5) no treatment”
 
-3.  Appreciate: the medical condition and likely consequences of
-    > treatment options
+3.  Appreciate: the medical condition and likely consequences of treatment options
 
 - “What do you believe is wrong with your health now?”
 
