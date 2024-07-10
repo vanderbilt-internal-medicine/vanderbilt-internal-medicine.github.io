@@ -12,17 +12,12 @@ intake (>40g in females or >60g in males EtOH/day for >6 mos, or within <60 days
     - Risk Factors: Female, Hispanic ethnicity, binge drinking, poor nutrition, and obesity
 
 ## Evaluation 
-
 - AST >60, AST/ALT >1.5, both values <400 IU/L; TBili >3.0 mg/dL, documentation of heavy
 EtOH use until 8 weeks prior to presentation (some guidelines state 12 weeks)
-
 - Prognostication with Maddrey’s Discriminant Function: 4.6 * (PTpt – PTctrl) + Tbili
     - Maddrey > 32 or MELD > 20 = poor 30d prognosis & may benefit from steroids (see below)
-      
 - RUQ U/S to rule out obstructive cause of jaundice
-  
 - Biopsy is not typically required but will show neutrophilic lobular inflammation, hepatocyte ballooning, steatosis, and pericellular fibrosis.
-
 - Phosphatidylethanol (PEth) level is a biomarker of ethanol consumption over ~ 4wks; >20
 ng/mL can indicate chronic moderate/heavy alcohol intake
     - A single episode consumption can result in detectable Peth for up to 12 days. Can be
@@ -30,11 +25,8 @@ elevated for months with regular heavy alcohol intake
     - EtOH levels may be negative unless acutely intoxicated
       
 ## Management
-
 - Supportive Care is essential! Consult nutrition, start high protein, high calorie diet, high dose Thiamine x 3d, Folate, MVI
-  
 - Full infection workup (CXR, UA, BCx, paracentesis) regardless of symptoms
-  
 - Steroids:
     - Discuss with hepatology team, >20 clinical trials conducted with inconsistent results
         - Largest trial was the STOP-AH Trial (NEJM 2015) which showed improved mortality at 28 days in post hoc analysis, but not at 90 days in patients with Maddrey > 32.
