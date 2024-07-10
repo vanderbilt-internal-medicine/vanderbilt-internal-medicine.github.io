@@ -1,30 +1,32 @@
 # Disseminated Intravascular Coagulation (DIC)
 
-Eric Singhi
+Hannah Angle, Eric Singhi
 
 ---
 
 ## Background
--	Concurrent activation of the coagulation pathway and fibrinolytic pathway
-    -	Consumption of platelets, fibrin, and coagulation factors à fibrinolysis à end organ damage and hemolysis
--	Etiologies:
-    -	Infection/sepsis, liver disease, pancreatitis, trauma
-    -	Malignancies: mucin-secreting pancreatic/gastric adenocarcinoma, brain tumors, prostate cancer, all acute leukemias, acute promyelocytic leukemia
-    -	Obstetric complications: preeclampsia/eclampsia, placental abruption
-    -	Acute hemolytic transfusion reaction (e.g. ABO incompatible transfusion) 
+- Abnormal activation of coagulation and fibrinolysis, leading to simultaneous clotting and bleeding
+- Widespread thrombi formation results in consumption of coagulation factors and platelets (consumption coagulopathy) 
 
-## Evaluation 
--	Exam:  petechiae, bleeding (mucosal, IV site, surgical wound site, hematuria), ecchymoses, thrombosis (i.e. cold, pulseless extremities) 
--	Laboratory evaluation
--	CBC, PT/INR, aPTT, fibrinogen, d-dimer, peripheral blood smear
--	“DIC labs”: q6h fibrinogen, PT/INR, aPTT (space out when lower risk)
--	Findings suggestive of DIC: thrombocytopenia, prolonged aPTT and PT/INR, hypofibrinogenemia, elevated D-dimer, fibrin degradation products, schistocytes
--	A FVIII level can help distinguish between the DIC and liver dysfunction: elevated or normal in liver dysfunction and decreased in DIC since it is not hepatically derived
+## Etiologies
+- Sepsis (especially gram-negative rods), liver disease, pancreatitis, trauma (especially CNS), severe burns, insect/snake venom
+- Malignancies: acute leukemia (especially APL), mucin-secreting pancreatic/gastric adenocarcinoma, brain tumors, prostate cancer
+- Obstetric complications: preeclampsia/eclampsia, placental abruption, acute fatty liver of pregnancy
+- Acute hemolytic transfusion reaction (ABO incompatible transfusion)
+
+## Evaluation
+- Exam findings: petechiae, ecchymoses, bleeding (mucosal, IV sites, surgical wound sites, hematuria), thrombosis (cold, pulseless extremities)
+- Laboratory evaluation
+   - Initial workup: CBC, PT/INR, aPTT, fibrinogen, d-dimer, peripheral blood smear
+   - Serial DIC labs: q6-8h fibrinogen, PT/INR, aPTT (space out when lower risk)
+   - Lab abnormalities suggestive of DIC: prolonged aPTT and PT/INR, thrombocytopenia, low fibrinogen, elevated D-dimer, schistocytes
+   - Since Factor VIII is not produced in the liver, it can help distinguish between DIC and liver dysfunction: Factor VIII should be elevated/normal in liver disease and decreased in DIC 
 
 ## Management
--	Treat the underlying cause
--	Vitamin K for INR > 1.7 or bleeding
--	Hypofibrinogenemia treatment: Cryoprecipitate 5-10 units if fibrinogen < 100
--	Thrombocytopenia treatment: platelet transfusion as normally indicated
--	DVT ppx if not bleeding and platelet > 50
--	VTE: anticoagulation if platelet > 50 and no massive bleeding
+- TREAT THE UNDERLYING CAUSE
+- Supportive measures:
+   - Vitamin K for INR > 1.7 or bleeding
+   - Cryoprecipitate (10 units) if fibrinogen < 100
+   - Platelet transfusion as normally indicated
+   - DVT ppx if not bleeding and platelet > 50
+   - VTE: therapeutic anticoagulation if platelet > 50 and no massive bleeding 
