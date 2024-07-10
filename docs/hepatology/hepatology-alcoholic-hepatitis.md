@@ -33,7 +33,7 @@ elevated for months with regular heavy alcohol intake
         - VA trial (patients with MDF >54) showed increased mortality, indicating a possible ceiling at which point steroids may be harmful.
     - Individuals with a neutrophil: lymphocyte ratio of 5-8 are most likely to benefit from steroid use.
     - Treatment dose is prednisolone 40mg daily (preferred over prednisone as it requires hepatic metabolism)
-        - Contraindications to steroids include: presence of infection (must rule out first including TB, active Hep B, sepsis, uncontrolled GI bleeding, AKI w/ Cr >2.5 mg/dL)     - The Lille score can be used to assess response to steroids after 7 d of therapy and prognosticate mortality at 6 months
+        - Contraindications to steroids include: presence of infection (must rule out first including TB, active Hep B, sepsis, uncontrolled GI bleeding, AKI w/ Cr >2.5 mg/dL)    - The Lille score can be used to assess response to steroids after 7 d of therapy and prognosticate mortality at 6 months
         - Lille > 0.45 indicates no response to steroids and predicts 75% mortality at 6 months
     - NAC should be considered as adjunctive therapy to steroids
 - Monitor on CIWA
