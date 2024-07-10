@@ -566,6 +566,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://vim-book.org/hepatology/Hepatology-non-invasive%20liver%20testing/</loc>
+         <lastmod>2024-07-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://vim-book.org/hepatology/hepatology-acute-liver-failure/</loc>
          <lastmod>2024-07-10</lastmod>
          <changefreq>daily</changefreq>
