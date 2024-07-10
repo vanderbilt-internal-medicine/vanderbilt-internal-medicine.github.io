@@ -54,8 +54,8 @@ benefit and improves steatosis but probably not fibrosis
 patients with DM or obesity + NAFLD
 - Metformin, DPP4, statins, and silymarin are well studied in MASH and do not offer
 meaningful histologic benefit
-    - In the pipeline: FGF21 agonists, THR beta agonists, PPAR agonists
-    - 
+- In the pipeline: FGF21 agonists, THR beta agonists, PPAR agonists
+
 ## Additional Information
 - Statins: should be used for HLD in pts with MASH, MASLD, and MASH cirrhosis
 
