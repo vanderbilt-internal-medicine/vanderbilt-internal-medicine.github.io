@@ -17,16 +17,16 @@ Hannah Angle, Eric Singhi
 ## Evaluation
 - Exam findings: petechiae, ecchymoses, bleeding (mucosal, IV sites, surgical wound sites, hematuria), thrombosis (cold, pulseless extremities)
 - Laboratory evaluation
-   - Initial workup: CBC, PT/INR, aPTT, fibrinogen, d-dimer, peripheral blood smear
-   - Serial DIC labs: q6-8h fibrinogen, PT/INR, aPTT (space out when lower risk)
-   - Lab abnormalities suggestive of DIC: prolonged aPTT and PT/INR, thrombocytopenia, low fibrinogen, elevated D-dimer, schistocytes
-   - Since Factor VIII is not produced in the liver, it can help distinguish between DIC and liver dysfunction: Factor VIII should be elevated/normal in liver disease and decreased in DIC 
+    - Initial workup: CBC, PT/INR, aPTT, fibrinogen, d-dimer, peripheral blood smear
+    - Serial DIC labs: q6-8h fibrinogen, PT/INR, aPTT (space out when lower risk)
+    - Lab abnormalities suggestive of DIC: prolonged aPTT and PT/INR, thrombocytopenia, low fibrinogen, elevated D-dimer, schistocytes
+    - Since Factor VIII is not produced in the liver, it can help distinguish between DIC and liver dysfunction: Factor VIII should be elevated/normal in liver disease and decreased in DIC 
 
 ## Management
 - TREAT THE UNDERLYING CAUSE
 - Supportive measures:
-   - Vitamin K for INR > 1.7 or bleeding
-   - Cryoprecipitate (10 units) if fibrinogen < 100
-   - Platelet transfusion as normally indicated
-   - DVT ppx if not bleeding and platelet > 50
-   - VTE: therapeutic anticoagulation if platelet > 50 and no massive bleeding 
+    - Vitamin K for INR > 1.7 or bleeding
+    - Cryoprecipitate (10 units) if fibrinogen < 100
+    - Platelet transfusion as normally indicated
+    - DVT ppx if not bleeding and platelet > 50
+    - VTE: therapeutic anticoagulation if platelet > 50 and no massive bleeding 
