@@ -1,17 +1,20 @@
 # Acute Liver Injury and Failure 
 
-Hannah Lomzenski, and Lauren Chan
+Wrinn Alexander
 
 ---
 
 ## Background
 
-- Acute liver injury (ALI): elevated liver enzymes + INR ≥1.5 but NO encephalopathy
-
-- Acute liver failure (ALF): elevated liver enzymes + encephalopathy/AMS in the absence of pre-existing liver disease*
-    - \*Chronic autoimmune hepatitis, HBV, Wilson disease, and Budd-Chiari syndrome can have ALF if they develop new AMS, despite the presence of a pre-existing liver disease
-
+- Acute liver injury (ALI): elevated liver enzymes + INR ≥1.5 without encephalopathy
+- Acute liver failure (ALF): elevated liver enzymes + encephalopathy (any degree of AMS or asterixis) in the absence of pre-existing liver disease*
+    -  *Autoimmune hepatitis, HBV, Wilson disease, and Budd-Chiari syndrome can have ALF if they develop new AMS, despite the presence of a pre-existing liver disease
+    - Hyperacute (< 7 d): most often seen with acetaminophen toxicity, Hepatitis A & E,
+Ischemic; high risk for cerebral edema
+    - Acute (7-21 d): Hepatitis B
+    - Subacute (> 21 d and < 26 wk): most often non-acetaminophen DILI
 - Alcohol-associated hepatitis (AH) is not ALF (see above)
+- Duration of <26 weeks is a commonly used cut-off
 
 ## Etiology
 
@@ -117,16 +120,28 @@ present with AST/ALT &gt;100</em></td>
 
 ## Evaluation
 
--   Consult hepatology early! (to assist with workup AND for transplant
-    evaluation)
--   Labs:
-    -   CBC w/diff, CMP, Dbili, Mg, Phos, T&S, BCx, UCx, PT/INR, aPTT, fibrinogen
-    -   Amylase, lipase 
-    -   Beta-hCG for females of reproductive age
-    -   ABG with arterial lactate, ammonia (arterial >124 predicts mortality and CNS complications e.g. need for intubation, seizures, cerebral edema, <75 very unlikely to develop ICH) 
-    -   Viral etiologies: Virtal hepatitis serologies (HAV panel, HBV panel, HCV IgG +/- PCR quant, HDV if known HBV (with low or undetectable HBV load as Misc Reference Test, Hepatitis E PCR ent as miscellaneous if pregnant or travel to southeast Asia), HIV p24 Ag and HIV Ab, EBV Qt, CMV Qt, HSV 1/2 Qt, VZV IgM/IgG
-    -   Toxins: UDS, ethanol level +/- Peth, acetaminophen level (drawn > 4 hours after last known ingestion), Salicylate level
-    -   Autoimmune / genetic: ANA, ASMA, IgG, AMA (if predominantly elevated ALP), ceruloplasmin
+- Neurologic Exam:
+    - See Hepatic Encephalopathy section for grading of HE based on PE/Hx
+        - Grade I and II HE: cerebral edema uncommon
+        - Grade III HE: Cerebral Edema in 25-35% of patients
+        - Grade IV HE: Cerebral Edema in 75% of patients
+    - Signs of increased intracranial pressure:
+        - Pupillary changes, Cushing’s triad (HTN, bradycardia, respiratory depression,
+seizures, increased muscle tone and hyperreflexia, abnormal brainstem reflexes
+- Consult hepatology once you suspect ALF! (to assist with workup AND for transplant
+evaluation)
+- Labs:
+    - CBC w/diff, CMP, Dbili, Mg, Phos, T&S, BCx, UCx, PT/INR, aPTT, fibrinogen
+    - Ferritin, Iron, transferrin (HFE gene mutation testing if Tsat ≥45% and/or elevated ferritin) o Amylase, lipase
+    - Beta-hCG for females of childbearing age; UA to assess for proteinuria if pregnant
+    - ABG with arterial lactate, ammonia (arterial >124 predicts mortality and CNS
+complications e.g., need for intubation, seizures, cerebral edema, <75 very unlikely to
+develop ICH)
+    - Viral etiologies: Viral hepatitis serologies (HAV panel, HBV panel, HCV IgG +/- PCR
+quant, HDV if known HBV (with low or undetectable HBV load) as Misc Reference Test, Hepatitis E PCR sent as miscellaneous if pregnant or travel to southeast Asia), HIV p24 Ag and HIV Ab, EBV Qt, CMV Qt, HSV 1/2, Qt, VZV IgM/IgG
+    - Toxins: UDS, ethanol level +/- Peth, acetaminophen level (drawn ≥4 hours after last known ingestion), salicylate level
+    - Autoimmune/genetic: ANA, ASMA, IgG, AMA (if predominantly elevated ALP), ceruloplasmin, anti-liver/kidney microsomal antibody type 1, anti-liver soluble antigen, alpha-1 antitrypsin
+    - *You may not order all the workup included above; hepatology will guide you on what exactly will need to be ordered.
 
 -   Imaging:
     -   RUQ abdominal ultrasound **with doppler** (important to assess
@@ -137,23 +152,13 @@ present with AST/ALT &gt;100</em></td>
         and helps with transplant evaluation
     -   Consider TTE to rule out cardiac dysfunction; helpful for
         transplant consideration
+    -   Consider CTH or MRI to assess for cerebral edema (findings include decrease in
+ventricular size, flattening of cerebral convolutions, reduction in signal intensity of brain parenchyma)
+    -   Consider ERCP/MRCP for cholestatic etiologies
 
-## Criteria for Transplantation:
-
--   King’s College criteria:
-    helps identify patients needing transplant referral/consideration
-    -   ALF due to acetaminophen:
-        -   Arterial pH \<7.3 after resuscitation and >24 hr since
-            ingestion, OR
-        -   Arterial Lactate >3 after adequate fluid resuscitation, OR
-        -   Grade III-IV HE, SCr >3.4, **and** INR >6.5 all within 24h period
--   ALF not due to acetaminophen: INR > 6.5 OR 3 of the 5 following
-    criteria:
-    -   Indeterminate etiology, drug-induced hepatitis
-    -   Age \<10 or >40
-    -   Interval of jaundice to encephalopathy >7 days
-    -   Bilirubin > 17.5 mg/dl (300 micromol/L) 
-    -   INR >3.5
+- Discuss possible liver biopsy if etiology unclear
+    -   Transjugular approach preferred with clinically demonstrable ascites; a known or
+suspected hemostatic defect; a small, hard, cirrhotic liver; morbid obesity with a difficult- to-identify flank site; or those in whom free and wedged hepatic vein pressure measurements are additionally being sought.
 
 ## Management
 
@@ -170,6 +175,7 @@ present with AST/ALT &gt;100</em></td>
     -   Q1-2h neuro checks, Q1-2h glucose checks
     -   Closely monitor CMP, INR q6-8 hrs
 -   Treatment of Primary Injury
+    -   Early hepatology consult for liver transplant evaluation and assistance in management
     -   IV N-acetylcysteine - improves transplant-free survival even in
         patients WITHOUT acetaminophen induced acute liver failure
         -   Initial loading dose = 150mg/kg over 1 hour, then 50mg/kg/hr
@@ -182,24 +188,22 @@ present with AST/ALT &gt;100</em></td>
     -   Early toxicology consultation if suspected ingestion/overdose
         -   For acute management contact Poison Control **800-222-1222**
 -   Treatment of Secondary Complications
-    -   Infection: abx only if progressing HE, signs of infection, or
-        development of SIRS; ppx abx do not reduce mortality
-    -   Cerebral edema/increased ICP:  elevated HOB to 30 degrees, quiet
-        and dimly lit room, minimize IVF, goal Na 145-155,
-        hyperventilation if concern for impending herniation. Consider
-        3% saline (500mL) and/or mannitol (1g/kg, 20%) for pt at highest
-        risk (serum ammonia >150, grade III/IV HE, ARF, vasopressor
-        support
-    -   Seizures: phenytoin (no evidence to support seizure ppx)
-    -   Renal Failure: early CRRT if persistent Metabolic Acidosis,
-        Volume Overload, Hyperammonemia, falling UOP
-    -   Coagulopathy: IV Vit K; products for invasive procedures or
-        active bleeding only
+    -   Infection: Rule out infection with CXR, Blood cultures, UA/UCx for every ALF. Antibiotics only if progressing HE, signs of infection, or development of SIRS
+    -   Cerebral edema/increased ICP:
+         -  No role for lactulose in the setting of acute liver failure
+         -  Grade III-IV hepatic encephalopathy: elevated HOB to 30 degrees, quiet and dimly lit room, should be intubated, avoid sedating medications as feasible, and ICP monitor are recommended (if not feasible, hourly neuro checks can be an alternative). If ICP becomes elevated start targeted therapies to reduce intracranial pressure.
+         -  Mannitol or hypertonic saline should be administered for surges of ICP with consideration for short-term hyperventilation
+         -  If high ICP is refractory to osmotic agents, consider phenobarbital, indomethacin, and/or cooling to 33-34 degrees Celsius if awaiting LT
+    -   Seizures: phenytoin (no evidence to support seizure ppx), short acting benzodiazepines if refractory
+    -   Renal Failure: early CRRT if persistent Metabolic Acidosis, Volume Overload, Hyperammonemia, falling UOP
+    -   Coagulopathy: IV Vit K (at least one dose) routinely to rule out Vit K deficiency, products for invasive procedures or active bleeding only
+          - If trying to differentiate from DIC, can order Factor VIII level (should be normal/high in ALF; low in DIC)
+- Metabolic: Correction of hypoglycemia (continuous D20) and electrolyte abnormalities
+- Circulatory dysfunction/shock: Goal MAP >75 mmHg. Ensure intravascularly replete, add
+norepinephrine first line, vasopressin can be used second line but may increase ICP. Consider stress dose steroids for refractory shock
 -   Additional Supportive Care
     -   PPI for bleeding ppx
-    -   Enteral nutrition within 2-3 days; avoid TPN if possible; avoid
-        NG feeds if progressive HE; NG should only be placed w/
-        intubation as gagging increases ICP
+    -   Enteral nutrition EARLY; avoid TPN if possible
     -   Prefer propofol for sedation for better neuro exams and may reduce cerebral blood flow
 
 ## Specific Management by Etiology:
@@ -223,3 +227,19 @@ present with AST/ALT &gt;100</em></td>
 - HBV – nucleos(t)ide analogue; orthotopic liver transplant
 
 - HSV – acyclovir
+
+## Criteria for Transplantation:
+- King’s College criteria: helps identify patients needing transplant referral/consideration
+- A) ALF due to acetaminophen:
+    - Arterial pH <7.3 after resuscitation and >24 hr since ingestion, OR
+    - Arterial lactate >3 after adequate fluid resuscitation, OR
+    - Grade III- IV HE, and SCr >3.4, and INR >6.5 all within 24h period
+- B) ALF not due to acetaminophen: INR > 6.5 OR 3 of the 5 following criteria:
+    -  Etiology: Indeterminate etiology, idiosyncratic drug- induced hepatitis
+    -  Age <10 or >40
+    -  Interval of jaundice to onset of encephalopathy >7 days
+    -  Bilirubin > 17.5mg/dl (300mmol/L)
+    -  INR >3.5
+- Other predictors of poor prognosis in absence of transplant:
+    -  Hyperlactatemia: lactate >3.5 after 4 hours of IVF or >3 after 12 hours IVF
+    -  Hyperphosphatemia: Phosphate >3.75 at 48-96 hours
