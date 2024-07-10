@@ -12,9 +12,8 @@ Garren Montgomery
 - Definitions:
     - HRS-AKI (formerly type I HRS): Rise in Cr ≥0.3 within 48h, rise in Cr ≥50% within 7 days, OR UOP <0.5 mL/kg/hr for 6 hours
     - HRS-NAKI (“non-AKI”) (formerly type II HRS):
-    - HRS-AKD: eGFR<60 for <3 months in absence of other structural causes OR % rise in Cr ≤50% using last available Cr over last 3 months as baseline
-    - HRS-CKD: eGFR<60 for ≥3 months in absence of other structural causes
-
+        - HRS-AKD: eGFR<60 for <3 months in absence of other structural causes OR % rise in Cr ≤50% using last available Cr over last 3 months as baseline
+        - HRS-CKD: eGFR<60 for ≥3 months in absence of other structural causes
 
 - Diagnostic Criteria
     - Diagnosis of AKI (see above) without other cause (see below
@@ -39,14 +38,16 @@ Garren Montgomery
 ## Management
 
 - Pharmacologic therapies (in order of preference):
-    - Terlipressin + albumin. Most effective combo based on clinical trials, NOW AVAILABLE (ongoing clinical trial at VUMC)
-    - Norepinephrine + albumin (25-50 g/day)
-        - Most likely to be used at VUMC, requires central access (PICC vs triple lumen) but can be administered on stepdown unit
+    - Terlipressin (+/- albumin 50g/day, unless there is evidence of volume overload). Most effective medication based on randomized clinical trials, NOW FDA APPROVED and approved for use at VUMC in Transplant Candidates only. Titration is done based on creatinine response.
+    - Alternatively, consider Norepinephrine (+/- albumin 50 g/day)
+        - Requires central access (PICC vs triple lumen) but can be administered on stepdown unit
         - Guidelines recommend NE to be dosed at 0.5-3 mg/hr. Would ask fellow, attending or pharmacist for baseline. VUMC protocol for ICU and stepdown:
-            - Start NE gtt at 3mcg/min. If UOP is <200 or MAP <10mm Hg from baseline, increase by 3 mcg/min every 4 hours
+        - Start NE gtt at 3mcg/min. If UOP is <200 or MAP <10mm Hg from baseline, increase
+by 3 mcg/min every 4 hours
+
 - Continue to hold diuretics. LVP is still generally considered safe even in HRS if indicated by tense ascites (account for albumin repletion from LVP and HRS protocol). This can be attending specific and would confirm prior to performing
 
-- Therapy is generally continued until HRS is reversed or the hepatology attending deems it refractory to medical treatment
+- Therapy is generally continued until HRS is reversed or the hepatology attending deems it refractory to medical treatment. (Per guidelines, protocol normally discontinued if Cr remains at pretreatment level or above >4 days)
 
 - Patients with HRS-NAKI (formerly type II HRS) may respond to the above therapies, but recurrence of renal dysfunction after withdrawal of vasoconstrictors is the norm and thus current guidelines do not recommend them for this scenario
 
