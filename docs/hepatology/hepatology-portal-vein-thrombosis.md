@@ -1,6 +1,6 @@
 # Portal Vein Thrombosis (PVT) 
 
-John Laurenzano
+Pakinam Mekki
 
 ---
 
@@ -17,14 +17,14 @@ John Laurenzano
 ## Evaluation
 
 - RUQ U/S with doppler
-    - Once identified, should be further assessed with triple phase CT or MRI with Gadovist contrast to exclude HCC with tumor thrombus
+    - Once identified,  should be further assessed with triple phase CT or MRI with Gadovist contrast to exclude HCC with tumor thrombus
 - Pts with newly identified PVT should undergo EGD to evaluate for high-risk varices, both for diagnostic and therapeutic considerations
 
 - PVT in pts without cirrhosis should prompt evaluation for hypercoagulable disorders
 
 ## Management
 
-- Start anticoagulation if acute thrombus occludes >50% of main portal vein, <50% but extends into SMV, thrombus is symptomatic, or patient is a transplant candidate (irrespective of size). Requires discussion with attending/transplant team.
+- Start AC if acute thrombus occludes >50% of main portal vein, <50% but extends into SMV, thrombus is symptomatic, or patient is a transplant candidate (irrespective of size). Requires discussion with attending/transplant team.
     - Anticoagulation options: warfarin, LMWH, or DOAC
     - DOAC’s are safe in Childs Class A, can be used with caution in Childs B, and are contraindicated in Childs C
 
@@ -32,7 +32,7 @@ John Laurenzano
 
 - Pts with high-risk varices should undergo endoscopic management or be on NSBB for prophylaxis for variceal hemorrhage, as noted above
 
-- TIPS with portal vein recanalization has recently emerged as a therapeutic modality for PVT
+- TIPS with portal vein recanalization has recently emerged as a therapeutic modality for PVT in LT candidates to allow for anastomosis, in patient’s with chronic PVT and recurrent bleeding/refractory ascites, or in patients whom intestinal ischemia persists despite AC.
 
 - Pts should undergo follow up intermittently with ultrasound to assess for recanalization. AC may be stopped if there is failure to recanalize.
 
