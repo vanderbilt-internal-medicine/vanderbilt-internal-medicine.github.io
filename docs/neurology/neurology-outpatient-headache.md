@@ -1,5 +1,6 @@
 # Outpatient Headache
 
+Lauren Waskowicz
 ---
 
 <table>
@@ -52,15 +53,19 @@ medication</td>
 </tbody>
 </table>
 
+## Evaluation:
+
+- Assess for red flag symptoms (refer to “Headache: Inpt”)
+  
+- If no red flag symptoms present, no need for further work-up
+
+- Assess lifestyle factors that can be contributing to headache: good sleep hygiene, routine meal schedules, regular exercise, and managing migraine triggers
+
 ## Medication Overview:
 
 - Abortive
-
-    - Triptans (e.g. sumatriptan or rizatriptan)
-
-        - Cannot be used more than 10 days/month
-
-        - Avoid in pts with hypertension/CAD
+    - Triptans: Cannot be used more than 10 days/month. Avoid in pts with significant coronary artery disease, prior strokes, and prior MI. Associated with vasospasm.
+    - CGRP antagonists: Newer options. Insurance typically requires failure of 2 abortive triptans prior to approval. Refer to Neurology Clinic for this.
 
 - Preventative
 
