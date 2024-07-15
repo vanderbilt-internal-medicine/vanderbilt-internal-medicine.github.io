@@ -911,6 +911,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://vim-book.org/neurology/Neuropathy/</loc>
+         <lastmod>2024-07-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://vim-book.org/neurology/The%20Neurologic%20Exam/</loc>
          <lastmod>2024-07-15</lastmod>
          <changefreq>daily</changefreq>
