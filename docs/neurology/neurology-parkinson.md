@@ -1,6 +1,6 @@
 # Parkinson’s Disease
 
-## Clinical Presentation
+## Presentation
 
 - Resting tremor is typically a very early symptom, often worse on one
     side
@@ -34,34 +34,29 @@
 
 ## Management
 
-- Dopamine replacement – carbidopa/levodopa; dosed at regular
-    intervals several times a day. These generally do not need to be
-    held on admission.
+- Continue home Parkinson’s medications the way they take at home. Abrupt discontinuation
+can cause severe withdrawal.
 
-    - If pt is altered, can hold anticholinergics, MAO-B inhibitors or
-        COMT inhibitors
+- Dopamine replacement: Carbidopa/levodopa; dosed at regular intervals several times a day.
+Generally does not need to be held during admission.
+    - If pt is altered, can hold anticholinergics, MAO-B inhibitors, or COMT inhibitors
 
-- Dopamine agonists – can cause confusion, hallucinations, dyskinesias
+- Dopamine agonists: can cause confusion, hallucinations, dyskinesias
 
-- MAO-B inhibitors (MAOIs): can cause confusion, hallucinations,
-    insomnia and dyskinesias
+- MAO-B inhibitors (MAOIs): can cause confusion, hallucinations, insomnia and dyskinesias
 
-- COMT inhibitors – can cause confusion, hallucinations, insomnia, and
-    dyskinesias
+- COMT inhibitors: can cause confusion, hallucinations, insomnia, and dyskinesias
 
-- Anticholinergics – useful for tremor when there is not much
-    bradykinesia or gait disturbances. In older pts cognitive changes
-    are a bigger concern along with hallucinations
+- Anticholinergics: useful for tremor when there is not much bradykinesia or gait disturbances.
+In older pts, cognitive changes are a bigger concern along with hallucinations
 
-- PD medications are rarely titrated in the hospital because acute
-    medical illness makes PD symptoms worse and everything will need to
-    be re-adjusted as an outpatient
+- Parkinson’s Disease medications are rarely titrated in the hospital because acute medical
+illness worsens Parkinsonian symptoms. Everything will need to be re-adjusted outpt
 
-- Be cautious with PRN anti-emetics in patients with PD. Many work via
-    dopamine antagonism. Zofran is generally the safest option.
+- Be cautious with PRN anti-emetics in pts with PD. Many work via dopamine antagonism.
+Zofran is generally the safest option
 
-- Similarly, many antipsychotics have dopamine antagonism. Safest
-    option is seroquel
+- Similarly, many antipsychotics have dopamine antagonism. Safest option is quetiapine.
     
 # Parkinson Plus Syndromes
 
@@ -98,3 +93,9 @@
 
     - Parkinsonism with prominent early cognitive impairment and
         hallucinations
+      
+- Corticobasal degeneration
+  
+    - Alien limb phenomenon (affected limb doesn’t belong to them) o Associated with apraxia and aphasia
+
+      
