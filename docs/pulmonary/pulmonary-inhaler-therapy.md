@@ -1,6 +1,6 @@
 # Inhaler Therapy 
 
-Patrick Barney
+Rafael J. Fernandez III, Patrick Barney
 
 ---
 
@@ -31,73 +31,45 @@ Patrick Barney
 
 - Nebulizers
 
-    - Saline
+    - Bronchodilators
+        -Short-acting beta agonist (SABA): beta-2 agonism of bronchial smooth muscle for bronchodilation; also decreases mast cell mediator release). Ex: albuterol, levalbuterol
+        - Long-acting begat agonist (LABA): same as SABA but have lipophilic side changes that allow longer binding and slow onset of action. Ex: formoterol, salmeterol, olodaterol
 
-        - Hypertonic saline, NS, 3% and 7%. Can be used to thin secretions
-            and produce deep cough in patients who need to expectorate as
-            part of treatment. For CF, chronic tracheostomy, NM weakness. No
-            evidence for benefit in COPD.
+- Corticosteroids (budesonide, fluticasone, mometasone): suppress airway inflammation
 
-    - Enzymatic Agents
+- Anticholinergics
+    - COPD and asthma exacerbation: bronchodilation and secretion inhibition in acute setting
+    - Ipratropium (Atrivent) intermittent nebulizer or Ipratropium-ambuterol (Duo-Neb) intermittent or continuous nebulizer; long acting Yupelri (revefenacin)
 
-        - Dornase alpha – Pulmozyme – “DNAse’ - enzyme that breaks down
-            polymerized DNA in high concentrations in CF airways, indicated
-            specifically for patients with CF
+- Hypertonic saline, NS, 3% and 7%: Can be used to thin secretions and produce deep cough in pts who need to expectorate as part of treatment. For CF, chronic tracheostomy, NM weakness. No evidence for benefit in COPD
 
-    - Anticholinergics
+- Enzymatic Agents (Dornase alpha/Pulmozyme/DNAse): enzyme that breaks down polymerized DNA in high concentrations in CF airways; indicated specifically for CF pts
 
-        - COPD exacerbation, asthma exacerbation – bronchodilation and
-            secretion inhibition in acute setting
+- Disulfide disruptors
+    - Sever disulfide bonds of glycoproteins in mucus, lowering its viscosity and making it more amenable to suction, expectoration
+    - N-acetylcysteine (Mucomyst) - nebulized form available in “adult burn inhalation injury protocol” when search “mucomyst”
 
-        - Ipratropium (Atrovent) intermittent nebulizer or
-            Ipratropium-albuterol (Duo-Neb) intermittent or continuous
-            nebulizer
+- Prostacyclin (e.g. epoprostenol): Prostaglandin analog used for pulmonary hypertension. Requires Pulmonary approval. Largely used for rescue with refractory hypoxia in ARDS
 
-    - Disulfide Disrupters
+## Antibiotics
 
-        - Sever disulfide bonds of glycoproteins in mucus, lowering its
-            viscosity and making it more amenable to suction, expectoration
+- May be indicated in pts with CF, non-CF bronchiectasis, VAP as salvage therapy
 
-        - N-acetylcysteine (Mucomyst) - nebulized form available in “adult
-            burn inhalation injury protocol” when search “mucomyst”
+- Tobramycin: only nebulized antibiotic available at VUMC
 
-- Antibiotics
+- Pentamidine: nebulized antibiotic for PJP prophylaxis, given once/month
 
-    - May be indicated in patients w/ CF, non-CF bronchiectasis, VAP
-        as salvage therapy
+## VUMC Inpt Options
 
-    - Tobramycin – only nebulized antibiotic available at VUMC
+- SABA : Albuterol (Proventil/Ventolin/Proair) - MDI, neb, continuous aerosol available
 
-## Categories of inhaled medications
+- SABA/SAMA: Ipratropium-albuterol (Duo-Neb) - neb and continuous neb available
 
-- Short-acting beta agonist (SABA): beta-2 agonism of bronchial smooth
-    muscle to achieve bronchodilation; also decrease mast cell mediator
-    release. Ex: albuterol, levalbuterol
-
-- Long-acting beta agonist (LABA): - beta-2 agonists, same as SABAs
-    but have lipophilic side chains that allow longer binding but also
-    slow the onset of action. Ex: formoterol, salmeterol, olodaterol
-
-- Long-acting muscarinic antagonist (LAMA): - non-specific muscarinic
-    receptor antagonists, leads to bronchodilation and reduced
-    secretions. Ex: tiotropium, umeclidinium, glycopyrrolate
-
-- Inahled corticosteroid (ICS): - suppress airway inflammation. Ex:
-    budesonide, fluticasone, mometasone
-
-## VUMC Inpatient Options
-
-- SABA : Albuterol (Proventil/Ventolin/Proair) - MDI, neb, continuous
-    aerosol available
-
-- SABA/SAMA: Ipratropium-albuterol (Duo-Neb) - neb and continuous neb
-    available
-
-- LABA – only available in combination w/ ICS. LABA/ICS:
-    vilanterol-fluticasone (Breo Ellipta), salmeterol-fluticasone
-    (Advair Diskus/HFA)
+- LABA – only available in combination w/ ICS. LABA/ICS: vilanterol-fluticasone (Breo
+Ellipta), salmeterol-fluticasone (Advair Diskus/HFA) 
 
 - LAMA: Tiotropium (Spiriva Respimat)
 
-- ICS: Budesonide inhaler (Pulmicort) or neb, fluticasone furoate
-    (Arnuity Ellipta)
+- ICS: Budesonide inhaler (Pulmicort) or neb, fluticasone furoate (Arnuity Ellipta)
+
+- Triple therapies (Trelegy/Breztri) are NOT available inpt. Combine ICS/LABA with LAMA as replacement.
