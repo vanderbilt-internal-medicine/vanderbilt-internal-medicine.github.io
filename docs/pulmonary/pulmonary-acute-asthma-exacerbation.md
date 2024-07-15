@@ -1,24 +1,24 @@
 # Acute Asthma Exacerbation 
 
-Stacy Blank
-
+Rafael J. Fernandez III, Stacy McIntyre
 ---
 
 ## Presentation
 
-- History of asthma or a history concerning for asthma
+- Sub-acute to acute progressive worsening of dyspnea, chest tightness, wheezing, and cough
 
-- Progressive worsening of symptoms: dyspnea, chest tightness,
-    wheezing, and cough
+- Important historical cues: Prior hx of asthma, adherence to controller medications, triggers
+(exercise, allergens, cold)
 
-- Physical exam with wheezing, poor air movement, tachypnea, increased
-    work of breathing, hypoxemia
+- Risk stratifying: Hx of intubations/ exacerbations, recent steroid course for exacerbation
 
-- Often use of peak flows is cited in the literature (PEF \<200 L/min
-    or PEF \<50% predicted indicates severe obstruction, PEF \<70%
-    predicted indicates moderate exacerbation)
+- Physical exam: wheezing, poor air movement, tachypnea, ↑ work of breathing, hypoxemia
 
-    - May be useful although often does not change management acutely
+- Peak flows can help and are often cited in literature but do not change management acutely,
+can be useful as baseline for assessing response to therapy.
+
+- PEF <200 L/min or PEF <50% predicted indicates severe obstruction, PEF <70% predicted
+indicates moderate exacerbation)
 
 ## Evaluation
 
@@ -35,7 +35,7 @@ Stacy Blank
 
 - Dangerous signs and possible ICU if:
 
-    - Tachypnea \>30 and/or significantly increased work-of-breathing
+    - Tachypnea >30 and/or significantly increased work-of-breathing
 
     - Hypercapnia or even normocapnia (these pts are usually
         hyperventilating; a normal CO2 in a severe asthma exacerbation could
@@ -47,40 +47,50 @@ Stacy Blank
 
 ## Management
 
-- Continuous pulse ox with oxygen therapy to maintain O2 \>92 %
+- Good asthma care requires frequent re-evaluation. Generally, reassess q1h after treatment
+initiation. If deteriorating, step up the ladder of management
 
-- Continuous albuterol nebulizer or Duonebs until able to space to
-    q1h\>\>q2h, etc
 
-- Steroids with dosing based on severity of illness (there is no data
-    behind exact dosing of steroids).
+- ABC: if not protecting airway, intubate and admit to ICU
 
-    - Start with IV methylpred 125mg q6h in severe exacerbation/ICU
-        patients
+- Peak expiratory flow (Order in EPIC “Peak Flow Measurement”). If pt cannot do it, consider
+A/VBG if ill-appearing, tachypneic, lethargic/AMS, or thinking about engaging ICU
 
-    - Can start with oral prednisone 60mg q12h in less severe
-        exacerbation/floor pts
+- SpO2 goal 93-95%. Avoid hyperoxia
 
-    - Plan to transition from IV to PO and then likely to send pt home to
-        finish course of 40-60 mg pred daily for 5-7 days.
+- Further work-up: Not required, but aimed at ruling out causes of exacerbation and other dx
 
-- IV mag sulfate 4g over 20 minutes for severe exacerbation
+- CBC w/ diff (looking at eosinophils)
 
-- Keep pt NPO until off continuous nebs/respiratory effort is
-    improved. Consider IV fluids with pt’s comorbidities (HFrEF, renal
-    disease) vs. increased insensible losses with resp effort
+- CXR to rule out underlying process (PNA, PTX, atelectasis)
 
-- If pt is not responding to therapies, has worsening respiratory
-    status, or blood gas concerning for respiratory acidosis needs ICU
-    care for BiPAP vs mechanical ventilation
+- Corticosteroids: dosing based on severity of illness
+    - Oral equivalent to IV (Lancet 1986;1:181-184)
+    - Transition to PO and lower dose after improving air movement, work of breathing and gas
+exchange
+    - Will need minimum of 5-7 days of oral corticosteroids.
+    - Good data for no need to taper in general population, sometimes considered in someone with multiple severe exacerbations.
 
-- Note: We do not start empiric antibiotics unless there is concern
-    for bacterial infection
+- Step down SABA-Nebulizer treatments based on wheezing
+
+- Inspiratory/Expiratory wheezing q2 -> q3; Mostly Expiratory wheezing q3 -> q4; Minimal
+Wheezing q4 -> q6 or PRN. (Pediatrics 2000; 106 (5): 1006–12)
+
+- No need for empiric antibiotics unless there is concern for bacterial infection, then treat as Pneumonia (see Pneumonia chapters)
 
 ## Prior to discharge:
 
 - Ensure that pt is on appropriate controller medications (see
     outpatient management)
 
-- Evaluate for causes of acute exacerbation to prevent future events
-    (noncompliance, resp viruses, allergies, exposures, etc.)
+- See outpt management section but consider starting an ICS/LABA as part of SMART (JAMA
+2018; 319(14):1485–1496)
+
+- Evaluate for causes of acute exacerbation to prevent future events (noncompliance, resp
+viruses, allergies, exposures, etc.). Evaluate for asthma inflammatory phenotype after recovery
+(IgE, peripheral eos, ABPA)
+
+- Can consider writing a simple asthma action plan (https://ginasthma.org/wp-
+content/uploads/2021/05/GINA-Pt-Guide-2021-copy.pdf)
+
+- Consider follow up with PCP vs. pulmonologist for evaluation of outpt regimen
