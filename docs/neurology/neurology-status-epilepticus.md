@@ -3,10 +3,7 @@
 ## Background
 
 -   Either a single seizure >5 minutes or
-    ≥
-    2 seizures occurring without a return to baseline in between
-    \[previous guidelines used 30 minutes as a marker, but this has been
-    updated\]
+    ≥ 2 seizures occurring without a return to baseline in between
 -   Differentiating convulsive seizures from non-epileptic events
     (“pseudoseizure”):
     -   Features that suggest non-epileptic/psychogenic event include
@@ -17,8 +14,7 @@
 
 ## Evaluation
 
--   Fingerstick
-    glucose, BMP/CBC, and UDS
+-   Fingerstick glucose, BMP/CBC, and UDS
 -   Consult Neurology
 -   EEG (start with 2hr) to determine if it is seizure or not and for
     titration of medications
@@ -46,9 +42,9 @@
 
     - IV fosphenytoin 20 mg/kg
 
-    - IV levetiracetam 30-60 mg/kg **(generally 3g, up to 4.5g max)**
+    - IV levetiracetam 60 mg/kg (up to 4.5g max)
 
-    - IV valproic acid 30 mg/kg
+    - IV valproic acid 40 mg/kg
 
 - If still seizing at this point, the patient will likely need
     intubation
