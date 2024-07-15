@@ -547,12 +547,18 @@ dilation)</p></td>
 
 ## Contrast Allergies or Extravasation
 
-See ACR contrast manual for additional Information:
+- See ACR contrast manual for additional Information (https://www.acr.org/Clinical-Resources/ Contrast-Manual)
 
-<https://www.acr.org/Clinical-Resources/Contrast-Manual>
-
-
-<figure markdown>
-![ACR contrast infographic](../images/contrast-allergies.png)
-<figcaption markdown>From the [ACR contrast manual](https://www.acr.org/Clinical-Resources/Contrast-Manual)</figcaption>
-</figure>
+- Examples of premedication regimens
+    - Methylprednisolone 32mg PO 12, 2 hrs prior ± Benadryl 50mg PO 1 hr prior OR
+    - Prednisone 50mg PO 13, 7, 1 hr prior ± Benadryl 50mg PO 1 hr prior OR
+    - Hydrocortisone 200mg IV 5 hrs and 1 hr and Benadryl 50mg IV 1 hr prior
+- Regimen by problem
+    - Hives/diffuse erythema: Can observe
+        - If associated with hypotension or respiratory distress, considered anaphylaxis. Treat with IVF, epinephrine, and supplemental O2
+        - If only skin findings but severe and/or progressive, can give Benadryl 50mg PO, IV or IM
+    - Laryngeal edema (inspiratory stridor): epinephrine
+    - Bronchospasm: beta-2 agonist inhaler 2 puffs x3, epinephrine if not responsive or severe
+    - Hypotension with tachycardia: IVF, epinephrine, supplemental O2
+    - Hypotension with bradycardia: IVF, atropine if refractory, supplemental O2
+    - Contrast extravasation: elevate arm (heart level), cool compress, remove rings; consider surgical consultation for decreased perfusion, sensation, strength, active ROM, or increasing pain
