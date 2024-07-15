@@ -6,15 +6,12 @@ Pakinam Mekki
 
 ## Background
 
-- Symptoms: insidious dyspnea, exertional chest pain, orthopnea, PND,
-    edema
+- Symptoms: exertional dyspnea, presyncope, fatigue, exertional chest pain, edema; syncope is a very concerning symptom
 
-- Exam: JVD, increased P2, split S2, RV heave, TR murmur,
-    hepatomegaly, ascites, edema
+- Physical exam: JVD, widely split S2, holosystolic tricuspid regurgitation murmur, pulmonary
+diastolic murmur (Graham Steel), hepatomegaly, ascites, edema
 
-- Signs of RV failure: low cardiac output (hypotension, renal failure,
-    hepatic congestion), arrhythmias, refractory hypoxemia (R→L shunt),
-    effusions (pericardial \> pleural) 
+- Main chief complaint for admission: volume overload secondary to RV failure and/or hypoxia
 
 - WHO Groups and Causes: 
 
@@ -51,51 +48,29 @@ Pakinam Mekki
 
 ## Evaluation
 
-- Most common reason for admission with a known diagnosis of pHTN is
-    volume overload/RV failure and hypoxia
+- Labs: BNP, CMP, HIV, rheumatologic serologies (ANA w/reflex ENA, RF/CCP, ANCA, Scl-70, Ro/La), blood gas (↑ A-a gradient, ↓ PaO2, ↓ PCO2; rule out hypercapnia from alveolar hypoventilation)
 
-    - Consider etiology of decompensation: Progression of underlying
-        disease, medication/dietary nonadherence, infection, arrhythmia,
-        myocardial infarction/RV ischemia, shunting via opening a PFO as a
-        release valve, pulmonary embolism
+- EKG: right atrial enlargement (peaked P waves), RBBB, RV hypertrophy
 
-- Consult pulmonary hypertension with any questions or assistance with
-    workup
+- PFT: rule out obstructive and restrictive disease; PAH usually has mild restriction with mild DLCO impairment
 
-- Studies to consider ordering to determine etiology of pulmonary
-    hypertension
+- Sleep studies: evaluation for chronic hypoxemia from OSA; if low suspicion for OSA/CSA, can start with overnight oximetry
 
-    - Labs: BNP, liver enzymes, rheumatologic serologies (ANA w/ reflex
-        ENA, RF/CCP, ANCA, Scl-70, Ro/LA)
+- 6-min walk test: important for prognostication, baseline exertional capacity, and to evaluate treatment response
 
-    - EKG: R-axis deviation, RBBB, increased P wave in lead II
+- Imaging
+    - TTE with bubble: RVSP >35-40 is concerning for PH. TTE can show evidence of RV dilation and dysfunction (TAPSE <1.6cm), RRA dilation, septal flattening, pericardial effusion. It should evaluate for classification by quantifying L heart disease and shunt.
+    - CT angiogram: evaluates for acute and chronic thrombi using contrast media; consider V/Q scan in setting of AKI and advanced CKD (discuss risk and benefits)
+    - V/Q scan: better performance in evaluating small chronic embolism in contrast to CTA
+    - High res CT: evaluates parenchymal lung disease, dilation of the pulmonary artery, RV size
+ 
+## Diagnosis
 
-    - CXR: increased PA and R heart border, vascular pruning
+- May be suspected from clinical presentation and indirect surrogate markers of elevated PAP
 
-    - TTE w bubble: RVSP \>35-40, RV dilation and dysfunction, RA
-        dilation, septal flattening, pericardial effusion, evaluate for L
-        heart disease and shunt
-
-    - PFT (outpatient): isolated decrease in DLCO in group I PH, TLC \<
-        50%, FEV/FVC \< 70%
-
-    - V/Q scan or CTA chest to evaluate for CTEPH
-
-    - 6-minute walk test is prognostic, can be used to monitor response to
-        therapy
-
-    - +/- CT chest to evaluate for parenchymal lung disease
-
-    - +/- sleep study to evaluate for OSA
-
-    - Right heart catheterization (RHC) is the gold standard test for PH
-        diagnosis and determines pre-vs post-capillary HTN (See RHC section
-        in Cardiology)  
-
-        - Nitric oxide challenge to assess for drug response
-
-        - Fluid challenge with 500cc LR to assess left heart compliance
-            \`
+- A right heart catheterization is the gold standard for PH diagnosis and will differentiate between precapillary and postcapillary PH
+    - Nitric oxide challenge during RHC assesses for drug response
+    - Fluid challenge with 500ml LR during RHC assesses left heart compliance
 
 <table>
 <colgroup>
@@ -136,77 +111,63 @@ Pakinam Mekki
 </tbody>
 </table>
 
-## Poor Prognostic Indicators for pHTN
-
-- NYHA Functional Class (FC III-IV) - 6-minute walk test \< 300
-
-- AKI - Hyponatremia
-
-- Low SBP (SBP \< 90) - CTD or liver disease as etiology
-
-- Poor hemodynamics on RHC (RAP \> 20; cardiac index \< 2)
-
-- TTE findings - TAPSE \< 1.8, pericardial effusion, severe RV
-    dysfunction
-
 ## Management
 
-- Goal of hospitalization is to understand and optimize hemodynamics
+- immunizations: yearly influenza, COVID, pneumococcal
 
-- Overall goal- improve NYHA functional class, RV function, 6-minute
-    walk test, quality of life
+- Counsel to strongly avoid pregnancy
 
-- General management: treat underlying cause, diuretics for right
-    heart failure, goal SpO2\>90%
+- Identify decompensation triggers: progression of underlying disease, medication/dietary nonadherence, infection, arrhythmia, myocardial infarction/RV ischemia, shunting via PFO, pulmonary embolism
 
-- PAH medicines: Consult pulmonary hypertension if considering
-    starting of changing meds
+- Treatment: aimed at preventing right heart failure, increasing vasoactive molecules (preventing further remodeling), symptom relief/quality of life, functional class (NYHA class)
+    - Oxygenation goal >90%
+    - Diuresis: do not be aggressive, these pts are preload dependent
 
-- Oral treatments may be used as monotherapy or in combination 
+- Consult pulmonary hypertension if considering starting or changing PH medications.
 
-    - Calcium-channel blockers → patients with + vasoreactive challenge 
+## Medications
 
-    - NO-cGMP enhancers: PDE5-inhibitors sildenafil or tadalafil,
-        riociguat 
+- Anticoagulation: For pts with confirmed CTEPH. Should be worked up for hypercoagulability including antiphospholipid syndrome. Pulmonary endarterectomy may be considered.
 
-    - Endothelin receptor antagonists (ERAs): Bosentan, macitenatan,
-        ambrisentan –
+- Oral CCB: used in pts who had a positive vasoreactive challenge on RHC
 
-- Prostacyclin analogs
+- PAH-specific vasoactive medications (in order of escalation)
+    - NOenhancers
+        - PDE5-inhibitors: sildenafil, tadalafil
+        - Soluble guanylate cyclase stimulant: riociguat
+    - Endothelin receptor antagonists (ERAs): Bosentan, macitenatan, ambrisentan o      - Prostacyclin analogs
+        - Prostacyclin analogs increase cAMP-mediated pulmonary vasodilation
+        - Side effects include jaw pain, flushing, arthralgias, and diarrhea
+        - IV formulations are administered through a continuous pump. Never stop IV
+prostacyclins since even brief pauses can cause rebound vasoconstriction and death.
+            - Epoprostenol: IV (Veletri) or inhaled (Flolan); half-life 4 minutes
+            - Treprostinil: IV/subcutaneous/inhaled/PO; half-life 4 hours
+            - Iloprost: inhaled, half-life minutes
+            - Selexipag (Uptravi): PO, half-life hours
+        - BMPR2-targeted therapies (eg, sotatercept) are under investigation for PAH
 
-    - Prostacyclin analogs increase cAMP-mediated pulmonary
-        vasodilation. Side effects include jaw pain, flushing,
-        arthralgia, diarrhea.
+- Balloon atrial septostomy: creation of a R->L shunt to offload the RV which reduces SpO2 but overall improved peripheral tissues DO2. Palliative procedure or bridge.
 
-    - IV formulations are administered through a continuous pump.
-        Never stop IV prostacyclins, even brief pauses can cause rebound
-        vasoconstriction and death. In an emergency, can run temporarily
-        through PIV
+- VA ECMO can be used as bridge to medical therapy or for lung transplant.
 
-        - Epoprostenol: IV (Veletri) or inhaled (Flolan), half-life 4
-            minutes.
+- Lung transplantation can be considered for pts who are candidates and failing maximal medical therapy
 
-        - Treprostinil: IV/subcutaneous/inhaled/PO, half-life 4 hours 
+- Treatment escalation is based on a pt’s NYHA functional classification
+    - Class I: no treatment or monotherapy
+    - Class II: monotherapy or combination oral therapy
+    - Class III: combination oral therapy or prostacyclin
+    - Class IV: prostacyclin ± oral therapy
 
-        - Iloprost: inhaled, half-life minutes 
+## Poor prognostic factors
 
-        - Selexipag (Uptravi): PO, half-life hours 
+- NYHA Functional Class III and IV
 
-- Treatment based on NYHA functional classification: 
+- 6-minute walk test less than 300 meters
 
-    - Class I: no treatment or monotherapy 
+- The present of AKI and/or hyponatremia
 
-    - Class II: monotherapy or combination oral therapy 
+- Low SBP (SBP < 90) when connective tissue disease or liver disease is the etiology
 
-    - Class III: combination oral therapy or prostacyclin 
+- Poor hemodynamics on RHC (right atrial pressure > 20 mmHg; cardiac index less than 2)
 
-    - Class IV: prostacyclin +/- oral therapy 
-
-- Lung transplant for patients who are candidates and failing maximal
-    medical therapy 
-
-- VA ECMO can be used as bridge to medical therapy or lung transplant 
-
-- Atrial septostomy- serves as “pop-off” valve and allows for
-    decompression of failing RV; used as definitive palliative procedure
-    or bridge to transplant 
+- TTE findings: tricuspid annular plane systolic excursion (TAPSE, marker of global RV function) < 1.8, the presence of a pericardial effusion, and severe RV dysfunction
