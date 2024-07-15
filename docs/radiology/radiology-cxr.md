@@ -1,9 +1,5 @@
 # Basic Chest X-ray Interpretation
 
-Gautam Babu
-
----
-
 An X-ray is a density-gram where “white” is “dense” and “black” is “not
 dense.” Determine a systematic method you use every time you interpret a
 CXR to ensure you don’t miss anything
