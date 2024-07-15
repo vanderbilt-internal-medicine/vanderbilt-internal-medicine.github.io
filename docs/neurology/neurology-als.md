@@ -1,5 +1,7 @@
 # Amyotrophic Lateral Sclerosis (ALS)
 
+Nicholas Mallett
+
 ## Background
 
 - Progressive weakness, often asymmetric and profound with no sensory
@@ -11,64 +13,55 @@
         fasciculations
 
     - UMN findings: weakness, spasticity, hyperreflexia, pathologic
-        reflexes (e.g. extensor plantar response), slow movements
+        reflexes
+      
+- Bulbar symptoms: dysphagia, increased saliva production (they are not swallowing it),
+changes in voice
 
-- Pts with bulbar symptoms may complain of difficulty swallowing,
-    changes in their voice, or increased saliva production (they just
-    aren’t swallowing it)
+- Tongue fasciculations are best assessed while tongue rests in mouth and observed for ~30
+seconds but can be hard to be certain of (symmetric movements are typically not fasciculations). A light can be helpful, and atrophy if present, can help differentiate from normal movements
 
-- Tongue fasciculations are fairly uncommon in other disorders and is
-    a good clue for ALS if present (these can be hard to be certain of –
-    tongue movements that are symmetric are typically not
-    fasciculations)
+- Pseudobulbar affect (inappropriate laughing or crying) is relatively common in ALS and other neurodegenerative disorders.
 
-- Pseudobulbar affect – inappropriate laughing or crying; relatively
-    common in ALS
-
-- FVC is an important marker for function
+- FVC is an important respiratory marker for function.
 
 ## Evaluation
 
-- EMG/NCS is gold standard; El Escorial Criteria looks for evidence of
-    UMN and LMN findings at cranial, cervical, thoracic and lumbosacral
-    levels to determine if ALS or not
+- EMG/NCV is gold standard using the El Escorial or Awaji Criteria for diagnosis
 
 - Exclude mimicking lesions, which may be treatable (see below)
 
 ## Management
 
-- Patients with ALS are ideally treated with a multidisciplinary team
-    of Neurologists, Pulmonologists, Speech therapists, PT, OT and
-    mobility
+- Pts with ALS are ideally treated with a multidisciplinary team of neurologists, pulmonologists,
+PT, OT, and SLP
 
-- Two medications have been shown to add a few months to survival:
+- Given the extensive, specialized care requirements, the Office of Outpt Referral Assistance can
+assist in getting uninsured pt established with specialists
 
-    - Riluzole - PO med; have to track CBC/LFTs. Side effects: GI and
-        general weakness
+- Three medications have been shown to add a few months to survival:
+    - Riluzole: PO, requires CBC/LFT monitoring, AE: GI distress and general weakness
+    - Edaravone: IV, QD x2weeks every month, AE: headache, bruising
+    - Sodium Phenylbutyrate: PO, recently approved by FDA (9/2022), shown to delay
+ventilator-dependence by ~7 months, AE: GI distress
 
-    - Edaravone (Radicava) – IV, given daily for 2 weeks every month. SE =
-        HA, bruising
+- Otherwise, symptomatic management
 
 ## Mimics of ALS
 
-- High cervical spine lesions –UMN changes in upper extremity with LMN
-    pattern in LE
+- Primary lateral sclerosis: UMN-only disease, less common than ALS with slower progression.
+Suspected to be on spectrum with ALS.
 
-- Primary Lateral Sclerosis – UMN-only disease, much less common with
-    much slower progression. Many transition to ALS in the first 1-2
-    years, which then is likely a spectrum of the same disease
+- Cervical spine lesions: UMN changes in UE with LMN pattern in LE. MRI can reveal lesion
 
-- Multifocal Motor Neuropathy – rare autoimmune disorder that looks
-    like ALS with LMN signs only, responds to IVIG. Can have anti-GM1 Ab
-    in blood. EMG/NCS pattern is different with conduction block
+- Multifocal motor neuropathy: rare autoimmune disorder with LMN-only signs. Responds to
+IVIG. Can be anti-GM1 Ab positive. EMG/NCV distinguishes from ALS.
 
-- Kennedy Disease – X-linked genetic disorder with progressive LMN
-    pattern of weakness and endocrine disorders w/androgen resistance
-    profile (gynecomastia, defective spermatogenesis)
+- Kennedy Disease: X-linked genetic disorder with progressive LMN pattern, endocrine
+disorders, and androgen-resistance symptoms (gynecomastia, defective spermatogenesis)
 
-- Inclusion Body Myositis – can be asymmetric with grip weakness and
-    quadriceps weakness. Biopsy and atrophy pattern usually
-    distinguishes it. CPK 500-800.
+- Inclusion body myositis: Can be asymmetric with grip weakness and quadriceps weakness.
+Biopsy and atrophy pattern usually distinguishes it. CPK typically runs 500-800.
 
-- Polymyositis/dermatomyositis – proximal weakness in arms/legs, CPK
-    \> 1000, usually younger onset (30-40s), no UMN signs
+- Polymyositis/dermatomyositis: proximal weakness in BUE/BLE, CPK typically runs >1000,
+usually younger onset (30-40s), no UMN signs.
