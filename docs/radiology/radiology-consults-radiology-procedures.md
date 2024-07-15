@@ -200,11 +200,11 @@ Generally, may resume anticoagulation 24 hours after the procedure.
 
 <!-- -->
 
-- INR: n/a
+    - INR: n/a
 
-- Platelets: transfuse if \<20,000
+    - Platelets: transfuse if \<20,000
 
-- Fibrinogen: cryoprecipitate if \<100
+    - Fibrinogen: cryoprecipitate if \<100
 
 <table>
 <colgroup>
