@@ -12,10 +12,11 @@
 ## Evaluation
 
 -   A clear description or recording of seizure semiology is helpful
--   Provoked seizures can develop with medications, hypo/hyperglycemia,
-    significant electrolyte abnormalities (e.g. hyponatremia), and CNS
-    infections
+-   Provoked seizures can develop with medications (lower threshold),
+ASM/benzodiazepine/EtOH withdrawal, physical/mental/emotional stressors,
+hypo/hyperglycemia, significant electrolyte abnormalities (e.g. hyponatremia), CNS infections
 -   EEG is necessary for spell capture
+-   In pts with new seizures, important to work-up potential underlying etiology
 -   MRI brain with and without contrast once stable
 
 ## Management
@@ -80,6 +81,8 @@ suppression (rare)</td>
 
 - Can be very difficult to distinguish from epileptic seizures
 
+- Not all NES are psychogenic, such as myoclonus, tremors, and syncope
+
 - Features more common in PNES
 
     - Retained awareness with bilateral extremity “seizing”
@@ -91,6 +94,10 @@ suppression (rare)</td>
     - Excessively long spells (e.g. lasts hour or days)
 
     - Forced eye closure
+ 
+    - Truncal Thrusting
+ 
+    - Suppressibility to touch
 
     - Coachability during a spell or reacting to external stimuli
 
@@ -127,6 +134,8 @@ suppression (rare)</td>
 
     - These are just related to syncope and do not typically require
         seizure medications
+
+    - Can be associated with urinary incontinence 
 
     - Workup:
 
