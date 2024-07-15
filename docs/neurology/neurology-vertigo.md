@@ -38,8 +38,7 @@ and management. Classically a loud sound will cause vertigo and nystagmus
 - Vertiginous migraine: episodic vertigo associated with headaches; usual migraine triggers,
 may have aura; often positive family history of migraine
 
-- Stroke: Typically due to brainstem or cerebellar infarct; sudden onset; rare cause of isolated
-vertigo; ask about vascular RF. Also consider vertebral dissection or vertebrobasilar TIA
+- Stroke: Typically due to brainstem or cerebellar infarct; sudden onset; rare cause of isolated vertigo; ask about vascular RF. Also consider vertebral dissection or vertebrobasilar TIA
 
 - Drug-induced: assess recent changes in medications; includes codeine, aminoglycosides,
 macrolides, sulfamethoxazole, NSAIDs, prednisone, anti-malarials, diuretics, beta-blockers,
