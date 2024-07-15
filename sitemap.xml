@@ -1431,6 +1431,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://vim-book.org/radiology/Basic%20Abdomen%20and%20Pelvis%20CT%20Interpretation/</loc>
+         <lastmod>2024-07-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://vim-book.org/radiology/radiology-consults-radiology-procedures/</loc>
          <lastmod>2024-07-15</lastmod>
          <changefreq>daily</changefreq>
