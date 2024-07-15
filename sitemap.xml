@@ -1346,6 +1346,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://vim-book.org/pulmonary/Lung%20Nodules/</loc>
+         <lastmod>2024-07-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://vim-book.org/pulmonary/pulmonary-acute-asthma-exacerbation/</loc>
          <lastmod>2024-07-15</lastmod>
          <changefreq>daily</changefreq>
