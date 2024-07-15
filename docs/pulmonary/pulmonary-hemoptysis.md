@@ -1,12 +1,12 @@
 # Hemoptysis 
 
-Henry Brems
+Angela Liu, Henry Brems
 
 ---
 
 ## Background
 
-- Distinguish between massive (\>600cc/24hr or \>100cc/hr) and
+- Distinguish between massive (>600cc/24hr or >100cc/hr) and
     non-massive hemoptysis. Can be difficult to quantify expectorated
     blood volume and volume that is retained in lungs
 
@@ -54,13 +54,12 @@ cocaine-induced</td>
 
 ## Evaluation
 
-- Check for anticoagulation on med list
+- Determine coagulation status: medications, PT/PTT, platelets
 
 - Labs: CBC, BMP, Coags, UA (for hematuria), ABG (evaluate
     oxygenation), type and screen
 
-    - Consider ANA, ANCA, Anti-GBM, sputum culture (bacteria, fungal,
-        AFB), sputum cytology depending on clinical context
+    - Consider ANA, ANCA, anti-GBM, anti-cardiopipin, IFNG release assay, sputum culture (bacteria, fungal, AFB), sputum cytology (if not undergoing bronchoscopy), and RPP depending on clinical context
 
 - Imaging: CXR first (to evaluate etiology and to localize the source
     to a side). Chest CT depending on prior workup, severity of bleed,
@@ -98,3 +97,5 @@ cocaine-induced</td>
     - Consult early if there is massive hemoptysis; If bronchoscopy is
         attempted but fails to stop the bleed, they can get to angiography
         fastest if IR has already been made aware
+    - Recurrent hemoptysis is still typically controlled with repeat embolization.
+
