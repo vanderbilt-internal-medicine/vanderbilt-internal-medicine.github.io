@@ -1,28 +1,20 @@
 # Hypoxia 
 
-Henry Brems
+Emily Lovern
 
 ---
 
 ## Background
 
-- Two major ways to measure oxygenation, which are similar but
-    distinct:
+- A condition where the oxygen supply is inadequate either to the body as a whole (general
+hypoxia) or to a specific region (tissue hypoxia)
 
-- SpO2 or "pulse ox" - most common, measures the O2 saturation of Hgb
-    at capillary level
-
-    - \<95% is abnormal, but do not need supplemental O2 unless
-        \<90-92% in most pts
-
-- PaO2 - the partial pressure of oxygenation measured on an ABG
-
-    - \<80 mmHg is abnormal
-
-- The relationship between SpO2 and PaO2 is the classic S-shaped
-    curve.
-
-    - SpO2 of \<88% PaO2 begins to fall off dangerously fast
+- Two major ways to measure oxygenation, which are similar but distinct:
+    - SpO2 or "pulse ox" - most common, measures the O2 saturation of Hgb at capillary level         - <95% is abnormal, but do not need supplemental O2 unless <90-92% in most pts
+    - PaO2 - the partial pressure of oxygenation measured on an ABG
+        - <80 mmHg is abnormal
+    - The relationship between SpO2 and PaO2 is the classic S-shaped curve.
+        - SpO2 of <88% if PaO2 begins to fall off dangerously fast
 
 ## Mechanisms of Hypoxia
 
@@ -147,8 +139,7 @@ hypoxia</p></td>
 
 - Supplemental O2 for goal SpO2:
 
-    - \>90-92% for most patients (There is generally no need to make SpO2
-        100%)
+    - 90-96% for most pts
 
     - Between 88-92% for patients with chronic hypoxia from COPD (i.e., on
         home O2)
