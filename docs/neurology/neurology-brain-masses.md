@@ -65,6 +65,9 @@
 - Steroids are generally indicated for treatment of edema
 
     - Decadron 10 mg IV to start; then transition to 4mg IV q6h with SSI
+ 
+    - If pt is clinically stable and there is a concern for CNS lymphoma, consider delaying
+steroids to increase yield of cytology and biopsy, unless edema/mass effect warrants emergent treatment
 
-- Symptomatic tumors need eval by NSGY for resection consideration and
+    - Symptomatic tumors need eval by NSGY for resection consideration and
     radiation oncology
