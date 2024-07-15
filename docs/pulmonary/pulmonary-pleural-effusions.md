@@ -1,6 +1,6 @@
 # Pleural Effusions 
 
-Eddie Qian
+David Krasinski, Eddie Qian
 
 ---
 
@@ -11,79 +11,77 @@ Eddie Qian
     This fluid is constantly reabsorbed by lymphatics. An imbalance in
     the system will result in accumulation.
 
-- Some examples:
+- Examples of dysfunction in homeostasis:
+    - Increased influx: ↑ filtration from the capillaries from high intravascular hydrostatic pressure (e.g. heart failure, renal failure) or low intravascular oncotic pressure
+    - Other liquid entry into the pleural space through anatomic deficits: CSF, chyle, urine, blood, ascites (the diaphragm is naturally porous)
+    - Decreased efflux: obstruction of the parietal pleural stoma (from protein or cellular debris in exudative pleural effusions)
+    - Increased systemic venous pressure: lymphatic system drains into the systemic venous circulation so high venous pressure prevents lymphatics from draining appropriately
 
-    - Increased influx: increased filtration from the capillaries from
-        high intravascular hydrostatic pressure (i.e., heart failure, renal
-        failure) or low intravascular oncotic pressure
+## Presentation
 
-    - Other liquid entry into the pleural space through anatomic deficits:
-        CSF, chyle, urine, blood, ascites (the diaphragm is naturally
-        porous)
+- May be asymptomatic
 
-    - Decreased efflux: obstruction of the parietal pleural stoma (from
-        protein or cellular debris in exudative pleural effusions)
+- Chest pain: usually pleuritic via parietal pleural innervation
 
-    - Increased systemic venous pressure (lymphatic system drains into the
-        systemic venous circulation so high venous pressure prevents
-        lymphatics from draining appropriately)
+- Dyspnea and tachypnea without hypoxia (unless concurrent airspace disease): Dyspnea isthought to be mediated by branches of the phrenic n. that are under pressure from effusion
+
+- Exam: ↓ breath sounds, ↓ chest wall excursion, ↓ tactile fremitus, dullness to percussion
 
 ## Evaluation
 
-- Imaging:
+- CXR: Ideally supine AP, lateral upright and decubitus lateral. Fluid accumulates first in subpulmonic space and then in posterior costophrenic recess
 
+- 50cc: Visible in posterior costophrenic angle on lateral film
 
-    - CXR: lateral decubitus position (if effusion moves with gravity,
-        suggests free flowing)
+- 200cc: Visible on AP costophrenic angle on AP film
 
-    - Ultrasound: assess size, location, loculations
+- 500cc: Obliteration of hemidiaphragm
+  
+- If effusion moves with gravity, suggests free flowing
 
-    - CT Chest with contrast (not always indicated; helpful to eval
-        septations)
+- POCUS: assess size, location, loculations
 
-- Thoracentesis (see Procedures section):
+- CT with contrast: not always indicated; helpful to evaluate septations
 
-    - Will it change management?
+- Thoracentesis: see “Procedures section”
 
-    - Pleural LDH, protein, cell count/diff, culture (don’t forget to
-        order serum LDH & protein)
+## Interpretation of pleural studies
 
-    - Consider: pleural cytology, hematocrit, triglycerides, glucose,
-        amylase
+- Obtain pleural LDH, protein, cell count/diff, gram stain w/ culture, pH. Consider pleural
+cytology, hematocrit, triglyceride, glucose, and amylase. Need serum LDH and protein.
 
-    - If septated or empyema, consider pulm consult for chest tube
+- Lights criteria: 1 of the following to be considered an exudative effusion
+    - Pleural to serum protein ratio > 0.5
+    - Pleural to serum LDH ratio > 0.6
+    - Pleural LDH > 2/3 upper limit of normal range of serum LDH
 
-- Interpretation of pleural studies:
+- Transudative: CHF exacerbation, hepatic hydrothorax, atelectasis (caused by increased intrapleural negative pressure), hypoalbuminemia, renal failure
 
-    - Lights criteria: 1 of the following to be considered an exudative
-        effusion
+- Exudative: infections (bacterial, TB, fungal), malignant, rheumatologic, PE
 
-        - Pleural to serum protein ratio \> 0.5
+- Hemothorax: pleural hematocrit >50% of blood hematocrit
 
-        - Pleural to serum LDH ratio \> 0.6
+- Chylothorax: pleural TG >100mg/dl
 
-        - Pleural LDH \> 2/3 upper limit of normal range of serum LDH
-
-    - Transudative: CHF exacerbation, hepatic hydrothorax, atelectasis
-        (caused by increased intrapleural negative pressure),
-        hypoalbuminemia, renal failure
-
-    - Exudative: infections (bacterial, TB, fungal), malignant,
-        rheumatologic, PE
+- Concern for esophageal rupture: elevated salivary amylase
 
 - Other tips:
+    - Protein: >5 think TB or malignancy, < 0.5 think urine, CSF, peritoneal dialysate
+    - Glucose: < 60 think about malignancy, TB, or rheumatologic, less likely hemothorax or
+parapneumonic
+    - Cell count/diff: polys represent an acute process, monocytes represent a chronic process,
+lymphocytes think about TB or malignancy, eosinophils think about air/blood, TB,
+malignancy, asbestos, drugs
+    - Two separate processes may co-occur, and a transudate may mask an exudative effusion; if concerned for this and you have clinical stability, trial diuresis prior to thoracentesis
 
-    - Protein: \>5 think TB or malignancy, \< 0.5 think urine, CSF,
-        peritoneal dialysate
+## Management
+- Parapneumonic effusion: most common exudative process
+    - Uncomplicated: systemic antibiotic for pneumonia
+    - Complicated (positive culture or gram stain, OR loculated OR pH<7.20 OR glucose less than 60): needs chest tube + MIST2 protocol (intrapleural alteplase 10 mg BID in 30 mL of saline AND intrapleural DNase 5 mg BID in 30 mL of water for a total of 3 days)
 
-    - Glucose: \< 60 think about malignancy, TB, or rheumatologic,
-        less likely hemothorax or parapneumonic
+- Hepatic hydrothorax: Avoid chest tubes. Cirrhosis medical management ± TIPS. Spontaneous bacterial empyema might occur. Perform thoracentesis if suspected.
 
-    - Cell count/differential: polys represent an acute process,
-        monocytes represent a chronic process, lymphocytes think about
-        TB or malignancy, eosinophils think about air/blood, TB,
-        malignancy, asbestos, drugs
+- Tuberculosis effusions: Treat as active TB. Often resolves with treatment.
 
-- Two separate processes may co-occur, and a transudate may mask an
-    exudative effusion; if concerned for this and you have clinical
-    stability, trial diuresis prior to thoracentesis
+- Malignant pleural effusion: If cytology isolates malignant cells in pleural space, this often automatically classifies that malignancy as an advanced/metastatic stage. Tends to recur.
+    - If recurrent, either do 1) serial thoracentesis, 2) PleurX catheter (tunneled chest tube) or 3) chemical pleurodesis (obliteration of pleural space with talc or tetracycline)
