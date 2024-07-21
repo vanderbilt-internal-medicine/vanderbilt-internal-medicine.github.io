@@ -26,7 +26,7 @@ Christine Hamilton
     address: pain, fever, nausea, hypoxia, hemodynamic instability,
     tachycardia, and AMS.
 
- ## I-PASS   
+## I-PASS   
  - When giving verbal handoff for complicated patients, use the I-PASS
     technique:
 
