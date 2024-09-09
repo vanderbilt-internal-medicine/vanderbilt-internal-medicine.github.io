@@ -5,13 +5,13 @@ Margaret Wheless
 ---
 
 First establish acuity: bleed or consumptive process vs slow onset anemia
--	Check vitals for hypotension, tachycardia. 
--	Check Hgb trend from prior if available. 
--	Examine patient for pallor, rapid onset fatigue, AMS, feeble pulses and any signs of bleeding.
--	Consider risk factors such as recent procedure, blood thinner use, falls, new medications. 
--	STAT repeat CBC along with haptoglobin, LDH, HFP(bilirubin) to rule out hemolysis
--	If no sx/signs of acute bleeding, move onto general anemia eval below.
--	Note: CBC does not accurately reflect blood loss in acute rapid bleeding scenarios so do not be falsely reassured by normal hematocrit in GI bleeds/trauma patients.
+- Check vitals for hypotension, tachycardia.
+- Check Hgb trend from prior if available.
+- Examine patient for pallor, rapid onset fatigue, AMS, feeble pulses and any signs of bleeding.
+- Consider risk factors such as recent procedure, blood thinner use, falls, new medications.
+- STAT repeat CBC along with haptoglobin, LDH, HFP(bilirubin) to rule out hemolysis
+- If no sx/signs of acute bleeding, move onto general anemia eval below.
+- Note: CBC does not accurately reflect blood loss in acute rapid bleeding scenarios so do not be falsely reassured by normal hematocrit in GI bleeds/trauma patients.
 
 ## Presentation
 -	Symptoms: fatigue/malaise, dyspnea on exertion, angina (if history of CAD)
@@ -87,8 +87,11 @@ First establish acuity: bleed or consumptive process vs slow onset anemia
     -	Bone marrow failure or infiltration (typically will see pancytopenia)
     -	Vitamin C deficiency, copper deficiency 
 -	Bone marrow biopsy may be indicated if no identifiable cause or anemia is associated with other cytopenia’s
-Microcytic anemia: MCV <80 (mnemonic: SALTI)
--	Sideroblastic, Anemia of chronic disease, Lead poisoning, Thalassemia and Iron-deficiency
+
+### Microcytic anemia: MCV <80
+
+- mnemonic: SALTI
+- *S*ideroblastic, *A*nemia of chronic disease, *L*ead poisoning, *T*halassemia and *I*ron-deficiency
 
 <table border="1">
   <tr>
@@ -124,6 +127,7 @@ Microcytic anemia: MCV <80 (mnemonic: SALTI)
 </table>
 
 ### Macrocytic Anemia: MCV >100
+
 -	Non-megaloblastic
     -	ETOH, liver disease, hypothyroidism, MDS
     -	Medications that impair DNA synthesis: zidovudine, 5-FU, hydroxyurea, ara-C, AZT, MTX
