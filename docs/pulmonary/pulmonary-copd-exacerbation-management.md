@@ -95,7 +95,7 @@ Taylor Coston
     - For moderate to severe exacerbations
 
     - Azithromycin (500mg x 1 then 250mg daily x 4 or 500mg daily x 3) or
-        doxycycline 200 mg BID if concern for QT prolongation. Can consider
+        doxycycline 100 mg BID if concern for QT prolongation. Can consider
         respiratory fluroquinolone in certain high-risk patients but
         typically too broad
 
