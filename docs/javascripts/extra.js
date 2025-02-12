@@ -46,7 +46,7 @@ document$.subscribe(() => {
                         backgroundColor: "#f7f8ff",
                         textColor: "#303235",
                         showAvatar: true,
-                        avatarSrc: "https://raw.githubusercontent.com/zahidkhawaja/langchain-chat-nextjs/main/public/parroticon.png",
+                        avatarSrc: "https://vim-book.org/images/vumc-favicon.png",
                     },
                     userMessage: {
                         backgroundColor: "#3B81F6",
@@ -59,7 +59,7 @@ document$.subscribe(() => {
                         backgroundColor: '#ffffff',
                         textColor: '#303235',
                         sendButtonColor: '#3B81F6',
-                        maxChars: 50,
+                        maxChars: 1000,
                         maxCharsWarningMessage: 'You exceeded the characters limit. Please input less than 50 characters.',
                         autoFocus: true,
                         sendMessageSound: true,
