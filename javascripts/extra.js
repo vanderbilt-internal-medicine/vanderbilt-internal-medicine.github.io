@@ -6,7 +6,7 @@ document$.subscribe(() => {
         import Chatbot from "https://cdn.jsdelivr.net/npm/flowise-embed/dist/web.js"
         Chatbot.init({
             chatflowid: "1887fe55-12c2-448b-8a3e-4a0a57a7841f",
-            apiHost: "https://flowise.vlr.chat",
+            apiHost: "https://flowise-public.vlr.chat",
             chatflowConfig: {
                 // topK: 2
             },
