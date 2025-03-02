@@ -1,6 +1,6 @@
 # Inpatient Insomnia 
 
-Julian Raffoul, Jose Alberto Arriola Vigo
+Ben Johnson, reviewed by Jonathan Smith and Daniel Daunis
 
 ---
 
@@ -12,49 +12,59 @@ Julian Raffoul, Jose Alberto Arriola Vigo
     behavior, anxiety, pain perception, respiratory function,
     inflammation, and metabolism
 
-- Goals while inpatient: optimize sleep environment, minimize
-    stimulating or sleep-related side effects of concomitant
-    medications, utilize non-pharmacologic strategies
-
 ## Management
 
-- Non-pharmacologic interventions:
+- Non-pharmacologic interventions (when medically appropriate):
 
-    - Noise reduction: (ear protection, white noise, etc.)
+    - Minimize: 
+
+        - Potential for overnight alarms (telemetry etc.)
+
+        - Overnight vital signs
+
+        - Overnight and early morning lab draws
+
+        - Overnight IV fluids and late-night diuretics
+
+    - Discourage daytime naps
+
+    - Administer nighttime medications earlier in the evening
+
+    - Turn off or mute the television
+
+    - Close room doors
+
+    - Encourage care team to be as quite as possible overnight
 
     - Keeps lights on during the day and off at night
 
-    - Reducing nighttime interruptions: Retime VS checks and lab draws
-
-    - Minimize devices (ex: telemetry) and lines as able
+    - Ensure patient has CPAP available if used at home
 
 - Pharmacotherapy:
 
-    - Minimize medications such as sedatives/hypnotics, opioids,
-        glucocorticoids, beta blockers, and certain antibiotics that disturb
-        sleep architecture
+   - Background
 
-    - Melatonin: 1-5 mg PO qhs
+        - The best first step is to minimize medications such as sedative-hypnotics, opioids, glucocorticoids, beta blockers, and certain antibiotics that disturb sleep architecture
 
-        - First-line choice based on mild side-effect profile, low
-            potential for drug-drug interactions, and improves circadian
-            rhythms; Dose 2-3hrs before bedtime
+    - Medications
 
-    - Trazodone: 25-50 mg PO qhs (max 200 mg/day)
+        - Melatonin: 1-5 mg PO qhs
 
-        - Side effects: headache, dry mouth, and nausea
+            - First-line choice based on mild side-effect profile, low potential for drug-drug interactions, and improves circadian rhythms; Dose 2-3hrs before bedtime
 
-        - Monitor for orthostasis and infrequent atrial arrhythmias; use
-            lowest effective dose
+        - Trazodone: 25-50 mg PO qhs (max 200 mg/day)
 
-    - Mirtazapine: 7.5-15 mg PO qHS
+            - Side effects: headache, dry mouth, and nausea
 
-        - A primary alpha-2 antagonist with 5-HT2 and H1 antagonism
+            - Monitor for orthostasis and infrequent atrial arrhythmias; use lowest effective dose
 
-        - Consider when insomnia appears to be related to primary
-            depression
+        - Mirtazapine: 7.5-15 mg PO qHS
 
-        - Can increase appetite and cause weight gain
+            - A primary alpha-2 antagonist with 5-HT2 and H1 antagonism
+
+            - Consider when insomnia appears to be related to primary depression
+
+            - Can increase appetite and cause weight gain
 
 ## Additional Information
 
