@@ -1,58 +1,58 @@
 # Medical Decision-Making Capacity
 
-Chelsea Sprick, Neil Phillips, Jonathan Smith
+Laura Artim, reviewed by Jonathan Smith and Daniel Daunis
 
 ---
 
 ## Background
 
-- Capacity is a patient’s ability to make a specific medical decision
-    at a specific point in time and can be assessed by any physician
+- Capacity is a patient’s ability to make a specific medical decision at a specific point in time and can be assessed by any physician
 
-- Competency: “global decision-making capacity,” a legal determination
-    made by a judge
+- Capacity is fluid and may change with the patient’s mental status and or medical state. A person may have capacity to make one decision and not another
 
-## Four key components to assess medical decision-making capacity
+- Competency: “global decision-making capacity” or ability to make financial decisions, etc are legal determinations made by a judge
 
-1.  Choice: patient must clearly indicate a consistent choice
 
-- “Have you decided whether to follow the recommendation for the
-    treatment?”
+## Evaluation
 
-- “Can you tell me what your decision is?”
+- Four key components
 
-2.  Understand: Patient must grasp the fundamental meaning of the information communicated by the medical team
+    - Consistent choice: patient must clearly indicate a consistent choice
 
-- “Please tell me in your own words what you were told about:
+        - “Have you decided whether to follow the recommendation for the treatment?”
 
-    - The problem with (1) your health now and (2) the recommended treatment
+        - “Can you tell me what your decision is?”
 
-    - The risks/benefits of (3) treatment, (4) alternative treatments and (5) no treatment”
+    - Understand: Patient must grasp the fundamental meaning of the information communicated by the medical team
 
-3.  Appreciate: the medical condition and likely consequences of treatment options
+        - “Please tell me in your own words what you were told about:
 
-- “What do you believe is wrong with your health now?”
+        - The problem with (1) your health now and (2) the recommended treatment
 
-- “What is treatment likely to do for you?”
+        - The risks/benefits of (3) treatment, (4) alternative treatments and (5) no treatment”
 
-- “What do you believe will happen if you’re not treated”
+    - Appreciate: patient must appreciate the medical condition and likely consequences of treatment options
 
-- “Why do you think this treatment was recommended?”
+        - “What is treatment likely to do for you?”
 
-4.  Reason: patient must rationally manipulate relevant information
+        - “What do you believe will happen if you’re not treated”
 
-- “What makes the chosen option better than the alternative?”
+        - “Why do you think this treatment was recommended?”
 
-- “How did you decide to accept or reject the recommended treatment?”
+    - Manipulate: patient must rationally manipulate relevant information
 
-If the patient does not have medical decision-making capacity:
+        - “What makes the chosen option better than the alternative?”
 
-- Identify and remedy cause of impairment if possible (if decision is
-    non-urgent)
+        - “How did you decide to accept or reject the recommended treatment?”
 
-- Identify surrogate decision maker
+##Management
 
-## Documenting medical decision-making capacity:
+- If the patient does not have medical decision-making capacity:
 
-- Use a dot phrase .Capacity that lists the four components and
-    document your thought process citing evidence from your interview
+    - Identify and remedy cause of impairment if possible (if decision is non-urgent)
+
+    - Identify surrogate decision maker
+
+- Documenting medical decision-making capacity:
+
+    - Use a dot phrase .Capacity that lists the four components and document your thought process citing evidence from your interview
