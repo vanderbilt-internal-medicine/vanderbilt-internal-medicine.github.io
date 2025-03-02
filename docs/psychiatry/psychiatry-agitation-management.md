@@ -1,14 +1,17 @@
 # Agitation Management
 
-Jonathan Constant, Jonathan Smith
+Ben Johnson, Reviewed by Jonathan Smith and Daniel Daunis
 
 ---
 
 ## Background
 
-- Agitation in the hospital result from discomfort, illness,
-    medication effects or frustrations the patient is unable to
-    meaningfully communicate
+- Agitation in the hospital results from discomfort, illness, medication effects or frustrations the patient is unable to meaningfully communicate.
+  
+- Aggression is a specific form of agitation in which the person is threatening or attempting to harm another person or physical objects.
+
+- Agitation is a broader term which may also include irritability, anxiety, pacing, yelling, sexually inappropriate behavior, pulling at restraints or medical devices, among others.
+
 
 ## Presentation
 
@@ -27,18 +30,20 @@ Jonathan Constant, Jonathan Smith
 
     - Psychoses: mania, depression, schizophrenia, delusional disorder
 
-    - Personality disorder: antisocial, borderline, paranoid, narcissistic
+    - Personality disorder: antisocial, borderline, paranoid, narcissistic, attempts to manipulate staff or situation 
 
-    - Substance use disorder: alcohol, PCP, stimulants, cocaine,
+    - Substance use disorder: both intoxication and withdrawal states from alcohol, PCP, stimulants, cocaine,
         synthetics
 
-    - Delirium, dementia
+    - Delirium
+    
+    - Dementia
 
     - Frontal lobe syndromes (TBI, CVA, neoplasm, neurodegenerative
         process)
 
     - Behavior/Developmental: Intermittent explosive, intellectual
-        disability
+        disability including autism spectrum disorder
 
 ## Evaluation
 
@@ -50,11 +55,24 @@ Jonathan Constant, Jonathan Smith
 
 - Review medication list and perform med reconciliation of home meds
 
+    - Recent medication changes including recently started medications and home medications that have been held or recently discontinued
+
 - UDS + review of CSMD for evaluation of intoxication/withdrawal
+
+    - Keep in mind limitations of sensitivity and specificity of immunoassay trained against specific epitopes
+      
+        - Opiate antibodies commonly have codeine and morphine as their target analytes and will not detect fentanyl and many other synthetic or semisynthetic opioids that are structurally distinct from morphine
+
+        - Benzodiazepines antibodies commonly have oxazepam (diazepam and chlordiazepoxide metabolite) as a target analyte with poor cross sensitivity to lorazepam and clonazepam
+
+        - Amphetamines broadly includes commonly prescribed stimulants used to treat ADHD as well as methamphetamine
+
 
 - CBC, CMP, UA
 
 - CT head + EEG if focal neurologic deficits
+
+    - For evaluation of AMS, typically order only non-contrasted CTH, may follow up with contrasted MRI
 
 ## Management
 
@@ -70,11 +88,16 @@ Jonathan Constant, Jonathan Smith
     - Disposable trays and utensils (minimize potential weapons in the
         room)
 
-- De-escalation: Always first line, although impractical if pt is
-    unable to communicate effectively, is explosive or already engaging
-    in violent/potentially harmful behavior
+- Medication reconciliation
+
+    - Reduce or eliminate total anticholinergic load and other deliriogenic medications (see delirium)
+
+
+- De-escalation: Always first line and best if attempted early when patient is anxious or irritable, although impractical if patient is unable to communicate effectively, is explosive or already engaging in violent/potentially harmful behavior
 
     - Nonverbal:
+
+        - Keep yourself between the patient and the door to allow exit if needed
 
         - Maintain safe distance, avoid sudden movements, don't touch the
             pt
@@ -88,21 +111,19 @@ Jonathan Constant, Jonathan Smith
             solve problem if possible
 
         - Do not insist on having the last word
+     
+        - See MI section on “OARS” for strategies
 
-- Tactics
+        - Redirection: Acknowledge patient's frustrations (“OARS” as above); shift focus on how to solve the problem
 
-    - Redirection: Acknowledge pt's frustrations; shift focus on how to
-        solve the problem
-
-    - Aligning goals: Emphasize common ground and big picture; make small
-        concessions
+        - Aligning goals: Emphasize common ground and big picture; make small concessions; what can you and the patient agree on?
 
 - Restraints
 
     - Should be used only when necessary to protect patient or others from
         harm
 
-        - Mechanically restrained patients cannot be left unmonitored
+        - Mechanically restrained patients cannot be left unmonitored and must have a virtual or in person sitter ordered
 
     - De-escalate (4 point to 2 point, etc) and remove restraints as soon
         as possible
@@ -124,7 +145,7 @@ Jonathan Constant, Jonathan Smith
 
         - Mittens
 
-        - Posey Vest – prevents exiting bed, allows limbs to be free
+        - Posey Vest – prevents exiting bed, allows limbs to be free, can be attached to bedside recliners
 
         - Posey Bed – wandering patient (TBI, severe dementia)
 
@@ -135,7 +156,7 @@ Jonathan Constant, Jonathan Smith
             - Most pts needing restraint: non-psychiatric, delirium,
                 dementia, intubation
 
-        - Restraint violent self- destructive adult
+        - Violent self-destructive adult
 
             - Order lasts up to 24hr with assessment every 4 hours
 
@@ -143,10 +164,7 @@ Jonathan Constant, Jonathan Smith
 
 # Pharmacological Management for Agitation
 
-As discussed above, behavioral interventions are first line for
-agitation management in the hospital. Pharmacologic treatment should
-only be used when needed for patient and/or staff safety when
-non-pharmacologic interventions are unsuccessful or impractical
+As discussed above, behavioral interventions are first line for agitation management in the hospital. Pharmacologic treatment should only be used when needed for patient and/or staff safety when non-pharmacologic interventions are unsuccessful or impractical. Not all forms of agitation can be treated pharmacologically, but all forms of aggression toward staff need to be addressed immediately.
 
 ## Acute Agitation
 
@@ -157,6 +175,18 @@ non-pharmacologic interventions are unsuccessful or impractical
 
     - Monitor EKG if repeated dosing or if used with other QT prolonging
         agents
+
+        - Use QTcF and not QTcB
+	
+            - Estimated QTc on standard EKGs is commonly QTcB (QT/RR1/2) and is artificially increased in the setting of tachycardia and overestimates the number of patients with a potentially dangerous QTc prolongation
+	
+            - Bradycardia is a significant risk factor for TdP
+	
+            - Tachycardia is somewhat protective from TdP 
+
+        - Both QTcFra (QT/RR1/3) and QTcFri (QT+0.154[1-RR]) provide the most accurate rate correction and improve risk stratification
+
+        - These can be calculated using common medical calculation apps
 
     - Moderate agitation options:
 
@@ -175,6 +205,8 @@ non-pharmacologic interventions are unsuccessful or impractical
         - Titrate up to 5 mg and can increase frequency as warranted
 
         - When using IV Haldol obtain daily EKG, Mg and K levels
+     
+        - When using IV haloperidol obtain daily EKG, Mg and K levels should be kept above 2 and 4, respectively
 
         - Stop IV Haldol if QTc \> 500 msec
 
@@ -214,15 +246,15 @@ non-pharmacologic interventions are unsuccessful or impractical
 
 - Antiepileptic agents
 
-- May be effective in reduction of impulsive aggression
+    - May be effective in reduction of impulsive aggression
 
-- Most commonly used: Depakote
+    - Most commonly used: Depakote
 
-    - Levetiracetam could worsen aggression/agitation
+        - Levetiracetam could worsen aggression/agitation
 
 - Beta Blockers and Alpha Agonists
 
-    - Noradrenergic over-activity implicated in aggression expression
+    - Noradrenergic over-activity implicated in aggression expression (think adrenaline spike + confusion)
 
     - Commonly Used: Propranolol, Clonidine, Guanfacine
 
