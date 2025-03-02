@@ -1,35 +1,32 @@
 # Delirium 
 
-Julian Raffoul, reviewed by Wesley Ely and Jo Ellen Wilson
+Ben Johnson, reviewed by Jonathan Smith and Daniel Daunis
 
 ---
 
 ## Background
 
-- Definition: acute fluctuating disturbance of attention and awareness
-    due to an underlying medical condition
+- Definition: acute (hours to days) fluctuating disturbance of attention and awareness due to an underlying medical condition
 
-- Presentation: deficits in attention, orientation, or memory;
-    hallucinations or delusions; sleep-wake disturbances; psychomotor
-    changes (hyperactive, hypoactive, or mixed); language impairment;
-    and/or emotional lability (agitation)
+- Complex and multifactorial condition, often due to underlying condition, with unknown pathophysiological mechanisms
+  
+- Increased morbidity, mortality, and functional decline
 
-     - Think about the ABC’s of Delirium
+- Presentation: deficits in attention, orientation, or memory; hallucinations or delusions; sleep-wake disturbances; psychomotor changes (hyperactive, hypoactive, or mixed); language impairment; anxious or depressed mood, and/or emotional lability (agitation)
 
-          - Affect (anxiety, paranoia, irritability, apathy, mood shifts,
-              personality changes)
+    - Think about the ABC’s of Delirium
 
-          - Behavior (hallucinations, restlessness or agitation, psychomotor
-              abnormalities, sleep disturbances)
+        - Affect (anxiety, paranoia, irritability, apathy, mood shifts, personality changes)
 
-          - Cognition (impaired memory, disorientation, disturbances in
-              speech)
+        - Behavior (hallucinations, restlessness or agitation, psychomotor abnormalities, sleep disturbances)
+
+        - Cognition (impaired memory, disorientation, disturbances in speech)
+
+- Delirium can persist despite identification and reversal of underlying causes, particularly in older patients or those with baseline cognitive deficits.
 
 ## Evaluation
 
-- Use screening tools to assess for delirium: Brief Confusion
-    Assessment Method (bCAM). See critical care section for the ICU
-    version, CAM-ICU
+- Use screening tools to assess for delirium: Brief Confusion Assessment Method (bCAM). See critical care section for the ICU version, CAM-ICU
 
    ![approach to delirium](../images/image28.png)
 
@@ -58,36 +55,94 @@ Julian Raffoul, reviewed by Wesley Ely and Jo Ellen Wilson
         - M- Metabolic, endocrine (Hypo or hyper Na, hyperCa, uremia,
             thyroid, hypoglycemia)
 
-    - See neurology chapter for approach and work-up to AMS in general
+- Workup
+  
+    - History
+
+        - Review current medications including those recently started or discontinued, as well as drug interactions
+
+        - Review alcohol, sedative, substance use
+
+        - Assess for pain and discomfort
+
+    - Vital signs
+
+        - Temperature, O2 sat, POC glucose, and orthostatic vitals
+
+    - Physical exam
+
+        - Assess for infection (SSTI, UTI, pneumonia, meningitis), abdominal pain, and sensory impairments, FND 
+
+    - Labs
+
+        - CMP 
+
+            - Renal and hepatic function for changes in metabolism/elimination of medications
+
+            - Glucose
+             
+        - Ammonia
+
+        - Serum medication levels
+
+        - Magnesium 
+
+        - TSH and free thyroxine 
+
+        - Infection – U/A, CXR, blood, urine, and sputum cultures 
+
+        - CBC
+
+        - B12, folate, vit D
+
+    - Imaging
+
+        - CTH – non-contrast unless unable to get MRI (stroke, large structural changes)
+
+        - MRIb with contrast (stroke, infection, inflammation, more subtle structural changes)
+
+    - Medications - review anticholinergics, sedatives, opioids 
+
+        - Are changes needed to address pain control, constipation, insomnia, nausea, etc?
+
+        - Substance use – evaluate for EtOH or BZD withdrawal state
+
+            - Empirically load on thiamine (500mg IV tid x9 doses)
+
+    - EEG – evaluate for seizures, confirm presence of encephalopathic changes 
+
+    - LP – if concerned for CNS infection, inflammatory condition 
 
 ## Management
 
 - Treat underlying cause as above
 
-- See critical care section for prevention in the ICU (ABCDEF bundle)
+- Cognitive impairment or dieorientation
 
-- Cognitive impairment or disorientation: provide clock, calendar, and
-    appropriate lighting. Regular reorientation. Provide cues from a
-    familiar environment (pictures, calls or visits from family members)
+    - Provide clock, calendar, and appropriate lighting
 
-- Encourage mobilization
+- Regular reorientation
 
-- Review medications, eliminate sedatives and anticholinergics as able
-    (review agents on Beers Criteria medication list)
+    - Provide cues from a familiar environment (pictures, calls or visits from family members)
 
-- Remove medical support devices as able (foley catheters, telemetry)
+- Ensure hearing aids, glasses, and dentures are available
 
-- Maintain normal sleep-wake cycle. Keep lights on in the day and
-    avoid excessive naps
+- Maintain normal sleep-wake cycle
+
+    - Keep lights on in the day and avoid excessive naps
+
+- Early PT, OT interventions, mobilization, move to bedside chair when able
+
+- Remove medical support devices as able (foley catheters, restraints, telemetry)
 
 - Ensure adequate bowel regimen and hydration
 
 - Assess for pain and treat appropriately
 
-- Ensure hearing aids, glasses, and dentures are available
+- Medication reconciliation to reduce or eliminate total anticholinergic load, and to reduce or eliminate other deliriogenic medications as able
 
-- Note on pharmacologic management: There is no pharmacologic
-    intervention known to prevent or treat of delirium. Reserve for
-    agitation impairing patient safety when non-pharmacologic
-    interventions alone are unsuccessful. See agitation section for
-    medication approach
+    - See Beers criteria
+
+- See critical care section for prevention in the ICU (ABCDEF bundle)
+
+- Note on pharmacologic management: There is no pharmacologic intervention known to prevent or treat delirium. Medications for agitation only treat certain behavioral symptoms of delirium, are typically ineffective/harmful for hypoactive delirium, and do not modify the underlying pathological process. Reserve medications for agitation impairing patient safety when non-pharmacologic interventions alone are unsuccessful. See agitation section for medication approach
