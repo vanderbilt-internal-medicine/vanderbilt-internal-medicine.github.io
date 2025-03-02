@@ -1,6 +1,6 @@
-# Medical Holds 
+# Medical and Psychiatric Holds 
 
-Soibhan Kelley, MD
+Laura Artim, reviewed by Jonathan Smith and Daniel Daunis
 
 ---
 
@@ -22,15 +22,9 @@ Soibhan Kelley, MD
     - "6404": 6404= Certificate of Need. Legal document used for emergency
         involuntary psychiatric admission
 
-        - Pt must have mental illness or serious emotional disturbance
-            (excluding intellectual/developmental disabilities) and pose an
-            immediate substantial likelihood of serious harm because of this
-            based on a face-to face assessment by a qualified psychiatric
-            professional
+        - Pt must have mental illness or serious emotional disturbance (excluding intellectual/developmental disabilities) and pose an immediate substantial likelihood of serious harm because of this based on a face-to face assessment by a qualified psychiatric professional
 
-            - Treatment must be necessary for symptom reduction and lack
-                of treatment would lead to deterioration, with no less
-                drastic alternative to inpatient hospitalization
+         - Treatment must be necessary for symptom reduction and lack of treatment would lead to deterioration, with no less drastic alternative to inpatient hospitalization
 
         - Two certificates needed: the first to transport a patient to a
             psychiatric facility and the second for an involuntary admission
@@ -42,7 +36,7 @@ Soibhan Kelley, MD
 
 - No AMA Medical Hold: used when a patient does not have capacity to
     leave the hospital against medical advice *due to a medical
-    condition* and needs to remain in the hospital
+    condition* and needs to remain in the hospital. A 6401, nor 6404 should be completed.
 
     - Can be ordered by any physician Medical Hold Order Set
 
