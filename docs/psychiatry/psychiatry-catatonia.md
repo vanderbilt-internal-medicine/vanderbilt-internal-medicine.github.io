@@ -4,7 +4,7 @@ Ben Johnson, Laura Artim, reviewed by Jonathan Smith and Daniel Daunis
 
 --
 
-##Background
+# Background
 
 - Catatonia is a psychomotor syndrome and is associated with both psychiatric and medical conditions
 
@@ -26,7 +26,7 @@ Ben Johnson, Laura Artim, reviewed by Jonathan Smith and Daniel Daunis
 
       - Estimates range from 10-30%
         
-##Evaluation
+# Evaluation
 
 - Presentations are often varied, so early psychiatric intervention is important given possibility of autonomic instability that can be fatal
 
@@ -42,7 +42,7 @@ Ben Johnson, Laura Artim, reviewed by Jonathan Smith and Daniel Daunis
 
       - Abnormal psychomotor activity can be seen in both hypoactive and excited catatonia and can include posturing, grimacing, waxy flexibility, echolalia or echopraxia, stereotypy, verbigeration, and automatic obedience
 
-##Treatment
+# Treatment
 
 - Early psychiatry consultation is important due to thorough evaluation of catatonia involving response to treatment (diagnostic and therapeutic)
 
