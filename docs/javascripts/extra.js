@@ -12,13 +12,13 @@ document$.subscribe(() => {
             },
             theme: {
                 button: {
-                    backgroundColor: "#3B81F6",
+                    backgroundColor: "#000000",
                     right: 20,
                     bottom: 20,
                     size: 48,
                     dragAndDrop: true,
                     iconColor: "white",
-                    customIconSrc: "https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/google-messages.svg",
+                    customIconSrc: "https://vim-book.org/images/vlrchat-brain.png",
                     autoWindowOpen: {
                         autoOpen: true,
                         autoOpenOnMobile: false,
@@ -34,7 +34,7 @@ document$.subscribe(() => {
                 chatWindow: {
                     showTitle: true,
                     title: 'VLRChat',
-                    titleAvatarSrc: 'https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/google-messages.svg',
+                    titleAvatarSrc: 'https://vim-book.org/images/vlrchat-brain.png',
                     showAgentMessages: true,
                     backgroundColor: "#ffffff",
                     height: 700,
@@ -46,7 +46,7 @@ document$.subscribe(() => {
                         backgroundColor: "#f7f8ff",
                         textColor: "#303235",
                         showAvatar: true,
-                        avatarSrc: "https://vim-book.org/images/vumc-favicon.png",
+                        avatarSrc: "https://vim-book.org/images/vlrchat-brain.png",
                     },
                     userMessage: {
                         backgroundColor: "#3B81F6",
@@ -62,8 +62,8 @@ document$.subscribe(() => {
                         maxChars: 1000,
                         maxCharsWarningMessage: 'You exceeded the characters limit. Please input less than 50 characters.',
                         autoFocus: true,
-                        sendMessageSound: true,
-                        receiveMessageSound: true,
+                        sendMessageSound: false,
+                        receiveMessageSound: false,
                     },
                     feedback: {
                         color: '#303235',
