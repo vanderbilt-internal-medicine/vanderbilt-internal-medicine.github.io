@@ -27,9 +27,9 @@ document$.subscribe(() => {
                 tooltip: {
                     showTooltip: true,
                     tooltipMessage: 'Ask a Clinical Question!',
-                    tooltipBackgroundColor: 'gold',
+                    tooltipBackgroundColor: 'black',
                     tooltipTextColor: 'white',
-                    tooltipFontSize: 24,
+                    tooltipFontSize: 32,
                 },
                 chatWindow: {
                     showTitle: true,
@@ -58,7 +58,7 @@ document$.subscribe(() => {
                         placeholder: 'Type your question',
                         backgroundColor: '#ffffff',
                         textColor: '#303235',
-                        sendButtonColor: '#3B81F6',
+                        sendButtonColor: '#FFD700',
                         maxChars: 1000,
                         maxCharsWarningMessage: 'You exceeded the characters limit. Please input less than 50 characters.',
                         autoFocus: true,
