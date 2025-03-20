@@ -12,10 +12,10 @@ document$.subscribe(() => {
             },
             theme: {
                 button: {
-                    backgroundColor: "#000000",
+                    backgroundColor: "#FFD700",
                     right: 20,
                     bottom: 20,
-                    size: 48,
+                    size: 60,
                     dragAndDrop: true,
                     iconColor: "white",
                     customIconSrc: "https://vim-book.org/images/vlrchat-brain.png",
@@ -26,10 +26,10 @@ document$.subscribe(() => {
                 },
                 tooltip: {
                     showTooltip: true,
-                    tooltipMessage: 'Ask a Clinical Question!!',
-                    tooltipBackgroundColor: 'black',
+                    tooltipMessage: 'Ask a Clinical Question!',
+                    tooltipBackgroundColor: 'gold',
                     tooltipTextColor: 'white',
-                    tooltipFontSize: 16,
+                    tooltipFontSize: 24,
                 },
                 chatWindow: {
                     showTitle: true,
@@ -37,11 +37,11 @@ document$.subscribe(() => {
                     titleAvatarSrc: 'https://vim-book.org/images/vlrchat-brain.png',
                     showAgentMessages: true,
                     backgroundColor: "#ffffff",
-                    height: 700,
-                    width: 400,
+                    height: 900,
+                    width: 600,
                     fontSize: 16,
                     starterPromptFontSize: 15,
-                    clearChatOnReload: false,
+                    clearChatOnReload: true,
                     botMessage: {
                         backgroundColor: "#f7f8ff",
                         textColor: "#303235",
