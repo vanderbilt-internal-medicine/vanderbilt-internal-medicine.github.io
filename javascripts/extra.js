@@ -26,7 +26,7 @@ document$.subscribe(() => {
                 },
                 tooltip: {
                     showTooltip: true,
-                    tooltipMessage: 'Hi There 👋!',
+                    tooltipMessage: 'Ask a Clinical Question!!',
                     tooltipBackgroundColor: 'black',
                     tooltipTextColor: 'white',
                     tooltipFontSize: 16,
