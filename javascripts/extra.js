@@ -37,7 +37,7 @@ document$.subscribe(() => {
                     titleAvatarSrc: 'https://vim-book.org/images/vlrchat-brain.png',
                     showAgentMessages: true,
                     backgroundColor: "#ffffff",
-                    height: 800,
+                    height: 600,
                     width: 800,
                     fontSize: 16,
                     starterPromptFontSize: 15,
