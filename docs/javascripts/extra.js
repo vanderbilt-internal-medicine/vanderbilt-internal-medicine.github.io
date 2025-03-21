@@ -13,9 +13,9 @@ document$.subscribe(() => {
             theme: {
                 button: {
                     backgroundColor: "#FFD700",
-                    right: 30,
-                    bottom: 10,
-                    size: 60,
+                    right: 20,
+                    bottom: 7.5,
+                    size: 50,
                     dragAndDrop: true,
                     iconColor: "white",
                     customIconSrc: "https://vim-book.org/images/vlrchat-brain.png",
@@ -37,7 +37,7 @@ document$.subscribe(() => {
                     titleAvatarSrc: 'https://vim-book.org/images/vlrchat-brain.png',
                     showAgentMessages: true,
                     backgroundColor: "#ffffff",
-                    height: 1200,
+                    height: 1000,
                     width: 800,
                     fontSize: 16,
                     starterPromptFontSize: 15,
