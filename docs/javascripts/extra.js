@@ -5,19 +5,19 @@ document$.subscribe(() => {
     script.innerHTML = `
         import Chatbot from "https://cdn.jsdelivr.net/npm/flowise-embed/dist/web.js"
 
-        // Generate or get a user ID
-        const getUserId = () => {
-            // Check if userId exists in localStorage
-            let userId = localStorage.getItem('flowiseUserId');
+        // // Generate or get a user ID
+        // const getUserId = () => {
+        //     // Check if userId exists in localStorage
+        //     let userId = localStorage.getItem('flowiseUserId');
             
-            // If not, create a new one and store it
-            if (!userId) {
-                userId = 'user_' + Math.random().toString(36).substring(2, 15);
-                localStorage.setItem('flowiseUserId', userId);
-            }
+        //     // If not, create a new one and store it
+        //     if (!userId) {
+        //         userId = 'user_' + Math.random().toString(36).substring(2, 15);
+        //         localStorage.setItem('flowiseUserId', userId);
+        //     }
             
-            return userId;
-        };
+        //     return userId;
+        // };
         Chatbot.init({
             chatflowid: "1887fe55-12c2-448b-8a3e-4a0a57a7841f",
             apiHost: "https://flowise-public.vlr.chat",
@@ -25,16 +25,16 @@ document$.subscribe(() => {
                 // topK: 2
                 // userId: getUserId(), // Add the userId here
                 // // For Langfuse tracking
-                metadata: {
-                    userId: getUserId()
-                }
+                // metadata: {
+                //     userId: getUserId()
+                // }
             },
-            overrideConfig: {
-                userId: getUserId(),
-                "langFuse: {
-                    userId: getUserId()
-                }
-            },
+            // overrideConfig: {
+            //     userId: getUserId(),
+            //     "langFuse: {
+            //         userId: getUserId()
+            //     }
+            // },
             theme: {
                 button: {
                     backgroundColor: "#FFD700",
