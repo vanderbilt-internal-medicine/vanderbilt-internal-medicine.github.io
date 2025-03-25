@@ -37,8 +37,16 @@ document$.subscribe(() => {
                     titleAvatarSrc: 'https://vim-book.org/images/vlrchat-brain.png',
                     showAgentMessages: true,
                     backgroundColor: "#ffffff",
-                    height: 600,
-                    width: 800,
+                    // Set fullscreen to true for full screen display
+                    fullScreen: true,
+                    starterPrompts: [
+                        "How do I treat hypertension?",
+                        "Help me understand diabetes management!",
+                        "Explain treatment options for catatonia."
+                    ],
+                    starterPromptFontSize: 15,
+                    // height: 600,
+                    // width: 800,
                     fontSize: 16,
                     starterPromptFontSize: 15,
                     clearChatOnReload: true,
@@ -68,10 +76,16 @@ document$.subscribe(() => {
                     feedback: {
                         color: '#303235',
                     },
+                    // Add info button with hover text
+                    infoButton: {
+                        show: true,
+                        text: "VLRChat only provides  guidance based on the VIM Handbook!",
+                        backgroundColor: "#FFD700",
+                        iconColor: "white"
+                    },
                     footer: {
                         textColor: '#303235',
-                        fontSize: 16,
-                        text: 'All Information from VLRChat is directly from the VIM Handbook!',
+                        text: '',
                         company: '',
                         companyLink: '',
                     }
