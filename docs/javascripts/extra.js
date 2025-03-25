@@ -38,6 +38,18 @@ document$.subscribe(() => {
                     backgroundColor: "#FFD700",
                     iconColor: "white"
                 },
+                disclaimer: {
+                    title: 'Disclaimer',
+                    message: 'This chatbot will only provide information from the VIM Handbook',
+                    textColor: 'black',
+                    buttonColor: '#3b82f6',
+                    buttonText: 'Start Chatting',
+                    buttonTextColor: 'white',
+                    blurredBackgroundColor: 'rgba(0, 0, 0, 0.4)', //The color of the blurred background that overlays the chat interface
+                    backgroundColor: 'white',
+                    denyButtonText: 'Cancel',
+                    denyButtonBgColor: '#ef4444',
+                },
                 chatWindow: {
                     showTitle: true,
                     title: 'VLRChat',
