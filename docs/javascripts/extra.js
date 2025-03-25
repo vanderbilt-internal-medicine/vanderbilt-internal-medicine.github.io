@@ -39,6 +39,7 @@ document$.subscribe(() => {
                     backgroundColor: "#ffffff",
                     // Set fullscreen to true for full screen display
                     fullScreen: true,
+                    welcomeMessage: 'Hello! Please ask a clinical question. I will only use information from the VIMBook to answer!',
                     starterPrompts: [
                         "How do I treat hypertension?",
                         "Help me understand diabetes management!",
