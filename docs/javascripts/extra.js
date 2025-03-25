@@ -70,6 +70,7 @@ document$.subscribe(() => {
                     },
                     footer: {
                         textColor: '#303235',
+                        fontSize: 16,
                         text: 'All Information from the ChatBot is directly from the VIM Handbook!',
                         company: '',
                         companyLink: '',
