@@ -20,7 +20,7 @@ document$.subscribe(() => {
                     iconColor: "white",
                     customIconSrc: "https://vim-book.org/images/vlrchat-brain.png",
                     autoWindowOpen: {
-                        autoOpen: true,
+                        autoOpen: false,
                         autoOpenOnMobile: false,
                     },
                 },
