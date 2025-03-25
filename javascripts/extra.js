@@ -31,6 +31,13 @@ document$.subscribe(() => {
                     tooltipTextColor: 'white',
                     tooltipFontSize: 32,
                 },
+                // Moved infoButton to top level of theme object
+                infoButton: {
+                    show: true,
+                    text: "VLRChat only provides guidance based on the VIM Handbook!",
+                    backgroundColor: "#FFD700",
+                    iconColor: "white"
+                },
                 chatWindow: {
                     showTitle: true,
                     title: 'VLRChat',
@@ -76,13 +83,6 @@ document$.subscribe(() => {
                     },
                     feedback: {
                         color: '#303235',
-                    },
-                    // Add info button with hover text
-                    infoButton: {
-                        show: true,
-                        text: "VLRChat only provides  guidance based on the VIM Handbook!",
-                        backgroundColor: "#FFD700",
-                        iconColor: "white"
                     },
                     footer: {
                         textColor: '#303235',
