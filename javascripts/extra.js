@@ -4,6 +4,20 @@ document$.subscribe(() => {
     script.type = 'module';
     script.innerHTML = `
         import Chatbot from "https://cdn.jsdelivr.net/npm/flowise-embed/dist/web.js"
+
+        // Generate or get a user ID
+        const getUserId = () => {
+            // Check if userId exists in localStorage
+            let userId = localStorage.getItem('flowiseUserId');
+            
+            // If not, create a new one and store it
+            if (!userId) {
+                userId = 'user_' + Math.random().toString(36).substring(2, 15);
+                localStorage.setItem('flowiseUserId', userId);
+            }
+            
+            return userId;
+        };
         Chatbot.init({
             chatflowid: "1887fe55-12c2-448b-8a3e-4a0a57a7841f",
             apiHost: "https://flowise-public.vlr.chat",
