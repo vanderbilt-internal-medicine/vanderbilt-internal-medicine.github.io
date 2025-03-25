@@ -25,9 +25,9 @@ document$.subscribe(() => {
                 // topK: 2
                 // userId: getUserId(), // Add the userId here
                 // // For Langfuse tracking
-                // metadata: {
-                //     userId: getUserId()
-                // }
+                metadata: {
+                    userId: getUserId()
+                }
             },
             overrideConfig: {
                 userId: getUserId(),
