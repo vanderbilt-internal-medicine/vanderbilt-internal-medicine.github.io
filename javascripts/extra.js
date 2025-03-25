@@ -23,6 +23,11 @@ document$.subscribe(() => {
             apiHost: "https://flowise-public.vlr.chat",
             chatflowConfig: {
                 // topK: 2
+                userId: getUserId(), // Add the userId here
+                // For Langfuse tracking
+                metadata: {
+                    userId: getUserId()
+                }
             },
             theme: {
                 button: {
