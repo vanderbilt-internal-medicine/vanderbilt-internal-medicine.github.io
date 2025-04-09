@@ -45,7 +45,7 @@ document$.subscribe(() => {
                     backgroundColor: "#FFD700",
                     right: 20,
                     bottom: 7.5,
-                    size: 50,
+                    size: 40,
                     dragAndDrop: true,
                     iconColor: "white",
                     customIconSrc: "https://vim-book.org/images/vlrchat-brain.png",
@@ -59,7 +59,7 @@ document$.subscribe(() => {
                     tooltipMessage: 'Ask a Clinical Question!',
                     tooltipBackgroundColor: 'black',
                     tooltipTextColor: 'white',
-                    tooltipFontSize: 32,
+                    tooltipFontSize: 26,
                 },
                 disclaimer: {
                     title: 'Disclaimer',
@@ -87,11 +87,10 @@ document$.subscribe(() => {
                         "Help me understand diabetes management!",
                         "Explain treatment options for catatonia."
                     ],
-                    starterPromptFontSize: 15,
+                    starterPromptFontSize: 12,
                     // height: 600,
                     // width: 800,
-                    fontSize: 16,
-                    starterPromptFontSize: 15,
+                    fontSize: 14,
                     clearChatOnReload: true,
                     botMessage: {
                         backgroundColor: "#f7f8ff",
