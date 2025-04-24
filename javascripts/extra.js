@@ -94,6 +94,8 @@ document$.subscribe(() => {
                     // width: 800,
                     fontSize: 14,
                     clearChatOnReload: true,
+                    sourceDocsTitle: 'Sources:',
+                    renderHTML: true,
                     botMessage: {
                         backgroundColor: "#f7f8ff",
                         textColor: "#303235",
