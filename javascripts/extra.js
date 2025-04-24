@@ -1,47 +1,35 @@
 document$.subscribe(() => {
+    // Generate or get a user ID function
+    const getUserId = () => {
+        // Check if userId exists in localStorage
+        let userId = localStorage.getItem('flowiseUserId');
+        
+        // If not, create a new one and store it
+        if (!userId) {
+            userId = 'user_' + Math.random().toString(36).substring(2, 15);
+            localStorage.setItem('flowiseUserId', userId);
+        }
+        
+        return userId;
+    };
+
     // Create and append the script element
     const script = document.createElement('script');
     script.type = 'module';
     script.innerHTML = `
         import Chatbot from "https://cdn.jsdelivr.net/npm/flowise-embed/dist/web.js"
-
-        // Generate or get a user ID
-        const getUserId = () => {
-            // Check if userId exists in localStorage
-            let userId = localStorage.getItem('flowiseUserId');
-            
-            // If not, create a new one and store it
-            if (!userId) {
-                userId = 'user_' + Math.random().toString(36).substring(2, 15);
-                localStorage.setItem('flowiseUserId', userId);
-            }
-            
-            return userId;
-        };
+        
         Chatbot.init({
-            // chatflowid: "1887fe55-12c2-448b-8a3e-4a0a57a7841f",
-            // apiHost: "https://flowise-public.vlr.chat",
             chatflowid: "93708edc-bfb7-4fee-acfc-8f6a0fa72e02",
             apiHost: "https://xlr-chat.app.flowiseai.com",
             chatflowConfig: {
-                // topK: 2
-                // userId: getUserId(), // Add the userId here
-                // // For Langfuse tracking
-                // metadata: {
-                //     userId: getUserId()
-                // }
+                userId: "${getUserId()}",
                 analytics: {
                     langFuse: {
-                        userId: getUserId()
+                        userId: "${getUserId()}"
                     }
                 }
             },
-            // overrideConfig: {
-            //     userId: getUserId(),
-            //     "langFuse: {
-            //         userId: getUserId()
-            //     }
-            // },
             theme: {
                 button: {
                     backgroundColor: "#FFD700",
@@ -70,18 +58,43 @@ document$.subscribe(() => {
                     buttonColor: '#3b82f6',
                     buttonText: 'Start Chatting',
                     buttonTextColor: 'white',
-                    blurredBackgroundColor: 'rgba(0, 0, 0, 0.4)', //The color of the blurred background that overlays the chat interface
+                    blurredBackgroundColor: 'rgba(0, 0, 0, 0.4)',
                     backgroundColor: 'white',
                     denyButtonText: 'Cancel',
                     denyButtonBgColor: '#ef4444',
                 },
+                customCSS: \`
+                    .flowise-chat-window .source-documents {
+                        display: block !important;
+                        margin-top: 10px !important;
+                    }
+                    .flowise-chat-window .source-documents-container {
+                        margin-top: 8px !important;
+                    }
+                    .flowise-chat-window .source-documents-title {
+                        font-weight: bold !important;
+                        margin-bottom: 5px !important;
+                    }
+                    .flowise-chat-window .source-documents-items {
+                        display: flex !important;
+                        flex-wrap: wrap !important;
+                        gap: 5px !important;
+                    }
+                    .flowise-chat-window .source-documents-item {
+                        background-color: #f0f0f0 !important;
+                        padding: 4px 8px !important;
+                        border-radius: 8px !important;
+                        font-size: 12px !important;
+                        max-width: 100% !important;
+                        word-break: break-word !important;
+                    }
+                \`,
                 chatWindow: {
                     showTitle: true,
                     title: 'VLRChat',
                     titleAvatarSrc: 'https://vim-book.org/images/vlrchat-brain.png',
                     showAgentMessages: true,
                     backgroundColor: "#ffffff",
-                    // Set fullscreen to true for full screen display
                     fullScreen: true,
                     welcomeMessage: 'Hello! Please ask a clinical question. I will only use information from the VIMBook to answer!',
                     starterPrompts: [
@@ -90,8 +103,6 @@ document$.subscribe(() => {
                         "Explain treatment options for catatonia."
                     ],
                     starterPromptFontSize: 12,
-                    // height: 600,
-                    // width: 800,
                     fontSize: 14,
                     clearChatOnReload: true,
                     sourceDocsTitle: 'Sources:',
@@ -114,13 +125,17 @@ document$.subscribe(() => {
                         textColor: '#303235',
                         sendButtonColor: '#FFD700',
                         maxChars: 1000,
-                        maxCharsWarningMessage: 'You exceeded the characters limit. Please input less than 50 characters.',
+                        maxCharsWarningMessage: 'You exceeded the characters limit. Please input less than 1000 characters.',
                         autoFocus: true,
                         sendMessageSound: false,
                         receiveMessageSound: false,
                     },
                     feedback: {
                         color: '#303235',
+                    },
+                    dateTimeToggle: {
+                        date: false,
+                        time: false
                     },
                     footer: {
                         textColor: '#303235',
