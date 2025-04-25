@@ -63,32 +63,6 @@ document$.subscribe(() => {
                     denyButtonText: 'Cancel',
                     denyButtonBgColor: '#ef4444',
                 },
-                customCSS: \`
-                    .flowise-chat-window .source-documents {
-                        display: block !important;
-                        margin-top: 10px !important;
-                    }
-                    .flowise-chat-window .source-documents-container {
-                        margin-top: 8px !important;
-                    }
-                    .flowise-chat-window .source-documents-title {
-                        font-weight: bold !important;
-                        margin-bottom: 5px !important;
-                    }
-                    .flowise-chat-window .source-documents-items {
-                        display: flex !important;
-                        flex-wrap: wrap !important;
-                        gap: 5px !important;
-                    }
-                    .flowise-chat-window .source-documents-item {
-                        background-color: #f0f0f0 !important;
-                        padding: 4px 8px !important;
-                        border-radius: 8px !important;
-                        font-size: 12px !important;
-                        max-width: 100% !important;
-                        word-break: break-word !important;
-                    }
-                \`,
                 chatWindow: {
                     showTitle: true,
                     title: 'VLRChat',
