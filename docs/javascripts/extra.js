@@ -23,12 +23,12 @@ document$.subscribe(() => {
             chatflowid: "93708edc-bfb7-4fee-acfc-8f6a0fa72e02",
             apiHost: "https://xlr-chat.app.flowiseai.com",
             chatflowConfig: {
-                userId: getUserId(),
-                analytics: {
-                    langFuse: {
-                        userId: getUserId()
-                    }
-                }
+                // userId: getUserId(),
+                // analytics: {
+                //     langFuse: {
+                //         userId: getUserId()
+                //     }
+                // }
             },
             theme: {
                 button: {
