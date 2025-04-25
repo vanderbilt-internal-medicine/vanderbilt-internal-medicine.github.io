@@ -10,23 +10,23 @@ document$.subscribe(() => {
         script.type = 'module';
         
         // Generate or get a user ID function
-        const getUserIdFunc = `
-            function getUserId() {
-                // Check if userId exists in localStorage
-                let userId = localStorage.getItem('flowiseUserId');
+        // const getUserIdFunc = `
+        //     function getUserId() {
+        //         // Check if userId exists in localStorage
+        //         let userId = localStorage.getItem('flowiseUserId');
                 
-                // If not, create a new one and store it
-                if (!userId) {
-                    userId = 'user_' + Math.random().toString(36).substring(2, 15);
-                    localStorage.setItem('flowiseUserId', userId);
-                }
+        //         // If not, create a new one and store it
+        //         if (!userId) {
+        //             userId = 'user_' + Math.random().toString(36).substring(2, 15);
+        //             localStorage.setItem('flowiseUserId', userId);
+        //         }
                 
-                return userId;
-            }
-        `;
+        //         return userId;
+        //     }
+        // `;
         
         script.innerHTML = `
-            ${getUserIdFunc}
+            // ${getUserIdFunc}
             
             // Wait for Flowise module to be available
             import Chatbot from "https://cdn.jsdelivr.net/npm/flowise-embed/dist/web.js"
@@ -36,22 +36,22 @@ document$.subscribe(() => {
                 window.flowiseChatbotInitialized = true;
                 
                 // Store the user ID in a variable
-                const currentUserId = getUserId();
+                // const currentUserId = getUserId();
                 
                 try {
-                    console.log('Starting Chatbot initialization with userId:', currentUserId);
+                    // console.log('Starting Chatbot initialization with userId:', currentUserId);
                     
                     Chatbot.init({
                         chatflowid: "93708edc-bfb7-4fee-acfc-8f6a0fa72e02",
                         apiHost: "https://xlr-chat.app.flowiseai.com",
-                        chatflowConfig: {
-                            userId: currentUserId,
-                            analytics: {
-                                langFuse: {
-                                    userId: currentUserId
-                                }
-                            }
-                        },
+                        // chatflowConfig: {
+                        //     userId: currentUserId,
+                        //     analytics: {
+                        //         langFuse: {
+                        //             userId: currentUserId
+                        //         }
+                        //     }
+                        // },
                         theme: {
                             button: {
                                 backgroundColor: "#FFD700",
