@@ -29,8 +29,8 @@ document$.subscribe(() => {
             ${getUserIdFunc}
             
             // Wait for Flowise module to be available
-            import Chatbot from "https://cdn.jsdelivr.net/npm/flowise-embed@1.3.14/dist/web.js"
-            
+            import Chatbot from "https://cdn.jsdelivr.net/npm/flowise-embed/dist/web.js"
+    
             // Only initialize if not already initialized
             if (!window.flowiseChatbotInitialized) {
                 window.flowiseChatbotInitialized = true;
