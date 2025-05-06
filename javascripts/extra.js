@@ -3,8 +3,8 @@ document$.subscribe(() => {
     const script = document.createElement('script');
     script.type = 'module';
     script.innerHTML = `
-        import Chatbot from "https://cdn.jsdelivr.net/npm/flowise-embed/dist/web.js"
-
+        // import Chatbot from "https://cdn.jsdelivr.net/npm/flowise-embed/dist/web.js"
+        import Chatbot from "https://cdn.jsdelivr.net/npm/flowise-embed@2.1.3/dist/web.js"
         // Generate or get a user ID
         const getUserId = () => {
             // Check if userId exists in localStorage
@@ -19,10 +19,10 @@ document$.subscribe(() => {
             return userId;
         };
         Chatbot.init({
-            // chatflowid: "1887fe55-12c2-448b-8a3e-4a0a57a7841f",
-            // apiHost: "https://flowise-public.vlr.chat",
-            chatflowid: "bda1c921-106d-462e-97df-217a124219da",
-            apiHost: "https://xlr-chat.app.flowiseai.com",
+            chatflowid: "1887fe55-12c2-448b-8a3e-4a0a57a7841f",
+            apiHost: "https://flowise-public.vlr.chat",
+            // chatflowid: "bda1c921-106d-462e-97df-217a124219da",
+            // apiHost: "https://xlr-chat.app.flowiseai.com",
             chatflowConfig: {
                 // // topK: 2
                 // // userId: getUserId(), // Add the userId here
