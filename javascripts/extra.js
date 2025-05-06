@@ -4,7 +4,7 @@ document$.subscribe(() => {
     script.type = 'module';
     script.innerHTML = `
         // import Chatbot from "https://cdn.jsdelivr.net/npm/flowise-embed/dist/web.js"
-        import Chatbot from "https://cdn.jsdelivr.net/npm/flowise-embed@2.1.3/dist/web.js"
+        import Chatbot from "https://cdn.jsdelivr.net/npm/flowise-embed@2.1.2/dist/web.js"
         // Generate or get a user ID
         const getUserId = () => {
             // Check if userId exists in localStorage
