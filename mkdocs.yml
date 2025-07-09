@@ -96,10 +96,10 @@ markdown_extensions:
         - includes/abbreviations.md
 
 # TOGGLE BASED ON / OFF
-# extra_css:
-#   - stylesheets/extra.css
-# extra_javascript:
-#   - javascripts/extra.js
+extra_css:
+  - stylesheets/extra.css
+extra_javascript:
+  - javascripts/extra.js
 
 extra:
   analytics:
